@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003500,
+        "system_id": 30000825
+    },
+    "name": "Stargate (HZ-O18)",
+    "position": {
+        "x": 3679484682240,
+        "y": -261944156160,
+        "z": -939779481600
+    },
+    "stargate_id": 50003603,
+    "system_id": 30000826,
+    "type_id": 29633
+}

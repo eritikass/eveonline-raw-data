@@ -1,0 +1,72 @@
+{
+    "constellation_id": 20000367,
+    "name": "Hulm",
+    "planets": [
+        {
+            "planet_id": 40159273
+        },
+        {
+            "asteroid_belts": [
+                40159275
+            ],
+            "planet_id": 40159274
+        },
+        {
+            "planet_id": 40159276
+        },
+        {
+            "asteroid_belts": [
+                40159278
+            ],
+            "planet_id": 40159277
+        },
+        {
+            "asteroid_belts": [
+                40159281
+            ],
+            "moons": [
+                40159280
+            ],
+            "planet_id": 40159279
+        },
+        {
+            "moons": [
+                40159283
+            ],
+            "planet_id": 40159282
+        },
+        {
+            "moons": [
+                40159285
+            ],
+            "planet_id": 40159284
+        },
+        {
+            "asteroid_belts": [
+                40159287
+            ],
+            "moons": [
+                40159288,
+                40159289
+            ],
+            "planet_id": 40159286
+        }
+    ],
+    "position": {
+        "x": -86841697387700000,
+        "y": 37502795730800000,
+        "z": 3050334962370000
+    },
+    "security_class": "A",
+    "security_status": 1,
+    "star_id": 40159272,
+    "stargates": [
+        50000476,
+        50000477
+    ],
+    "stations": [
+        60014779,
+        60015164
+    ],
+    "system_id": 30002505
+}

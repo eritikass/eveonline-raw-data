@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010459,
+        "system_id": 30005169
+    },
+    "name": "Stargate (IU-E9T)",
+    "position": {
+        "x": -549802352640,
+        "y": -3484508160,
+        "z": 62589542400
+    },
+    "stargate_id": 50009362,
+    "system_id": 30005168,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012103,
+        "system_id": 30004533
+    },
+    "name": "Stargate (NP6-38)",
+    "position": {
+        "x": 1801775308800,
+        "y": -148873420800,
+        "z": -5846014156800
+    },
+    "stargate_id": 50012165,
+    "system_id": 30004535,
+    "type_id": 3875
+}

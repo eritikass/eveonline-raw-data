@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004379,
+        "system_id": 30003398
+    },
+    "name": "Stargate (Anbald)",
+    "position": {
+        "x": 2750041497600,
+        "y": 467257712640,
+        "z": -654451138560
+    },
+    "stargate_id": 50004061,
+    "system_id": 30003397,
+    "type_id": 29633
+}

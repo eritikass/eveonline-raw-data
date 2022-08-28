@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013008,
+        "system_id": 30003370
+    },
+    "name": "Stargate (2G38-I)",
+    "position": {
+        "x": -3251639869440,
+        "y": -485988802560,
+        "z": -1572807352320
+    },
+    "stargate_id": 50011976,
+    "system_id": 30003368,
+    "type_id": 3875
+}

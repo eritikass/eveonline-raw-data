@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004464,
+        "system_id": 30000496
+    },
+    "name": "Stargate (X40H-9)",
+    "position": {
+        "x": 1250717491200,
+        "y": 55976632320,
+        "z": 2913338204160
+    },
+    "stargate_id": 50004331,
+    "system_id": 30000495,
+    "type_id": 29633
+}

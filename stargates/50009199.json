@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009523,
+        "system_id": 30003250
+    },
+    "name": "Stargate (B-ETDW)",
+    "position": {
+        "x": 3256461926400,
+        "y": 156108595200,
+        "z": -2184352112640
+    },
+    "stargate_id": 50009199,
+    "system_id": 30003249,
+    "type_id": 3875
+}

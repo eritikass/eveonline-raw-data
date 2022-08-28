@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000069,
+        "system_id": 30004967
+    },
+    "name": "Stargate (Luminaire)",
+    "position": {
+        "x": -455510876160,
+        "y": -5674086359040,
+        "z": -2152239144960
+    },
+    "stargate_id": 50000446,
+    "system_id": 30002632,
+    "type_id": 29632
+}

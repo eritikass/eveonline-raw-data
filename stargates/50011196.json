@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011058,
+        "system_id": 30003654
+    },
+    "name": "Stargate (SF-XJS)",
+    "position": {
+        "x": -900811038720,
+        "y": 32095150080,
+        "z": -3825216675840
+    },
+    "stargate_id": 50011196,
+    "system_id": 30003655,
+    "type_id": 16
+}

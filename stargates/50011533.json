@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011468,
+        "system_id": 30004271
+    },
+    "name": "Stargate (Afrah)",
+    "position": {
+        "x": -1724272680960,
+        "y": -7742430289920,
+        "z": 2319549849600
+    },
+    "stargate_id": 50011533,
+    "system_id": 30004273,
+    "type_id": 17
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002622,
+        "system_id": 30000804
+    },
+    "name": "Stargate (F2A-GX)",
+    "position": {
+        "x": 1162670530560,
+        "y": -95804743680,
+        "z": 448421683200
+    },
+    "stargate_id": 50000409,
+    "system_id": 30000802,
+    "type_id": 29633
+}

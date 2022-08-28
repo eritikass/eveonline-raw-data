@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013535,
+        "system_id": 30001152
+    },
+    "name": "Stargate (UW-6MW)",
+    "position": {
+        "x": -46164418560,
+        "y": -7677419520,
+        "z": 255386050560
+    },
+    "stargate_id": 50013312,
+    "system_id": 30001151,
+    "type_id": 3875
+}

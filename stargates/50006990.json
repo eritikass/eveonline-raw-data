@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007242,
+        "system_id": 30001866
+    },
+    "name": "Stargate (ZG8Q-N)",
+    "position": {
+        "x": 1442711101440,
+        "y": 147286548480,
+        "z": -2578403450880
+    },
+    "stargate_id": 50006990,
+    "system_id": 30001863,
+    "type_id": 29624
+}

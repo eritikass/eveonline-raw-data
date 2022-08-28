@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009226,
+        "system_id": 30003817
+    },
+    "name": "Stargate (Ommaerrer)",
+    "position": {
+        "x": 2848364666880,
+        "y": 6751150080,
+        "z": -2149368422400
+    },
+    "stargate_id": 50007251,
+    "system_id": 30003815,
+    "type_id": 3875
+}

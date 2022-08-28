@@ -1,0 +1,71 @@
+{
+    "constellation_id": 20000511,
+    "name": "Fabum",
+    "planets": [
+        {
+            "planet_id": 40222448
+        },
+        {
+            "moons": [
+                40222450
+            ],
+            "planet_id": 40222449
+        },
+        {
+            "asteroid_belts": [
+                40222452
+            ],
+            "planet_id": 40222451
+        },
+        {
+            "asteroid_belts": [
+                40222454
+            ],
+            "moons": [
+                40222455
+            ],
+            "planet_id": 40222453
+        },
+        {
+            "asteroid_belts": [
+                40222457
+            ],
+            "moons": [
+                40222458
+            ],
+            "planet_id": 40222456
+        },
+        {
+            "asteroid_belts": [
+                40222460
+            ],
+            "planet_id": 40222459
+        },
+        {
+            "moons": [
+                40222462,
+                40222463,
+                40222464,
+                40222465,
+                40222466
+            ],
+            "planet_id": 40222461
+        }
+    ],
+    "position": {
+        "x": -185242296804584260,
+        "y": 45612713099263496,
+        "z": -37034411496583410
+    },
+    "security_class": "B1",
+    "security_status": 0.7139043211936951,
+    "star_id": 40222447,
+    "stargates": [
+        50003264,
+        50003265
+    ],
+    "stations": [
+        60008062
+    ],
+    "system_id": 30003505
+}

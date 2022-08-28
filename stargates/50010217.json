@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011694,
+        "system_id": 30003602
+    },
+    "name": "Stargate (Ratillose)",
+    "position": {
+        "x": 1479992893440,
+        "y": 546310840320,
+        "z": 4224864460800
+    },
+    "stargate_id": 50010217,
+    "system_id": 30003572,
+    "type_id": 3874
+}

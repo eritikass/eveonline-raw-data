@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001858,
+        "system_id": 30003068
+    },
+    "name": "Stargate (Kourmonen)",
+    "position": {
+        "x": 37482946560,
+        "y": -5487452160,
+        "z": 283993497600
+    },
+    "stargate_id": 50001998,
+    "system_id": 30003069,
+    "type_id": 29624
+}

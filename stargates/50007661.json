@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007794,
+        "system_id": 30003432
+    },
+    "name": "Stargate (Lumegen)",
+    "position": {
+        "x": -1830159360000,
+        "y": 118907904000,
+        "z": -3856404848640
+    },
+    "stargate_id": 50007661,
+    "system_id": 30003431,
+    "type_id": 29633
+}

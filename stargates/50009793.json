@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010570,
+        "system_id": 30005068
+    },
+    "name": "Stargate (Oguser)",
+    "position": {
+        "x": 160834068480,
+        "y": 30525726720,
+        "z": 253529579520
+    },
+    "stargate_id": 50009793,
+    "system_id": 30005063,
+    "type_id": 29624
+}

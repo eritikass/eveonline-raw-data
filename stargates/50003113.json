@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001313,
+        "system_id": 30001527
+    },
+    "name": "Stargate (E4-E8W)",
+    "position": {
+        "x": 78175150080,
+        "y": -11389624320,
+        "z": 3775377039360
+    },
+    "stargate_id": 50003113,
+    "system_id": 30001530,
+    "type_id": 3875
+}

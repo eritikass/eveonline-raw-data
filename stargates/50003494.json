@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002639,
+        "system_id": 30005197
+    },
+    "name": "Stargate (Atreen)",
+    "position": {
+        "x": 2004394352640,
+        "y": 742835773440,
+        "z": -890936893440
+    },
+    "stargate_id": 50003494,
+    "system_id": 30005207,
+    "type_id": 17
+}

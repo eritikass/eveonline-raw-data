@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007838,
+        "system_id": 30002667
+    },
+    "name": "Stargate (Chelien)",
+    "position": {
+        "x": -10724352000,
+        "y": -1168957440,
+        "z": 144049889280
+    },
+    "stargate_id": 50000707,
+    "system_id": 30002663,
+    "type_id": 3875
+}

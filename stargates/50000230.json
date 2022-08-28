@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002087,
+        "system_id": 30000263
+    },
+    "name": "Stargate (TVN-FM)",
+    "position": {
+        "x": -4088908308480,
+        "y": -43584921600,
+        "z": -4062211153920
+    },
+    "stargate_id": 50000230,
+    "system_id": 30000261,
+    "type_id": 16
+}

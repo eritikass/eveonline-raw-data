@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005870,
+        "system_id": 30003532
+    },
+    "name": "Stargate (Jesoyeh)",
+    "position": {
+        "x": -4634360340480,
+        "y": -916968038400,
+        "z": 944380846080
+    },
+    "stargate_id": 50004422,
+    "system_id": 30003529,
+    "type_id": 29624
+}

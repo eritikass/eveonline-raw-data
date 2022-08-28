@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010093,
+        "system_id": 30003697
+    },
+    "name": "Stargate (C4C-Z4)",
+    "position": {
+        "x": 2603416412160,
+        "y": 438180126720,
+        "z": 2142617640960
+    },
+    "stargate_id": 50011341,
+    "system_id": 30003698,
+    "type_id": 3875
+}

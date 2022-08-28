@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002487,
+        "system_id": 30003386
+    },
+    "name": "Stargate (Ongund)",
+    "position": {
+        "x": -2217099878400,
+        "y": -16422789120,
+        "z": -1862955048960
+    },
+    "stargate_id": 50000184,
+    "system_id": 30003381,
+    "type_id": 29633
+}

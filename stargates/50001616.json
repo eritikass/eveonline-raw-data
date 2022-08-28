@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001556,
+        "system_id": 30000456
+    },
+    "name": "Stargate (GR-X26)",
+    "position": {
+        "x": 173984440320,
+        "y": 33396695040,
+        "z": -1341766656000
+    },
+    "stargate_id": 50001616,
+    "system_id": 30000457,
+    "type_id": 29633
+}

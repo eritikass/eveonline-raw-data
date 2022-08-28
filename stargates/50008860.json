@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010416,
+        "system_id": 30003116
+    },
+    "name": "Stargate (VL7-60)",
+    "position": {
+        "x": -1506476974080,
+        "y": -212736368640,
+        "z": -1978630840320
+    },
+    "stargate_id": 50008860,
+    "system_id": 30003114,
+    "type_id": 29624
+}

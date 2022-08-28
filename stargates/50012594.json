@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012040,
+        "system_id": 30004610
+    },
+    "name": "Stargate (QV28-G)",
+    "position": {
+        "x": 18079457280,
+        "y": 2323537920,
+        "z": 45618094080
+    },
+    "stargate_id": 50012594,
+    "system_id": 30004615,
+    "type_id": 3875
+}

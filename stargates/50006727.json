@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006396,
+        "system_id": 30004101
+    },
+    "name": "Stargate (Suner)",
+    "position": {
+        "x": 2169251880960,
+        "y": 2450643394560,
+        "z": -356357038080
+    },
+    "stargate_id": 50006727,
+    "system_id": 30005041,
+    "type_id": 29626
+}

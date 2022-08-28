@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005131,
+        "system_id": 30002553
+    },
+    "name": "Stargate (Bogelek)",
+    "position": {
+        "x": -149854003200,
+        "y": 24720138240,
+        "z": -256017899520
+    },
+    "stargate_id": 50004790,
+    "system_id": 30002551,
+    "type_id": 29633
+}

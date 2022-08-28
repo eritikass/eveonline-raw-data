@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011458,
+        "system_id": 30002174
+    },
+    "name": "Stargate (J-QA7I)",
+    "position": {
+        "x": 313951887360,
+        "y": 22056345600,
+        "z": -424914001920
+    },
+    "stargate_id": 50011332,
+    "system_id": 30002173,
+    "type_id": 29633
+}

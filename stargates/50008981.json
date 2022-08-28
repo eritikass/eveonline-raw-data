@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008774,
+        "system_id": 30003289
+    },
+    "name": "Stargate (ZN0-SR)",
+    "position": {
+        "x": 1423000903680,
+        "y": 30888468480,
+        "z": 2954346455040
+    },
+    "stargate_id": 50008981,
+    "system_id": 30003290,
+    "type_id": 3875
+}

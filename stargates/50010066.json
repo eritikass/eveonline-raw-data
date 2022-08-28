@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009139,
+        "system_id": 30001120
+    },
+    "name": "Stargate (06-70G)",
+    "position": {
+        "x": 54743162880,
+        "y": 10754826240,
+        "z": -100441497600
+    },
+    "stargate_id": 50010066,
+    "system_id": 30001123,
+    "type_id": 3875
+}

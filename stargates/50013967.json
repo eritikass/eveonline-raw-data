@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013968,
+        "system_id": 30001047
+    },
+    "name": "Stargate (Doril)",
+    "position": {
+        "x": 2465104404480,
+        "y": -1521167032320,
+        "z": -1942126632960
+    },
+    "stargate_id": 50013967,
+    "system_id": 30000015,
+    "type_id": 29625
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010293,
+        "system_id": 30003239
+    },
+    "name": "Stargate (KED-2O)",
+    "position": {
+        "x": 3830670336000,
+        "y": -47259033600,
+        "z": -1511306649600
+    },
+    "stargate_id": 50010083,
+    "system_id": 30003237,
+    "type_id": 3875
+}

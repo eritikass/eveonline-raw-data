@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013720,
+        "system_id": 30004111
+    },
+    "name": "Stargate (Yarebap)",
+    "position": {
+        "x": 2099066265600,
+        "y": 309323980800,
+        "z": -700008898560
+    },
+    "stargate_id": 50013719,
+    "system_id": 30004110,
+    "type_id": 29624
+}

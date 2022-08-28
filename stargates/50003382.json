@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003988,
+        "system_id": 30001974
+    },
+    "name": "Stargate (N-H32Y)",
+    "position": {
+        "x": 1783402291200,
+        "y": -145443594240,
+        "z": 2765646766080
+    },
+    "stargate_id": 50003382,
+    "system_id": 30001970,
+    "type_id": 16
+}

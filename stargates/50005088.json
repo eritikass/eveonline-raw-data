@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007237,
+        "system_id": 30000610
+    },
+    "name": "Stargate (B-WQDP)",
+    "position": {
+        "x": 4315359682560,
+        "y": 364303196160,
+        "z": 135307960320
+    },
+    "stargate_id": 50005088,
+    "system_id": 30000608,
+    "type_id": 29633
+}

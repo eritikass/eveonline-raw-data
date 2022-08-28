@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006954,
+        "system_id": 30002355
+    },
+    "name": "Stargate (LXQ2-T)",
+    "position": {
+        "x": -1910152765440,
+        "y": 142380195840,
+        "z": -192704716800
+    },
+    "stargate_id": 50006747,
+    "system_id": 30002354,
+    "type_id": 3875
+}

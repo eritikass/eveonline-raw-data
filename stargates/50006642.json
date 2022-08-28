@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006297,
+        "system_id": 30005237
+    },
+    "name": "Stargate (Chej)",
+    "position": {
+        "x": -122909368320,
+        "y": 19546890240,
+        "z": -253776076800
+    },
+    "stargate_id": 50006642,
+    "system_id": 30005239,
+    "type_id": 29624
+}

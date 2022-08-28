@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006699,
+        "system_id": 30002021
+    },
+    "name": "Stargate (FWA-4V)",
+    "position": {
+        "x": 883485204480,
+        "y": -106097664000,
+        "z": -1683571138560
+    },
+    "stargate_id": 50006356,
+    "system_id": 30002018,
+    "type_id": 16
+}

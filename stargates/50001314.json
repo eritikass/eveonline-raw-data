@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001599,
+        "system_id": 30000924
+    },
+    "name": "Stargate (VXO-OM)",
+    "position": {
+        "x": -2219354234880,
+        "y": -299777433600,
+        "z": 408399421440
+    },
+    "stargate_id": 50001314,
+    "system_id": 30000921,
+    "type_id": 29633
+}

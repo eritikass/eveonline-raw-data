@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010839,
+        "system_id": 30003582
+    },
+    "name": "Stargate (Odinesyn)",
+    "position": {
+        "x": 311160299520,
+        "y": 45720821760,
+        "z": 209269432320
+    },
+    "stargate_id": 50013096,
+    "system_id": 30003586,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006116,
+        "system_id": 30001317
+    },
+    "name": "Stargate (65V-RH)",
+    "position": {
+        "x": -398080942080,
+        "y": -8135516160,
+        "z": -1257231605760
+    },
+    "stargate_id": 50005795,
+    "system_id": 30001315,
+    "type_id": 16
+}

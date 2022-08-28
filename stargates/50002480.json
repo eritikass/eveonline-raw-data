@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002058,
+        "system_id": 30000213
+    },
+    "name": "Stargate (G-LOIT)",
+    "position": {
+        "x": -1963359559680,
+        "y": 473326264320,
+        "z": 418326405120
+    },
+    "stargate_id": 50002480,
+    "system_id": 30000268,
+    "type_id": 29627
+}

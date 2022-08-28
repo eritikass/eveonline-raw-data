@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008155,
+        "system_id": 30003205
+    },
+    "name": "Stargate (W5-VBR)",
+    "position": {
+        "x": -4308240261120,
+        "y": -132008386560,
+        "z": -4130119557120
+    },
+    "stargate_id": 50008598,
+    "system_id": 30003207,
+    "type_id": 3875
+}

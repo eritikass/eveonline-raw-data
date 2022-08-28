@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007970,
+        "system_id": 30003086
+    },
+    "name": "Stargate (Sahtogas)",
+    "position": {
+        "x": -3245627842560,
+        "y": 543022817280,
+        "z": 2219065958400
+    },
+    "stargate_id": 50011682,
+    "system_id": 30003091,
+    "type_id": 29624
+}

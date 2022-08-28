@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010588,
+        "system_id": 30004725
+    },
+    "name": "Stargate (E3OI-U)",
+    "position": {
+        "x": -170432962560,
+        "y": -8719441920,
+        "z": -633641656320
+    },
+    "stargate_id": 50010535,
+    "system_id": 30004724,
+    "type_id": 29624
+}

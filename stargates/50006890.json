@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007063,
+        "system_id": 30003286
+    },
+    "name": "Stargate (PC9-AY)",
+    "position": {
+        "x": 3095159316480,
+        "y": -1956266434560,
+        "z": -2919710269440
+    },
+    "stargate_id": 50006890,
+    "system_id": 30003285,
+    "type_id": 3874
+}

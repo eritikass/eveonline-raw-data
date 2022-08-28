@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004504,
+        "system_id": 30002778
+    },
+    "name": "Stargate (Tasabeshi)",
+    "position": {
+        "x": -4946786426880,
+        "y": -506133749760,
+        "z": -969961758720
+    },
+    "stargate_id": 50005887,
+    "system_id": 30002779,
+    "type_id": 16
+}

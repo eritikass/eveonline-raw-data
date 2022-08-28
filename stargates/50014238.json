@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014237,
+        "system_id": 30001107
+    },
+    "name": "Stargate (QZ1-OH)",
+    "position": {
+        "x": -3287735623680,
+        "y": 3293350993920,
+        "z": -1888373022720
+    },
+    "stargate_id": 50014238,
+    "system_id": 30005147,
+    "type_id": 29632
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005003,
+        "system_id": 30001227
+    },
+    "name": "Stargate (G-AOTH)",
+    "position": {
+        "x": -115993190400,
+        "y": 7038443520,
+        "z": -127263006720
+    },
+    "stargate_id": 50005041,
+    "system_id": 30001228,
+    "type_id": 29624
+}

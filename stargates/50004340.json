@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005501,
+        "system_id": 30000807
+    },
+    "name": "Stargate (KS-1TS)",
+    "position": {
+        "x": 5232219709440,
+        "y": 371186933760,
+        "z": 2854798172160
+    },
+    "stargate_id": 50004340,
+    "system_id": 30000806,
+    "type_id": 29633
+}

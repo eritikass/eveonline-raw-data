@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011522,
+        "system_id": 30003317
+    },
+    "name": "Stargate (I0AB-R)",
+    "position": {
+        "x": -4269917184000,
+        "y": -610876661760,
+        "z": 2435841761280
+    },
+    "stargate_id": 50011308,
+    "system_id": 30003315,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009034,
+        "system_id": 30005260
+    },
+    "name": "Stargate (Keri)",
+    "position": {
+        "x": -71284531200,
+        "y": -4886814720,
+        "z": -113790197760
+    },
+    "stargate_id": 50007524,
+    "system_id": 30005256,
+    "type_id": 29624
+}

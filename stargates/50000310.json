@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002660,
+        "system_id": 30001360
+    },
+    "name": "Stargate (Kiskoken)",
+    "position": {
+        "x": 1239457259520,
+        "y": 63376465920,
+        "z": -114728509440
+    },
+    "stargate_id": 50000310,
+    "system_id": 30001357,
+    "type_id": 16
+}

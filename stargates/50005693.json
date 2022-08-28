@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004773,
+        "system_id": 30003188
+    },
+    "name": "Stargate (2-WNTD)",
+    "position": {
+        "x": -138265436160,
+        "y": -22348800000,
+        "z": -140352675840
+    },
+    "stargate_id": 50005693,
+    "system_id": 30003190,
+    "type_id": 3875
+}

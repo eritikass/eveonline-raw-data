@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013172,
+        "system_id": 30003300
+    },
+    "name": "Stargate (KTHT-O)",
+    "position": {
+        "x": 51345039360,
+        "y": -2374656000,
+        "z": 401650851840
+    },
+    "stargate_id": 50011715,
+    "system_id": 30003297,
+    "type_id": 3875
+}

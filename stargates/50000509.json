@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000426,
+        "system_id": 30001008
+    },
+    "name": "Stargate (V-IUEL)",
+    "position": {
+        "x": 1196440166400,
+        "y": 158858649600,
+        "z": -278158663680
+    },
+    "stargate_id": 50000509,
+    "system_id": 30001009,
+    "type_id": 29633
+}

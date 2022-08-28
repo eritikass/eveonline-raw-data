@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016319,
+        "system_id": 30045327
+    },
+    "name": "Stargate (Tsuruma)",
+    "position": {
+        "x": -1257056624640,
+        "y": -18206760960,
+        "z": 3316977377280
+    },
+    "stargate_id": 50016320,
+    "system_id": 30045323,
+    "type_id": 16
+}

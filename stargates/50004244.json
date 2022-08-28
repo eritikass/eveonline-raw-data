@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006161,
+        "system_id": 30002717
+    },
+    "name": "Stargate (Aymaerne)",
+    "position": {
+        "x": 1934283448320,
+        "y": 318891909120,
+        "z": 315284398080
+    },
+    "stargate_id": 50004244,
+    "system_id": 30002715,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003810,
+        "system_id": 30000150
+    },
+    "name": "Stargate (Hurtoken)",
+    "position": {
+        "x": -371618488320,
+        "y": 6678405120,
+        "z": -2953048350720
+    },
+    "stargate_id": 50004097,
+    "system_id": 30000152,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005199,
+        "system_id": 30000649
+    },
+    "name": "Stargate (LQ-01M)",
+    "position": {
+        "x": 227327877120,
+        "y": -167802839040,
+        "z": 1274885283840
+    },
+    "stargate_id": 50004298,
+    "system_id": 30000639,
+    "type_id": 3877
+}

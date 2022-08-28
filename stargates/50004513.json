@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005471,
+        "system_id": 30005105
+    },
+    "name": "Stargate (RZ3O-K)",
+    "position": {
+        "x": -3961728000000,
+        "y": 619528151040,
+        "z": 978881617920
+    },
+    "stargate_id": 50004513,
+    "system_id": 30005102,
+    "type_id": 3875
+}

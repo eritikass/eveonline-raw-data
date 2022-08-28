@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007593,
+        "system_id": 30003001
+    },
+    "name": "Stargate (Mili)",
+    "position": {
+        "x": 2846526136320,
+        "y": 334091919360,
+        "z": 1493099765760
+    },
+    "stargate_id": 50009074,
+    "system_id": 30003002,
+    "type_id": 29624
+}

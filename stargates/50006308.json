@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007019,
+        "system_id": 30000515
+    },
+    "name": "Stargate (SY-UWN)",
+    "position": {
+        "x": -102015590400,
+        "y": 5411758080,
+        "z": 57794519040
+    },
+    "stargate_id": 50006308,
+    "system_id": 30000514,
+    "type_id": 29633
+}

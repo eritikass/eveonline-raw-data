@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009106,
+        "system_id": 30002912
+    },
+    "name": "Stargate (S-DN5M)",
+    "position": {
+        "x": -3949216849920,
+        "y": 114715729920,
+        "z": -3026963619840
+    },
+    "stargate_id": 50008698,
+    "system_id": 30002911,
+    "type_id": 16
+}

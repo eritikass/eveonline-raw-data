@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011280,
+        "system_id": 30005150
+    },
+    "name": "Stargate (UYOC-1)",
+    "position": {
+        "x": 1208117944320,
+        "y": 120705392640,
+        "z": 411557683200
+    },
+    "stargate_id": 50010367,
+    "system_id": 30005149,
+    "type_id": 3875
+}

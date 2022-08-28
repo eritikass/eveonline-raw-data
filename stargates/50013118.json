@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013165,
+        "system_id": 30001950
+    },
+    "name": "Stargate (A-XASO)",
+    "position": {
+        "x": 1264987054080,
+        "y": -70592962560,
+        "z": -332367912960
+    },
+    "stargate_id": 50013118,
+    "system_id": 30001949,
+    "type_id": 29624
+}

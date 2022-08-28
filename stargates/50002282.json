@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000313,
+        "system_id": 30000209
+    },
+    "name": "Stargate (MC6O-F)",
+    "position": {
+        "x": -2448574341120,
+        "y": 394937425920,
+        "z": 2016094740480
+    },
+    "stargate_id": 50002282,
+    "system_id": 30000214,
+    "type_id": 16
+}

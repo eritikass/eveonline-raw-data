@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010125,
+        "system_id": 30003466
+    },
+    "name": "Stargate (Eurgrana)",
+    "position": {
+        "x": 252657377280,
+        "y": 34792366080,
+        "z": 724683448320
+    },
+    "stargate_id": 50009689,
+    "system_id": 30003464,
+    "type_id": 29633
+}

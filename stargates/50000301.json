@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000524,
+        "system_id": 30002643
+    },
+    "name": "Stargate (Faurent)",
+    "position": {
+        "x": -1065576161280,
+        "y": 79343984640,
+        "z": -371810426880
+    },
+    "stargate_id": 50000301,
+    "system_id": 30002642,
+    "type_id": 3875
+}

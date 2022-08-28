@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013543,
+        "system_id": 30002089
+    },
+    "name": "Stargate (Avenod)",
+    "position": {
+        "x": 1484209152000,
+        "y": -1381062942720,
+        "z": -2776738897920
+    },
+    "stargate_id": 50013544,
+    "system_id": 30002684,
+    "type_id": 3876
+}

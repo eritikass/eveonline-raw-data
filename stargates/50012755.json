@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012795,
+        "system_id": 30001597
+    },
+    "name": "Stargate (M-NP5O)",
+    "position": {
+        "x": -1182769029120,
+        "y": 200819957760,
+        "z": 855404421120
+    },
+    "stargate_id": 50012755,
+    "system_id": 30001596,
+    "type_id": 3875
+}

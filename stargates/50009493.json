@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009710,
+        "system_id": 30002381
+    },
+    "name": "Stargate (F69O-M)",
+    "position": {
+        "x": 539000709120,
+        "y": -92237537280,
+        "z": 477042892800
+    },
+    "stargate_id": 50009493,
+    "system_id": 30002380,
+    "type_id": 3875
+}

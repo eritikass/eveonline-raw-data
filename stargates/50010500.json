@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013016,
+        "system_id": 30004141
+    },
+    "name": "Stargate (Hiremir)",
+    "position": {
+        "x": 2390337576960,
+        "y": 233451724800,
+        "z": 339455385600
+    },
+    "stargate_id": 50010500,
+    "system_id": 30004139,
+    "type_id": 29624
+}

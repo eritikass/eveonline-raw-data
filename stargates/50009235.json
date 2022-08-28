@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010297,
+        "system_id": 30004138
+    },
+    "name": "Stargate (Bersyrim)",
+    "position": {
+        "x": -4052888248320,
+        "y": 73640386560,
+        "z": -3344549928960
+    },
+    "stargate_id": 50009235,
+    "system_id": 30004136,
+    "type_id": 29624
+}

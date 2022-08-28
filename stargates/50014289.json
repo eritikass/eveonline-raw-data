@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014290,
+        "system_id": 30041392
+    },
+    "name": "Stargate (Laah)",
+    "position": {
+        "x": 1790452408320,
+        "y": 132848885760,
+        "z": -1691896750080
+    },
+    "stargate_id": 50014289,
+    "system_id": 30002817,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013835,
+        "system_id": 30000872
+    },
+    "name": "Stargate (Q-CAB2)",
+    "position": {
+        "x": 1754851614720,
+        "y": -1364525998080,
+        "z": -1146693427200
+    },
+    "stargate_id": 50013836,
+    "system_id": 30001281,
+    "type_id": 12292
+}

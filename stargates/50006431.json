@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006336,
+        "system_id": 30000430
+    },
+    "name": "Stargate (L-SDU7)",
+    "position": {
+        "x": -1971729162240,
+        "y": -397607854080,
+        "z": -104895651840
+    },
+    "stargate_id": 50006431,
+    "system_id": 30000432,
+    "type_id": 3876
+}

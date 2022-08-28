@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002426,
+        "system_id": 30001059
+    },
+    "name": "Stargate (X-PQEX)",
+    "position": {
+        "x": 497431142400,
+        "y": 31333048320,
+        "z": -507160535040
+    },
+    "stargate_id": 50000599,
+    "system_id": 30001057,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008002,
+        "system_id": 30002035
+    },
+    "name": "Stargate (MQ-NPY)",
+    "position": {
+        "x": 2081529077760,
+        "y": 31318794240,
+        "z": 2055795793920
+    },
+    "stargate_id": 50010123,
+    "system_id": 30002039,
+    "type_id": 16
+}

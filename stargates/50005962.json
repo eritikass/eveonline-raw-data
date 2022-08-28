@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004201,
+        "system_id": 30003731
+    },
+    "name": "Stargate (XHQ-7V)",
+    "position": {
+        "x": -2279369318400,
+        "y": 5612934144000,
+        "z": 330064404480
+    },
+    "stargate_id": 50005962,
+    "system_id": 30003760,
+    "type_id": 17
+}

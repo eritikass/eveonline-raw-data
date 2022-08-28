@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006718,
+        "system_id": 30003737
+    },
+    "name": "Stargate (F-DTOO)",
+    "position": {
+        "x": -1420415754240,
+        "y": 15426969600,
+        "z": 5886647132160
+    },
+    "stargate_id": 50007708,
+    "system_id": 30003738,
+    "type_id": 29624
+}

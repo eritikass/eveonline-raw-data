@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001159,
+        "system_id": 30002688
+    },
+    "name": "Stargate (Chainelant)",
+    "position": {
+        "x": -901642444800,
+        "y": 58758635520,
+        "z": -690614476800
+    },
+    "stargate_id": 50000420,
+    "system_id": 30002685,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012318,
+        "system_id": 30004619
+    },
+    "name": "Stargate (A-1CON)",
+    "position": {
+        "x": 3050215219200,
+        "y": -255423651840,
+        "z": -3518918123520
+    },
+    "stargate_id": 50012191,
+    "system_id": 30004617,
+    "type_id": 3875
+}

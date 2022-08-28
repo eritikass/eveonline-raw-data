@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004890,
+        "system_id": 30001847
+    },
+    "name": "Stargate (HM-UVD)",
+    "position": {
+        "x": -140160983040,
+        "y": -10144849920,
+        "z": 487434362880
+    },
+    "stargate_id": 50004848,
+    "system_id": 30001846,
+    "type_id": 29624
+}

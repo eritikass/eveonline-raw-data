@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011077,
+        "system_id": 30004893
+    },
+    "name": "Stargate (73-JQO)",
+    "position": {
+        "x": 9284444282880,
+        "y": -1215649751040,
+        "z": 4355965870080
+    },
+    "stargate_id": 50010944,
+    "system_id": 30004891,
+    "type_id": 29633
+}

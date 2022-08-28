@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010789,
+        "system_id": 30004381
+    },
+    "name": "Stargate (O94U-A)",
+    "position": {
+        "x": -542428815360,
+        "y": 85823938560,
+        "z": -873404620800
+    },
+    "stargate_id": 50010716,
+    "system_id": 30004380,
+    "type_id": 16
+}

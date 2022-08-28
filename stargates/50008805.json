@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008117,
+        "system_id": 30004124
+    },
+    "name": "Stargate (Aphi)",
+    "position": {
+        "x": 1131992309760,
+        "y": -4027146240,
+        "z": -4419268976640
+    },
+    "stargate_id": 50008805,
+    "system_id": 30004125,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013177,
+        "system_id": 30004633
+    },
+    "name": "Stargate (M-KXEH)",
+    "position": {
+        "x": 2289639628800,
+        "y": 271679447040,
+        "z": -5622723256320
+    },
+    "stargate_id": 50012576,
+    "system_id": 30004632,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007579,
+        "system_id": 30004122
+    },
+    "name": "Stargate (Chanoun)",
+    "position": {
+        "x": 1202557378560,
+        "y": -67088916480,
+        "z": -354944409600
+    },
+    "stargate_id": 50008115,
+    "system_id": 30004124,
+    "type_id": 29624
+}

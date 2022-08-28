@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012770,
+        "system_id": 30004857
+    },
+    "name": "Stargate (QLU-P0)",
+    "position": {
+        "x": 748707962880,
+        "y": -78032855040,
+        "z": -3819102904320
+    },
+    "stargate_id": 50012629,
+    "system_id": 30004854,
+    "type_id": 29633
+}

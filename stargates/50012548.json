@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012450,
+        "system_id": 30004849
+    },
+    "name": "Stargate (16AM-3)",
+    "position": {
+        "x": -2523137925120,
+        "y": -111969116160,
+        "z": -5480513986560
+    },
+    "stargate_id": 50012548,
+    "system_id": 30004851,
+    "type_id": 29633
+}

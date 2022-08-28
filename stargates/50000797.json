@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000621,
+        "system_id": 30002187
+    },
+    "name": "Stargate (Amarr)",
+    "position": {
+        "x": 1423090360320,
+        "y": -103306321920,
+        "z": 3574601687040
+    },
+    "stargate_id": 50000797,
+    "system_id": 30002189,
+    "type_id": 29624
+}

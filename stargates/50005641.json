@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005022,
+        "system_id": 30000800
+    },
+    "name": "Stargate (9OLQ-6)",
+    "position": {
+        "x": -896658677760,
+        "y": -125926809600,
+        "z": -350182072320
+    },
+    "stargate_id": 50005641,
+    "system_id": 30000801,
+    "type_id": 29633
+}

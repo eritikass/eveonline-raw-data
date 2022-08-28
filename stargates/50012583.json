@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012119,
+        "system_id": 30004073
+    },
+    "name": "Stargate (6ON-RW)",
+    "position": {
+        "x": -245374771200,
+        "y": 10283212800,
+        "z": 150032670720
+    },
+    "stargate_id": 50012583,
+    "system_id": 30004076,
+    "type_id": 3875
+}

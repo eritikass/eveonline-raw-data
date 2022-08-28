@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013096,
+        "system_id": 30003586
+    },
+    "name": "Stargate (Gererique)",
+    "position": {
+        "x": -1389502832640,
+        "y": -21585960960,
+        "z": -3172337541120
+    },
+    "stargate_id": 50010839,
+    "system_id": 30003582,
+    "type_id": 3875
+}

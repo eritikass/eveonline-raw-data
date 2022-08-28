@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006640,
+        "system_id": 30001703
+    },
+    "name": "Stargate (Taru)",
+    "position": {
+        "x": 408530657280,
+        "y": -18786263040,
+        "z": 5443507445760
+    },
+    "stargate_id": 50007898,
+    "system_id": 30001705,
+    "type_id": 29624
+}

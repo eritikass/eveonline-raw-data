@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009630,
+        "system_id": 30003133
+    },
+    "name": "Stargate (G-YZUX)",
+    "position": {
+        "x": 15959223705600,
+        "y": -662226739200,
+        "z": 2462150369280
+    },
+    "stargate_id": 50009731,
+    "system_id": 30003134,
+    "type_id": 29624
+}

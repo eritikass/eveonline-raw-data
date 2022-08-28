@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016507,
+        "system_id": 30045328
+    },
+    "name": "Stargate (Ahtila)",
+    "position": {
+        "x": 25691798724.638264,
+        "y": 1743913858.2568796,
+        "z": 80759612685.88701
+    },
+    "stargate_id": 50016506,
+    "system_id": 30000021,
+    "type_id": 56317
+}

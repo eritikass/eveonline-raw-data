@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010710,
+        "system_id": 30005170
+    },
+    "name": "Stargate (NGM-OK)",
+    "position": {
+        "x": 2073531801600,
+        "y": -101179023360,
+        "z": 1972926504960
+    },
+    "stargate_id": 50010785,
+    "system_id": 30005171,
+    "type_id": 3875
+}

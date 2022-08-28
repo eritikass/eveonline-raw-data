@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011946,
+        "system_id": 30001913
+    },
+    "name": "Stargate (MMR-LZ)",
+    "position": {
+        "x": -827342069760,
+        "y": -42966589440,
+        "z": -3823607193600
+    },
+    "stargate_id": 50013500,
+    "system_id": 30001921,
+    "type_id": 29624
+}

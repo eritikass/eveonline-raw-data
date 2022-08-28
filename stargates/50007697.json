@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007672,
+        "system_id": 30003886
+    },
+    "name": "Stargate (Ashmarir)",
+    "position": {
+        "x": 449867243520,
+        "y": -7513497600,
+        "z": 4348834652160
+    },
+    "stargate_id": 50007697,
+    "system_id": 30003887,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012484,
+        "system_id": 30004800
+    },
+    "name": "Stargate (LWX-93)",
+    "position": {
+        "x": 4026301931520,
+        "y": 626288271360,
+        "z": -3224507228160
+    },
+    "stargate_id": 50012357,
+    "system_id": 30004798,
+    "type_id": 29624
+}

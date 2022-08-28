@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003533,
+        "system_id": 30000155
+    },
+    "name": "Stargate (Obanen)",
+    "position": {
+        "x": -484992000000,
+        "y": 72151326720,
+        "z": 239423938560
+    },
+    "stargate_id": 50004473,
+    "system_id": 30000158,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000843,
+        "system_id": 30000546
+    },
+    "name": "Stargate (MWA-5Q)",
+    "position": {
+        "x": -7597150003200,
+        "y": -1534248345600,
+        "z": 3264693411840
+    },
+    "stargate_id": 50003052,
+    "system_id": 30000549,
+    "type_id": 29633
+}

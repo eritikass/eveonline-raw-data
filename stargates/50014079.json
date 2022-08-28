@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014080,
+        "system_id": 30002529
+    },
+    "name": "Stargate (Gyng)",
+    "position": {
+        "x": -359741399040,
+        "y": -60275712000,
+        "z": -2983624581120
+    },
+    "stargate_id": 50014079,
+    "system_id": 30002568,
+    "type_id": 3877
+}

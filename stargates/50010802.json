@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012301,
+        "system_id": 30003367
+    },
+    "name": "Stargate (G-6SXJ)",
+    "position": {
+        "x": -1359962726400,
+        "y": 224447815680,
+        "z": -4279487078400
+    },
+    "stargate_id": 50010802,
+    "system_id": 30003364,
+    "type_id": 3875
+}

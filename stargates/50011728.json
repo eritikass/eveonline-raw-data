@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011796,
+        "system_id": 30004562
+    },
+    "name": "Stargate (BYXF-Q)",
+    "position": {
+        "x": 3776142090240,
+        "y": -303909396480,
+        "z": 758541803520
+    },
+    "stargate_id": 50011728,
+    "system_id": 30004561,
+    "type_id": 3875
+}

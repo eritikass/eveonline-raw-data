@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003215,
+        "system_id": 30002515
+    },
+    "name": "Stargate (Olfeim)",
+    "position": {
+        "x": 550397091840,
+        "y": 75227996160,
+        "z": 3503737528320
+    },
+    "stargate_id": 50002598,
+    "system_id": 30002513,
+    "type_id": 29633
+}

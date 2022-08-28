@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007694,
+        "system_id": 30003873
+    },
+    "name": "Stargate (Kahah)",
+    "position": {
+        "x": -4001770659840,
+        "y": 237544366080,
+        "z": -2951888363520
+    },
+    "stargate_id": 50007826,
+    "system_id": 30003874,
+    "type_id": 29624
+}

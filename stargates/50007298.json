@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009203,
+        "system_id": 30002660
+    },
+    "name": "Stargate (Eglennaert)",
+    "position": {
+        "x": 565734727680,
+        "y": -20643225600,
+        "z": 238599905280
+    },
+    "stargate_id": 50007298,
+    "system_id": 30002658,
+    "type_id": 3875
+}

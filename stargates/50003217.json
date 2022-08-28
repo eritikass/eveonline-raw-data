@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004400,
+        "system_id": 30002857
+    },
+    "name": "Stargate (H7S-5I)",
+    "position": {
+        "x": -2413502668800,
+        "y": -120586936320,
+        "z": -1466394746880
+    },
+    "stargate_id": 50003217,
+    "system_id": 30002855,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008488,
+        "system_id": 30003909
+    },
+    "name": "Stargate (Parses)",
+    "position": {
+        "x": -253703823360,
+        "y": 3584040960,
+        "z": 3076260618240
+    },
+    "stargate_id": 50008312,
+    "system_id": 30003908,
+    "type_id": 29624
+}

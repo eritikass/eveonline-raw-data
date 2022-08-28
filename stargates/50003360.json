@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002517,
+        "system_id": 30005200
+    },
+    "name": "Stargate (Tekaima)",
+    "position": {
+        "x": 1045606686720,
+        "y": 172819292160,
+        "z": 4057701949440
+    },
+    "stargate_id": 50003360,
+    "system_id": 30005205,
+    "type_id": 29624
+}

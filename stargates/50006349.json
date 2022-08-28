@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006425,
+        "system_id": 30002563
+    },
+    "name": "Stargate (Egmur)",
+    "position": {
+        "x": -264706990080,
+        "y": -250306560,
+        "z": 777233817600
+    },
+    "stargate_id": 50006349,
+    "system_id": 30002562,
+    "type_id": 29633
+}

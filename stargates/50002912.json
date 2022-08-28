@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003426,
+        "system_id": 30001273
+    },
+    "name": "Stargate (9-266Q)",
+    "position": {
+        "x": 600543191040,
+        "y": 18480046080,
+        "z": 135098572800
+    },
+    "stargate_id": 50002912,
+    "system_id": 30001269,
+    "type_id": 16
+}

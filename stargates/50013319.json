@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013068,
+        "system_id": 30002491
+    },
+    "name": "Stargate (RFGW-V)",
+    "position": {
+        "x": 3785624248320,
+        "y": 602136207360,
+        "z": -548790558720
+    },
+    "stargate_id": 50013319,
+    "system_id": 30002492,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012176,
+        "system_id": 30004198
+    },
+    "name": "Stargate (QT-EBC)",
+    "position": {
+        "x": 2733130752000,
+        "y": 346959667200,
+        "z": 2566431006720
+    },
+    "stargate_id": 50011982,
+    "system_id": 30004196,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006124,
+        "system_id": 30001285
+    },
+    "name": "Stargate (AA-YRK)",
+    "position": {
+        "x": 139611217920,
+        "y": -12144107520,
+        "z": -84872601600
+    },
+    "stargate_id": 50005482,
+    "system_id": 30001283,
+    "type_id": 16
+}

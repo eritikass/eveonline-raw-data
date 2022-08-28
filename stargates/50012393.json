@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011754,
+        "system_id": 30004397
+    },
+    "name": "Stargate (9-B1DS)",
+    "position": {
+        "x": -845700341760,
+        "y": 118013829120,
+        "z": -647367106560
+    },
+    "stargate_id": 50012393,
+    "system_id": 30004398,
+    "type_id": 16
+}

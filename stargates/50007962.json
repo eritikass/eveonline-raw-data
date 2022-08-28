@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012181,
+        "system_id": 30000069
+    },
+    "name": "Stargate (Thiarer)",
+    "position": {
+        "x": -2772763238400,
+        "y": -131813253120,
+        "z": -2280755159040
+    },
+    "stargate_id": 50007962,
+    "system_id": 30000063,
+    "type_id": 29624
+}

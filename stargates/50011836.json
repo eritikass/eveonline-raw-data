@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011640,
+        "system_id": 30003699
+    },
+    "name": "Stargate (MPPA-A)",
+    "position": {
+        "x": 90858086400,
+        "y": -12365537280,
+        "z": -434754969600
+    },
+    "stargate_id": 50011836,
+    "system_id": 30003701,
+    "type_id": 3875
+}

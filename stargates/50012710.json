@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012781,
+        "system_id": 30004935
+    },
+    "name": "Stargate (TPAR-G)",
+    "position": {
+        "x": 5006476124160,
+        "y": 939177123840,
+        "z": -5843009495040
+    },
+    "stargate_id": 50012710,
+    "system_id": 30004934,
+    "type_id": 29624
+}

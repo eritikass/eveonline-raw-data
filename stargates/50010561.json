@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011277,
+        "system_id": 30004841
+    },
+    "name": "Stargate (CCE-0J)",
+    "position": {
+        "x": -1215103918080,
+        "y": -128792616960,
+        "z": 499299655680
+    },
+    "stargate_id": 50010561,
+    "system_id": 30004840,
+    "type_id": 29633
+}

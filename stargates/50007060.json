@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005700,
+        "system_id": 30002452
+    },
+    "name": "Stargate (KR-V6G)",
+    "position": {
+        "x": 1454728765440,
+        "y": 109059809280,
+        "z": 2341158789120
+    },
+    "stargate_id": 50007060,
+    "system_id": 30002454,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000502,
+        "system_id": 30001052
+    },
+    "name": "Stargate (IBOX-2)",
+    "position": {
+        "x": -1052551127040,
+        "y": -133765324800,
+        "z": 387071385600
+    },
+    "stargate_id": 50000304,
+    "system_id": 30001051,
+    "type_id": 3875
+}

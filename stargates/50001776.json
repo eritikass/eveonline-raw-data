@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010439,
+        "system_id": 30000138
+    },
+    "name": "Stargate (Ikuchi)",
+    "position": {
+        "x": -2586891264000,
+        "y": -75372748800,
+        "z": 1726480588800
+    },
+    "stargate_id": 50001776,
+    "system_id": 30000133,
+    "type_id": 16
+}

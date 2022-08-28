@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011370,
+        "system_id": 30004066
+    },
+    "name": "Stargate (QA1-BT)",
+    "position": {
+        "x": 1280544153600,
+        "y": 47029739520,
+        "z": 401743011840
+    },
+    "stargate_id": 50011286,
+    "system_id": 30004065,
+    "type_id": 3875
+}

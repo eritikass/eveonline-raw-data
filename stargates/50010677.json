@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007496,
+        "system_id": 30001329
+    },
+    "name": "Stargate (P-VYVL)",
+    "position": {
+        "x": -1544778670080,
+        "y": -180511825920,
+        "z": 1924282736640
+    },
+    "stargate_id": 50010677,
+    "system_id": 30001330,
+    "type_id": 16
+}

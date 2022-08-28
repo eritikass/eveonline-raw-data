@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000235,
+        "system_id": 30000743
+    },
+    "name": "Stargate (C8H5-X)",
+    "position": {
+        "x": -1785558589440,
+        "y": -88621670400,
+        "z": 2102005309440
+    },
+    "stargate_id": 50002796,
+    "system_id": 30000749,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006556,
+        "system_id": 30003811
+    },
+    "name": "Stargate (Algasienan)",
+    "position": {
+        "x": -3573191516160,
+        "y": -10492451512320,
+        "z": -10048645570560
+    },
+    "stargate_id": 50007626,
+    "system_id": 30003824,
+    "type_id": 3874
+}

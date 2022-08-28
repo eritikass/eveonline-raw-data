@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004336,
+        "system_id": 30004819
+    },
+    "name": "Stargate (S-9RCJ)",
+    "position": {
+        "x": -7175200972800,
+        "y": -18393784320,
+        "z": -1777568194560
+    },
+    "stargate_id": 50004934,
+    "system_id": 30004822,
+    "type_id": 29633
+}

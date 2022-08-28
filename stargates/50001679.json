@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002798,
+        "system_id": 30000878
+    },
+    "name": "Stargate (U-W3WS)",
+    "position": {
+        "x": -12102705438720,
+        "y": 1271188561920,
+        "z": -9684311777280
+    },
+    "stargate_id": 50001679,
+    "system_id": 30000876,
+    "type_id": 16
+}

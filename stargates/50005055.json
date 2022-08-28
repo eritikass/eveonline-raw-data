@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005121,
+        "system_id": 30000871
+    },
+    "name": "Stargate (WH-JCA)",
+    "position": {
+        "x": 1347933757440,
+        "y": 144082083840,
+        "z": 2987972567040
+    },
+    "stargate_id": 50005055,
+    "system_id": 30000870,
+    "type_id": 16
+}

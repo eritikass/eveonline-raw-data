@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007923,
+        "system_id": 30003942
+    },
+    "name": "Stargate (A2-V27)",
+    "position": {
+        "x": -563928883200,
+        "y": -73946112000,
+        "z": 3064134574080
+    },
+    "stargate_id": 50007963,
+    "system_id": 30003943,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012567,
+        "system_id": 30004151
+    },
+    "name": "Stargate (Ustnia)",
+    "position": {
+        "x": -42831175680,
+        "y": 1028628480,
+        "z": 132168622080
+    },
+    "stargate_id": 50012141,
+    "system_id": 30004149,
+    "type_id": 29624
+}

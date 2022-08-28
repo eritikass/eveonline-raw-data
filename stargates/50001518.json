@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002186,
+        "system_id": 30000144
+    },
+    "name": "Stargate (Perimeter)",
+    "position": {
+        "x": 3115638497280,
+        "y": -104420597760,
+        "z": -1752450293760
+    },
+    "stargate_id": 50001518,
+    "system_id": 30000143,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012232,
+        "system_id": 30004618
+    },
+    "name": "Stargate (MN5N-X)",
+    "position": {
+        "x": 772444938240,
+        "y": 96579624960,
+        "z": -280000143360
+    },
+    "stargate_id": 50012373,
+    "system_id": 30004622,
+    "type_id": 3875
+}

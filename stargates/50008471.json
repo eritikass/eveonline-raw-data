@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011718,
+        "system_id": 30005025
+    },
+    "name": "Stargate (Derririntel)",
+    "position": {
+        "x": 2812311429120,
+        "y": -1158920478720,
+        "z": -588217835520
+    },
+    "stargate_id": 50008471,
+    "system_id": 30005334,
+    "type_id": 29632
+}

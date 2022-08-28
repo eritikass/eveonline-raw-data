@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002282,
+        "system_id": 30000214
+    },
+    "name": "Stargate (HE-V4V)",
+    "position": {
+        "x": 167754670080,
+        "y": -16381255680,
+        "z": -555590000640
+    },
+    "stargate_id": 50000313,
+    "system_id": 30000209,
+    "type_id": 16
+}

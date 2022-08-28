@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009280,
+        "system_id": 30003225
+    },
+    "name": "Stargate (SON-TW)",
+    "position": {
+        "x": -1309820067840,
+        "y": -185302179840,
+        "z": 313141370880
+    },
+    "stargate_id": 50009926,
+    "system_id": 30003228,
+    "type_id": 3875
+}

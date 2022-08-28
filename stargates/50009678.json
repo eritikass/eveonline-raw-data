@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010817,
+        "system_id": 30002265
+    },
+    "name": "Stargate (Azizora)",
+    "position": {
+        "x": 2979351060480,
+        "y": -308908400640,
+        "z": 147580968960
+    },
+    "stargate_id": 50009678,
+    "system_id": 30002264,
+    "type_id": 29624
+}

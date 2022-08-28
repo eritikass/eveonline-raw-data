@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004861,
+        "system_id": 30002010
+    },
+    "name": "Stargate (R6XN-9)",
+    "position": {
+        "x": 6483568926720,
+        "y": 7895791902720,
+        "z": -15707528601600
+    },
+    "stargate_id": 50003624,
+    "system_id": 30001978,
+    "type_id": 29627
+}

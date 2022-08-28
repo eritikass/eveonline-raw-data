@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006473,
+        "system_id": 30004405
+    },
+    "name": "Stargate (3-YX2D)",
+    "position": {
+        "x": 730899701760,
+        "y": 114525265920,
+        "z": -3297611735040
+    },
+    "stargate_id": 50006406,
+    "system_id": 30004404,
+    "type_id": 29633
+}

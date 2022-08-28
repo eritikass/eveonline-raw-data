@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012263,
+        "system_id": 30001932
+    },
+    "name": "Stargate (Y-4U62)",
+    "position": {
+        "x": 1325343989760,
+        "y": 230290268160,
+        "z": 5417368412160
+    },
+    "stargate_id": 50011047,
+    "system_id": 30001931,
+    "type_id": 29624
+}

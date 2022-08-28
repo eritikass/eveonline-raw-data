@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001678,
+        "system_id": 30000876
+    },
+    "name": "Stargate (3G-LHB)",
+    "position": {
+        "x": 957067960320,
+        "y": 100579614720,
+        "z": 6234617978880
+    },
+    "stargate_id": 50002312,
+    "system_id": 30000877,
+    "type_id": 16
+}

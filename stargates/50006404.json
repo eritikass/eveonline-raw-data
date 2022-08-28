@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006458,
+        "system_id": 30003271
+    },
+    "name": "Stargate (Poitot)",
+    "position": {
+        "x": -437144248320,
+        "y": -64307404800,
+        "z": 1543934238720
+    },
+    "stargate_id": 50006404,
+    "system_id": 30003269,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013146,
+        "system_id": 30004210
+    },
+    "name": "Stargate (CHP-76)",
+    "position": {
+        "x": -1458026127360,
+        "y": 101780398080,
+        "z": 157285539840
+    },
+    "stargate_id": 50013226,
+    "system_id": 30004213,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011374,
+        "system_id": 30003584
+    },
+    "name": "Stargate (Sarline)",
+    "position": {
+        "x": 18558443520,
+        "y": -2202624000,
+        "z": 78402723840
+    },
+    "stargate_id": 50013530,
+    "system_id": 30003587,
+    "type_id": 3875
+}

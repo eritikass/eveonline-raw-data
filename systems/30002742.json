@@ -1,0 +1,75 @@
+{
+    "constellation_id": 20000401,
+    "name": "Erila",
+    "planets": [
+        {
+            "planet_id": 40174082
+        },
+        {
+            "planet_id": 40174083
+        },
+        {
+            "moons": [
+                40174085
+            ],
+            "planet_id": 40174084
+        },
+        {
+            "planet_id": 40174086
+        },
+        {
+            "moons": [
+                40174088
+            ],
+            "planet_id": 40174087
+        },
+        {
+            "asteroid_belts": [
+                40174090
+            ],
+            "planet_id": 40174089
+        },
+        {
+            "asteroid_belts": [
+                40174092
+            ],
+            "moons": [
+                40174093,
+                40174094
+            ],
+            "planet_id": 40174091
+        },
+        {
+            "asteroid_belts": [
+                40174096
+            ],
+            "moons": [
+                40174097,
+                40174098
+            ],
+            "planet_id": 40174095
+        },
+        {
+            "asteroid_belts": [
+                40174100
+            ],
+            "moons": [
+                40174101
+            ],
+            "planet_id": 40174099
+        }
+    ],
+    "position": {
+        "x": -125758423382783380,
+        "y": 93860970102877310,
+        "z": 154582095455848420
+    },
+    "security_class": "C1",
+    "security_status": 0.4487059414386749,
+    "star_id": 40174081,
+    "stargates": [
+        50005655,
+        50005656
+    ],
+    "system_id": 30002742
+}

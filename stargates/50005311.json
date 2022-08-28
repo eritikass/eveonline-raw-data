@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004731,
+        "system_id": 30001695
+    },
+    "name": "Stargate (Nehkiah)",
+    "position": {
+        "x": -2337042800640,
+        "y": -142794792960,
+        "z": -2833783971840
+    },
+    "stargate_id": 50005311,
+    "system_id": 30001696,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006647,
+        "system_id": 30001396
+    },
+    "name": "Stargate (Aakari)",
+    "position": {
+        "x": 4956698173440,
+        "y": -290693160960,
+        "z": 2760608194560
+    },
+    "stargate_id": 50006047,
+    "system_id": 30001395,
+    "type_id": 16
+}

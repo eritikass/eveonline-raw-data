@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007182,
+        "system_id": 30005013
+    },
+    "name": "Stargate (Perckhevin)",
+    "position": {
+        "x": -127364259840,
+        "y": -22086574080,
+        "z": 3473118044160
+    },
+    "stargate_id": 50006511,
+    "system_id": 30005009,
+    "type_id": 3875
+}

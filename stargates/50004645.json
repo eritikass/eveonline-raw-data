@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004398,
+        "system_id": 30004814
+    },
+    "name": "Stargate (H-HWQR)",
+    "position": {
+        "x": -396698050560,
+        "y": 17511997440,
+        "z": -78374215680
+    },
+    "stargate_id": 50004645,
+    "system_id": 30004816,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003121,
+        "system_id": 30002842
+    },
+    "name": "Stargate (L-TLFU)",
+    "position": {
+        "x": 232784977920,
+        "y": -19407544320,
+        "z": 187393105920
+    },
+    "stargate_id": 50005602,
+    "system_id": 30002845,
+    "type_id": 3875
+}

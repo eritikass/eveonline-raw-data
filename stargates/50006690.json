@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006719,
+        "system_id": 30003865
+    },
+    "name": "Stargate (Sazre)",
+    "position": {
+        "x": -1312679976960,
+        "y": -83390177280,
+        "z": -149701877760
+    },
+    "stargate_id": 50006690,
+    "system_id": 30003864,
+    "type_id": 29624
+}

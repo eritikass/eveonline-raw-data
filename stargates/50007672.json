@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007697,
+        "system_id": 30003887
+    },
+    "name": "Stargate (Kaira)",
+    "position": {
+        "x": 83773808640,
+        "y": -11903016960,
+        "z": -2159124357120
+    },
+    "stargate_id": 50007672,
+    "system_id": 30003886,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009642,
+        "system_id": 30003637
+    },
+    "name": "Stargate (U-O2DA)",
+    "position": {
+        "x": -89152757760,
+        "y": -6066708480,
+        "z": -160559800320
+    },
+    "stargate_id": 50009612,
+    "system_id": 30003636,
+    "type_id": 16
+}

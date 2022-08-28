@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007724,
+        "system_id": 30001344
+    },
+    "name": "Stargate (FHB-QA)",
+    "position": {
+        "x": -313682042880,
+        "y": -5111439360,
+        "z": 497391329280
+    },
+    "stargate_id": 50008812,
+    "system_id": 30001348,
+    "type_id": 16
+}

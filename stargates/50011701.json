@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012223,
+        "system_id": 30004904
+    },
+    "name": "Stargate (AXDX-F)",
+    "position": {
+        "x": 2683940167680,
+        "y": -440829419520,
+        "z": -1695924264960
+    },
+    "stargate_id": 50011701,
+    "system_id": 30004897,
+    "type_id": 3877
+}

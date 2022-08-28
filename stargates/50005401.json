@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005807,
+        "system_id": 30001129
+    },
+    "name": "Stargate (H-EBQG)",
+    "position": {
+        "x": -715795783680,
+        "y": -97336811520,
+        "z": -2234588897280
+    },
+    "stargate_id": 50005401,
+    "system_id": 30001128,
+    "type_id": 3875
+}

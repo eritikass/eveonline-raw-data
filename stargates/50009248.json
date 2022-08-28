@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009888,
+        "system_id": 30002271
+    },
+    "name": "Stargate (Rayl)",
+    "position": {
+        "x": -2708137205760,
+        "y": -167097999360,
+        "z": -1687904378880
+    },
+    "stargate_id": 50009248,
+    "system_id": 30002269,
+    "type_id": 29624
+}

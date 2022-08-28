@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013925,
+        "system_id": 30001379
+    },
+    "name": "Stargate (Tunttaras)",
+    "position": {
+        "x": 5090304000,
+        "y": 2338292244480,
+        "z": -61066813440
+    },
+    "stargate_id": 50013926,
+    "system_id": 30000138,
+    "type_id": 29629
+}

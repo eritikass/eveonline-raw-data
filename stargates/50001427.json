@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000548,
+        "system_id": 30000139
+    },
+    "name": "Stargate (Urlen)",
+    "position": {
+        "x": -2920766300160,
+        "y": 1861885255680,
+        "z": 328572395520
+    },
+    "stargate_id": 50001427,
+    "system_id": 30000129,
+    "type_id": 29627
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004315,
+        "system_id": 30001293
+    },
+    "name": "Stargate (P-GKF5)",
+    "position": {
+        "x": 2414586224640,
+        "y": -98657034240,
+        "z": -2947213271040
+    },
+    "stargate_id": 50004545,
+    "system_id": 30001295,
+    "type_id": 16
+}

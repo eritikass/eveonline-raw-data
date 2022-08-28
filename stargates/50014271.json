@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014272,
+        "system_id": 30001546
+    },
+    "name": "Stargate (Y4OK-W)",
+    "position": {
+        "x": 2126280253440,
+        "y": -3954925117440,
+        "z": -2075885445120
+    },
+    "stargate_id": 50014271,
+    "system_id": 30001528,
+    "type_id": 3874
+}

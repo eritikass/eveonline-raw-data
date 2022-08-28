@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002982,
+        "system_id": 30003378
+    },
+    "name": "Stargate (Nedegulf)",
+    "position": {
+        "x": 2268080824320,
+        "y": 341032919040,
+        "z": 2488415723520
+    },
+    "stargate_id": 50002676,
+    "system_id": 30003375,
+    "type_id": 29633
+}

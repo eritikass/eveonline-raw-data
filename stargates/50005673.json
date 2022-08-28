@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005916,
+        "system_id": 30002467
+    },
+    "name": "Stargate (P-E9GN)",
+    "position": {
+        "x": 3485602406400,
+        "y": -3474658959360,
+        "z": 1607364403200
+    },
+    "stargate_id": 50005673,
+    "system_id": 30002450,
+    "type_id": 29627
+}

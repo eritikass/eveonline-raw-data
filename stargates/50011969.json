@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011672,
+        "system_id": 30004029
+    },
+    "name": "Stargate (BX-VEX)",
+    "position": {
+        "x": -2739440148480,
+        "y": -238278942720,
+        "z": 786488156160
+    },
+    "stargate_id": 50011969,
+    "system_id": 30004030,
+    "type_id": 29624
+}

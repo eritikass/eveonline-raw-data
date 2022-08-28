@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012398,
+        "system_id": 30004630
+    },
+    "name": "Stargate (LIWW-P)",
+    "position": {
+        "x": 1126816112640,
+        "y": -226850611200,
+        "z": 1464305541120
+    },
+    "stargate_id": 50012445,
+    "system_id": 30004631,
+    "type_id": 3875
+}

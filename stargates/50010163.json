@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010437,
+        "system_id": 30005066
+    },
+    "name": "Stargate (Kerying)",
+    "position": {
+        "x": 1957786705920,
+        "y": -270215700480,
+        "z": 141075701760
+    },
+    "stargate_id": 50010163,
+    "system_id": 30005065,
+    "type_id": 29624
+}

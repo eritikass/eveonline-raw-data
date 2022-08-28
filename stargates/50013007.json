@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012650,
+        "system_id": 30005283
+    },
+    "name": "Stargate (Central Point)",
+    "position": {
+        "x": -1649008435200,
+        "y": -192639344640,
+        "z": -1044169973760
+    },
+    "stargate_id": 50013007,
+    "system_id": 30005285,
+    "type_id": 29624
+}

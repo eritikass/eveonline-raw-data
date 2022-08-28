@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012054,
+        "system_id": 30002094
+    },
+    "name": "Stargate (Ebolfer)",
+    "position": {
+        "x": 546681200640,
+        "y": -50472591360,
+        "z": 807319511040
+    },
+    "stargate_id": 50012092,
+    "system_id": 30002095,
+    "type_id": 29633
+}

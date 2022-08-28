@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007599,
+        "system_id": 30002330
+    },
+    "name": "Stargate (QZV-X3)",
+    "position": {
+        "x": 541441843200,
+        "y": -59572346880,
+        "z": 95383019520
+    },
+    "stargate_id": 50003609,
+    "system_id": 30002326,
+    "type_id": 3875
+}

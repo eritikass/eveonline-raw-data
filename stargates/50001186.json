@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000208,
+        "system_id": 30000716
+    },
+    "name": "Stargate (B-1UJC)",
+    "position": {
+        "x": 4862196572160,
+        "y": 980517396480,
+        "z": -781123215360
+    },
+    "stargate_id": 50001186,
+    "system_id": 30000718,
+    "type_id": 29633
+}

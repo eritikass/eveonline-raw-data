@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013811,
+        "system_id": 30000626
+    },
+    "name": "Stargate (I6-SYN)",
+    "position": {
+        "x": 1300077649920,
+        "y": -438945669120,
+        "z": -722195374080
+    },
+    "stargate_id": 50013812,
+    "system_id": 30001000,
+    "type_id": 12292
+}

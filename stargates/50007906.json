@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005431,
+        "system_id": 30001411
+    },
+    "name": "Stargate (Autama)",
+    "position": {
+        "x": 3169629757440,
+        "y": 216570470400,
+        "z": -4885305876480
+    },
+    "stargate_id": 50007906,
+    "system_id": 30001412,
+    "type_id": 16
+}

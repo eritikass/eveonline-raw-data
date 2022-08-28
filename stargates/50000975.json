@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001715,
+        "system_id": 30003067
+    },
+    "name": "Stargate (Huola)",
+    "position": {
+        "x": 722769960960,
+        "y": -32772218880,
+        "z": 997625487360
+    },
+    "stargate_id": 50000975,
+    "system_id": 30003065,
+    "type_id": 29624
+}

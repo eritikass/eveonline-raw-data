@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010319,
+        "system_id": 30000195
+    },
+    "name": "Stargate (Tasti)",
+    "position": {
+        "x": 1252677181440,
+        "y": -3313486110720,
+        "z": -1061176811520
+    },
+    "stargate_id": 50008447,
+    "system_id": 30000164,
+    "type_id": 29627
+}

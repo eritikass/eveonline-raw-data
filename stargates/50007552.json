@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007186,
+        "system_id": 30002071
+    },
+    "name": "Stargate (Barkrik)",
+    "position": {
+        "x": -74964787200,
+        "y": -2494341120,
+        "z": -1527927152640
+    },
+    "stargate_id": 50007552,
+    "system_id": 30002073,
+    "type_id": 29633
+}

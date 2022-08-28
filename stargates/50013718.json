@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013717,
+        "system_id": 30005008
+    },
+    "name": "Stargate (Aeschee)",
+    "position": {
+        "x": -31418081280,
+        "y": 1068051947520,
+        "z": -482738626560
+    },
+    "stargate_id": 50013718,
+    "system_id": 30005321,
+    "type_id": 29632
+}

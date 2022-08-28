@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004768,
+        "system_id": 30002995
+    },
+    "name": "Stargate (Naeel)",
+    "position": {
+        "x": -352258252800,
+        "y": 2648730378240,
+        "z": -3139800391680
+    },
+    "stargate_id": 50003425,
+    "system_id": 30002967,
+    "type_id": 17
+}

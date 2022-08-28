@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009048,
+        "system_id": 30003921
+    },
+    "name": "Stargate (Arzieh)",
+    "position": {
+        "x": 2591384248320,
+        "y": 446150123520,
+        "z": 3137525637120
+    },
+    "stargate_id": 50008709,
+    "system_id": 30003918,
+    "type_id": 29624
+}

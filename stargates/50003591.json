@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003376,
+        "system_id": 30003523
+    },
+    "name": "Stargate (Hama)",
+    "position": {
+        "x": -365813391360,
+        "y": -60327321600,
+        "z": 275637166080
+    },
+    "stargate_id": 50003591,
+    "system_id": 30003525,
+    "type_id": 29624
+}

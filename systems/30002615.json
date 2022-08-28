@@ -1,0 +1,68 @@
+{
+    "constellation_id": 20000383,
+    "name": "PZMA-E",
+    "planets": [
+        {
+            "planet_id": 40166726
+        },
+        {
+            "planet_id": 40166727
+        },
+        {
+            "asteroid_belts": [
+                40166729
+            ],
+            "moons": [
+                40166730
+            ],
+            "planet_id": 40166728
+        },
+        {
+            "asteroid_belts": [
+                40166732
+            ],
+            "moons": [
+                40166733
+            ],
+            "planet_id": 40166731
+        },
+        {
+            "moons": [
+                40166735
+            ],
+            "planet_id": 40166734
+        },
+        {
+            "moons": [
+                40166737,
+                40166738
+            ],
+            "planet_id": 40166736
+        },
+        {
+            "moons": [
+                40166740,
+                40166741
+            ],
+            "planet_id": 40166739
+        },
+        {
+            "asteroid_belts": [
+                40166743
+            ],
+            "planet_id": 40166742
+        }
+    ],
+    "position": {
+        "x": -51811697995962616,
+        "y": -17803931387226462,
+        "z": -352133631955520700
+    },
+    "security_class": "F3",
+    "security_status": -0.4572504758834839,
+    "star_id": 40166725,
+    "stargates": [
+        50008608
+    ],
+    "system_id": 30002615
+}

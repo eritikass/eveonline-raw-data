@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001276,
+        "system_id": 30000761
+    },
+    "name": "Stargate (M4-GJ6)",
+    "position": {
+        "x": 6453101813760,
+        "y": 9581822976000,
+        "z": 1351065477120
+    },
+    "stargate_id": 50000002,
+    "system_id": 30000777,
+    "type_id": 3877
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009991,
+        "system_id": 30005165
+    },
+    "name": "Stargate (49V-E4)",
+    "position": {
+        "x": -785782087680,
+        "y": 76787834880,
+        "z": -1508799897600
+    },
+    "stargate_id": 50008910,
+    "system_id": 30005160,
+    "type_id": 3875
+}

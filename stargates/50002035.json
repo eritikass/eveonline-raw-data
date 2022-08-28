@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001968,
+        "system_id": 30002286
+    },
+    "name": "Stargate (KRPF-A)",
+    "position": {
+        "x": -2095671828480,
+        "y": -263433461760,
+        "z": -3026278440960
+    },
+    "stargate_id": 50002035,
+    "system_id": 30002287,
+    "type_id": 3875
+}

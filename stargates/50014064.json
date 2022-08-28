@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014063,
+        "system_id": 30002765
+    },
+    "name": "Stargate (Sivala)",
+    "position": {
+        "x": -1797373501440,
+        "y": -2134683279360,
+        "z": -1607813898240
+    },
+    "stargate_id": 50014064,
+    "system_id": 30002768,
+    "type_id": 29627
+}

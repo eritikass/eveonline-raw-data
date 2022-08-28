@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002289,
+        "system_id": 30001195
+    },
+    "name": "Stargate (J-ODE7)",
+    "position": {
+        "x": 1700428308480,
+        "y": 123061985280,
+        "z": 811246018560
+    },
+    "stargate_id": 50000954,
+    "system_id": 30001190,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005442,
+        "system_id": 30002196
+    },
+    "name": "Stargate (Ebidan)",
+    "position": {
+        "x": 204542484480,
+        "y": 23640268800,
+        "z": -1079341670400
+    },
+    "stargate_id": 50002806,
+    "system_id": 30002190,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003612,
+        "system_id": 30001432
+    },
+    "name": "Stargate (Uesuro)",
+    "position": {
+        "x": -205858775040,
+        "y": 4071383040,
+        "z": 177667153920
+    },
+    "stargate_id": 50003915,
+    "system_id": 30001433,
+    "type_id": 16
+}

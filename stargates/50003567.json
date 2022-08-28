@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012758,
+        "system_id": 30001095
+    },
+    "name": "Stargate (W5-205)",
+    "position": {
+        "x": -453690531840,
+        "y": -30850129920,
+        "z": -1337426042880
+    },
+    "stargate_id": 50003567,
+    "system_id": 30001092,
+    "type_id": 3875
+}

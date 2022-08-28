@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013546,
+        "system_id": 30000970
+    },
+    "name": "Stargate (B-VIP9)",
+    "position": {
+        "x": 2678660014080,
+        "y": -1689399091200,
+        "z": 337628160000
+    },
+    "stargate_id": 50013545,
+    "system_id": 30002420,
+    "type_id": 29634
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009522,
+        "system_id": 30003932
+    },
+    "name": "Stargate (Timudan)",
+    "position": {
+        "x": 1176697774080,
+        "y": -115476602880,
+        "z": 2813357629440
+    },
+    "stargate_id": 50009673,
+    "system_id": 30003934,
+    "type_id": 29624
+}

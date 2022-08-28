@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010916,
+        "system_id": 30004382
+    },
+    "name": "Stargate (XW-JHT)",
+    "position": {
+        "x": -1844310220800,
+        "y": 291976028160,
+        "z": 899746406400
+    },
+    "stargate_id": 50010717,
+    "system_id": 30004380,
+    "type_id": 16
+}

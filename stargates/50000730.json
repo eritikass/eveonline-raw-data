@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000074,
+        "system_id": 30000552
+    },
+    "name": "Stargate (GPLB-C)",
+    "position": {
+        "x": 895094661120,
+        "y": 157470597120,
+        "z": -811231518720
+    },
+    "stargate_id": 50000730,
+    "system_id": 30000554,
+    "type_id": 29633
+}

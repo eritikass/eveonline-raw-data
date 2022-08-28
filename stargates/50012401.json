@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012213,
+        "system_id": 30004613
+    },
+    "name": "Stargate (XJP-Y7)",
+    "position": {
+        "x": 868101857280,
+        "y": 80893747200,
+        "z": 494910136320
+    },
+    "stargate_id": 50012401,
+    "system_id": 30004614,
+    "type_id": 3875
+}

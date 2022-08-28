@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000346,
+        "system_id": 30000446
+    },
+    "name": "Stargate (C5-SUU)",
+    "position": {
+        "x": 3362671779840,
+        "y": 580555530240,
+        "z": 2010531717120
+    },
+    "stargate_id": 50001358,
+    "system_id": 30000447,
+    "type_id": 29633
+}

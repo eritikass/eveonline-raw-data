@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008959,
+        "system_id": 30003565
+    },
+    "name": "Stargate (Conomette)",
+    "position": {
+        "x": 452918353920,
+        "y": -31687188480,
+        "z": 26520576000
+    },
+    "stargate_id": 50009179,
+    "system_id": 30003566,
+    "type_id": 3875
+}

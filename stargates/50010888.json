@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010762,
+        "system_id": 30001903
+    },
+    "name": "Stargate (QM-O7J)",
+    "position": {
+        "x": 2839187496960,
+        "y": -2314306805760,
+        "z": -1661025853440
+    },
+    "stargate_id": 50010888,
+    "system_id": 30001923,
+    "type_id": 17
+}

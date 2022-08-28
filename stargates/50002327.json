@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002811,
+        "system_id": 30002965
+    },
+    "name": "Stargate (Choonka)",
+    "position": {
+        "x": 5372181504000,
+        "y": 639079342080,
+        "z": -2885455257600
+    },
+    "stargate_id": 50002327,
+    "system_id": 30002964,
+    "type_id": 29624
+}

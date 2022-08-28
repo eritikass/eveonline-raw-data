@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007291,
+        "system_id": 30003273
+    },
+    "name": "Stargate (ATY-2U)",
+    "position": {
+        "x": -593507328000,
+        "y": -119679590400,
+        "z": 54115737600
+    },
+    "stargate_id": 50006568,
+    "system_id": 30003272,
+    "type_id": 3875
+}

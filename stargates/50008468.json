@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008937,
+        "system_id": 30004339
+    },
+    "name": "Stargate (R4O-I6)",
+    "position": {
+        "x": -2270111539200,
+        "y": -322714214400,
+        "z": -1032381603840
+    },
+    "stargate_id": 50008468,
+    "system_id": 30004337,
+    "type_id": 16
+}

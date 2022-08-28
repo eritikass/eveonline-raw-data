@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004852,
+        "system_id": 30003076
+    },
+    "name": "Stargate (Gammel)",
+    "position": {
+        "x": -3497999278080,
+        "y": -579589693440,
+        "z": -5493571706880
+    },
+    "stargate_id": 50004064,
+    "system_id": 30003071,
+    "type_id": 29624
+}

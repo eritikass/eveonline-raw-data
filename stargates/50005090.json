@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004432,
+        "system_id": 30003788
+    },
+    "name": "Stargate (Intaki)",
+    "position": {
+        "x": -865488199680,
+        "y": -170666926080,
+        "z": 167796695040
+    },
+    "stargate_id": 50005090,
+    "system_id": 30003790,
+    "type_id": 3875
+}

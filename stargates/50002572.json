@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002878,
+        "system_id": 30001426
+    },
+    "name": "Stargate (Isinokka)",
+    "position": {
+        "x": 8090554490880,
+        "y": 602092953600,
+        "z": 18200932147200
+    },
+    "stargate_id": 50002572,
+    "system_id": 30001425,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004655,
+        "system_id": 30000642
+    },
+    "name": "Stargate (NIF-JE)",
+    "position": {
+        "x": 2580887347200,
+        "y": 11873034240,
+        "z": -2961296302080
+    },
+    "stargate_id": 50004498,
+    "system_id": 30000640,
+    "type_id": 29633
+}

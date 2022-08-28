@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008009,
+        "system_id": 30001660
+    },
+    "name": "Stargate (Dabrid)",
+    "position": {
+        "x": -540742901760,
+        "y": 46581964800,
+        "z": -1009727447040
+    },
+    "stargate_id": 50005998,
+    "system_id": 30001659,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010058,
+        "system_id": 30004518
+    },
+    "name": "Stargate (NM-OEA)",
+    "position": {
+        "x": 6749411942400,
+        "y": 495598755840,
+        "z": -610569707520
+    },
+    "stargate_id": 50010036,
+    "system_id": 30004517,
+    "type_id": 3875
+}

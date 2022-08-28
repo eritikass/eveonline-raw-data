@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006154,
+        "system_id": 30001311
+    },
+    "name": "Stargate (W3KK-R)",
+    "position": {
+        "x": -4038875258880,
+        "y": -752758333440,
+        "z": 1649359626240
+    },
+    "stargate_id": 50005804,
+    "system_id": 30001310,
+    "type_id": 16
+}

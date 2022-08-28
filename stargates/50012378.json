@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012907,
+        "system_id": 30004024
+    },
+    "name": "Stargate (U-HYZN)",
+    "position": {
+        "x": -113217576960,
+        "y": -2470256640,
+        "z": 29267681280
+    },
+    "stargate_id": 50012378,
+    "system_id": 30004023,
+    "type_id": 29624
+}

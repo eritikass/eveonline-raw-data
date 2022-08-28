@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012849,
+        "system_id": 30004034
+    },
+    "name": "Stargate (H74-B0)",
+    "position": {
+        "x": -5773894410240,
+        "y": 27230576640,
+        "z": -1301777571840
+    },
+    "stargate_id": 50012530,
+    "system_id": 30004032,
+    "type_id": 29624
+}

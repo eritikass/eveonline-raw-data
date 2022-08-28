@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003921,
+        "system_id": 30001434
+    },
+    "name": "Stargate (Elanoda)",
+    "position": {
+        "x": -5745758330880,
+        "y": 312614707200,
+        "z": -341913968640
+    },
+    "stargate_id": 50003613,
+    "system_id": 30001432,
+    "type_id": 16
+}

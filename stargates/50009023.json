@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002137,
+        "system_id": 30002123
+    },
+    "name": "Stargate (GXK-7F)",
+    "position": {
+        "x": -3342213488640,
+        "y": 162785894400,
+        "z": -1820795904000
+    },
+    "stargate_id": 50009023,
+    "system_id": 30002127,
+    "type_id": 29633
+}

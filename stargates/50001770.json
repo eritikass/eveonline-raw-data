@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001341,
+        "system_id": 30002120
+    },
+    "name": "Stargate (H-RXNZ)",
+    "position": {
+        "x": -4300488007680,
+        "y": 5422492508160,
+        "z": -3293271121920
+    },
+    "stargate_id": 50001770,
+    "system_id": 30002133,
+    "type_id": 3877
+}

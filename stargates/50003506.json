@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003349,
+        "system_id": 30000840
+    },
+    "name": "Stargate (7EX-14)",
+    "position": {
+        "x": -1746105507840,
+        "y": -139291484160,
+        "z": 386994462720
+    },
+    "stargate_id": 50003506,
+    "system_id": 30000841,
+    "type_id": 29633
+}

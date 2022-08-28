@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006210,
+        "system_id": 30005236
+    },
+    "name": "Stargate (Noranim)",
+    "position": {
+        "x": 474842112000,
+        "y": 42369146880,
+        "z": -1378868797440
+    },
+    "stargate_id": 50006296,
+    "system_id": 30005237,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003741,
+        "system_id": 30000819
+    },
+    "name": "Stargate (UDE-FX)",
+    "position": {
+        "x": 84043407360,
+        "y": -2566840320,
+        "z": -406265241600
+    },
+    "stargate_id": 50003720,
+    "system_id": 30000818,
+    "type_id": 29633
+}

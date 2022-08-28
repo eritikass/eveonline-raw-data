@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006103,
+        "system_id": 30003268
+    },
+    "name": "Stargate (MHC-R3)",
+    "position": {
+        "x": 3668813291520,
+        "y": 539649761280,
+        "z": -4558994350080
+    },
+    "stargate_id": 50006403,
+    "system_id": 30003269,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014184,
+        "system_id": 30043410
+    },
+    "name": "Stargate (Fildar)",
+    "position": {
+        "x": -1122332712960,
+        "y": 218393272320,
+        "z": -471380336640
+    },
+    "stargate_id": 50014183,
+    "system_id": 30003388,
+    "type_id": 29633
+}

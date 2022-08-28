@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008956,
+        "system_id": 30004162
+    },
+    "name": "Stargate (J-A5QD)",
+    "position": {
+        "x": -6818643763200,
+        "y": 422347530240,
+        "z": 244991877120
+    },
+    "stargate_id": 50009110,
+    "system_id": 30004163,
+    "type_id": 3875
+}

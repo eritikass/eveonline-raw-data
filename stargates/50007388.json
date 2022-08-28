@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007717,
+        "system_id": 30002879
+    },
+    "name": "Stargate (O9K-FT)",
+    "position": {
+        "x": -3240536432640,
+        "y": -318906408960,
+        "z": 812352430080
+    },
+    "stargate_id": 50007388,
+    "system_id": 30002878,
+    "type_id": 3875
+}

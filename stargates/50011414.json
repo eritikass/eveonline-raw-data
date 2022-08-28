@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011353,
+        "system_id": 30004142
+    },
+    "name": "Stargate (Hikansog)",
+    "position": {
+        "x": 527146475520,
+        "y": -72196300800,
+        "z": 499617914880
+    },
+    "stargate_id": 50011414,
+    "system_id": 30004143,
+    "type_id": 29624
+}

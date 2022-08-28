@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009938,
+        "system_id": 30005069
+    },
+    "name": "Stargate (Nahol)",
+    "position": {
+        "x": -1083767808000,
+        "y": -194739855360,
+        "z": -1544162795520
+    },
+    "stargate_id": 50011710,
+    "system_id": 30005071,
+    "type_id": 29624
+}

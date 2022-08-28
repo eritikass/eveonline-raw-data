@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009672,
+        "system_id": 30004427
+    },
+    "name": "Stargate (BG-W90)",
+    "position": {
+        "x": -2835256074240,
+        "y": 359881482240,
+        "z": 1013294653440
+    },
+    "stargate_id": 50009120,
+    "system_id": 30004426,
+    "type_id": 29633
+}

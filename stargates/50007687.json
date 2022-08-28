@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007646,
+        "system_id": 30004318
+    },
+    "name": "Stargate (NTV0-1)",
+    "position": {
+        "x": -1333248614400,
+        "y": -108559196160,
+        "z": -3246659297280
+    },
+    "stargate_id": 50007687,
+    "system_id": 30004319,
+    "type_id": 16
+}

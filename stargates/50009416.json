@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009272,
+        "system_id": 30001444
+    },
+    "name": "Stargate (Oimmo)",
+    "position": {
+        "x": -607936634880,
+        "y": -79646269440,
+        "z": -457967493120
+    },
+    "stargate_id": 50009416,
+    "system_id": 30001446,
+    "type_id": 16
+}

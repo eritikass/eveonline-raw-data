@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004406,
+        "system_id": 30003390
+    },
+    "name": "Stargate (Vilur)",
+    "position": {
+        "x": 2152239144960,
+        "y": -248398602240,
+        "z": -2713601925120
+    },
+    "stargate_id": 50003869,
+    "system_id": 30003389,
+    "type_id": 29633
+}

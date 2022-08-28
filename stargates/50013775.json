@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013776,
+        "system_id": 30004758
+    },
+    "name": "Stargate (SVM-3K)",
+    "position": {
+        "x": -2405462630400,
+        "y": 1721469788160,
+        "z": -1412163133440
+    },
+    "stargate_id": 50013775,
+    "system_id": 30004012,
+    "type_id": 12292
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006229,
+        "system_id": 30000508
+    },
+    "name": "Stargate (SAI-T9)",
+    "position": {
+        "x": 3030343680,
+        "y": -581591040,
+        "z": 117954600960
+    },
+    "stargate_id": 50007051,
+    "system_id": 30000509,
+    "type_id": 29633
+}

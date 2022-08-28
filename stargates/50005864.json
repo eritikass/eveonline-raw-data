@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006010,
+        "system_id": 30001326
+    },
+    "name": "Stargate (Q-7SUI)",
+    "position": {
+        "x": -181913149440,
+        "y": 12742287360,
+        "z": 3420173475840
+    },
+    "stargate_id": 50005864,
+    "system_id": 30001324,
+    "type_id": 16
+}

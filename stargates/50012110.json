@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011838,
+        "system_id": 30004251
+    },
+    "name": "Stargate (Mishi)",
+    "position": {
+        "x": 692006707200,
+        "y": -8178769920,
+        "z": 2524574146560
+    },
+    "stargate_id": 50012110,
+    "system_id": 30004253,
+    "type_id": 29624
+}

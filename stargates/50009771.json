@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010239,
+        "system_id": 30003936
+    },
+    "name": "Stargate (Nakis)",
+    "position": {
+        "x": -766874787840,
+        "y": -2319377326080,
+        "z": -137403555840
+    },
+    "stargate_id": 50009771,
+    "system_id": 30003928,
+    "type_id": 17
+}

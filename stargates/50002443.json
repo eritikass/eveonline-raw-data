@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001247,
+        "system_id": 30000433
+    },
+    "name": "Stargate (WU-FHQ)",
+    "position": {
+        "x": 33231052800,
+        "y": 2252021760,
+        "z": 384375644160
+    },
+    "stargate_id": 50002443,
+    "system_id": 30000434,
+    "type_id": 29633
+}

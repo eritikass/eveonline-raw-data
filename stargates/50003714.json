@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004180,
+        "system_id": 30001748
+    },
+    "name": "Stargate (W9-TFD)",
+    "position": {
+        "x": 8071205806080,
+        "y": -1241977282560,
+        "z": 1644965683200
+    },
+    "stargate_id": 50003714,
+    "system_id": 30001746,
+    "type_id": 3875
+}

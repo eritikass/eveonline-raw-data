@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007118,
+        "system_id": 30002864
+    },
+    "name": "Stargate (42G-OB)",
+    "position": {
+        "x": 2783207546880,
+        "y": -124880117760,
+        "z": -3215976407040
+    },
+    "stargate_id": 50007214,
+    "system_id": 30002865,
+    "type_id": 3875
+}

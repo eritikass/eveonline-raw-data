@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005743,
+        "system_id": 30001753
+    },
+    "name": "Stargate (XUPK-Z)",
+    "position": {
+        "x": 964826112000,
+        "y": -120693104640,
+        "z": -2785009459200
+    },
+    "stargate_id": 50005347,
+    "system_id": 30001751,
+    "type_id": 3875
+}

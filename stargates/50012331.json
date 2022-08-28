@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012867,
+        "system_id": 30004297
+    },
+    "name": "Stargate (Efu)",
+    "position": {
+        "x": 55026032640,
+        "y": 669863731200,
+        "z": -4199918837760
+    },
+    "stargate_id": 50012331,
+    "system_id": 30004284,
+    "type_id": 17
+}

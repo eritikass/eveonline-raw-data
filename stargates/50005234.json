@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005439,
+        "system_id": 30000654
+    },
+    "name": "Stargate (PKN-NJ)",
+    "position": {
+        "x": 540134645760,
+        "y": -106742538240,
+        "z": -373489459200
+    },
+    "stargate_id": 50005234,
+    "system_id": 30000651,
+    "type_id": 29633
+}

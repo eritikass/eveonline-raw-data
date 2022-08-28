@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001364,
+        "system_id": 30002775
+    },
+    "name": "Stargate (Paara)",
+    "position": {
+        "x": -2244929740800,
+        "y": -327632609280,
+        "z": 1192908840960
+    },
+    "stargate_id": 50001832,
+    "system_id": 30002776,
+    "type_id": 16
+}

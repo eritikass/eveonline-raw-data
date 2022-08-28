@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008689,
+        "system_id": 30003310
+    },
+    "name": "Stargate (5-75MB)",
+    "position": {
+        "x": -1709867458560,
+        "y": 42733608960,
+        "z": -1939639787520
+    },
+    "stargate_id": 50007932,
+    "system_id": 30003309,
+    "type_id": 3875
+}

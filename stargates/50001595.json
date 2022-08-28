@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001048,
+        "system_id": 30000046
+    },
+    "name": "Stargate (Mifrata)",
+    "position": {
+        "x": -2007800832000,
+        "y": -2830350704640,
+        "z": 346980065280
+    },
+    "stargate_id": 50001595,
+    "system_id": 30000015,
+    "type_id": 17
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004936,
+        "system_id": 30004822
+    },
+    "name": "Stargate (W-16DY)",
+    "position": {
+        "x": 1272964423680,
+        "y": 1113184296960,
+        "z": 1392061931520
+    },
+    "stargate_id": 50005701,
+    "system_id": 30004831,
+    "type_id": 3877
+}

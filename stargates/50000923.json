@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002140,
+        "system_id": 30001567
+    },
+    "name": "Stargate (JVA-FE)",
+    "position": {
+        "x": -2223633899520,
+        "y": -72780963840,
+        "z": 1020192153600
+    },
+    "stargate_id": 50000923,
+    "system_id": 30001564,
+    "type_id": 3875
+}

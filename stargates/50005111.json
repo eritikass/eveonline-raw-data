@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003907,
+        "system_id": 30001062
+    },
+    "name": "Stargate (N-YLOE)",
+    "position": {
+        "x": -1742087331840,
+        "y": -2528055336960,
+        "z": 1010172764160
+    },
+    "stargate_id": 50005111,
+    "system_id": 30001140,
+    "type_id": 3874
+}

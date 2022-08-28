@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009007,
+        "system_id": 30001871
+    },
+    "name": "Stargate (HQ-TDJ)",
+    "position": {
+        "x": 2271395880960,
+        "y": 418608537600,
+        "z": 69720023040
+    },
+    "stargate_id": 50009042,
+    "system_id": 30001872,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000959,
+        "system_id": 30000085
+    },
+    "name": "Stargate (Bar)",
+    "position": {
+        "x": 653440327680,
+        "y": -1231990333440,
+        "z": 3010287575040
+    },
+    "stargate_id": 50000811,
+    "system_id": 30000070,
+    "type_id": 17
+}

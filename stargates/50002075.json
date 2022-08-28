@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003072,
+        "system_id": 30001183
+    },
+    "name": "Stargate (G-7WUF)",
+    "position": {
+        "x": 156018155520,
+        "y": 14807162880,
+        "z": -1511831347200
+    },
+    "stargate_id": 50002075,
+    "system_id": 30001182,
+    "type_id": 29624
+}

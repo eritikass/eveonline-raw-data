@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009685,
+        "system_id": 30003122
+    },
+    "name": "Stargate (16P-PX)",
+    "position": {
+        "x": 2366769930240,
+        "y": -293850193920,
+        "z": -1111086243840
+    },
+    "stargate_id": 50009213,
+    "system_id": 30003120,
+    "type_id": 29624
+}

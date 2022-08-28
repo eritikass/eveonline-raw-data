@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005941,
+        "system_id": 30003806
+    },
+    "name": "Stargate (Pelille)",
+    "position": {
+        "x": -831569633280,
+        "y": 2005594152960,
+        "z": 1471305277440
+    },
+    "stargate_id": 50005553,
+    "system_id": 30003792,
+    "type_id": 3874
+}

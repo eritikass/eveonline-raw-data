@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006847,
+        "system_id": 30004406
+    },
+    "name": "Stargate (V-TN6Q)",
+    "position": {
+        "x": -699294720000,
+        "y": -109606379520,
+        "z": 6048496558080
+    },
+    "stargate_id": 50006407,
+    "system_id": 30004404,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009126,
+        "system_id": 30004127
+    },
+    "name": "Stargate (Zimse)",
+    "position": {
+        "x": 74022543360,
+        "y": -1272176640,
+        "z": -4071591075840
+    },
+    "stargate_id": 50008971,
+    "system_id": 30004126,
+    "type_id": 29624
+}

@@ -1,0 +1,78 @@
+{
+    "constellation_id": 20000286,
+    "name": "O-FTHE",
+    "planets": [
+        {
+            "planet_id": 40123954
+        },
+        {
+            "moons": [
+                40123956
+            ],
+            "planet_id": 40123955
+        },
+        {
+            "planet_id": 40123957
+        },
+        {
+            "asteroid_belts": [
+                40123959,
+                40123960
+            ],
+            "moons": [
+                40123961
+            ],
+            "planet_id": 40123958
+        },
+        {
+            "asteroid_belts": [
+                40123963
+            ],
+            "planet_id": 40123962
+        },
+        {
+            "asteroid_belts": [
+                40123965
+            ],
+            "moons": [
+                40123966
+            ],
+            "planet_id": 40123964
+        },
+        {
+            "asteroid_belts": [
+                40123968
+            ],
+            "moons": [
+                40123969,
+                40123970
+            ],
+            "planet_id": 40123967
+        },
+        {
+            "asteroid_belts": [
+                40123972
+            ],
+            "moons": [
+                40123973
+            ],
+            "planet_id": 40123971
+        }
+    ],
+    "position": {
+        "x": -185686928814071580,
+        "y": 60703046280390776,
+        "z": -334927392841137540
+    },
+    "security_class": "G",
+    "security_status": -0.042107339948415756,
+    "star_id": 40123953,
+    "stargates": [
+        50012607,
+        50012608
+    ],
+    "stations": [
+        60014278
+    ],
+    "system_id": 30001938
+}

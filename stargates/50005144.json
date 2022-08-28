@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005603,
+        "system_id": 30004825
+    },
+    "name": "Stargate (PDF-3Z)",
+    "position": {
+        "x": -646258237440,
+        "y": -56850063360,
+        "z": -2285530275840
+    },
+    "stargate_id": 50005144,
+    "system_id": 30004824,
+    "type_id": 29633
+}

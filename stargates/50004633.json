@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006245,
+        "system_id": 30001436
+    },
+    "name": "Stargate (Isie)",
+    "position": {
+        "x": -1230995742720,
+        "y": 235733852160,
+        "z": -1814911672320
+    },
+    "stargate_id": 50004633,
+    "system_id": 30001435,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014205,
+        "system_id": 30001330
+    },
+    "name": "Stargate (HD-JVQ)",
+    "position": {
+        "x": -1220255539200,
+        "y": 237133455360,
+        "z": 626364702720
+    },
+    "stargate_id": 50014206,
+    "system_id": 30005189,
+    "type_id": 29632
+}

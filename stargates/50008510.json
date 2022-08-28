@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012486,
+        "system_id": 30000172
+    },
+    "name": "Stargate (Otomainen)",
+    "position": {
+        "x": -1295219712000,
+        "y": 111099617280,
+        "z": -307968614400
+    },
+    "stargate_id": 50008510,
+    "system_id": 30000169,
+    "type_id": 16
+}

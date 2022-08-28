@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000301,
+        "system_id": 30002642
+    },
+    "name": "Stargate (Iyen-Oursta)",
+    "position": {
+        "x": 28626984960,
+        "y": 886824960,
+        "z": 567557529600
+    },
+    "stargate_id": 50000524,
+    "system_id": 30002643,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010938,
+        "system_id": 30001684
+    },
+    "name": "Stargate (Tirbam)",
+    "position": {
+        "x": 785999831040,
+        "y": 89186672640,
+        "z": 762282024960
+    },
+    "stargate_id": 50007075,
+    "system_id": 30001683,
+    "type_id": 29624
+}

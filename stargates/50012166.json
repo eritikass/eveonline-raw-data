@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012122,
+        "system_id": 30004534
+    },
+    "name": "Stargate (G-YT55)",
+    "position": {
+        "x": -26043064320,
+        "y": 2155929600,
+        "z": 115512729600
+    },
+    "stargate_id": 50012166,
+    "system_id": 30004535,
+    "type_id": 3875
+}

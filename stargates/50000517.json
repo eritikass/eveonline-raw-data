@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002022,
+        "system_id": 30001175
+    },
+    "name": "Stargate (VA6-DR)",
+    "position": {
+        "x": 2619788451840,
+        "y": 51451207680,
+        "z": -521286328320
+    },
+    "stargate_id": 50000517,
+    "system_id": 30001171,
+    "type_id": 29624
+}

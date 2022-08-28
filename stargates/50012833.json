@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013361,
+        "system_id": 30004159
+    },
+    "name": "Stargate (Lazara)",
+    "position": {
+        "x": 617499648000,
+        "y": 95479357440,
+        "z": -4836450508800
+    },
+    "stargate_id": 50012833,
+    "system_id": 30004157,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004820,
+        "system_id": 30004821
+    },
+    "name": "Stargate (FE-6YQ)",
+    "position": {
+        "x": -1196250439680,
+        "y": -43619819520,
+        "z": 4615236526080
+    },
+    "stargate_id": 50005352,
+    "system_id": 30004823,
+    "type_id": 29633
+}

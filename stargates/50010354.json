@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010049,
+        "system_id": 30004014
+    },
+    "name": "Stargate (4-2UXV)",
+    "position": {
+        "x": -1517732536320,
+        "y": -185452339200,
+        "z": 11719888035840
+    },
+    "stargate_id": 50010354,
+    "system_id": 30004015,
+    "type_id": 29624
+}

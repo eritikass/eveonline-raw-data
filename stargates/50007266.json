@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007941,
+        "system_id": 30001094
+    },
+    "name": "Stargate (NRD-5Q)",
+    "position": {
+        "x": -876256911360,
+        "y": 170205388800,
+        "z": -599638302720
+    },
+    "stargate_id": 50007266,
+    "system_id": 30001093,
+    "type_id": 3875
+}

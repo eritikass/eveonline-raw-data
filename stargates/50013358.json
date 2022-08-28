@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013116,
+        "system_id": 30003371
+    },
+    "name": "Stargate (CY-ZLP)",
+    "position": {
+        "x": 164740177920,
+        "y": 16549109760,
+        "z": 755624878080
+    },
+    "stargate_id": 50013358,
+    "system_id": 30003373,
+    "type_id": 3875
+}

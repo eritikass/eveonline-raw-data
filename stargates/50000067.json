@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001740,
+        "system_id": 30000005
+    },
+    "name": "Stargate (Sasta)",
+    "position": {
+        "x": 1438312980480,
+        "y": 86747013120,
+        "z": -605655982080
+    },
+    "stargate_id": 50000067,
+    "system_id": 30000002,
+    "type_id": 29624
+}

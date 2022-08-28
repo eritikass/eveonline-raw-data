@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009425,
+        "system_id": 30004103
+    },
+    "name": "Stargate (Kothe)",
+    "position": {
+        "x": 3286108446720,
+        "y": 550749757440,
+        "z": 1019180605440
+    },
+    "stargate_id": 50005859,
+    "system_id": 30004098,
+    "type_id": 29624
+}

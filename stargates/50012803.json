@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012958,
+        "system_id": 30004911
+    },
+    "name": "Stargate (NZPK-G)",
+    "position": {
+        "x": 2718741258240,
+        "y": 3425700618240,
+        "z": -1192357847040
+    },
+    "stargate_id": 50012803,
+    "system_id": 30004908,
+    "type_id": 3877
+}

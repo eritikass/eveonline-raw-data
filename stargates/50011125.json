@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010825,
+        "system_id": 30004372
+    },
+    "name": "Stargate (C-LBQS)",
+    "position": {
+        "x": 74971176960,
+        "y": -5870346240,
+        "z": -5681939619840
+    },
+    "stargate_id": 50011125,
+    "system_id": 30004373,
+    "type_id": 16
+}

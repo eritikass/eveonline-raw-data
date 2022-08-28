@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002605,
+        "system_id": 30000530
+    },
+    "name": "Stargate (YHEN-G)",
+    "position": {
+        "x": 524863365120,
+        "y": 672276480,
+        "z": -2206801920
+    },
+    "stargate_id": 50003033,
+    "system_id": 30000531,
+    "type_id": 29633
+}

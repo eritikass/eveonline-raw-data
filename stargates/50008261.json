@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007259,
+        "system_id": 30005126
+    },
+    "name": "Stargate (U4-V3J)",
+    "position": {
+        "x": 746325811200,
+        "y": 149525422080,
+        "z": -1765497937920
+    },
+    "stargate_id": 50008261,
+    "system_id": 30005128,
+    "type_id": 3875
+}

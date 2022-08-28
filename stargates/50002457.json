@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002666,
+        "system_id": 30000600
+    },
+    "name": "Stargate (F5M-CC)",
+    "position": {
+        "x": -2821259304960,
+        "y": 4659215278080,
+        "z": -3046985932800
+    },
+    "stargate_id": 50002457,
+    "system_id": 30000547,
+    "type_id": 3877
+}

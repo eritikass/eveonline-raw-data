@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001585,
+        "system_id": 30000562
+    },
+    "name": "Stargate (5DE-QS)",
+    "position": {
+        "x": 642638438400,
+        "y": 25185607680,
+        "z": 1547431895040
+    },
+    "stargate_id": 50000589,
+    "system_id": 30000559,
+    "type_id": 29633
+}

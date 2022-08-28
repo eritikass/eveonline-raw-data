@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005456,
+        "system_id": 30003428
+    },
+    "name": "Stargate (Hilfhurmur)",
+    "position": {
+        "x": 4615107747840,
+        "y": 1021314539520,
+        "z": -3768296693760
+    },
+    "stargate_id": 50004000,
+    "system_id": 30003396,
+    "type_id": 3877
+}

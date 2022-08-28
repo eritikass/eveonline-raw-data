@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012615,
+        "system_id": 30001820
+    },
+    "name": "Stargate (3-QNM4)",
+    "position": {
+        "x": -709223178240,
+        "y": -7335321600,
+        "z": -342316032000
+    },
+    "stargate_id": 50012459,
+    "system_id": 30001818,
+    "type_id": 3875
+}

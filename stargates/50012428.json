@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013069,
+        "system_id": 30002504
+    },
+    "name": "Stargate (UG-UWZ)",
+    "position": {
+        "x": 560093306880,
+        "y": 42592051200,
+        "z": -637772636160
+    },
+    "stargate_id": 50012428,
+    "system_id": 30002503,
+    "type_id": 16
+}

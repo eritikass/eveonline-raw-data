@@ -1,0 +1,79 @@
+{
+    "constellation_id": 20000761,
+    "name": "Ourapheh",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40328992
+            ],
+            "planet_id": 40328991
+        },
+        {
+            "asteroid_belts": [
+                40328994
+            ],
+            "planet_id": 40328993
+        },
+        {
+            "planet_id": 40328995
+        },
+        {
+            "asteroid_belts": [
+                40328997
+            ],
+            "moons": [
+                40328998
+            ],
+            "planet_id": 40328996
+        },
+        {
+            "moons": [
+                40329000,
+                40329001
+            ],
+            "planet_id": 40328999
+        },
+        {
+            "planet_id": 40329002
+        },
+        {
+            "asteroid_belts": [
+                40329004,
+                40329005
+            ],
+            "moons": [
+                40329006
+            ],
+            "planet_id": 40329003
+        },
+        {
+            "asteroid_belts": [
+                40329008,
+                40329009
+            ],
+            "planet_id": 40329007
+        },
+        {
+            "moons": [
+                40329011
+            ],
+            "planet_id": 40329010
+        }
+    ],
+    "position": {
+        "x": -226388186019899550,
+        "y": 35590737704759988,
+        "z": 32111648463808420
+    },
+    "security_class": "B",
+    "security_status": 0.8619601726531982,
+    "star_id": 40328990,
+    "stargates": [
+        50003260,
+        50003261,
+        50003262,
+        50003263,
+        50013907
+    ],
+    "system_id": 30005203
+}

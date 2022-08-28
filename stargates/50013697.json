@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013698,
+        "system_id": 30000250
+    },
+    "name": "Stargate (P3EN-E)",
+    "position": {
+        "x": 76783165440,
+        "y": 1453950443520,
+        "z": 1262259855360
+    },
+    "stargate_id": 50013697,
+    "system_id": 30000205,
+    "type_id": 3873
+}

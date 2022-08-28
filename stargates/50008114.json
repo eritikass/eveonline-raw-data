@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008436,
+        "system_id": 30003916
+    },
+    "name": "Stargate (Rilera)",
+    "position": {
+        "x": -722407956480,
+        "y": -2999841300480,
+        "z": 5793218519040
+    },
+    "stargate_id": 50008114,
+    "system_id": 30003907,
+    "type_id": 17
+}

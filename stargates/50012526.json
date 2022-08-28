@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011794,
+        "system_id": 30005143
+    },
+    "name": "Stargate (TAL1-3)",
+    "position": {
+        "x": 380386713600,
+        "y": -23751352320,
+        "z": -1765846917120
+    },
+    "stargate_id": 50012526,
+    "system_id": 30005144,
+    "type_id": 3875
+}

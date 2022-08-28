@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007756,
+        "system_id": 30002260
+    },
+    "name": "Stargate (Esteban)",
+    "position": {
+        "x": -2500533903360,
+        "y": -2642837790720,
+        "z": 675114639360
+    },
+    "stargate_id": 50005242,
+    "system_id": 30002208,
+    "type_id": 17
+}

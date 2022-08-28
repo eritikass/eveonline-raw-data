@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004574,
+        "system_id": 30002444
+    },
+    "name": "Stargate (39-DGG)",
+    "position": {
+        "x": 136087019520,
+        "y": 17367244800,
+        "z": 174534451200
+    },
+    "stargate_id": 50004666,
+    "system_id": 30002445,
+    "type_id": 16
+}

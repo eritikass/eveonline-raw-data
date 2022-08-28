@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005932,
+        "system_id": 30002125
+    },
+    "name": "Stargate (78TS-Q)",
+    "position": {
+        "x": -3342224547840,
+        "y": 162855936000,
+        "z": -1820799836160
+    },
+    "stargate_id": 50009025,
+    "system_id": 30002127,
+    "type_id": 29633
+}

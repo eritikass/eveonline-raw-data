@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004993,
+        "system_id": 30005116
+    },
+    "name": "Stargate (H-FOYG)",
+    "position": {
+        "x": 607775170560,
+        "y": 2998685491200,
+        "z": -367044894720
+    },
+    "stargate_id": 50005476,
+    "system_id": 30005098,
+    "type_id": 3874
+}

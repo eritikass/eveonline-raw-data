@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013534,
+        "system_id": 30003941
+    },
+    "name": "Stargate (Rafeme)",
+    "position": {
+        "x": -996548812800,
+        "y": -196987330560,
+        "z": 3932962037760
+    },
+    "stargate_id": 50013398,
+    "system_id": 30003940,
+    "type_id": 29624
+}

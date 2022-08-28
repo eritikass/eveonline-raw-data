@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014172,
+        "system_id": 30022715
+    },
+    "name": "Stargate (Oirtlair)",
+    "position": {
+        "x": 2079402270720,
+        "y": 15998361600,
+        "z": -1348435599360
+    },
+    "stargate_id": 50014171,
+    "system_id": 30002708,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001509,
+        "system_id": 30000441
+    },
+    "name": "Stargate (DG-8VJ)",
+    "position": {
+        "x": 1139617259520,
+        "y": 111349555200,
+        "z": 2334480752640
+    },
+    "stargate_id": 50001921,
+    "system_id": 30000442,
+    "type_id": 29633
+}

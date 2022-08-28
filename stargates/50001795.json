@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002150,
+        "system_id": 30000788
+    },
+    "name": "Stargate (I-1QKL)",
+    "position": {
+        "x": 146275491840,
+        "y": 16677150720,
+        "z": -41018449920
+    },
+    "stargate_id": 50001795,
+    "system_id": 30000787,
+    "type_id": 29633
+}

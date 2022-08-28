@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013081,
+        "system_id": 30001941
+    },
+    "name": "Stargate (J5NU-K)",
+    "position": {
+        "x": -3378694348800,
+        "y": -537491005440,
+        "z": 3709549731840
+    },
+    "stargate_id": 50012962,
+    "system_id": 30001939,
+    "type_id": 29624
+}

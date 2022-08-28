@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013463,
+        "system_id": 30002186
+    },
+    "name": "Stargate (QN-6J2)",
+    "position": {
+        "x": -202148536320,
+        "y": 14055874560,
+        "z": -1849189048320
+    },
+    "stargate_id": 50013433,
+    "system_id": 30002184,
+    "type_id": 29633
+}

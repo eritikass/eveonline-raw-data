@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006250,
+        "system_id": 30001762
+    },
+    "name": "Stargate (K4UV-G)",
+    "position": {
+        "x": -4832346071040,
+        "y": -619964129280,
+        "z": 802352455680
+    },
+    "stargate_id": 50006463,
+    "system_id": 30001763,
+    "type_id": 3875
+}

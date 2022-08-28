@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006391,
+        "system_id": 30002244
+    },
+    "name": "Stargate (Arera)",
+    "position": {
+        "x": 4449347051520,
+        "y": -114542223360,
+        "z": -1517685350400
+    },
+    "stargate_id": 50008054,
+    "system_id": 30002245,
+    "type_id": 29624
+}

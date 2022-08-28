@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009172,
+        "system_id": 30003344
+    },
+    "name": "Stargate (KLYN-8)",
+    "position": {
+        "x": -797208698880,
+        "y": 122587668480,
+        "z": 997980119040
+    },
+    "stargate_id": 50009369,
+    "system_id": 30003346,
+    "type_id": 3875
+}

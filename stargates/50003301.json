@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000856,
+        "system_id": 30000847
+    },
+    "name": "Stargate (J-GAMP)",
+    "position": {
+        "x": 1089272832000,
+        "y": 204661678080,
+        "z": -670722662400
+    },
+    "stargate_id": 50003301,
+    "system_id": 30000850,
+    "type_id": 16
+}

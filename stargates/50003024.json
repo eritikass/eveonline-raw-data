@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006397,
+        "system_id": 30005099
+    },
+    "name": "Stargate (R-AG7W)",
+    "position": {
+        "x": 347875368960,
+        "y": -46805606400,
+        "z": -792016281600
+    },
+    "stargate_id": 50003024,
+    "system_id": 30005094,
+    "type_id": 3875
+}

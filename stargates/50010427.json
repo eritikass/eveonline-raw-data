@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010637,
+        "system_id": 30002172
+    },
+    "name": "Stargate (W4E-IT)",
+    "position": {
+        "x": 1113879306240,
+        "y": -1369027338240,
+        "z": -4621887283200
+    },
+    "stargate_id": 50010427,
+    "system_id": 30002164,
+    "type_id": 3877
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009313,
+        "system_id": 30003930
+    },
+    "name": "Stargate (Goudiyah)",
+    "position": {
+        "x": 2323311452160,
+        "y": 141730652160,
+        "z": -945489223680
+    },
+    "stargate_id": 50009454,
+    "system_id": 30003931,
+    "type_id": 29624
+}

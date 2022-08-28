@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007833,
+        "system_id": 30001443
+    },
+    "name": "Stargate (Vuorrassi)",
+    "position": {
+        "x": 963487457280,
+        "y": 2631802675200,
+        "z": 4795248844800
+    },
+    "stargate_id": 50007475,
+    "system_id": 30001367,
+    "type_id": 29627
+}

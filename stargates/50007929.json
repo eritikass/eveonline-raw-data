@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009403,
+        "system_id": 30002086
+    },
+    "name": "Stargate (Turnur)",
+    "position": {
+        "x": 167222845440,
+        "y": -21671485440,
+        "z": -1862905651200
+    },
+    "stargate_id": 50007929,
+    "system_id": 30002083,
+    "type_id": 29633
+}

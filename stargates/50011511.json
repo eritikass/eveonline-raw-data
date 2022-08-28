@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010855,
+        "system_id": 30004567
+    },
+    "name": "Stargate (E-BWUU)",
+    "position": {
+        "x": 2675385753600,
+        "y": -541987676160,
+        "z": -1739061043200
+    },
+    "stargate_id": 50011511,
+    "system_id": 30004568,
+    "type_id": 3875
+}

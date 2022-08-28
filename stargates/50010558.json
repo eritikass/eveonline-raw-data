@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010134,
+        "system_id": 30004171
+    },
+    "name": "Stargate (Y-RAW3)",
+    "position": {
+        "x": -806546350080,
+        "y": 155898224640,
+        "z": -812491284480
+    },
+    "stargate_id": 50010558,
+    "system_id": 30004176,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007946,
+        "system_id": 30002725
+    },
+    "name": "Stargate (Goinard)",
+    "position": {
+        "x": -4310563921920,
+        "y": 104818728960,
+        "z": 1671044997120
+    },
+    "stargate_id": 50008043,
+    "system_id": 30002726,
+    "type_id": 3875
+}

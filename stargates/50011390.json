@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012427,
+        "system_id": 30002503
+    },
+    "name": "Stargate (UER-TH)",
+    "position": {
+        "x": 499323985920,
+        "y": -66349916160,
+        "z": -349943930880
+    },
+    "stargate_id": 50011390,
+    "system_id": 30002502,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007898,
+        "system_id": 30001705
+    },
+    "name": "Stargate (Azhgabid)",
+    "position": {
+        "x": -341261967360,
+        "y": -54397132800,
+        "z": -1134726389760
+    },
+    "stargate_id": 50006640,
+    "system_id": 30001703,
+    "type_id": 29624
+}

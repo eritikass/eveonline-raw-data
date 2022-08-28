@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007212,
+        "system_id": 30003884
+    },
+    "name": "Stargate (Nourbal)",
+    "position": {
+        "x": -218112860160,
+        "y": 38591815680,
+        "z": 150677299200
+    },
+    "stargate_id": 50007147,
+    "system_id": 30003883,
+    "type_id": 29624
+}

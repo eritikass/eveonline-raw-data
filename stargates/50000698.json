@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000654,
+        "system_id": 30002850
+    },
+    "name": "Stargate (B1UE-J)",
+    "position": {
+        "x": -313006940160,
+        "y": 6828810240,
+        "z": 1840679116800
+    },
+    "stargate_id": 50000698,
+    "system_id": 30002851,
+    "type_id": 3875
+}

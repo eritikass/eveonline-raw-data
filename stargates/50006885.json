@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006374,
+        "system_id": 30002960
+    },
+    "name": "Stargate (Arzad)",
+    "position": {
+        "x": 1990042214400,
+        "y": -244109598720,
+        "z": -2435707084800
+    },
+    "stargate_id": 50006885,
+    "system_id": 30002962,
+    "type_id": 29624
+}

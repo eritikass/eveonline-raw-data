@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004788,
+        "system_id": 30002076
+    },
+    "name": "Stargate (Dudreda)",
+    "position": {
+        "x": -7302581821440,
+        "y": 461965271040,
+        "z": 12240015974400
+    },
+    "stargate_id": 50011094,
+    "system_id": 30002080,
+    "type_id": 29633
+}

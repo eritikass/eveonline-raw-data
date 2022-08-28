@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012195,
+        "system_id": 30004540
+    },
+    "name": "Stargate (ZXC8-1)",
+    "position": {
+        "x": -2995940597760,
+        "y": 564920524800,
+        "z": -2097331200000
+    },
+    "stargate_id": 50012033,
+    "system_id": 30004539,
+    "type_id": 3875
+}

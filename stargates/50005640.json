@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005832,
+        "system_id": 30001708
+    },
+    "name": "Stargate (Asezai)",
+    "position": {
+        "x": -2733725736960,
+        "y": 2646702858240,
+        "z": -1730189352960
+    },
+    "stargate_id": 50005640,
+    "system_id": 30001680,
+    "type_id": 17
+}

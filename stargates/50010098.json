@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004905,
+        "system_id": 30003039
+    },
+    "name": "Stargate (Leremblompes)",
+    "position": {
+        "x": 2277765242880,
+        "y": -1588707287040,
+        "z": -2946860359680
+    },
+    "stargate_id": 50010098,
+    "system_id": 30003053,
+    "type_id": 3874
+}

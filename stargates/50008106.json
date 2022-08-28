@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012070,
+        "system_id": 30003895
+    },
+    "name": "Stargate (Ainsan)",
+    "position": {
+        "x": -6616324300800,
+        "y": 727868989440,
+        "z": 1344034529280
+    },
+    "stargate_id": 50008106,
+    "system_id": 30003889,
+    "type_id": 29624
+}

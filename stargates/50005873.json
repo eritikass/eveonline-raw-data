@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006581,
+        "system_id": 30000999
+    },
+    "name": "Stargate (N-RAEL)",
+    "position": {
+        "x": -1985417748480,
+        "y": 59469864960,
+        "z": -959784591360
+    },
+    "stargate_id": 50005873,
+    "system_id": 30000996,
+    "type_id": 29633
+}

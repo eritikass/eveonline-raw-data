@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001017,
+        "system_id": 30001039
+    },
+    "name": "Stargate (Y-K50G)",
+    "position": {
+        "x": -204126658560,
+        "y": -14745722880,
+        "z": -93054689280
+    },
+    "stargate_id": 50002096,
+    "system_id": 30001041,
+    "type_id": 29633
+}

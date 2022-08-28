@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001542,
+        "system_id": 30001084
+    },
+    "name": "Stargate (V3P-AZ)",
+    "position": {
+        "x": 1059441008640,
+        "y": -26244341760,
+        "z": -1064994447360
+    },
+    "stargate_id": 50000745,
+    "system_id": 30001083,
+    "type_id": 3875
+}

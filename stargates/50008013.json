@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008449,
+        "system_id": 30003214
+    },
+    "name": "Stargate (5-9L3H)",
+    "position": {
+        "x": -1619055697920,
+        "y": 28830474240,
+        "z": 84308828160
+    },
+    "stargate_id": 50008013,
+    "system_id": 30003211,
+    "type_id": 3875
+}

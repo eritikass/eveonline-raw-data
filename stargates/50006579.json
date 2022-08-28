@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011059,
+        "system_id": 30001726
+    },
+    "name": "Stargate (Iswa)",
+    "position": {
+        "x": -3107703152640,
+        "y": 27150458880,
+        "z": -4017651179520
+    },
+    "stargate_id": 50006579,
+    "system_id": 30001724,
+    "type_id": 29624
+}

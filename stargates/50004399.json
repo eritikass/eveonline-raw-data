@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004728,
+        "system_id": 30002581
+    },
+    "name": "Stargate (1-7KWU)",
+    "position": {
+        "x": -695681802240,
+        "y": -4297727139840,
+        "z": -5596231802880
+    },
+    "stargate_id": 50004399,
+    "system_id": 30004814,
+    "type_id": 29635
+}

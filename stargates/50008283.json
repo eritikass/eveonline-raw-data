@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008199,
+        "system_id": 30003279
+    },
+    "name": "Stargate (K5-JRD)",
+    "position": {
+        "x": 710260776960,
+        "y": -2570513080320,
+        "z": 4986136289280
+    },
+    "stargate_id": 50008283,
+    "system_id": 30003320,
+    "type_id": 3874
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012197,
+        "system_id": 30004156
+    },
+    "name": "Stargate (Asrios)",
+    "position": {
+        "x": -4812218572800,
+        "y": 242786181120,
+        "z": -1874874163200
+    },
+    "stargate_id": 50012029,
+    "system_id": 30004155,
+    "type_id": 29624
+}

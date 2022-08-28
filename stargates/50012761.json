@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012821,
+        "system_id": 30004640
+    },
+    "name": "Stargate (87XQ-0)",
+    "position": {
+        "x": -3025298350080,
+        "y": -597423759360,
+        "z": -1681914470400
+    },
+    "stargate_id": 50012761,
+    "system_id": 30004638,
+    "type_id": 3875
+}

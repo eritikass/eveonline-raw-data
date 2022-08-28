@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010366,
+        "system_id": 30005149
+    },
+    "name": "Stargate (4-1ECP)",
+    "position": {
+        "x": -2855059660800,
+        "y": 545504010240,
+        "z": 1235339796480
+    },
+    "stargate_id": 50009965,
+    "system_id": 30005148,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004954,
+        "system_id": 30000498
+    },
+    "name": "Stargate (KZ9T-C)",
+    "position": {
+        "x": -16043581440,
+        "y": -2685788160,
+        "z": -31763128320
+    },
+    "stargate_id": 50005204,
+    "system_id": 30000499,
+    "type_id": 29633
+}

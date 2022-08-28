@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005571,
+        "system_id": 30001852
+    },
+    "name": "Stargate (FV-SE8)",
+    "position": {
+        "x": -62567178240,
+        "y": 2254970880,
+        "z": -216330362880
+    },
+    "stargate_id": 50005168,
+    "system_id": 30001851,
+    "type_id": 29624
+}

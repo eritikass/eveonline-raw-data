@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000781,
+        "system_id": 30002686
+    },
+    "name": "Stargate (Olettiers)",
+    "position": {
+        "x": -851093544960,
+        "y": -3275226193920,
+        "z": -2451753492480
+    },
+    "stargate_id": 50001733,
+    "system_id": 30002644,
+    "type_id": 3874
+}

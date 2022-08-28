@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009662,
+        "system_id": 30001893
+    },
+    "name": "Stargate (S-DLKC)",
+    "position": {
+        "x": -3246296801280,
+        "y": 4785698365440,
+        "z": 3696046694400
+    },
+    "stargate_id": 50008547,
+    "system_id": 30001870,
+    "type_id": 17
+}

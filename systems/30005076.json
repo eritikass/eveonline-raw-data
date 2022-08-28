@@ -1,0 +1,74 @@
+{
+    "constellation_id": 20000743,
+    "name": "Shokal",
+    "planets": [
+        {
+            "planet_id": 40321361
+        },
+        {
+            "planet_id": 40321362
+        },
+        {
+            "planet_id": 40321363
+        },
+        {
+            "asteroid_belts": [
+                40321365
+            ],
+            "planet_id": 40321364
+        },
+        {
+            "asteroid_belts": [
+                40321367
+            ],
+            "planet_id": 40321366
+        },
+        {
+            "asteroid_belts": [
+                40321369
+            ],
+            "moons": [
+                40321370
+            ],
+            "planet_id": 40321368
+        },
+        {
+            "asteroid_belts": [
+                40321372
+            ],
+            "moons": [
+                40321373,
+                40321374
+            ],
+            "planet_id": 40321371
+        },
+        {
+            "asteroid_belts": [
+                40321376
+            ],
+            "moons": [
+                40321377,
+                40321378
+            ],
+            "planet_id": 40321375
+        }
+    ],
+    "position": {
+        "x": -253147708539268320,
+        "y": 46100277198705544,
+        "z": -75404786290763940
+    },
+    "security_class": "B1",
+    "security_status": 0.499438613653183,
+    "star_id": 40321360,
+    "stargates": [
+        50010283,
+        50010284,
+        50010285,
+        50010286
+    ],
+    "stations": [
+        60001966
+    ],
+    "system_id": 30005076
+}

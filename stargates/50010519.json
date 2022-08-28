@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010149,
+        "system_id": 30003154
+    },
+    "name": "Stargate (Z-MO29)",
+    "position": {
+        "x": 723968040960,
+        "y": -121993912320,
+        "z": 16030801920
+    },
+    "stargate_id": 50010519,
+    "system_id": 30003157,
+    "type_id": 29624
+}

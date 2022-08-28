@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013610,
+        "system_id": 30004626
+    },
+    "name": "Stargate (D4KU-5)",
+    "position": {
+        "x": 1366753812480,
+        "y": -1341069680640,
+        "z": 3965474611200
+    },
+    "stargate_id": 50013609,
+    "system_id": 30004309,
+    "type_id": 29625
+}

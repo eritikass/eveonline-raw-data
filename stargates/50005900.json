@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005729,
+        "system_id": 30001854
+    },
+    "name": "Stargate (UF-KKH)",
+    "position": {
+        "x": 3943538810880,
+        "y": 322029281280,
+        "z": -1092949155840
+    },
+    "stargate_id": 50005900,
+    "system_id": 30001855,
+    "type_id": 29624
+}

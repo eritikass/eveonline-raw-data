@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013213,
+        "system_id": 30004954
+    },
+    "name": "Stargate (08S-39)",
+    "position": {
+        "x": 2468798914560,
+        "y": 364484567040,
+        "z": -2100195532800
+    },
+    "stargate_id": 50012910,
+    "system_id": 30004947,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016491,
+        "system_id": 30040141
+    },
+    "name": "Stargate (Urhinichi)",
+    "position": {
+        "x": -33466588035.127895,
+        "y": -2784570816.5199804,
+        "z": 139994192231.40228
+    },
+    "stargate_id": 50016490,
+    "system_id": 30001413,
+    "type_id": 56317
+}

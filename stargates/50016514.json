@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016515,
+        "system_id": 30002737
+    },
+    "name": "Stargate (Konola)",
+    "position": {
+        "x": -94919231848.2139,
+        "y": 16864276672.578129,
+        "z": 57287761803.34643
+    },
+    "stargate_id": 50016514,
+    "system_id": 30001445,
+    "type_id": 56317
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002193,
+        "system_id": 30000008
+    },
+    "name": "Stargate (Nirbhi)",
+    "position": {
+        "x": -1622192332800,
+        "y": 186534666240,
+        "z": 680555765760
+    },
+    "stargate_id": 50002079,
+    "system_id": 30000006,
+    "type_id": 29624
+}

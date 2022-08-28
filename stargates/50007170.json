@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006942,
+        "system_id": 30001244
+    },
+    "name": "Stargate (UCG4-B)",
+    "position": {
+        "x": 223905423360,
+        "y": 1392599040,
+        "z": 29394739200
+    },
+    "stargate_id": 50007170,
+    "system_id": 30001245,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008834,
+        "system_id": 30005159
+    },
+    "name": "Stargate (4F6-VZ)",
+    "position": {
+        "x": 2028856074240,
+        "y": 107459911680,
+        "z": 2819643924480
+    },
+    "stargate_id": 50008280,
+    "system_id": 30005158,
+    "type_id": 3875
+}

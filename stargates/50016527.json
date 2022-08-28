@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016526,
+        "system_id": 30010141
+    },
+    "name": "Stargate (Sakenta)",
+    "position": {
+        "x": 6431537944.45046,
+        "y": -304856605.87989503,
+        "z": -93474655353.67838
+    },
+    "stargate_id": 50016527,
+    "system_id": 30031392,
+    "type_id": 56317
+}

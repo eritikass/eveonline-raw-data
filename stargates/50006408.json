@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007013,
+        "system_id": 30004408
+    },
+    "name": "Stargate (QBH5-F)",
+    "position": {
+        "x": 730808524800,
+        "y": 114460631040,
+        "z": -3297725521920
+    },
+    "stargate_id": 50006408,
+    "system_id": 30004404,
+    "type_id": 29633
+}

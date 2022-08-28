@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006034,
+        "system_id": 30001760
+    },
+    "name": "Stargate (TFPT-U)",
+    "position": {
+        "x": -1269156372480,
+        "y": -252842680320,
+        "z": -1534485012480
+    },
+    "stargate_id": 50005971,
+    "system_id": 30001759,
+    "type_id": 3875
+}

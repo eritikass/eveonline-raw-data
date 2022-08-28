@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009120,
+        "system_id": 30004426
+    },
+    "name": "Stargate (OCU4-R)",
+    "position": {
+        "x": 2708341923840,
+        "y": 466919792640,
+        "z": 819492741120
+    },
+    "stargate_id": 50009672,
+    "system_id": 30004427,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004598,
+        "system_id": 30000834
+    },
+    "name": "Stargate (RZ-TI6)",
+    "position": {
+        "x": 287017820160,
+        "y": 42645381120,
+        "z": -7014003056640
+    },
+    "stargate_id": 50004972,
+    "system_id": 30000835,
+    "type_id": 29633
+}

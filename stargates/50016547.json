@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016546,
+        "system_id": 30000206
+    },
+    "name": "Stargate (Wirashoda)",
+    "position": {
+        "x": 954300615427.3367,
+        "y": -115686275102.22725,
+        "z": -1542132946740.14
+    },
+    "stargate_id": 50016547,
+    "system_id": 30020141,
+    "type_id": 56317
+}

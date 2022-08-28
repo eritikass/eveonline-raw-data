@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000434,
+        "system_id": 30000772
+    },
+    "name": "Stargate (C-J6MT)",
+    "position": {
+        "x": -901465497600,
+        "y": 82084208640,
+        "z": 1148229427200
+    },
+    "stargate_id": 50000036,
+    "system_id": 30000770,
+    "type_id": 29633
+}

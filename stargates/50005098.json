@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005045,
+        "system_id": 30001842
+    },
+    "name": "Stargate (TG-Z23)",
+    "position": {
+        "x": 2007654359040,
+        "y": 393432883200,
+        "z": 1487363973120
+    },
+    "stargate_id": 50005098,
+    "system_id": 30001843,
+    "type_id": 29624
+}

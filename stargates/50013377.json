@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013437,
+        "system_id": 30004218
+    },
+    "name": "Stargate (SBEN-Q)",
+    "position": {
+        "x": -117747671040,
+        "y": 1175347200,
+        "z": -2675151298560
+    },
+    "stargate_id": 50013377,
+    "system_id": 30004217,
+    "type_id": 3875
+}

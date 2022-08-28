@@ -1,0 +1,69 @@
+{
+    "constellation_id": 20000639,
+    "name": "SVB-RE",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40277185
+            ],
+            "planet_id": 40277184
+        },
+        {
+            "moons": [
+                40277187
+            ],
+            "planet_id": 40277186
+        },
+        {
+            "planet_id": 40277188
+        },
+        {
+            "asteroid_belts": [
+                40277190
+            ],
+            "planet_id": 40277189
+        },
+        {
+            "moons": [
+                40277192
+            ],
+            "planet_id": 40277191
+        },
+        {
+            "planet_id": 40277193
+        },
+        {
+            "planet_id": 40277194
+        },
+        {
+            "asteroid_belts": [
+                40277196
+            ],
+            "moons": [
+                40277197
+            ],
+            "planet_id": 40277195
+        },
+        {
+            "asteroid_belts": [
+                40277199
+            ],
+            "moons": [
+                40277200
+            ],
+            "planet_id": 40277198
+        }
+    ],
+    "position": {
+        "x": -89477501954334130,
+        "y": 61108043042146820,
+        "z": 454326279272161500
+    },
+    "security_class": "H",
+    "security_status": -0.15251515805721283,
+    "star_id": 40277183,
+    "stargates": [
+        50011704
+    ],
+    "system_id": 30004377
+}

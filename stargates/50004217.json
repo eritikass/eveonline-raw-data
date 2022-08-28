@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004745,
+        "system_id": 30001296
+    },
+    "name": "Stargate (SBL5-R)",
+    "position": {
+        "x": -72438620160,
+        "y": 4441006080,
+        "z": 54462504960
+    },
+    "stargate_id": 50004217,
+    "system_id": 30001292,
+    "type_id": 16
+}

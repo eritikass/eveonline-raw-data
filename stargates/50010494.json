@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009165,
+        "system_id": 30003236
+    },
+    "name": "Stargate (QZ-DIZ)",
+    "position": {
+        "x": -13573581496320,
+        "y": 2387697623040,
+        "z": -6114078351360
+    },
+    "stargate_id": 50010494,
+    "system_id": 30003240,
+    "type_id": 3875
+}

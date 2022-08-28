@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008899,
+        "system_id": 30001718
+    },
+    "name": "Stargate (Paye)",
+    "position": {
+        "x": 74741391360,
+        "y": -2774016000,
+        "z": -1432209776640
+    },
+    "stargate_id": 50008376,
+    "system_id": 30001717,
+    "type_id": 29624
+}

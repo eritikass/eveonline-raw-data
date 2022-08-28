@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012888,
+        "system_id": 30004114
+    },
+    "name": "Stargate (Peyiri)",
+    "position": {
+        "x": -2321315635200,
+        "y": -211828285440,
+        "z": -1379520307200
+    },
+    "stargate_id": 50012976,
+    "system_id": 30004115,
+    "type_id": 29624
+}

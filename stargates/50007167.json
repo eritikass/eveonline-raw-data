@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005435,
+        "system_id": 30002390
+    },
+    "name": "Stargate (Heild)",
+    "position": {
+        "x": -6088446812160,
+        "y": -400623575040,
+        "z": 1684905615360
+    },
+    "stargate_id": 50007167,
+    "system_id": 30002391,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003326,
+        "system_id": 30000124
+    },
+    "name": "Stargate (Kylmabe)",
+    "position": {
+        "x": 447504752640,
+        "y": 63159951360,
+        "z": 729459302400
+    },
+    "stargate_id": 50000367,
+    "system_id": 30000119,
+    "type_id": 16
+}

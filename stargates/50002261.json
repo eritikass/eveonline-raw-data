@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001749,
+        "system_id": 30000544
+    },
+    "name": "Stargate (GM-50Y)",
+    "position": {
+        "x": -621084549120,
+        "y": 104678645760,
+        "z": 983864893440
+    },
+    "stargate_id": 50002261,
+    "system_id": 30000545,
+    "type_id": 29633
+}

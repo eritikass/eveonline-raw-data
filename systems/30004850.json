@@ -1,0 +1,36 @@
+{
+    "constellation_id": 20000709,
+    "name": "A-REKV",
+    "planets": [
+        {
+            "planet_id": 40307141
+        },
+        {
+            "planet_id": 40307142
+        },
+        {
+            "moons": [
+                40307146
+            ],
+            "planet_id": 40307144
+        },
+        {
+            "moons": [
+                40307149
+            ],
+            "planet_id": 40307147
+        }
+    ],
+    "position": {
+        "x": 61070848034336990,
+        "y": 18785700314057280,
+        "z": -298292063550184960
+    },
+    "security_class": "F1",
+    "security_status": -0.2941502332687378,
+    "star_id": 40307140,
+    "stargates": [
+        50012527
+    ],
+    "system_id": 30004850
+}

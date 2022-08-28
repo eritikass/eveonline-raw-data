@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004817,
+        "system_id": 30001101
+    },
+    "name": "Stargate (5-A0PX)",
+    "position": {
+        "x": 876139683840,
+        "y": 107493089280,
+        "z": 1455357665280
+    },
+    "stargate_id": 50004266,
+    "system_id": 30001100,
+    "type_id": 3875
+}

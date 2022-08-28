@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003489,
+        "system_id": 30002384
+    },
+    "name": "Stargate (Gulfonodi)",
+    "position": {
+        "x": 1143707688960,
+        "y": -183322583040,
+        "z": -2686392606720
+    },
+    "stargate_id": 50003397,
+    "system_id": 30002383,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006129,
+        "system_id": 30002831
+    },
+    "name": "Stargate (SH6X-F)",
+    "position": {
+        "x": 1775217254400,
+        "y": -59478958080,
+        "z": -904653496320
+    },
+    "stargate_id": 50000846,
+    "system_id": 30002827,
+    "type_id": 3875
+}

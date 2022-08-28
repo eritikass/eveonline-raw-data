@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013128,
+        "system_id": 30004912
+    },
+    "name": "Stargate (K-1OY3)",
+    "position": {
+        "x": -150343065600,
+        "y": 333619200,
+        "z": 424801935360
+    },
+    "stargate_id": 50013359,
+    "system_id": 30004916,
+    "type_id": 29633
+}

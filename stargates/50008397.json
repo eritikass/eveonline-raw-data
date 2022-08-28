@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008646,
+        "system_id": 30003950
+    },
+    "name": "Stargate (K7D-II)",
+    "position": {
+        "x": 3822072668160,
+        "y": 288159375360,
+        "z": -2169664512000
+    },
+    "stargate_id": 50008397,
+    "system_id": 30003949,
+    "type_id": 29624
+}

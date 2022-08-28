@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013130,
+        "system_id": 30004153
+    },
+    "name": "Stargate (Minin)",
+    "position": {
+        "x": -1412793999360,
+        "y": 78811176960,
+        "z": -103832985600
+    },
+    "stargate_id": 50012569,
+    "system_id": 30004151,
+    "type_id": 29624
+}

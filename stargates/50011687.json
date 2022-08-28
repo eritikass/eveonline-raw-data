@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011449,
+        "system_id": 30004680
+    },
+    "name": "Stargate (LUL-WX)",
+    "position": {
+        "x": 1144962785280,
+        "y": 228358840320,
+        "z": -6081205985280
+    },
+    "stargate_id": 50011687,
+    "system_id": 30004681,
+    "type_id": 29624
+}

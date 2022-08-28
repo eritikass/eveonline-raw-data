@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000187,
+        "system_id": 30004079
+    },
+    "name": "Stargate (Aphend)",
+    "position": {
+        "x": 1299304488960,
+        "y": 85985648640,
+        "z": 58876600320
+    },
+    "stargate_id": 50000700,
+    "system_id": 30004080,
+    "type_id": 29624
+}

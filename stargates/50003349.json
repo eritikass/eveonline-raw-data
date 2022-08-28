@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003506,
+        "system_id": 30000841
+    },
+    "name": "Stargate (N7-KGJ)",
+    "position": {
+        "x": 169204899840,
+        "y": -34123407360,
+        "z": 125515653120
+    },
+    "stargate_id": 50003349,
+    "system_id": 30000840,
+    "type_id": 29633
+}

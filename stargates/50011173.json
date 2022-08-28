@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010518,
+        "system_id": 30005178
+    },
+    "name": "Stargate (PFV-ZH)",
+    "position": {
+        "x": -1415895982080,
+        "y": 5015245578240,
+        "z": 2943484846080
+    },
+    "stargate_id": 50011173,
+    "system_id": 30001796,
+    "type_id": 29632
+}

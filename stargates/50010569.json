@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008553,
+        "system_id": 30005061
+    },
+    "name": "Stargate (Perbhe)",
+    "position": {
+        "x": 587852144640,
+        "y": -1007460311040,
+        "z": 1700961116160
+    },
+    "stargate_id": 50010569,
+    "system_id": 30005068,
+    "type_id": 17
+}

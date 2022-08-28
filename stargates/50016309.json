@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016310,
+        "system_id": 30045326
+    },
+    "name": "Stargate (Uuhulanen)",
+    "position": {
+        "x": -296094720000,
+        "y": -45096960,
+        "z": 2155511439360
+    },
+    "stargate_id": 50016309,
+    "system_id": 30045322,
+    "type_id": 16
+}

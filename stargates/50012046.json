@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011311,
+        "system_id": 30001254
+    },
+    "name": "Stargate (CNC-4V)",
+    "position": {
+        "x": 198658498560,
+        "y": -627302400,
+        "z": 128731668480
+    },
+    "stargate_id": 50012046,
+    "system_id": 30001256,
+    "type_id": 29624
+}

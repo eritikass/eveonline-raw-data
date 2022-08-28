@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013297,
+        "system_id": 30001212
+    },
+    "name": "Stargate (3-SFWG)",
+    "position": {
+        "x": 44005908480,
+        "y": -8430428160,
+        "z": -2224247808000
+    },
+    "stargate_id": 50009714,
+    "system_id": 30001210,
+    "type_id": 29624
+}

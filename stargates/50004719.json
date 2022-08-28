@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004302,
+        "system_id": 30002533
+    },
+    "name": "Stargate (Gerbold)",
+    "position": {
+        "x": 546812928000,
+        "y": 4820621352960,
+        "z": -1767609016320
+    },
+    "stargate_id": 50004719,
+    "system_id": 30002549,
+    "type_id": 3877
+}

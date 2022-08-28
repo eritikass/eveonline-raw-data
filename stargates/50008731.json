@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008865,
+        "system_id": 30004497
+    },
+    "name": "Stargate (P-NUWP)",
+    "position": {
+        "x": 1379700695040,
+        "y": 150022840320,
+        "z": -2485003837440
+    },
+    "stargate_id": 50008731,
+    "system_id": 30004493,
+    "type_id": 3875
+}

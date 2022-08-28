@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005815,
+        "system_id": 30002234
+    },
+    "name": "Stargate (Nifshed)",
+    "position": {
+        "x": -428724756480,
+        "y": -2444344811520,
+        "z": 1442473697280
+    },
+    "stargate_id": 50006089,
+    "system_id": 30002251,
+    "type_id": 17
+}

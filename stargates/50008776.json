@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008408,
+        "system_id": 30004325
+    },
+    "name": "Stargate (HB7R-F)",
+    "position": {
+        "x": -225340661760,
+        "y": 36547338240,
+        "z": -160135127040
+    },
+    "stargate_id": 50008776,
+    "system_id": 30004326,
+    "type_id": 16
+}

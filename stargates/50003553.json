@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004402,
+        "system_id": 30000437
+    },
+    "name": "Stargate (EU9-J3)",
+    "position": {
+        "x": -354885427200,
+        "y": -19683778560,
+        "z": -3573966397440
+    },
+    "stargate_id": 50003553,
+    "system_id": 30000436,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007276,
+        "system_id": 30000135
+    },
+    "name": "Stargate (Outuni)",
+    "position": {
+        "x": -7430430720,
+        "y": -940400640,
+        "z": 222861680640
+    },
+    "stargate_id": 50009975,
+    "system_id": 30000137,
+    "type_id": 16
+}

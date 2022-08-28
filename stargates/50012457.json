@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012326,
+        "system_id": 30001816
+    },
+    "name": "Stargate (UNV-3J)",
+    "position": {
+        "x": -1884441354240,
+        "y": 6360205516800,
+        "z": 1199297126400
+    },
+    "stargate_id": 50012457,
+    "system_id": 30001818,
+    "type_id": 3874
+}

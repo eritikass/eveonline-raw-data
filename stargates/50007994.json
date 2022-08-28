@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008571,
+        "system_id": 30002475
+    },
+    "name": "Stargate (EOA-ZC)",
+    "position": {
+        "x": -404512727040,
+        "y": -33083351040,
+        "z": 168645304320
+    },
+    "stargate_id": 50007994,
+    "system_id": 30002474,
+    "type_id": 16
+}

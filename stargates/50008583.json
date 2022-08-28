@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007560,
+        "system_id": 30002628
+    },
+    "name": "Stargate (FG-1GH)",
+    "position": {
+        "x": -5254163128320,
+        "y": -223424225280,
+        "z": -69514567680
+    },
+    "stargate_id": 50008583,
+    "system_id": 30002629,
+    "type_id": 29633
+}

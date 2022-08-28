@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010577,
+        "system_id": 30003054
+    },
+    "name": "Stargate (Scuelazyns)",
+    "position": {
+        "x": -309652070400,
+        "y": 60767232000,
+        "z": 2216062279680
+    },
+    "stargate_id": 50007000,
+    "system_id": 30003047,
+    "type_id": 3875
+}

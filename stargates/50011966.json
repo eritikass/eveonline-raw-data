@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011599,
+        "system_id": 30001927
+    },
+    "name": "Stargate (U6-FCE)",
+    "position": {
+        "x": -2687082946560,
+        "y": 241014005760,
+        "z": -6211422412800
+    },
+    "stargate_id": 50011966,
+    "system_id": 30001930,
+    "type_id": 29624
+}

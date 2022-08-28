@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004805,
+        "system_id": 30002635
+    },
+    "name": "Stargate (Decon)",
+    "position": {
+        "x": 7194338304000,
+        "y": -1224235868160,
+        "z": 14310886563840
+    },
+    "stargate_id": 50005958,
+    "system_id": 30002638,
+    "type_id": 3875
+}

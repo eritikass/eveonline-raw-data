@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006803,
+        "system_id": 30002462
+    },
+    "name": "Stargate (LU-HQS)",
+    "position": {
+        "x": 288997662720,
+        "y": 52103454720,
+        "z": -395208990720
+    },
+    "stargate_id": 50005975,
+    "system_id": 30002458,
+    "type_id": 16
+}

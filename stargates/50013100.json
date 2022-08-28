@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013273,
+        "system_id": 30004302
+    },
+    "name": "Stargate (Omigiav)",
+    "position": {
+        "x": 2677622169600,
+        "y": -367183257600,
+        "z": 2563444285440
+    },
+    "stargate_id": 50013100,
+    "system_id": 30004300,
+    "type_id": 29624
+}

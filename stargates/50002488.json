@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002204,
+        "system_id": 30003385
+    },
+    "name": "Stargate (Evuldgenzo)",
+    "position": {
+        "x": 3110283386880,
+        "y": 357078835200,
+        "z": -131507036160
+    },
+    "stargate_id": 50002488,
+    "system_id": 30003386,
+    "type_id": 29633
+}

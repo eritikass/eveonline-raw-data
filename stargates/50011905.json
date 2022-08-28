@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010692,
+        "system_id": 30000193
+    },
+    "name": "Stargate (Vouskiaho)",
+    "position": {
+        "x": 1896074649600,
+        "y": 2577133608960,
+        "z": -3304245780480
+    },
+    "stargate_id": 50011905,
+    "system_id": 30000201,
+    "type_id": 29627
+}

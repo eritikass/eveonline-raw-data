@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012666,
+        "system_id": 30004627
+    },
+    "name": "Stargate (YRNJ-8)",
+    "position": {
+        "x": -1339541053440,
+        "y": 98623856640,
+        "z": 2169281863680
+    },
+    "stargate_id": 50012268,
+    "system_id": 30004625,
+    "type_id": 3875
+}

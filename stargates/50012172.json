@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012528,
+        "system_id": 30004032
+    },
+    "name": "Stargate (F-NXLQ)",
+    "position": {
+        "x": 1411355320320,
+        "y": 178949283840,
+        "z": 157301268480
+    },
+    "stargate_id": 50012172,
+    "system_id": 30004031,
+    "type_id": 29624
+}

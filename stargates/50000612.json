@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000377,
+        "system_id": 30000846
+    },
+    "name": "Stargate (E-OGL4)",
+    "position": {
+        "x": -887882588160,
+        "y": -4185266380800,
+        "z": -2099873587200
+    },
+    "stargate_id": 50000612,
+    "system_id": 30000861,
+    "type_id": 29627
+}

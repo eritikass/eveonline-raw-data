@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010499,
+        "system_id": 30004139
+    },
+    "name": "Stargate (Sechmaren)",
+    "position": {
+        "x": -364544778240,
+        "y": 52790599680,
+        "z": -360953733120
+    },
+    "stargate_id": 50012203,
+    "system_id": 30004140,
+    "type_id": 29624
+}

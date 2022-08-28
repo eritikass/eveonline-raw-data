@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001612,
+        "system_id": 30002747
+    },
+    "name": "Stargate (Kakki)",
+    "position": {
+        "x": 68789821440,
+        "y": -11094712320,
+        "z": 118463569920
+    },
+    "stargate_id": 50000758,
+    "system_id": 30002745,
+    "type_id": 16
+}

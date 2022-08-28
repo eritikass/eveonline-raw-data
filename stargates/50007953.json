@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008076,
+        "system_id": 30004334
+    },
+    "name": "Stargate (OJ-A8M)",
+    "position": {
+        "x": 893277511680,
+        "y": -73927925760,
+        "z": -57154068480
+    },
+    "stargate_id": 50007953,
+    "system_id": 30004329,
+    "type_id": 16
+}

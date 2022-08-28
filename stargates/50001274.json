@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002247,
+        "system_id": 30002754
+    },
+    "name": "Stargate (Alikara)",
+    "position": {
+        "x": 2362592993280,
+        "y": -309974016000,
+        "z": 724898242560
+    },
+    "stargate_id": 50001274,
+    "system_id": 30001389,
+    "type_id": 29629
+}

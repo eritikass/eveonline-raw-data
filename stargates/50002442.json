@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005614,
+        "system_id": 30002800
+    },
+    "name": "Stargate (Haatomo)",
+    "position": {
+        "x": 2532655718400,
+        "y": -1931449835520,
+        "z": 477123256320
+    },
+    "stargate_id": 50002442,
+    "system_id": 30002768,
+    "type_id": 29627
+}

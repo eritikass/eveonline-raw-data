@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011630,
+        "system_id": 30004181
+    },
+    "name": "Stargate (E-BYOS)",
+    "position": {
+        "x": 1345793433600,
+        "y": 74550927360,
+        "z": 2496279306240
+    },
+    "stargate_id": 50011026,
+    "system_id": 30004178,
+    "type_id": 3875
+}

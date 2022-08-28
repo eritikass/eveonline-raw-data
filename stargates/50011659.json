@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012551,
+        "system_id": 30003592
+    },
+    "name": "Stargate (Lazer)",
+    "position": {
+        "x": -378513285120,
+        "y": 14699520000,
+        "z": 376157184000
+    },
+    "stargate_id": 50011659,
+    "system_id": 30003590,
+    "type_id": 3875
+}

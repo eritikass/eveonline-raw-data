@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010116,
+        "system_id": 30004519
+    },
+    "name": "Stargate (MT-2VJ)",
+    "position": {
+        "x": -531520512000,
+        "y": 52751032320,
+        "z": -131869040640
+    },
+    "stargate_id": 50010008,
+    "system_id": 30004516,
+    "type_id": 3875
+}

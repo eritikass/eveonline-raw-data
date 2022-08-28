@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001743,
+        "system_id": 30000132
+    },
+    "name": "Stargate (Ansila)",
+    "position": {
+        "x": -2586886103040,
+        "y": -75413299200,
+        "z": 1726445445120
+    },
+    "stargate_id": 50001774,
+    "system_id": 30000133,
+    "type_id": 16
+}

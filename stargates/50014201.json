@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014202,
+        "system_id": 30041672
+    },
+    "name": "Stargate (Seitam)",
+    "position": {
+        "x": -2302590197760,
+        "y": -118887505920,
+        "z": 473178316800
+    },
+    "stargate_id": 50014201,
+    "system_id": 30001734,
+    "type_id": 29624
+}

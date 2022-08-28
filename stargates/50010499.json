@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012203,
+        "system_id": 30004140
+    },
+    "name": "Stargate (Zinoo)",
+    "position": {
+        "x": 2390347161600,
+        "y": 233341132800,
+        "z": 339493724160
+    },
+    "stargate_id": 50010499,
+    "system_id": 30004139,
+    "type_id": 29624
+}

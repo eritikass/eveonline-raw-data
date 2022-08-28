@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016355,
+        "system_id": 30045352
+    },
+    "name": "Stargate (Nisuwa)",
+    "position": {
+        "x": -6247484252160,
+        "y": -24729722880,
+        "z": -6500993064960
+    },
+    "stargate_id": 50016356,
+    "system_id": 30045346,
+    "type_id": 16
+}

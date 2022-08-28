@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001634,
+        "system_id": 30002292
+    },
+    "name": "Stargate (Z-DRIY)",
+    "position": {
+        "x": -1019781120,
+        "y": -27402240,
+        "z": -154684907520
+    },
+    "stargate_id": 50001977,
+    "system_id": 30002293,
+    "type_id": 3875
+}

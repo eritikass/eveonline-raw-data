@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001959,
+        "system_id": 30002713
+    },
+    "name": "Stargate (Abenync)",
+    "position": {
+        "x": 2374000435200,
+        "y": -2801436303360,
+        "z": -3240793006080
+    },
+    "stargate_id": 50000144,
+    "system_id": 30002706,
+    "type_id": 3874
+}

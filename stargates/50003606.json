@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003685,
+        "system_id": 30000551
+    },
+    "name": "Stargate (ZH-GKG)",
+    "position": {
+        "x": -1901663723520,
+        "y": 67689799680,
+        "z": 6619424317440
+    },
+    "stargate_id": 50003606,
+    "system_id": 30000550,
+    "type_id": 29633
+}

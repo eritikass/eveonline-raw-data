@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008295,
+        "system_id": 30003612
+    },
+    "name": "Stargate (EOY-BG)",
+    "position": {
+        "x": 137884753920,
+        "y": -26412933120,
+        "z": -1550724341760
+    },
+    "stargate_id": 50008268,
+    "system_id": 30003611,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012334,
+        "system_id": 30004201
+    },
+    "name": "Stargate (9-WEMC)",
+    "position": {
+        "x": -3384434810880,
+        "y": -264212520960,
+        "z": -2124155412480
+    },
+    "stargate_id": 50012686,
+    "system_id": 30004208,
+    "type_id": 3874
+}

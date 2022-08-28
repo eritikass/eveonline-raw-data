@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011795,
+        "system_id": 30004466
+    },
+    "name": "Stargate (3-BADZ)",
+    "position": {
+        "x": 3269898117120,
+        "y": -627100753920,
+        "z": 1047681638400
+    },
+    "stargate_id": 50011747,
+    "system_id": 30004465,
+    "type_id": 29633
+}

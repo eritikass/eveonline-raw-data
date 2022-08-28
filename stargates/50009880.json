@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010539,
+        "system_id": 30002924
+    },
+    "name": "Stargate (85-B52)",
+    "position": {
+        "x": -3444942888960,
+        "y": 356604272640,
+        "z": -5698796052480
+    },
+    "stargate_id": 50009880,
+    "system_id": 30002922,
+    "type_id": 16
+}

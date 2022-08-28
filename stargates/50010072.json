@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010012,
+        "system_id": 30003850
+    },
+    "name": "Stargate (Alparena)",
+    "position": {
+        "x": -217971793920,
+        "y": -13626286080,
+        "z": 621491527680
+    },
+    "stargate_id": 50010072,
+    "system_id": 30003851,
+    "type_id": 3875
+}

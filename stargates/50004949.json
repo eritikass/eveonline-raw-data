@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003493,
+        "system_id": 30000965
+    },
+    "name": "Stargate (UNJ-GX)",
+    "position": {
+        "x": -2738796503040,
+        "y": -20051927040,
+        "z": -1884201246720
+    },
+    "stargate_id": 50004949,
+    "system_id": 30000968,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006864,
+        "system_id": 30003876
+    },
+    "name": "Stargate (Molea)",
+    "position": {
+        "x": -273343242240,
+        "y": 924880773120,
+        "z": 1459898818560
+    },
+    "stargate_id": 50006791,
+    "system_id": 30005043,
+    "type_id": 29626
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002181,
+        "system_id": 30000599
+    },
+    "name": "Stargate (LKZ-CY)",
+    "position": {
+        "x": -2690638356480,
+        "y": -74574274560,
+        "z": 580577402880
+    },
+    "stargate_id": 50002665,
+    "system_id": 30000600,
+    "type_id": 29633
+}

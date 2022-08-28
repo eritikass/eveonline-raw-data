@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013443,
+        "system_id": 30002047
+    },
+    "name": "Stargate (UI-8ZE)",
+    "position": {
+        "x": -1173829509120,
+        "y": -144543866880,
+        "z": 3980056289280
+    },
+    "stargate_id": 50012768,
+    "system_id": 30002045,
+    "type_id": 16
+}

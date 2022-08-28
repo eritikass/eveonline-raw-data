@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012646,
+        "system_id": 30004033
+    },
+    "name": "Stargate (ES-Q0W)",
+    "position": {
+        "x": -9433362554880,
+        "y": 44517826560,
+        "z": 3599607767040
+    },
+    "stargate_id": 50012529,
+    "system_id": 30004032,
+    "type_id": 29624
+}

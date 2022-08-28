@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016398,
+        "system_id": 30003840
+    },
+    "name": "Stargate (Anchauttes)",
+    "position": {
+        "x": 494335549440,
+        "y": 1834051215360,
+        "z": 161876582400
+    },
+    "stargate_id": 50016399,
+    "system_id": 30003857,
+    "type_id": 3874
+}

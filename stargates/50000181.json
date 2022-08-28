@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004576,
+        "system_id": 30003509
+    },
+    "name": "Stargate (Gosalav)",
+    "position": {
+        "x": -9099238072320,
+        "y": 4608249569280,
+        "z": 7460336148480
+    },
+    "stargate_id": 50000181,
+    "system_id": 30003500,
+    "type_id": 17
+}

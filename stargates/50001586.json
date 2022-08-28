@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000627,
+        "system_id": 30000553
+    },
+    "name": "Stargate (GGE-5Q)",
+    "position": {
+        "x": 1420925706240,
+        "y": 395566080000,
+        "z": 2399533424640
+    },
+    "stargate_id": 50001586,
+    "system_id": 30000562,
+    "type_id": 3877
+}

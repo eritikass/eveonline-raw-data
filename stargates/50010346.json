@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011947,
+        "system_id": 30005278
+    },
+    "name": "Stargate (Seshi)",
+    "position": {
+        "x": -1332841635840,
+        "y": -132992163840,
+        "z": 721553694720
+    },
+    "stargate_id": 50010346,
+    "system_id": 30005276,
+    "type_id": 29624
+}

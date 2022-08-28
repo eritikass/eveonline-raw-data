@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009072,
+        "system_id": 30002540
+    },
+    "name": "Stargate (Lantorn)",
+    "position": {
+        "x": -2675837214720,
+        "y": -437404999680,
+        "z": -60080332800
+    },
+    "stargate_id": 50009559,
+    "system_id": 30002541,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004560,
+        "system_id": 30000159
+    },
+    "name": "Stargate (Ikami)",
+    "position": {
+        "x": -245162434560,
+        "y": -24554741760,
+        "z": 84965007360
+    },
+    "stargate_id": 50004742,
+    "system_id": 30000161,
+    "type_id": 16
+}

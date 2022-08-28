@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003178,
+        "system_id": 30002983
+    },
+    "name": "Stargate (Soosat)",
+    "position": {
+        "x": -303432376320,
+        "y": 56308654080,
+        "z": 175663964160
+    },
+    "stargate_id": 50003128,
+    "system_id": 30002982,
+    "type_id": 29624
+}

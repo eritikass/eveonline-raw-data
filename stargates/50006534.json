@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007271,
+        "system_id": 30002161
+    },
+    "name": "Stargate (LBA-SO)",
+    "position": {
+        "x": 331450490880,
+        "y": 54006865920,
+        "z": 2689868144640
+    },
+    "stargate_id": 50006534,
+    "system_id": 30002160,
+    "type_id": 29633
+}

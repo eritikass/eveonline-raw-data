@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003020,
+        "system_id": 30000219
+    },
+    "name": "Stargate (FS-RFL)",
+    "position": {
+        "x": 1803379138560,
+        "y": -328439193600,
+        "z": -2231112867840
+    },
+    "stargate_id": 50000553,
+    "system_id": 30000216,
+    "type_id": 16
+}

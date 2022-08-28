@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003219,
+        "system_id": 30001046
+    },
+    "name": "Stargate (Jorund)",
+    "position": {
+        "x": -568225259520,
+        "y": -10076037120,
+        "z": 1659799756800
+    },
+    "stargate_id": 50002706,
+    "system_id": 30001044,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011204,
+        "system_id": 30003060
+    },
+    "name": "Stargate (Mannar)",
+    "position": {
+        "x": 3794574090240,
+        "y": 130005442560,
+        "z": 4298145669120
+    },
+    "stargate_id": 50012708,
+    "system_id": 30003061,
+    "type_id": 3875
+}

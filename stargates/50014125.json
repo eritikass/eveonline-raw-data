@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014126,
+        "system_id": 30023489
+    },
+    "name": "Stargate (Fora)",
+    "position": {
+        "x": 255439872000,
+        "y": 50201518080,
+        "z": 23656980480
+    },
+    "stargate_id": 50014125,
+    "system_id": 30002281,
+    "type_id": 29624
+}

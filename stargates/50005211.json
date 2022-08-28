@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000937,
+        "system_id": 30003507
+    },
+    "name": "Stargate (Teshi)",
+    "position": {
+        "x": -2019606896640,
+        "y": -225820876800,
+        "z": 2129815511040
+    },
+    "stargate_id": 50005211,
+    "system_id": 30003510,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007308,
+        "system_id": 30003752
+    },
+    "name": "Stargate (H-GKI6)",
+    "position": {
+        "x": -2112619438080,
+        "y": 95456747520,
+        "z": 941578444800
+    },
+    "stargate_id": 50005675,
+    "system_id": 30003749,
+    "type_id": 29624
+}

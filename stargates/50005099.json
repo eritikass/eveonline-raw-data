@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005076,
+        "system_id": 30001302
+    },
+    "name": "Stargate (N0C-UN)",
+    "position": {
+        "x": 861844807680,
+        "y": -148885708800,
+        "z": -698147020800
+    },
+    "stargate_id": 50005099,
+    "system_id": 30001303,
+    "type_id": 16
+}

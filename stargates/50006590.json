@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008111,
+        "system_id": 30000177
+    },
+    "name": "Stargate (Ukkalen)",
+    "position": {
+        "x": 1778470379520,
+        "y": 332380446720,
+        "z": 2171828920320
+    },
+    "stargate_id": 50006590,
+    "system_id": 30000176,
+    "type_id": 16
+}

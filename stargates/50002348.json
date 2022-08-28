@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008770,
+        "system_id": 30004113
+    },
+    "name": "Stargate (Miah)",
+    "position": {
+        "x": -1009903656960,
+        "y": -2407174103040,
+        "z": 3086060298240
+    },
+    "stargate_id": 50002348,
+    "system_id": 30004083,
+    "type_id": 17
+}

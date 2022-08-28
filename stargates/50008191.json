@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007823,
+        "system_id": 30003825
+    },
+    "name": "Stargate (Eugales)",
+    "position": {
+        "x": 6179556433920,
+        "y": -1110825492480,
+        "z": -1143852441600
+    },
+    "stargate_id": 50008191,
+    "system_id": 30003827,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003045,
+        "system_id": 30002200
+    },
+    "name": "Stargate (Sukirah)",
+    "position": {
+        "x": 176560988160,
+        "y": 26256384000,
+        "z": 22561136640
+    },
+    "stargate_id": 50002842,
+    "system_id": 30002199,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007901,
+        "system_id": 30003057
+    },
+    "name": "Stargate (Groothese)",
+    "position": {
+        "x": -365521428480,
+        "y": -5111520092160,
+        "z": -2720571432960
+    },
+    "stargate_id": 50006653,
+    "system_id": 30003044,
+    "type_id": 3874
+}

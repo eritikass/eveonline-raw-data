@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008785,
+        "system_id": 30002249
+    },
+    "name": "Stargate (Ruchy)",
+    "position": {
+        "x": -1754456924160,
+        "y": -125360087040,
+        "z": 271773573120
+    },
+    "stargate_id": 50008595,
+    "system_id": 30002246,
+    "type_id": 29624
+}

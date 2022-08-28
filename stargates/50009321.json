@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009597,
+        "system_id": 30003996
+    },
+    "name": "Stargate (ZAU-JW)",
+    "position": {
+        "x": 851719987200,
+        "y": -7235843973120,
+        "z": 4201934315520
+    },
+    "stargate_id": 50009321,
+    "system_id": 30003982,
+    "type_id": 17
+}

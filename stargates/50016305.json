@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016306,
+        "system_id": 30045325
+    },
+    "name": "Stargate (Rohamaa)",
+    "position": {
+        "x": -1573582725120,
+        "y": -6599516160,
+        "z": -3404812984320
+    },
+    "stargate_id": 50016305,
+    "system_id": 30045321,
+    "type_id": 16
+}

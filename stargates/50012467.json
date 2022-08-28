@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012874,
+        "system_id": 30004152
+    },
+    "name": "Stargate (Kooreng)",
+    "position": {
+        "x": -91156930560,
+        "y": 16265256960,
+        "z": -1679366184960
+    },
+    "stargate_id": 50012467,
+    "system_id": 30004150,
+    "type_id": 29624
+}

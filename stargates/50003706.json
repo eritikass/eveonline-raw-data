@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005764,
+        "system_id": 30002672
+    },
+    "name": "Stargate (Inghenges)",
+    "position": {
+        "x": 1626664673280,
+        "y": 165578711040,
+        "z": -3382881853440
+    },
+    "stargate_id": 50003706,
+    "system_id": 30002670,
+    "type_id": 3875
+}

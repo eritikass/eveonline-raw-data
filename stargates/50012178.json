@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012256,
+        "system_id": 30004199
+    },
+    "name": "Stargate (O-F4SN)",
+    "position": {
+        "x": -64042967040,
+        "y": -12819210240,
+        "z": -28620349440
+    },
+    "stargate_id": 50012178,
+    "system_id": 30004198,
+    "type_id": 3875
+}

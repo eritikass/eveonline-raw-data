@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007735,
+        "system_id": 30003274
+    },
+    "name": "Stargate (X-BV98)",
+    "position": {
+        "x": -2374426091520,
+        "y": -265996247040,
+        "z": 5793331322880
+    },
+    "stargate_id": 50006459,
+    "system_id": 30003271,
+    "type_id": 3875
+}

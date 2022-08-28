@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004883,
+        "system_id": 30001689
+    },
+    "name": "Stargate (Asesamy)",
+    "position": {
+        "x": 1308932628480,
+        "y": -106604421120,
+        "z": 5729032642560
+    },
+    "stargate_id": 50005533,
+    "system_id": 30001690,
+    "type_id": 29624
+}

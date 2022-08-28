@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013010,
+        "system_id": 30004295
+    },
+    "name": "Stargate (Keba)",
+    "position": {
+        "x": 1302795264000,
+        "y": -178497331200,
+        "z": 3094216581120
+    },
+    "stargate_id": 50012603,
+    "system_id": 30004290,
+    "type_id": 29624
+}

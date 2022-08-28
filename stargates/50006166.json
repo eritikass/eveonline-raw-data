@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005146,
+        "system_id": 30001663
+    },
+    "name": "Stargate (Gemodi)",
+    "position": {
+        "x": 200545935360,
+        "y": 37127823360,
+        "z": 483524567040
+    },
+    "stargate_id": 50006166,
+    "system_id": 30001664,
+    "type_id": 29624
+}

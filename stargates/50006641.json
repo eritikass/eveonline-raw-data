@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010277,
+        "system_id": 30001706
+    },
+    "name": "Stargate (Jinizu)",
+    "position": {
+        "x": -3868773212160,
+        "y": -617917440000,
+        "z": -1497230008320
+    },
+    "stargate_id": 50006641,
+    "system_id": 30001703,
+    "type_id": 29624
+}

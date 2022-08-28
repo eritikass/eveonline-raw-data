@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007508,
+        "system_id": 30001142
+    },
+    "name": "Stargate (RWML-A)",
+    "position": {
+        "x": -1393058979840,
+        "y": -281398272000,
+        "z": -638198046720
+    },
+    "stargate_id": 50005113,
+    "system_id": 30001140,
+    "type_id": 3875
+}

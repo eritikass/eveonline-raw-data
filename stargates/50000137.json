@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000455,
+        "system_id": 30002284
+    },
+    "name": "Stargate (9F-3CR)",
+    "position": {
+        "x": 1576088248320,
+        "y": 218389831680,
+        "z": 2683676958720
+    },
+    "stargate_id": 50000137,
+    "system_id": 30002283,
+    "type_id": 3875
+}

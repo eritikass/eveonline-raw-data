@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001566,
+        "system_id": 30000911
+    },
+    "name": "Stargate (UMDQ-6)",
+    "position": {
+        "x": -2051300106240,
+        "y": -188270469120,
+        "z": -1806032609280
+    },
+    "stargate_id": 50001387,
+    "system_id": 30000910,
+    "type_id": 29633
+}

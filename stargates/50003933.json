@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005118,
+        "system_id": 30003016
+    },
+    "name": "Stargate (Junsoraert)",
+    "position": {
+        "x": 2596583055360,
+        "y": -15403130880,
+        "z": -1800904826880
+    },
+    "stargate_id": 50003933,
+    "system_id": 30003012,
+    "type_id": 3875
+}

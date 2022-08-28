@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008675,
+        "system_id": 30003414
+    },
+    "name": "Stargate (Yrmori)",
+    "position": {
+        "x": -1140117381120,
+        "y": 2939207639040,
+        "z": 2296422113280
+    },
+    "stargate_id": 50009208,
+    "system_id": 30003459,
+    "type_id": 3877
+}

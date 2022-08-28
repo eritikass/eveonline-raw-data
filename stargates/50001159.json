@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000420,
+        "system_id": 30002685
+    },
+    "name": "Stargate (Dodenvale)",
+    "position": {
+        "x": 2789760983040,
+        "y": 66028216320,
+        "z": -1382548561920
+    },
+    "stargate_id": 50001159,
+    "system_id": 30002688,
+    "type_id": 3875
+}

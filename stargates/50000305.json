@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001237,
+        "system_id": 30001053
+    },
+    "name": "Stargate (8AB-Q4)",
+    "position": {
+        "x": -1422327767040,
+        "y": -180830822400,
+        "z": -1676119203840
+    },
+    "stargate_id": 50000305,
+    "system_id": 30001051,
+    "type_id": 3875
+}

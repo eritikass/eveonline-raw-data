@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006415,
+        "system_id": 30003411
+    },
+    "name": "Stargate (Arlek)",
+    "position": {
+        "x": 2873898885120,
+        "y": 501567283200,
+        "z": -5571214172160
+    },
+    "stargate_id": 50006662,
+    "system_id": 30003412,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007786,
+        "system_id": 30004835
+    },
+    "name": "Stargate (EQWO-Y)",
+    "position": {
+        "x": 314620354560,
+        "y": 39862394880,
+        "z": -226687426560
+    },
+    "stargate_id": 50007234,
+    "system_id": 30004834,
+    "type_id": 29633
+}

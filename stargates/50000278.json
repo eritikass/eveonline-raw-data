@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005545,
+        "system_id": 30000030
+    },
+    "name": "Stargate (Kasrasi)",
+    "position": {
+        "x": -1189651783680,
+        "y": -132767539200,
+        "z": 4615215636480
+    },
+    "stargate_id": 50000278,
+    "system_id": 30000023,
+    "type_id": 29624
+}

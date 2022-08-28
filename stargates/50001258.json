@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002678,
+        "system_id": 30002769
+    },
+    "name": "Stargate (Enderailen)",
+    "position": {
+        "x": 2489690972160,
+        "y": 429032448000,
+        "z": 2996107714560
+    },
+    "stargate_id": 50001258,
+    "system_id": 30002767,
+    "type_id": 16
+}

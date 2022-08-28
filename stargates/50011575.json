@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011505,
+        "system_id": 30004067
+    },
+    "name": "Stargate (5S-KNL)",
+    "position": {
+        "x": -365261660160,
+        "y": 3158630400,
+        "z": -257692262400
+    },
+    "stargate_id": 50011575,
+    "system_id": 30004068,
+    "type_id": 3875
+}

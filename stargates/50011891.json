@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011334,
+        "system_id": 30002173
+    },
+    "name": "Stargate (OP9L-F)",
+    "position": {
+        "x": 5565464125440,
+        "y": 873280512000,
+        "z": -554066288640
+    },
+    "stargate_id": 50011891,
+    "system_id": 30002176,
+    "type_id": 29633
+}

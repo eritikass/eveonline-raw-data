@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007397,
+        "system_id": 30003885
+    },
+    "name": "Stargate (Arzanni)",
+    "position": {
+        "x": 1196769239040,
+        "y": -170355793920,
+        "z": -787376087040
+    },
+    "stargate_id": 50007671,
+    "system_id": 30003886,
+    "type_id": 29624
+}

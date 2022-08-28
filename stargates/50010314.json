@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007302,
+        "system_id": 30001148
+    },
+    "name": "Stargate (FO9-FZ)",
+    "position": {
+        "x": 53808291840,
+        "y": -42393600,
+        "z": -19230351360
+    },
+    "stargate_id": 50010314,
+    "system_id": 30001150,
+    "type_id": 3875
+}

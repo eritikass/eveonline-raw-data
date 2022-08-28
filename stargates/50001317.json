@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000279,
+        "system_id": 30001153
+    },
+    "name": "Stargate (F9E-KX)",
+    "position": {
+        "x": -283637391360,
+        "y": 13528719360,
+        "z": 1278534574080
+    },
+    "stargate_id": 50001317,
+    "system_id": 30001158,
+    "type_id": 29624
+}

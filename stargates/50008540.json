@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012360,
+        "system_id": 30003823
+    },
+    "name": "Stargate (Kenninck)",
+    "position": {
+        "x": 87120076800,
+        "y": -14646435840,
+        "z": -637398343680
+    },
+    "stargate_id": 50008540,
+    "system_id": 30003821,
+    "type_id": 3875
+}

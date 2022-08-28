@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002256,
+        "system_id": 30001194
+    },
+    "name": "Stargate (WQH-4K)",
+    "position": {
+        "x": 3162527293440,
+        "y": -69735997440,
+        "z": -3038924759040
+    },
+    "stargate_id": 50001816,
+    "system_id": 30001168,
+    "type_id": 17
+}

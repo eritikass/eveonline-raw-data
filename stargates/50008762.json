@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008209,
+        "system_id": 30003088
+    },
+    "name": "Stargate (Oyonata)",
+    "position": {
+        "x": -1629593395200,
+        "y": -244063150080,
+        "z": -3342844846080
+    },
+    "stargate_id": 50008762,
+    "system_id": 30003089,
+    "type_id": 29624
+}

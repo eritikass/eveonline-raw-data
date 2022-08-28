@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006033,
+        "system_id": 30000134
+    },
+    "name": "Stargate (Hykkota)",
+    "position": {
+        "x": 4620928327680,
+        "y": -148520755200,
+        "z": 3146999439360
+    },
+    "stargate_id": 50009959,
+    "system_id": 30000136,
+    "type_id": 16
+}

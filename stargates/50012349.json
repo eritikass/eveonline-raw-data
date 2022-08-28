@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012683,
+        "system_id": 30003673
+    },
+    "name": "Stargate (T-K10W)",
+    "position": {
+        "x": -168758353920,
+        "y": -21552783360,
+        "z": -192665149440
+    },
+    "stargate_id": 50012349,
+    "system_id": 30003672,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009023,
+        "system_id": 30002127
+    },
+    "name": "Stargate (CJNF-J)",
+    "position": {
+        "x": 1427440066560,
+        "y": -268691742720,
+        "z": 2325737349120
+    },
+    "stargate_id": 50002137,
+    "system_id": 30002123,
+    "type_id": 29633
+}

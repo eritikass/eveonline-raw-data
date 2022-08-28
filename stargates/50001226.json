@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000849,
+        "system_id": 30001164
+    },
+    "name": "Stargate (KDF-GY)",
+    "position": {
+        "x": -484476887040,
+        "y": 11364556800,
+        "z": -2055940546560
+    },
+    "stargate_id": 50001226,
+    "system_id": 30001166,
+    "type_id": 29624
+}

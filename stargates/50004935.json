@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005353,
+        "system_id": 30004823
+    },
+    "name": "Stargate (M-4KDB)",
+    "position": {
+        "x": 3697681244160,
+        "y": 9489408000,
+        "z": -3722353090560
+    },
+    "stargate_id": 50004935,
+    "system_id": 30004822,
+    "type_id": 29633
+}

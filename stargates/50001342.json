@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001124,
+        "system_id": 30001069
+    },
+    "name": "Stargate (LH-PLU)",
+    "position": {
+        "x": 3469610803200,
+        "y": -993432084480,
+        "z": 686520606720
+    },
+    "stargate_id": 50001342,
+    "system_id": 30001079,
+    "type_id": 3874
+}

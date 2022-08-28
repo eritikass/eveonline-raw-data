@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011328,
+        "system_id": 30001448
+    },
+    "name": "Stargate (Hakonen)",
+    "position": {
+        "x": 299288616960,
+        "y": -10074808320,
+        "z": -130918195200
+    },
+    "stargate_id": 50010723,
+    "system_id": 30001447,
+    "type_id": 16
+}

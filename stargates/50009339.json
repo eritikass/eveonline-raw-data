@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007843,
+        "system_id": 30001248
+    },
+    "name": "Stargate (Q-U96U)",
+    "position": {
+        "x": 2255622512640,
+        "y": 366993776640,
+        "z": -1042314485760
+    },
+    "stargate_id": 50009339,
+    "system_id": 30001249,
+    "type_id": 29624
+}

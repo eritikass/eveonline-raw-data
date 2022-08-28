@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008071,
+        "system_id": 30002493
+    },
+    "name": "Stargate (LR-2XT)",
+    "position": {
+        "x": -1229959864320,
+        "y": 5134204723200,
+        "z": 425012551680
+    },
+    "stargate_id": 50004979,
+    "system_id": 30002432,
+    "type_id": 29627
+}

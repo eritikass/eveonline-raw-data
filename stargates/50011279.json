@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007138,
+        "system_id": 30005145
+    },
+    "name": "Stargate (7AH-SF)",
+    "position": {
+        "x": -454090629120,
+        "y": 75341537280,
+        "z": -1489682472960
+    },
+    "stargate_id": 50011279,
+    "system_id": 30005150,
+    "type_id": 3875
+}

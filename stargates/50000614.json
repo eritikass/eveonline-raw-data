@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002098,
+        "system_id": 30000866
+    },
+    "name": "Stargate (PNDN-V)",
+    "position": {
+        "x": -1176720138240,
+        "y": -79547473920,
+        "z": 129388830720
+    },
+    "stargate_id": 50000614,
+    "system_id": 30000861,
+    "type_id": 16
+}

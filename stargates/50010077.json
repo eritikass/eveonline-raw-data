@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010643,
+        "system_id": 30003232
+    },
+    "name": "Stargate (GK3-RX)",
+    "position": {
+        "x": 1259727052800,
+        "y": 200389877760,
+        "z": 542349434880
+    },
+    "stargate_id": 50010077,
+    "system_id": 30003230,
+    "type_id": 3875
+}

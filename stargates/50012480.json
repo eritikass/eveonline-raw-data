@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012877,
+        "system_id": 30004401
+    },
+    "name": "Stargate (CH9L-K)",
+    "position": {
+        "x": -4724826562560,
+        "y": 885097881600,
+        "z": -724218470400
+    },
+    "stargate_id": 50012480,
+    "system_id": 30004400,
+    "type_id": 16
+}

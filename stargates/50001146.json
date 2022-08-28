@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001933,
+        "system_id": 30000231
+    },
+    "name": "Stargate (YXIB-I)",
+    "position": {
+        "x": -649561989120,
+        "y": -106043596800,
+        "z": 789850152960
+    },
+    "stargate_id": 50001146,
+    "system_id": 30000229,
+    "type_id": 16
+}

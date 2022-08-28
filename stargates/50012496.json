@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012669,
+        "system_id": 30004644
+    },
+    "name": "Stargate (V6-NY1)",
+    "position": {
+        "x": -1366669516800,
+        "y": 27895848960,
+        "z": 218218782720
+    },
+    "stargate_id": 50012496,
+    "system_id": 30004643,
+    "type_id": 3875
+}

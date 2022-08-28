@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008697,
+        "system_id": 30002911
+    },
+    "name": "Stargate (JU-OWQ)",
+    "position": {
+        "x": -1406248181760,
+        "y": -264630558720,
+        "z": -448531783680
+    },
+    "stargate_id": 50007374,
+    "system_id": 30002909,
+    "type_id": 16
+}

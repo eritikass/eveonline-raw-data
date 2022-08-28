@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003952,
+        "system_id": 30001984
+    },
+    "name": "Stargate (EC-P8R)",
+    "position": {
+        "x": 62385315840,
+        "y": 7405608960,
+        "z": -130810798080
+    },
+    "stargate_id": 50003968,
+    "system_id": 30001985,
+    "type_id": 16
+}

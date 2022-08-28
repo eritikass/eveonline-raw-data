@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009109,
+        "system_id": 30003023
+    },
+    "name": "Stargate (Gerper)",
+    "position": {
+        "x": 188790743040,
+        "y": 7042621440,
+        "z": -531833118720
+    },
+    "stargate_id": 50007470,
+    "system_id": 30003022,
+    "type_id": 3875
+}

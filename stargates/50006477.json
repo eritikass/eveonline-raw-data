@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005568,
+        "system_id": 30002994
+    },
+    "name": "Stargate (Hati)",
+    "position": {
+        "x": 274996715520,
+        "y": 5465188638720,
+        "z": -4025569075200
+    },
+    "stargate_id": 50006477,
+    "system_id": 30003080,
+    "type_id": 29626
+}

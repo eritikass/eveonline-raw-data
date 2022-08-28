@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010308,
+        "system_id": 30005019
+    },
+    "name": "Stargate (Aporulie)",
+    "position": {
+        "x": 2459172003840,
+        "y": 488443453440,
+        "z": -1177145057280
+    },
+    "stargate_id": 50010648,
+    "system_id": 30005020,
+    "type_id": 3875
+}

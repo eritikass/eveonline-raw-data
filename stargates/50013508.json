@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012807,
+        "system_id": 30003674
+    },
+    "name": "Stargate (P-UCRP)",
+    "position": {
+        "x": -2097784627200,
+        "y": -424088985600,
+        "z": -2643767255040
+    },
+    "stargate_id": 50013508,
+    "system_id": 30003675,
+    "type_id": 16
+}

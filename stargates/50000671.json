@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004242,
+        "system_id": 30002715
+    },
+    "name": "Stargate (Bourynes)",
+    "position": {
+        "x": -2228900782080,
+        "y": 38482206720,
+        "z": 992633610240
+    },
+    "stargate_id": 50000671,
+    "system_id": 30002712,
+    "type_id": 3875
+}

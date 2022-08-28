@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005718,
+        "system_id": 30000105
+    },
+    "name": "Stargate (Abha)",
+    "position": {
+        "x": -8542276116480,
+        "y": -1049225502720,
+        "z": 1683385835520
+    },
+    "stargate_id": 50002927,
+    "system_id": 30000101,
+    "type_id": 29624
+}

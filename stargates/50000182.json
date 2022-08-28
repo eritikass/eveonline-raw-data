@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001105,
+        "system_id": 30003382
+    },
+    "name": "Stargate (Flost)",
+    "position": {
+        "x": 1132578201600,
+        "y": 8465326080,
+        "z": -330085048320
+    },
+    "stargate_id": 50000182,
+    "system_id": 30003381,
+    "type_id": 29633
+}

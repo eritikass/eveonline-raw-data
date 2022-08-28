@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011742,
+        "system_id": 30004459
+    },
+    "name": "Stargate (YHP2-D)",
+    "position": {
+        "x": 1339592171520,
+        "y": -163224084480,
+        "z": -1249959075840
+    },
+    "stargate_id": 50011477,
+    "system_id": 30004457,
+    "type_id": 3877
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012948,
+        "system_id": 30004948
+    },
+    "name": "Stargate (E-DOF2)",
+    "position": {
+        "x": 164011253760,
+        "y": -11913584640,
+        "z": 342000230400
+    },
+    "stargate_id": 50013013,
+    "system_id": 30004949,
+    "type_id": 29624
+}

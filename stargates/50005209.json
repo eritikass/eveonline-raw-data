@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005125,
+        "system_id": 30002527
+    },
+    "name": "Stargate (Illinfrik)",
+    "position": {
+        "x": -1552766115840,
+        "y": -39072768000,
+        "z": -3675629690880
+    },
+    "stargate_id": 50005209,
+    "system_id": 30002528,
+    "type_id": 29633
+}

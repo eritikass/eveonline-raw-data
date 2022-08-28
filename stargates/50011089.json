@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011509,
+        "system_id": 30004742
+    },
+    "name": "Stargate (RCI-VL)",
+    "position": {
+        "x": -1153683578880,
+        "y": -141340876800,
+        "z": 4556360048640
+    },
+    "stargate_id": 50011089,
+    "system_id": 30004740,
+    "type_id": 29624
+}

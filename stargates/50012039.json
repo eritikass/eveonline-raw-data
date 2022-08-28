@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012017,
+        "system_id": 30004609
+    },
+    "name": "Stargate (NDH-NV)",
+    "position": {
+        "x": 2541724999680,
+        "y": -184400240640,
+        "z": 1317859614720
+    },
+    "stargate_id": 50012039,
+    "system_id": 30004610,
+    "type_id": 3875
+}

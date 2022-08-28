@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000867,
+        "system_id": 30001387
+    },
+    "name": "Stargate (Isikano)",
+    "position": {
+        "x": 807310663680,
+        "y": 105653575680,
+        "z": 674328207360
+    },
+    "stargate_id": 50001273,
+    "system_id": 30001389,
+    "type_id": 16
+}

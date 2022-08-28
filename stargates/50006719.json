@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006690,
+        "system_id": 30003864
+    },
+    "name": "Stargate (Jachanu)",
+    "position": {
+        "x": 71649239040,
+        "y": 1885102080,
+        "z": 890597744640
+    },
+    "stargate_id": 50006719,
+    "system_id": 30003865,
+    "type_id": 29624
+}

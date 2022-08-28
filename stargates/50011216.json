@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012510,
+        "system_id": 30004389
+    },
+    "name": "Stargate (Q-4DEC)",
+    "position": {
+        "x": 793357393920,
+        "y": 52306698240,
+        "z": 1785452666880
+    },
+    "stargate_id": 50011216,
+    "system_id": 30004385,
+    "type_id": 16
+}

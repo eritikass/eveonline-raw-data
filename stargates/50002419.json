@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001802,
+        "system_id": 30002756
+    },
+    "name": "Stargate (Ishomilken)",
+    "position": {
+        "x": -88230666240,
+        "y": 4571996160,
+        "z": -458297057280
+    },
+    "stargate_id": 50002419,
+    "system_id": 30002757,
+    "type_id": 16
+}

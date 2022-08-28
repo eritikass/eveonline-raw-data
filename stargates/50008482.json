@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008038,
+        "system_id": 30005016
+    },
+    "name": "Stargate (Wysalan)",
+    "position": {
+        "x": 6253159342080,
+        "y": 1123801620480,
+        "z": -6709268275200
+    },
+    "stargate_id": 50008482,
+    "system_id": 30005017,
+    "type_id": 3875
+}

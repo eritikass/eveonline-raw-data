@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007836,
+        "system_id": 30002392
+    },
+    "name": "Stargate (Hrober)",
+    "position": {
+        "x": 11328430080,
+        "y": 754851840,
+        "z": 63389982720
+    },
+    "stargate_id": 50007168,
+    "system_id": 30002391,
+    "type_id": 29633
+}

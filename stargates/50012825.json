@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012813,
+        "system_id": 30004936
+    },
+    "name": "Stargate (VYO-68)",
+    "position": {
+        "x": -7500963840,
+        "y": 416440320,
+        "z": 222870773760
+    },
+    "stargate_id": 50012825,
+    "system_id": 30004937,
+    "type_id": 29624
+}

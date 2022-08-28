@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005992,
+        "system_id": 30000997
+    },
+    "name": "Stargate (UD-AOK)",
+    "position": {
+        "x": 487480811520,
+        "y": -19316367360,
+        "z": -1550742528000
+    },
+    "stargate_id": 50006582,
+    "system_id": 30000999,
+    "type_id": 29633
+}

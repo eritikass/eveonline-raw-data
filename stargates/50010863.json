@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013457,
+        "system_id": 30001919
+    },
+    "name": "Stargate (Z-R96X)",
+    "position": {
+        "x": -730430300160,
+        "y": 45922099200,
+        "z": 1956666777600
+    },
+    "stargate_id": 50010863,
+    "system_id": 30001911,
+    "type_id": 29624
+}

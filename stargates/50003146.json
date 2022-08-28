@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003249,
+        "system_id": 30001559
+    },
+    "name": "Stargate (Y8K-5B)",
+    "position": {
+        "x": 4829842268160,
+        "y": 30809825280,
+        "z": -925294387200
+    },
+    "stargate_id": 50003146,
+    "system_id": 30001558,
+    "type_id": 3875
+}

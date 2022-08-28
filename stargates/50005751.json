@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005532,
+        "system_id": 30002242
+    },
+    "name": "Stargate (Mamenkhanar)",
+    "position": {
+        "x": -44570664960,
+        "y": -7091773440,
+        "z": 9000591360
+    },
+    "stargate_id": 50005751,
+    "system_id": 30002243,
+    "type_id": 29624
+}

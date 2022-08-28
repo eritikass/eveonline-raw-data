@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003240,
+        "system_id": 30002714
+    },
+    "name": "Stargate (Pozirblant)",
+    "position": {
+        "x": 171375206400,
+        "y": 18811576320,
+        "z": 2688152739840
+    },
+    "stargate_id": 50004602,
+    "system_id": 30002716,
+    "type_id": 3875
+}

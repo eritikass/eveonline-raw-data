@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001988,
+        "system_id": 30000048
+    },
+    "name": "Stargate (Ihal)",
+    "position": {
+        "x": 4249072558080,
+        "y": 246718095360,
+        "z": -277591941120
+    },
+    "stargate_id": 50003164,
+    "system_id": 30000106,
+    "type_id": 17
+}

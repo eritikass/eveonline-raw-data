@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006685,
+        "system_id": 30002569
+    },
+    "name": "Stargate (Osaumuni)",
+    "position": {
+        "x": 2548712448000,
+        "y": -469459968000,
+        "z": -866604195840
+    },
+    "stargate_id": 50006410,
+    "system_id": 30002568,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014124,
+        "system_id": 30013489
+    },
+    "name": "Stargate (Deepari)",
+    "position": {
+        "x": -3275633172480,
+        "y": 95512535040,
+        "z": 1292864593920
+    },
+    "stargate_id": 50014123,
+    "system_id": 30003487,
+    "type_id": 29624
+}

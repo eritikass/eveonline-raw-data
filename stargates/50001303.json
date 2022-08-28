@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001420,
+        "system_id": 30000620
+    },
+    "name": "Stargate (M-CNUD)",
+    "position": {
+        "x": -778887290880,
+        "y": 50651258880,
+        "z": -266933821440
+    },
+    "stargate_id": 50001303,
+    "system_id": 30000619,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003418,
+        "system_id": 30001550
+    },
+    "name": "Stargate (K-BBYU)",
+    "position": {
+        "x": -4121485516800,
+        "y": 764788039680,
+        "z": -1454448107520
+    },
+    "stargate_id": 50005625,
+    "system_id": 30001552,
+    "type_id": 3875
+}

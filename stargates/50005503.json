@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006437,
+        "system_id": 30003728
+    },
+    "name": "Stargate (SI-I89)",
+    "position": {
+        "x": -140182364160,
+        "y": 3013140480,
+        "z": -13049733120
+    },
+    "stargate_id": 50005503,
+    "system_id": 30003727,
+    "type_id": 29624
+}

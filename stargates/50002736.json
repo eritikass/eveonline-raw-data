@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002597,
+        "system_id": 30002513
+    },
+    "name": "Stargate (Dammalin)",
+    "position": {
+        "x": 2671819038720,
+        "y": 158184284160,
+        "z": -328741724160
+    },
+    "stargate_id": 50002736,
+    "system_id": 30002514,
+    "type_id": 29633
+}

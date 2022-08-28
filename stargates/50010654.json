@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009825,
+        "system_id": 30002409
+    },
+    "name": "Stargate (Osvetur)",
+    "position": {
+        "x": -37697003520,
+        "y": -4914831360,
+        "z": -337486356480
+    },
+    "stargate_id": 50010654,
+    "system_id": 30002410,
+    "type_id": 29633
+}

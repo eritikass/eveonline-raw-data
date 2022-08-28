@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006578,
+        "system_id": 30001724
+    },
+    "name": "Stargate (Rumida)",
+    "position": {
+        "x": -2374916136960,
+        "y": 90212720640,
+        "z": -3216183582720
+    },
+    "stargate_id": 50006095,
+    "system_id": 30001723,
+    "type_id": 29624
+}

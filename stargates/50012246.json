@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009972,
+        "system_id": 30002008
+    },
+    "name": "Stargate (OE-9UF)",
+    "position": {
+        "x": 511169372160,
+        "y": -12690186240,
+        "z": 632592752640
+    },
+    "stargate_id": 50012246,
+    "system_id": 30002009,
+    "type_id": 16
+}

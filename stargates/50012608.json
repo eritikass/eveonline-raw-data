@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012960,
+        "system_id": 30001939
+    },
+    "name": "Stargate (W-Q233)",
+    "position": {
+        "x": 1414447226880,
+        "y": 234656440320,
+        "z": -536119173120
+    },
+    "stargate_id": 50012608,
+    "system_id": 30001938,
+    "type_id": 29624
+}

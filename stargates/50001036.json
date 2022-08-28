@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001059,
+        "system_id": 30000693
+    },
+    "name": "Stargate (U6K-RG)",
+    "position": {
+        "x": -3164959825920,
+        "y": 248324874240,
+        "z": -2193414512640
+    },
+    "stargate_id": 50001036,
+    "system_id": 30000692,
+    "type_id": 29633
+}

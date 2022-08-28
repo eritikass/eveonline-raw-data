@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006808,
+        "system_id": 30004104
+    },
+    "name": "Stargate (Ansasos)",
+    "position": {
+        "x": -1683568435200,
+        "y": -4899074334720,
+        "z": -227065651200
+    },
+    "stargate_id": 50006233,
+    "system_id": 30005227,
+    "type_id": 29626
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007151,
+        "system_id": 30005231
+    },
+    "name": "Stargate (Pashanai)",
+    "position": {
+        "x": 2065829683200,
+        "y": 231664558080,
+        "z": -14456954880
+    },
+    "stargate_id": 50007547,
+    "system_id": 30005233,
+    "type_id": 29624
+}

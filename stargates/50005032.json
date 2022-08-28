@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005071,
+        "system_id": 30001679
+    },
+    "name": "Stargate (Unkah)",
+    "position": {
+        "x": -1661490585600,
+        "y": -309117788160,
+        "z": -1496773877760
+    },
+    "stargate_id": 50005032,
+    "system_id": 30001678,
+    "type_id": 29624
+}

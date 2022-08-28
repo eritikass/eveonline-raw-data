@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006457,
+        "system_id": 30001860
+    },
+    "name": "Stargate (2IGP-1)",
+    "position": {
+        "x": 2131458908160,
+        "y": -355868467200,
+        "z": 2411594342400
+    },
+    "stargate_id": 50006627,
+    "system_id": 30001861,
+    "type_id": 29624
+}

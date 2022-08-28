@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008727,
+        "system_id": 30001714
+    },
+    "name": "Stargate (Ghishul)",
+    "position": {
+        "x": -2246296166400,
+        "y": 75009761280,
+        "z": -6222740152320
+    },
+    "stargate_id": 50006165,
+    "system_id": 30001710,
+    "type_id": 29624
+}

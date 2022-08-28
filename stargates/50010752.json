@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010900,
+        "system_id": 30004573
+    },
+    "name": "Stargate (5-D82P)",
+    "position": {
+        "x": -1053175111680,
+        "y": -2379192360960,
+        "z": 1134105600000
+    },
+    "stargate_id": 50010752,
+    "system_id": 30004557,
+    "type_id": 3874
+}

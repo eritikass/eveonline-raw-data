@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012420,
+        "system_id": 30004257
+    },
+    "name": "Stargate (Hakatiz)",
+    "position": {
+        "x": -254236139520,
+        "y": -15177768960,
+        "z": 275191357440
+    },
+    "stargate_id": 50011264,
+    "system_id": 30004254,
+    "type_id": 29624
+}

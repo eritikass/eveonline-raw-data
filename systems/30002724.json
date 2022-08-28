@@ -1,0 +1,69 @@
+{
+    "constellation_id": 20000399,
+    "name": "Assiettes",
+    "planets": [
+        {
+            "planet_id": 40173095
+        },
+        {
+            "asteroid_belts": [
+                40173097
+            ],
+            "planet_id": 40173096
+        },
+        {
+            "asteroid_belts": [
+                40173100
+            ],
+            "moons": [
+                40173099
+            ],
+            "planet_id": 40173098
+        },
+        {
+            "moons": [
+                40173102,
+                40173103,
+                40173104,
+                40173105
+            ],
+            "planet_id": 40173101
+        },
+        {
+            "asteroid_belts": [
+                40173107
+            ],
+            "moons": [
+                40173108
+            ],
+            "planet_id": 40173106
+        },
+        {
+            "asteroid_belts": [
+                40173110
+            ],
+            "moons": [
+                40173111,
+                40173112
+            ],
+            "planet_id": 40173109
+        }
+    ],
+    "position": {
+        "x": -209307336692244220,
+        "y": 50095513202314440,
+        "z": 12807465283082200
+    },
+    "security_class": "D1",
+    "security_status": 0.6425553560256958,
+    "star_id": 40173094,
+    "stargates": [
+        50007817,
+        50007818
+    ],
+    "stations": [
+        60012502,
+        60013303
+    ],
+    "system_id": 30002724
+}

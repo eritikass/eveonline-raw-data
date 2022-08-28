@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004777,
+        "system_id": 30003732
+    },
+    "name": "Stargate (E-YCML)",
+    "position": {
+        "x": 8042864640,
+        "y": -147087360,
+        "z": -387035750400
+    },
+    "stargate_id": 50004839,
+    "system_id": 30003733,
+    "type_id": 29624
+}

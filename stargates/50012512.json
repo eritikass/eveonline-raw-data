@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012693,
+        "system_id": 30004906
+    },
+    "name": "Stargate (PEM-LC)",
+    "position": {
+        "x": 429859921920,
+        "y": -7582556160,
+        "z": -1441856839680
+    },
+    "stargate_id": 50012512,
+    "system_id": 30004905,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009973,
+        "system_id": 30003843
+    },
+    "name": "Stargate (Avaux)",
+    "position": {
+        "x": 2214540779520,
+        "y": 733321420800,
+        "z": 3373241917440
+    },
+    "stargate_id": 50004908,
+    "system_id": 30005307,
+    "type_id": 29632
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008028,
+        "system_id": 30001118
+    },
+    "name": "Stargate (YM-SRU)",
+    "position": {
+        "x": -557012705280,
+        "y": -856596480,
+        "z": 795365990400
+    },
+    "stargate_id": 50011698,
+    "system_id": 30001125,
+    "type_id": 3875
+}

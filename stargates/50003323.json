@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004765,
+        "system_id": 30002451
+    },
+    "name": "Stargate (NQ-9IH)",
+    "position": {
+        "x": -4020641095680,
+        "y": -1930646200320,
+        "z": 1627302912000
+    },
+    "stargate_id": 50003323,
+    "system_id": 30002422,
+    "type_id": 29627
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004922,
+        "system_id": 30001981
+    },
+    "name": "Stargate (CL6-ZG)",
+    "position": {
+        "x": -940972646400,
+        "y": -148133928960,
+        "z": -298673971200
+    },
+    "stargate_id": 50004631,
+    "system_id": 30001979,
+    "type_id": 16
+}

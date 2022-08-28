@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005139,
+        "system_id": 30002448
+    },
+    "name": "Stargate (VSJ-PP)",
+    "position": {
+        "x": -691161292800,
+        "y": 17905459200,
+        "z": -1182103756800
+    },
+    "stargate_id": 50005153,
+    "system_id": 30002449,
+    "type_id": 16
+}

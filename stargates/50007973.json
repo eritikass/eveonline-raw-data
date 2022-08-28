@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008446,
+        "system_id": 30000164
+    },
+    "name": "Stargate (Messoya)",
+    "position": {
+        "x": 712148705280,
+        "y": 8573214720,
+        "z": -69914664960
+    },
+    "stargate_id": 50007973,
+    "system_id": 30000163,
+    "type_id": 16
+}

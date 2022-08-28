@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008045,
+        "system_id": 30003277
+    },
+    "name": "Stargate (PF-346)",
+    "position": {
+        "x": -1569872977920,
+        "y": 242815426560,
+        "z": 1747243130880
+    },
+    "stargate_id": 50007813,
+    "system_id": 30003276,
+    "type_id": 3875
+}

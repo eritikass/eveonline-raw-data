@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004832,
+        "system_id": 30003735
+    },
+    "name": "Stargate (PI5-39)",
+    "position": {
+        "x": 4839693803520,
+        "y": 1727394324480,
+        "z": -1668959723520
+    },
+    "stargate_id": 50004220,
+    "system_id": 30003714,
+    "type_id": 17
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001584,
+        "system_id": 30000809
+    },
+    "name": "Stargate (FN0-QS)",
+    "position": {
+        "x": -832977838080,
+        "y": -120441200640,
+        "z": 234416578560
+    },
+    "stargate_id": 50003875,
+    "system_id": 30000813,
+    "type_id": 29633
+}

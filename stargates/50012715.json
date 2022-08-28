@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012796,
+        "system_id": 30002943
+    },
+    "name": "Stargate (X3-PBC)",
+    "position": {
+        "x": -3848230379520,
+        "y": 613591572480,
+        "z": 1637519646720
+    },
+    "stargate_id": 50012715,
+    "system_id": 30002942,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007928,
+        "system_id": 30002083
+    },
+    "name": "Stargate (Uisper)",
+    "position": {
+        "x": 1069482516480,
+        "y": 128082124800,
+        "z": -1310924759040
+    },
+    "stargate_id": 50008563,
+    "system_id": 30002085,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001305,
+        "system_id": 30000580
+    },
+    "name": "Stargate (MN-Q26)",
+    "position": {
+        "x": 9324527738880,
+        "y": 1429315706880,
+        "z": 10450859827200
+    },
+    "stargate_id": 50001569,
+    "system_id": 30000582,
+    "type_id": 29633
+}

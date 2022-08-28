@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008992,
+        "system_id": 30003229
+    },
+    "name": "Stargate (RF-X7V)",
+    "position": {
+        "x": -4353877401600,
+        "y": 470793461760,
+        "z": -1780189470720
+    },
+    "stargate_id": 50011354,
+    "system_id": 30003233,
+    "type_id": 3875
+}

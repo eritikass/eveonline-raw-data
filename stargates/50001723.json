@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001926,
+        "system_id": 30001032
+    },
+    "name": "Stargate (M-N7WD)",
+    "position": {
+        "x": 3844241940480,
+        "y": 701922385920,
+        "z": 913749565440
+    },
+    "stargate_id": 50001723,
+    "system_id": 30001030,
+    "type_id": 29633
+}

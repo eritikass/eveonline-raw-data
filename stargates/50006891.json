@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001201,
+        "system_id": 30002753
+    },
+    "name": "Stargate (Aikoro)",
+    "position": {
+        "x": 2961142702080,
+        "y": -441232465920,
+        "z": -715045969920
+    },
+    "stargate_id": 50006891,
+    "system_id": 30001365,
+    "type_id": 29629
+}

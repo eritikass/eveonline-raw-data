@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002128,
+        "system_id": 30000074
+    },
+    "name": "Stargate (Hasateem)",
+    "position": {
+        "x": -904283381760,
+        "y": 31944007680,
+        "z": -583067688960
+    },
+    "stargate_id": 50000813,
+    "system_id": 30000070,
+    "type_id": 29624
+}

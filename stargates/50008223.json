@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009310,
+        "system_id": 30002034
+    },
+    "name": "Stargate (O-A6YN)",
+    "position": {
+        "x": -2058898022400,
+        "y": -202954874880,
+        "z": 256206151680
+    },
+    "stargate_id": 50008223,
+    "system_id": 30002033,
+    "type_id": 16
+}

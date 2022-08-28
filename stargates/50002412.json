@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001170,
+        "system_id": 30000697
+    },
+    "name": "Stargate (8Q-T7B)",
+    "position": {
+        "x": 3930702274560,
+        "y": 424439439360,
+        "z": 306754068480
+    },
+    "stargate_id": 50002412,
+    "system_id": 30000721,
+    "type_id": 3877
+}

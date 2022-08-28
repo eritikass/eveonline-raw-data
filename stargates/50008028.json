@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011698,
+        "system_id": 30001125
+    },
+    "name": "Stargate (P3X-TN)",
+    "position": {
+        "x": 271820267520,
+        "y": -7536844800,
+        "z": -157786398720
+    },
+    "stargate_id": 50008028,
+    "system_id": 30001118,
+    "type_id": 3875
+}

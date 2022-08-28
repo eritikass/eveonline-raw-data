@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003496,
+        "system_id": 30003393
+    },
+    "name": "Stargate (Eiluvodi)",
+    "position": {
+        "x": 2060455895040,
+        "y": -1556098129920,
+        "z": -1717464391680
+    },
+    "stargate_id": 50002146,
+    "system_id": 30003384,
+    "type_id": 3877
+}

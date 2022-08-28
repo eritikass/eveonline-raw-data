@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006659,
+        "system_id": 30002863
+    },
+    "name": "Stargate (HD-HOZ)",
+    "position": {
+        "x": 6072963686400,
+        "y": 777484492800,
+        "z": 4819667312640
+    },
+    "stargate_id": 50007365,
+    "system_id": 30002867,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004472,
+        "system_id": 30002795
+    },
+    "name": "Stargate (Oshaima)",
+    "position": {
+        "x": -1640857559040,
+        "y": 47025561600,
+        "z": 1887437414400
+    },
+    "stargate_id": 50006294,
+    "system_id": 30002799,
+    "type_id": 16
+}

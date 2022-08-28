@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010351,
+        "system_id": 30003363
+    },
+    "name": "Stargate (CIS-7X)",
+    "position": {
+        "x": -1359972065280,
+        "y": 224480501760,
+        "z": -4279497646080
+    },
+    "stargate_id": 50010800,
+    "system_id": 30003364,
+    "type_id": 3875
+}

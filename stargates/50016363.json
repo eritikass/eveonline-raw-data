@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016364,
+        "system_id": 30045349
+    },
+    "name": "Stargate (Rakapas)",
+    "position": {
+        "x": 111895142400,
+        "y": 15974277120,
+        "z": 635712184320
+    },
+    "stargate_id": 50016363,
+    "system_id": 30045353,
+    "type_id": 16
+}

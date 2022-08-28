@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007110,
+        "system_id": 30002657
+    },
+    "name": "Stargate (Aunia)",
+    "position": {
+        "x": -717423452160,
+        "y": -998645760,
+        "z": -1462322257920
+    },
+    "stargate_id": 50007009,
+    "system_id": 30002656,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005116,
+        "system_id": 30005317
+    },
+    "name": "Stargate (Ekuenbiron)",
+    "position": {
+        "x": -3006324940800,
+        "y": -502471925760,
+        "z": -5770702479360
+    },
+    "stargate_id": 50008214,
+    "system_id": 30005319,
+    "type_id": 3875
+}

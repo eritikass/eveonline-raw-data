@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012235,
+        "system_id": 30005081
+    },
+    "name": "Stargate (Piri)",
+    "position": {
+        "x": 192672522240,
+        "y": 4265970278400,
+        "z": -1121170759680
+    },
+    "stargate_id": 50012250,
+    "system_id": 30005082,
+    "type_id": 17
+}

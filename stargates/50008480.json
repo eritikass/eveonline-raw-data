@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008290,
+        "system_id": 30003327
+    },
+    "name": "Stargate (BMNV-P)",
+    "position": {
+        "x": 5164264857600,
+        "y": 1004864102400,
+        "z": -4877228728320
+    },
+    "stargate_id": 50008480,
+    "system_id": 30003331,
+    "type_id": 3875
+}

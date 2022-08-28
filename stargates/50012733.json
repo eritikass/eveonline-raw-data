@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011605,
+        "system_id": 30004767
+    },
+    "name": "Stargate (HZAQ-W)",
+    "position": {
+        "x": -1301222154240,
+        "y": -208143851520,
+        "z": 563264593920
+    },
+    "stargate_id": 50012733,
+    "system_id": 30004770,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011435,
+        "system_id": 30003145
+    },
+    "name": "Stargate (6-TYRX)",
+    "position": {
+        "x": -608142827520,
+        "y": 120448819200,
+        "z": 2914233753600
+    },
+    "stargate_id": 50011855,
+    "system_id": 30003146,
+    "type_id": 29624
+}

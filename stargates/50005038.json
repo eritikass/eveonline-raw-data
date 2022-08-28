@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004912,
+        "system_id": 30002544
+    },
+    "name": "Stargate (Pator)",
+    "position": {
+        "x": -2553199288320,
+        "y": 99487211520,
+        "z": 1119380643840
+    },
+    "stargate_id": 50005038,
+    "system_id": 30002547,
+    "type_id": 29633
+}

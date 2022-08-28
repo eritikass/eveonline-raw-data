@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013156,
+        "system_id": 30004601
+    },
+    "name": "Stargate (CHA2-Q)",
+    "position": {
+        "x": -2161541160960,
+        "y": 291056640000,
+        "z": -221744947200
+    },
+    "stargate_id": 50012284,
+    "system_id": 30004598,
+    "type_id": 3875
+}

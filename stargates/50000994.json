@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002041,
+        "system_id": 30002748
+    },
+    "name": "Stargate (Jeras)",
+    "position": {
+        "x": 8364081438720,
+        "y": -2132419829760,
+        "z": 342410649600
+    },
+    "stargate_id": 50000994,
+    "system_id": 30002755,
+    "type_id": 29627
+}

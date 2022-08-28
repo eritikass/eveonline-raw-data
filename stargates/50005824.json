@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006852,
+        "system_id": 30001320
+    },
+    "name": "Stargate (RQ9-OZ)",
+    "position": {
+        "x": 222628208640,
+        "y": 25719398400,
+        "z": -5557408112640
+    },
+    "stargate_id": 50005824,
+    "system_id": 30001316,
+    "type_id": 16
+}

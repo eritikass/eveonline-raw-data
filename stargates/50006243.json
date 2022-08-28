@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006108,
+        "system_id": 30005327
+    },
+    "name": "Stargate (Chesiette)",
+    "position": {
+        "x": -2401738874880,
+        "y": 373000888320,
+        "z": -2148450754560
+    },
+    "stargate_id": 50006243,
+    "system_id": 30005328,
+    "type_id": 3875
+}

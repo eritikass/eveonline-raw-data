@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010119,
+        "system_id": 30005007
+    },
+    "name": "Stargate (Lisbaetanne)",
+    "position": {
+        "x": -4408121548800,
+        "y": -327928750080,
+        "z": 3231945154560
+    },
+    "stargate_id": 50008339,
+    "system_id": 30005006,
+    "type_id": 3875
+}

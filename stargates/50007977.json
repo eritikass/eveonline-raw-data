@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008422,
+        "system_id": 30003213
+    },
+    "name": "Stargate (FZCR-3)",
+    "position": {
+        "x": -138041303040,
+        "y": 24307015680,
+        "z": -472608399360
+    },
+    "stargate_id": 50007977,
+    "system_id": 30003210,
+    "type_id": 3875
+}

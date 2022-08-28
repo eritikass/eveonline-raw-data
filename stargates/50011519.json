@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011547,
+        "system_id": 30001798
+    },
+    "name": "Stargate (XJ-AG7)",
+    "position": {
+        "x": -802435768320,
+        "y": 85037506560,
+        "z": 3849413713920
+    },
+    "stargate_id": 50011519,
+    "system_id": 30001797,
+    "type_id": 3875
+}

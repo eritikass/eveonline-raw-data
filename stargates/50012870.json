@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005556,
+        "system_id": 30005223
+    },
+    "name": "Stargate (Hadji)",
+    "position": {
+        "x": 2169096806400,
+        "y": 2941518520320,
+        "z": -4560730152960
+    },
+    "stargate_id": 50012870,
+    "system_id": 30005292,
+    "type_id": 17
+}

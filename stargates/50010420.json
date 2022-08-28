@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010707,
+        "system_id": 30003642
+    },
+    "name": "Stargate (33CE-7)",
+    "position": {
+        "x": 818619064320,
+        "y": -125193707520,
+        "z": 567121305600
+    },
+    "stargate_id": 50010420,
+    "system_id": 30003640,
+    "type_id": 16
+}

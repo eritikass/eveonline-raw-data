@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006150,
+        "system_id": 30001050
+    },
+    "name": "Stargate (Jamunda)",
+    "position": {
+        "x": -1394456616960,
+        "y": -82668871680,
+        "z": -4273889280
+    },
+    "stargate_id": 50004052,
+    "system_id": 30001048,
+    "type_id": 29633
+}

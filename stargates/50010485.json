@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011242,
+        "system_id": 30001409
+    },
+    "name": "Stargate (Umokka)",
+    "position": {
+        "x": 36059258880,
+        "y": 6997401600,
+        "z": -2798905958400
+    },
+    "stargate_id": 50010485,
+    "system_id": 30001408,
+    "type_id": 16
+}

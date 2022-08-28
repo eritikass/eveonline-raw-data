@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013292,
+        "system_id": 30001741
+    },
+    "name": "Stargate (Ahteer)",
+    "position": {
+        "x": 2294241484800,
+        "y": 223656468480,
+        "z": -1824403660800
+    },
+    "stargate_id": 50012036,
+    "system_id": 30001739,
+    "type_id": 29624
+}

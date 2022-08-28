@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002829,
+        "system_id": 30001201
+    },
+    "name": "Stargate (4M-HGL)",
+    "position": {
+        "x": 2884520632320,
+        "y": -9005506560,
+        "z": 2848022323200
+    },
+    "stargate_id": 50002576,
+    "system_id": 30001200,
+    "type_id": 29624
+}

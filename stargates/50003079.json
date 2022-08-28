@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004925,
+        "system_id": 30000104
+    },
+    "name": "Stargate (Mahti)",
+    "position": {
+        "x": 2332951633920,
+        "y": 68857405440,
+        "z": 1787909038080
+    },
+    "stargate_id": 50003079,
+    "system_id": 30000102,
+    "type_id": 29624
+}

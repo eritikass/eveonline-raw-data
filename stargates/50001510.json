@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002668,
+        "system_id": 30000445
+    },
+    "name": "Stargate (1KAW-T)",
+    "position": {
+        "x": 2851415285760,
+        "y": 440374763520,
+        "z": -1081835642880
+    },
+    "stargate_id": 50001510,
+    "system_id": 30000441,
+    "type_id": 29633
+}

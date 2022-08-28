@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003537,
+        "system_id": 30004993
+    },
+    "name": "Stargate (Villore)",
+    "position": {
+        "x": 737316249600,
+        "y": -81038499840,
+        "z": 3543105576960
+    },
+    "stargate_id": 50003630,
+    "system_id": 30004994,
+    "type_id": 3875
+}

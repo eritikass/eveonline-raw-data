@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010870,
+        "system_id": 30004733
+    },
+    "name": "Stargate (PDE-U3)",
+    "position": {
+        "x": 2908876431360,
+        "y": -2681856000,
+        "z": -933861580800
+    },
+    "stargate_id": 50010852,
+    "system_id": 30004732,
+    "type_id": 29624
+}

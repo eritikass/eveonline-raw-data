@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004826,
+        "system_id": 30005106
+    },
+    "name": "Stargate (LW-YEW)",
+    "position": {
+        "x": -2457965076480,
+        "y": -482675466240,
+        "z": -426064158720
+    },
+    "stargate_id": 50006100,
+    "system_id": 30005114,
+    "type_id": 3875
+}

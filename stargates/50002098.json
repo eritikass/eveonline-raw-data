@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000614,
+        "system_id": 30000861
+    },
+    "name": "Stargate (15W-GC)",
+    "position": {
+        "x": 480392110080,
+        "y": 60296355840,
+        "z": -8569054617600
+    },
+    "stargate_id": 50002098,
+    "system_id": 30000866,
+    "type_id": 16
+}

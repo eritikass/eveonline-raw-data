@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013170,
+        "system_id": 30004913
+    },
+    "name": "Stargate (MMUF-8)",
+    "position": {
+        "x": -373553356800,
+        "y": 49977139200,
+        "z": 111489146880
+    },
+    "stargate_id": 50013466,
+    "system_id": 30004919,
+    "type_id": 29633
+}

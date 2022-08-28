@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002425,
+        "system_id": 30001027
+    },
+    "name": "Stargate (MDD-79)",
+    "position": {
+        "x": -7210306068480,
+        "y": 309953372160,
+        "z": 4296709693440
+    },
+    "stargate_id": 50000499,
+    "system_id": 30001023,
+    "type_id": 29633
+}

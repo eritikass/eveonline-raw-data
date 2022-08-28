@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002970,
+        "system_id": 30001418
+    },
+    "name": "Stargate (Aikantoh)",
+    "position": {
+        "x": -6744915763200,
+        "y": 672731504640,
+        "z": -601150709760
+    },
+    "stargate_id": 50002476,
+    "system_id": 30001416,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005422,
+        "system_id": 30001752
+    },
+    "name": "Stargate (I-HRX3)",
+    "position": {
+        "x": 746231193600,
+        "y": -93373440000,
+        "z": 3722396590080
+    },
+    "stargate_id": 50005346,
+    "system_id": 30001751,
+    "type_id": 3875
+}

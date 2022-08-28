@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005364,
+        "system_id": 30002360
+    },
+    "name": "Stargate (ZZ5X-M)",
+    "position": {
+        "x": 4792541552640,
+        "y": -113064714240,
+        "z": 5119415377920
+    },
+    "stargate_id": 50005621,
+    "system_id": 30002362,
+    "type_id": 3875
+}

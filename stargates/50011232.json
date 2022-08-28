@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011290,
+        "system_id": 30001807
+    },
+    "name": "Stargate (ZZK-VF)",
+    "position": {
+        "x": -102235054080,
+        "y": -2871091200,
+        "z": -1593443082240
+    },
+    "stargate_id": 50011232,
+    "system_id": 30001806,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006302,
+        "system_id": 30002595
+    },
+    "name": "Stargate (IRE-98)",
+    "position": {
+        "x": 1527234600960,
+        "y": 4630403112960,
+        "z": 2148831682560
+    },
+    "stargate_id": 50006900,
+    "system_id": 30002612,
+    "type_id": 3877
+}

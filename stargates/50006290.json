@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006636,
+        "system_id": 30001850
+    },
+    "name": "Stargate (57M7-W)",
+    "position": {
+        "x": -2939878563840,
+        "y": -260359987200,
+        "z": -2914149212160
+    },
+    "stargate_id": 50006290,
+    "system_id": 30001849,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008332,
+        "system_id": 30002400
+    },
+    "name": "Stargate (Varigne)",
+    "position": {
+        "x": 1833985843200,
+        "y": 161822023680,
+        "z": 59136614400
+    },
+    "stargate_id": 50006897,
+    "system_id": 30002398,
+    "type_id": 29633
+}

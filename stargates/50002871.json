@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003484,
+        "system_id": 30003723
+    },
+    "name": "Stargate (H6-CX8)",
+    "position": {
+        "x": -3543328972800,
+        "y": 4546889441280,
+        "z": 62844149760
+    },
+    "stargate_id": 50002871,
+    "system_id": 30003707,
+    "type_id": 17
+}

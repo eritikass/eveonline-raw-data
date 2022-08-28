@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009756,
+        "system_id": 30002382
+    },
+    "name": "Stargate (T-IDGH)",
+    "position": {
+        "x": -250985717760,
+        "y": -9703219200,
+        "z": 1945866362880
+    },
+    "stargate_id": 50009711,
+    "system_id": 30002381,
+    "type_id": 3875
+}

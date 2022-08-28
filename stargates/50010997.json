@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010652,
+        "system_id": 30003177
+    },
+    "name": "Stargate (KSM-1T)",
+    "position": {
+        "x": -2899034972160,
+        "y": -156018401280,
+        "z": 1162333102080
+    },
+    "stargate_id": 50010997,
+    "system_id": 30003179,
+    "type_id": 29624
+}

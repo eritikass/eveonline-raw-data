@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003548,
+        "system_id": 30000732
+    },
+    "name": "Stargate (V-F6DQ)",
+    "position": {
+        "x": -677023457280,
+        "y": 74196787200,
+        "z": -841169264640
+    },
+    "stargate_id": 50004554,
+    "system_id": 30000734,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002643,
+        "system_id": 30001013
+    },
+    "name": "Stargate (J7A-UR)",
+    "position": {
+        "x": -88961556480,
+        "y": 9247825920,
+        "z": -31272345600
+    },
+    "stargate_id": 50000384,
+    "system_id": 30001007,
+    "type_id": 29633
+}

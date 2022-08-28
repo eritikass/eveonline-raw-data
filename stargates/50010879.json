@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009262,
+        "system_id": 30003311
+    },
+    "name": "Stargate (IIRH-G)",
+    "position": {
+        "x": 1515879997440,
+        "y": 204552314880,
+        "z": -231660134400
+    },
+    "stargate_id": 50010879,
+    "system_id": 30003312,
+    "type_id": 3875
+}

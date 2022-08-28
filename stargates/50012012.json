@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011949,
+        "system_id": 30001810
+    },
+    "name": "Stargate (ZJ-5IS)",
+    "position": {
+        "x": 1006628904960,
+        "y": 223366471680,
+        "z": 1336767160320
+    },
+    "stargate_id": 50012012,
+    "system_id": 30001811,
+    "type_id": 3874
+}

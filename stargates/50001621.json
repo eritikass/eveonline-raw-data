@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004377,
+        "system_id": 30000963
+    },
+    "name": "Stargate (1C-953)",
+    "position": {
+        "x": 1012357816320,
+        "y": 41402572800,
+        "z": 3960381480960
+    },
+    "stargate_id": 50001621,
+    "system_id": 30000956,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012713,
+        "system_id": 30002941
+    },
+    "name": "Stargate (43B-O1)",
+    "position": {
+        "x": 1460101324800,
+        "y": 144805847040,
+        "z": -1247516467200
+    },
+    "stargate_id": 50013269,
+    "system_id": 30002950,
+    "type_id": 16
+}

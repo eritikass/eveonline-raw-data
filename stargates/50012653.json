@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013482,
+        "system_id": 30004653
+    },
+    "name": "Stargate (F-88PJ)",
+    "position": {
+        "x": 1991357276160,
+        "y": 401331118080,
+        "z": 1527358709760
+    },
+    "stargate_id": 50012653,
+    "system_id": 30004650,
+    "type_id": 3875
+}

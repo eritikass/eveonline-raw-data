@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006891,
+        "system_id": 30001365
+    },
+    "name": "Stargate (Isikemi)",
+    "position": {
+        "x": -2627622297600,
+        "y": 391535370240,
+        "z": 634508697600
+    },
+    "stargate_id": 50001201,
+    "system_id": 30002753,
+    "type_id": 29629
+}

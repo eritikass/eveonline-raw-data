@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011176,
+        "system_id": 30001796
+    },
+    "name": "Stargate (9S-GPT)",
+    "position": {
+        "x": -141666754560,
+        "y": -1422827520,
+        "z": 436544102400
+    },
+    "stargate_id": 50011651,
+    "system_id": 30001799,
+    "type_id": 3875
+}

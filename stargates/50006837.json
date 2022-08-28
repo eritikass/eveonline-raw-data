@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003744,
+        "system_id": 30000108
+    },
+    "name": "Stargate (Nieril)",
+    "position": {
+        "x": 781037445120,
+        "y": -109069885440,
+        "z": -3435055226880
+    },
+    "stargate_id": 50006837,
+    "system_id": 30000111,
+    "type_id": 29624
+}

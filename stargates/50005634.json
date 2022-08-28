@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005842,
+        "system_id": 30002346
+    },
+    "name": "Stargate (89-JPE)",
+    "position": {
+        "x": 35372359680,
+        "y": 343941120,
+        "z": -58305208320
+    },
+    "stargate_id": 50005634,
+    "system_id": 30002345,
+    "type_id": 3875
+}

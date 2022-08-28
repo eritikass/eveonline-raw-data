@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007511,
+        "system_id": 30003101
+    },
+    "name": "Stargate (G2-INZ)",
+    "position": {
+        "x": -427708538880,
+        "y": -18613985280,
+        "z": 142994104320
+    },
+    "stargate_id": 50007394,
+    "system_id": 30003100,
+    "type_id": 29624
+}

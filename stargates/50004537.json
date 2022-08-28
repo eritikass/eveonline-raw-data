@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004139,
+        "system_id": 30001439
+    },
+    "name": "Stargate (Anin)",
+    "position": {
+        "x": 2851736494080,
+        "y": -434210365440,
+        "z": 640934092800
+    },
+    "stargate_id": 50004537,
+    "system_id": 30001440,
+    "type_id": 16
+}

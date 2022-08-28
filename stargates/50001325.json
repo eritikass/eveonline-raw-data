@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001729,
+        "system_id": 30000004
+    },
+    "name": "Stargate (Jark)",
+    "position": {
+        "x": 986937139200,
+        "y": 1497389752320,
+        "z": -2729078661120
+    },
+    "stargate_id": 50001325,
+    "system_id": 30002509,
+    "type_id": 29634
+}

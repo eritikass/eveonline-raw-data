@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016393,
+        "system_id": 30003091
+    },
+    "name": "Stargate (Tannakan)",
+    "position": {
+        "x": -1333472010240,
+        "y": -7038129070080,
+        "z": 644501053440
+    },
+    "stargate_id": 50016392,
+    "system_id": 30003071,
+    "type_id": 17
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009380,
+        "system_id": 30000190
+    },
+    "name": "Stargate (Vasala)",
+    "position": {
+        "x": -320305520640,
+        "y": 18265989120,
+        "z": -260006338560
+    },
+    "stargate_id": 50009665,
+    "system_id": 30000191,
+    "type_id": 16
+}

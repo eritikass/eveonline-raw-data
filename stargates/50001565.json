@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002231,
+        "system_id": 30002135
+    },
+    "name": "Stargate (R-ZUOL)",
+    "position": {
+        "x": -1559020216320,
+        "y": -231334993920,
+        "z": -1253138718720
+    },
+    "stargate_id": 50001565,
+    "system_id": 30002131,
+    "type_id": 29633
+}

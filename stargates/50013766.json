@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013765,
+        "system_id": 30004937
+    },
+    "name": "Stargate (TCAG-3)",
+    "position": {
+        "x": -4352966123520,
+        "y": 1147757322240,
+        "z": 887197655040
+    },
+    "stargate_id": 50013766,
+    "system_id": 30004696,
+    "type_id": 12292
+}

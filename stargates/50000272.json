@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001859,
+        "system_id": 30000570
+    },
+    "name": "Stargate (G9NE-B)",
+    "position": {
+        "x": -3260285706240,
+        "y": -481512529920,
+        "z": 2512789954560
+    },
+    "stargate_id": 50000272,
+    "system_id": 30000565,
+    "type_id": 29633
+}

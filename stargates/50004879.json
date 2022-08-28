@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004842,
+        "system_id": 30001839
+    },
+    "name": "Stargate (WHG2-7)",
+    "position": {
+        "x": 247094599680,
+        "y": -44348006400,
+        "z": 474772807680
+    },
+    "stargate_id": 50004879,
+    "system_id": 30001840,
+    "type_id": 29624
+}

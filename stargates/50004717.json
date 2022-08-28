@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003177,
+        "system_id": 30001968
+    },
+    "name": "Stargate (D7T-C0)",
+    "position": {
+        "x": 1850740285440,
+        "y": 1104862863360,
+        "z": 1243536138240
+    },
+    "stargate_id": 50004717,
+    "system_id": 30002004,
+    "type_id": 29627
+}

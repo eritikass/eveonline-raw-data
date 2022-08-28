@@ -1,0 +1,51 @@
+{
+    "constellation_id": 20000008,
+    "name": "Ibaria",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40003337,
+                40003338
+            ],
+            "planet_id": 40003336
+        },
+        {
+            "asteroid_belts": [
+                40003340
+            ],
+            "planet_id": 40003339
+        },
+        {
+            "asteroid_belts": [
+                40003342
+            ],
+            "moons": [
+                40003343
+            ],
+            "planet_id": 40003341
+        },
+        {
+            "moons": [
+                40003345,
+                40003346
+            ],
+            "planet_id": 40003344
+        }
+    ],
+    "position": {
+        "x": -85000827583159300,
+        "y": 43133101361465060,
+        "z": -66861168763407410
+    },
+    "security_class": "B1",
+    "security_status": 0.7309787273406982,
+    "star_id": 40003335,
+    "stargates": [
+        50002291,
+        50002292
+    ],
+    "stations": [
+        60014137
+    ],
+    "system_id": 30000053
+}

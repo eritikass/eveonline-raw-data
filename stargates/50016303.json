@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016304,
+        "system_id": 30045322
+    },
+    "name": "Stargate (Samanuni)",
+    "position": {
+        "x": 1832714772480,
+        "y": 43739258880,
+        "z": 1896480153600
+    },
+    "stargate_id": 50016303,
+    "system_id": 30045321,
+    "type_id": 16
+}

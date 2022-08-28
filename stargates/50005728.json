@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005591,
+        "system_id": 30001853
+    },
+    "name": "Stargate (FZSW-Y)",
+    "position": {
+        "x": -41126584320,
+        "y": -3096207360,
+        "z": 6601517506560
+    },
+    "stargate_id": 50005728,
+    "system_id": 30001854,
+    "type_id": 29624
+}

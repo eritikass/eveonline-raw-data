@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006518,
+        "system_id": 30003280
+    },
+    "name": "Stargate (6-CZ49)",
+    "position": {
+        "x": -54833111040,
+        "y": 924180480,
+        "z": -3450534912000
+    },
+    "stargate_id": 50006713,
+    "system_id": 30003283,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010126,
+        "system_id": 30000294
+    },
+    "name": "Stargate (1N-FJ8)",
+    "position": {
+        "x": 7129470935040,
+        "y": 1178634117120,
+        "z": -237267640320
+    },
+    "stargate_id": 50003821,
+    "system_id": 30000292,
+    "type_id": 16
+}

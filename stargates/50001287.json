@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001516,
+        "system_id": 30002963
+    },
+    "name": "Stargate (Odin)",
+    "position": {
+        "x": 2626198364160,
+        "y": -11431649280,
+        "z": -1455058329600
+    },
+    "stargate_id": 50001287,
+    "system_id": 30002970,
+    "type_id": 17
+}

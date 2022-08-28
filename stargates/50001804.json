@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001852,
+        "system_id": 30003514
+    },
+    "name": "Stargate (Yeeramoun)",
+    "position": {
+        "x": 565584814080,
+        "y": 65982750720,
+        "z": -234476789760
+    },
+    "stargate_id": 50001804,
+    "system_id": 30003513,
+    "type_id": 29624
+}

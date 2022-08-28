@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007238,
+        "system_id": 30004105
+    },
+    "name": "Stargate (Dehrokh)",
+    "position": {
+        "x": -618579271680,
+        "y": -14402150400,
+        "z": -148637491200
+    },
+    "stargate_id": 50006809,
+    "system_id": 30004104,
+    "type_id": 29624
+}

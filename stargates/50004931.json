@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004484,
+        "system_id": 30000026
+    },
+    "name": "Stargate (Ordize)",
+    "position": {
+        "x": 6550789939200,
+        "y": -1290293698560,
+        "z": -588885073920
+    },
+    "stargate_id": 50004931,
+    "system_id": 30000028,
+    "type_id": 29624
+}

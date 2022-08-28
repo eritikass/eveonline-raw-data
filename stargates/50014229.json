@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014230,
+        "system_id": 30001773
+    },
+    "name": "Stargate (RT64-C)",
+    "position": {
+        "x": 826940743680,
+        "y": 431966822400,
+        "z": 6703978782720
+    },
+    "stargate_id": 50014229,
+    "system_id": 30000647,
+    "type_id": 29635
+}

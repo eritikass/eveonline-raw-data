@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005350,
+        "system_id": 30000478
+    },
+    "name": "Stargate (FR46-E)",
+    "position": {
+        "x": 3560352522240,
+        "y": -5341774848000,
+        "z": 4131074334720
+    },
+    "stargate_id": 50006228,
+    "system_id": 30000508,
+    "type_id": 3877
+}

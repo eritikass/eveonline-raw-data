@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012831,
+        "system_id": 30002944
+    },
+    "name": "Stargate (4N-BUI)",
+    "position": {
+        "x": -600060272640,
+        "y": -18512732160,
+        "z": -7134830960640
+    },
+    "stargate_id": 50013056,
+    "system_id": 30002949,
+    "type_id": 16
+}

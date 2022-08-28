@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002527,
+        "system_id": 30000971
+    },
+    "name": "Stargate (LXTC-S)",
+    "position": {
+        "x": 1779033661440,
+        "y": -1020014960640,
+        "z": -73676759040
+    },
+    "stargate_id": 50001785,
+    "system_id": 30000904,
+    "type_id": 3877
+}

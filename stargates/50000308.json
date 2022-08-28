@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000717,
+        "system_id": 30001358
+    },
+    "name": "Stargate (Ossa)",
+    "position": {
+        "x": 606188544000,
+        "y": 30998323200,
+        "z": -727238369280
+    },
+    "stargate_id": 50000308,
+    "system_id": 30001357,
+    "type_id": 16
+}

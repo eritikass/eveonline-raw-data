@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014206,
+        "system_id": 30005189
+    },
+    "name": "Stargate (MTO2-2)",
+    "position": {
+        "x": 4556650782720,
+        "y": -885498470400,
+        "z": -2338957025280
+    },
+    "stargate_id": 50014205,
+    "system_id": 30001330,
+    "type_id": 29629
+}

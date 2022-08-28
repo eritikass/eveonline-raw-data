@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002961,
+        "system_id": 30002308
+    },
+    "name": "Stargate (0M-24X)",
+    "position": {
+        "x": 31543418880,
+        "y": -1660231680,
+        "z": -294089564160
+    },
+    "stargate_id": 50001441,
+    "system_id": 30002304,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000250,
+        "system_id": 30000900
+    },
+    "name": "Stargate (NIH-02)",
+    "position": {
+        "x": 381414973440,
+        "y": 7806731673600,
+        "z": -5525715148800
+    },
+    "stargate_id": 50002471,
+    "system_id": 30000964,
+    "type_id": 3877
+}

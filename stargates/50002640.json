@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000244,
+        "system_id": 30005088
+    },
+    "name": "Stargate (B-B0ME)",
+    "position": {
+        "x": -1411923763200,
+        "y": -162512117760,
+        "z": 749168517120
+    },
+    "stargate_id": 50002640,
+    "system_id": 30005090,
+    "type_id": 3875
+}

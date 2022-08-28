@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013121,
+        "system_id": 30001943
+    },
+    "name": "Stargate (RVRE-Z)",
+    "position": {
+        "x": -2504898600960,
+        "y": 391141662720,
+        "z": 842047119360
+    },
+    "stargate_id": 50013082,
+    "system_id": 30001941,
+    "type_id": 29624
+}

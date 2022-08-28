@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013495,
+        "system_id": 30004654
+    },
+    "name": "Stargate (ATQ-QS)",
+    "position": {
+        "x": -325465006080,
+        "y": -65592238080,
+        "z": -649255526400
+    },
+    "stargate_id": 50012654,
+    "system_id": 30004650,
+    "type_id": 3875
+}

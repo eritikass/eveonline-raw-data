@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010403,
+        "system_id": 30004016
+    },
+    "name": "Stargate (DG-L7S)",
+    "position": {
+        "x": 847729827840,
+        "y": 103758274560,
+        "z": -664177336320
+    },
+    "stargate_id": 50010355,
+    "system_id": 30004015,
+    "type_id": 29624
+}

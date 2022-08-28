@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009759,
+        "system_id": 30003295
+    },
+    "name": "Stargate (PFP-GU)",
+    "position": {
+        "x": -2398342717440,
+        "y": 464459735040,
+        "z": -164539392000
+    },
+    "stargate_id": 50010257,
+    "system_id": 30003296,
+    "type_id": 3875
+}

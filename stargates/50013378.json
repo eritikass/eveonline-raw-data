@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013476,
+        "system_id": 30004220
+    },
+    "name": "Stargate (VEQ-3V)",
+    "position": {
+        "x": -5296278528000,
+        "y": 45747855360,
+        "z": 1770408960000
+    },
+    "stargate_id": 50013378,
+    "system_id": 30004217,
+    "type_id": 3875
+}

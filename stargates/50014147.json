@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014148,
+        "system_id": 30021392
+    },
+    "name": "Stargate (Kappas)",
+    "position": {
+        "x": 20948459520,
+        "y": 501719040,
+        "z": -97417912320
+    },
+    "stargate_id": 50014147,
+    "system_id": 30001364,
+    "type_id": 16
+}

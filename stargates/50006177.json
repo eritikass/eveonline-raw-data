@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006925,
+        "system_id": 30002015
+    },
+    "name": "Stargate (4-ABS8)",
+    "position": {
+        "x": 1834594344960,
+        "y": 111272140800,
+        "z": 2435579289600
+    },
+    "stargate_id": 50006177,
+    "system_id": 30002013,
+    "type_id": 16
+}

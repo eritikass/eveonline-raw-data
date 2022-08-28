@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013819,
+        "system_id": 30000787
+    },
+    "name": "Stargate (74-VZA)",
+    "position": {
+        "x": 1770819870720,
+        "y": 1941486673920,
+        "z": -934154526720
+    },
+    "stargate_id": 50013820,
+    "system_id": 30000706,
+    "type_id": 12292
+}

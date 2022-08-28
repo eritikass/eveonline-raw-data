@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011438,
+        "system_id": 30003893
+    },
+    "name": "Stargate (Moro)",
+    "position": {
+        "x": 4144270417920,
+        "y": 287154708480,
+        "z": -1384118231040
+    },
+    "stargate_id": 50010701,
+    "system_id": 30003892,
+    "type_id": 29624
+}

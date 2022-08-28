@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011376,
+        "system_id": 30003664
+    },
+    "name": "Stargate (JSI-LL)",
+    "position": {
+        "x": 423939563520,
+        "y": -52955013120,
+        "z": -1498442833920
+    },
+    "stargate_id": 50011386,
+    "system_id": 30003665,
+    "type_id": 16
+}

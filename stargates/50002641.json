@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003304,
+        "system_id": 30005092
+    },
+    "name": "Stargate (A9-F18)",
+    "position": {
+        "x": 832420454400,
+        "y": 95791964160,
+        "z": -259365396480
+    },
+    "stargate_id": 50002641,
+    "system_id": 30005090,
+    "type_id": 3875
+}

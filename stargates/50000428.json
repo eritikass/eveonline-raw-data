@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000469,
+        "system_id": 30000908
+    },
+    "name": "Stargate (56D-TC)",
+    "position": {
+        "x": -1166705418240,
+        "y": 47514624000,
+        "z": 2792489164800
+    },
+    "stargate_id": 50000428,
+    "system_id": 30000907,
+    "type_id": 29633
+}

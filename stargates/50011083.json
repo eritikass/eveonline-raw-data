@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013024,
+        "system_id": 30003857
+    },
+    "name": "Stargate (Odamia)",
+    "position": {
+        "x": 4449327390720,
+        "y": -868080476160,
+        "z": -3427344752640
+    },
+    "stargate_id": 50011083,
+    "system_id": 30003852,
+    "type_id": 3875
+}

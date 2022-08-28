@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012350,
+        "system_id": 30003672
+    },
+    "name": "Stargate (V-LDEJ)",
+    "position": {
+        "x": 1383013539840,
+        "y": -199431168000,
+        "z": -2513857781760
+    },
+    "stargate_id": 50012806,
+    "system_id": 30003674,
+    "type_id": 16
+}

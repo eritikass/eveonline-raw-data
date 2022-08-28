@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014057,
+        "system_id": 30002039
+    },
+    "name": "Stargate (RQH-MY)",
+    "position": {
+        "x": -1006517329920,
+        "y": -134891642880,
+        "z": 3492137902080
+    },
+    "stargate_id": 50014058,
+    "system_id": 30003855,
+    "type_id": 3876
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012798,
+        "system_id": 30004794
+    },
+    "name": "Stargate (KBAK-I)",
+    "position": {
+        "x": 459863531520,
+        "y": 82833285120,
+        "z": -814301552640
+    },
+    "stargate_id": 50012274,
+    "system_id": 30004791,
+    "type_id": 29624
+}

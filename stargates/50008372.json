@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008472,
+        "system_id": 30001881
+    },
+    "name": "Stargate (D9D-GD)",
+    "position": {
+        "x": -2286553128960,
+        "y": -433215283200,
+        "z": 1552554024960
+    },
+    "stargate_id": 50008372,
+    "system_id": 30001880,
+    "type_id": 29624
+}

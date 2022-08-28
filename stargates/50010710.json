@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010785,
+        "system_id": 30005171
+    },
+    "name": "Stargate (O-QKSM)",
+    "position": {
+        "x": 193093263360,
+        "y": 30787461120,
+        "z": -1885911982080
+    },
+    "stargate_id": 50010710,
+    "system_id": 30005170,
+    "type_id": 3875
+}

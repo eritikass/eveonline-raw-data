@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005334,
+        "system_id": 30000173
+    },
+    "name": "Stargate (Vattuolen)",
+    "position": {
+        "x": 68671856640,
+        "y": 2267996160,
+        "z": -192824156160
+    },
+    "stargate_id": 50005419,
+    "system_id": 30000174,
+    "type_id": 16
+}

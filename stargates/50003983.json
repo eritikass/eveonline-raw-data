@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005386,
+        "system_id": 30001682
+    },
+    "name": "Stargate (Keshirou)",
+    "position": {
+        "x": 879076270080,
+        "y": 6733455360,
+        "z": -1394684928000
+    },
+    "stargate_id": 50003983,
+    "system_id": 30001681,
+    "type_id": 29624
+}

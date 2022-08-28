@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005400,
+        "system_id": 30001128
+    },
+    "name": "Stargate (9NI-FW)",
+    "position": {
+        "x": -309240422400,
+        "y": 34105466880,
+        "z": -150057984000
+    },
+    "stargate_id": 50003941,
+    "system_id": 30001127,
+    "type_id": 3875
+}

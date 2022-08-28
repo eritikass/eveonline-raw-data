@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005514,
+        "system_id": 30005222
+    },
+    "name": "Stargate (Serren)",
+    "position": {
+        "x": 474211737600,
+        "y": -62250885120,
+        "z": -1592546058240
+    },
+    "stargate_id": 50005183,
+    "system_id": 30005221,
+    "type_id": 29624
+}

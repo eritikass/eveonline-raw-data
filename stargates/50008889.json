@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005538,
+        "system_id": 30000175
+    },
+    "name": "Stargate (Soshin)",
+    "position": {
+        "x": 1459566059520,
+        "y": 90861281280,
+        "z": 767134556160
+    },
+    "stargate_id": 50008889,
+    "system_id": 30000179,
+    "type_id": 16
+}

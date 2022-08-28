@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006988,
+        "system_id": 30000604
+    },
+    "name": "Stargate (XEN7-0)",
+    "position": {
+        "x": 2053596241920,
+        "y": 396476620800,
+        "z": -762901340160
+    },
+    "stargate_id": 50003504,
+    "system_id": 30000601,
+    "type_id": 29633
+}

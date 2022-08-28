@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013469,
+        "system_id": 30001957
+    },
+    "name": "Stargate (F7-ICZ)",
+    "position": {
+        "x": -3022580981760,
+        "y": -153096069120,
+        "z": 9253065891840
+    },
+    "stargate_id": 50013461,
+    "system_id": 30001956,
+    "type_id": 29624
+}

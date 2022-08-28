@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003322,
+        "system_id": 30002422
+    },
+    "name": "Stargate (SR-KBB)",
+    "position": {
+        "x": -2373792276480,
+        "y": 155922309120,
+        "z": -1312958423040
+    },
+    "stargate_id": 50003784,
+    "system_id": 30002424,
+    "type_id": 16
+}

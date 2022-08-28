@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009712,
+        "system_id": 30001210
+    },
+    "name": "Stargate (A-VILQ)",
+    "position": {
+        "x": 5618020638720,
+        "y": -772893204480,
+        "z": 519920640000
+    },
+    "stargate_id": 50009186,
+    "system_id": 30001209,
+    "type_id": 29624
+}

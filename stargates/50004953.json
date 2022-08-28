@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004876,
+        "system_id": 30000497
+    },
+    "name": "Stargate (F2W-C6)",
+    "position": {
+        "x": -7665886126080,
+        "y": -393923174400,
+        "z": -4493320642560
+    },
+    "stargate_id": 50004953,
+    "system_id": 30000498,
+    "type_id": 29633
+}

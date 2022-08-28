@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006490,
+        "system_id": 30003858
+    },
+    "name": "Stargate (Gousoviba)",
+    "position": {
+        "x": 473515008000,
+        "y": -14990499840,
+        "z": -156698173440
+    },
+    "stargate_id": 50006527,
+    "system_id": 30003860,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010957,
+        "system_id": 30003847
+    },
+    "name": "Stargate (Amoen)",
+    "position": {
+        "x": 373496340480,
+        "y": -72845107200,
+        "z": 238034411520
+    },
+    "stargate_id": 50010323,
+    "system_id": 30003845,
+    "type_id": 3875
+}

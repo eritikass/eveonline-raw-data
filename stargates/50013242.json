@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013453,
+        "system_id": 30001955
+    },
+    "name": "Stargate (O-CT8N)",
+    "position": {
+        "x": -392773017600,
+        "y": -78410096640,
+        "z": -1064620154880
+    },
+    "stargate_id": 50013242,
+    "system_id": 30001952,
+    "type_id": 29624
+}

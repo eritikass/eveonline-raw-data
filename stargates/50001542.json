@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000745,
+        "system_id": 30001083
+    },
+    "name": "Stargate (DAI-SH)",
+    "position": {
+        "x": -268472770560,
+        "y": 50924544000,
+        "z": 266128465920
+    },
+    "stargate_id": 50001542,
+    "system_id": 30001084,
+    "type_id": 3875
+}

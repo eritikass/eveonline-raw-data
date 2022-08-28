@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001480,
+        "system_id": 30004971
+    },
+    "name": "Stargate (Duripant)",
+    "position": {
+        "x": -3075364085760,
+        "y": 3923914383360,
+        "z": 3639929118720
+    },
+    "stargate_id": 50000769,
+    "system_id": 30002668,
+    "type_id": 29632
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005184,
+        "system_id": 30005221
+    },
+    "name": "Stargate (Zoohen)",
+    "position": {
+        "x": 1641064243200,
+        "y": 4625716715520,
+        "z": -1998916608000
+    },
+    "stargate_id": 50012553,
+    "system_id": 30005289,
+    "type_id": 17
+}

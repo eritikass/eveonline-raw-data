@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016403,
+        "system_id": 30000200
+    },
+    "name": "Stargate (Akkio)",
+    "position": {
+        "x": 2457912483840,
+        "y": 1983769681920,
+        "z": 1917866434560
+    },
+    "stargate_id": 50016402,
+    "system_id": 30002062,
+    "type_id": 29634
+}

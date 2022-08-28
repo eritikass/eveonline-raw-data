@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010496,
+        "system_id": 30003661
+    },
+    "name": "Stargate (JI-1UQ)",
+    "position": {
+        "x": 22251970560,
+        "y": -818749440,
+        "z": 334284840960
+    },
+    "stargate_id": 50010340,
+    "system_id": 30003659,
+    "type_id": 16
+}

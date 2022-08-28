@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004071,
+        "system_id": 30000637
+    },
+    "name": "Stargate (5F-MG1)",
+    "position": {
+        "x": -11367110860800,
+        "y": -768903782400,
+        "z": -324488355840
+    },
+    "stargate_id": 50004114,
+    "system_id": 30000638,
+    "type_id": 29633
+}

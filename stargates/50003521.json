@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004265,
+        "system_id": 30001100
+    },
+    "name": "Stargate (CLW-SI)",
+    "position": {
+        "x": 299764162560,
+        "y": -43752529920,
+        "z": 2898166456320
+    },
+    "stargate_id": 50003521,
+    "system_id": 30001099,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000914,
+        "system_id": 30000738
+    },
+    "name": "Stargate (PT-21C)",
+    "position": {
+        "x": -867709624320,
+        "y": 52516823040,
+        "z": -4537532375040
+    },
+    "stargate_id": 50002251,
+    "system_id": 30000742,
+    "type_id": 29633
+}

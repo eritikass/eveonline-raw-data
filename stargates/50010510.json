@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010642,
+        "system_id": 30003595
+    },
+    "name": "Stargate (Arittant)",
+    "position": {
+        "x": 959333867520,
+        "y": -135319265280,
+        "z": 397111910400
+    },
+    "stargate_id": 50010510,
+    "system_id": 30003594,
+    "type_id": 3875
+}

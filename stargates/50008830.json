@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008681,
+        "system_id": 30003415
+    },
+    "name": "Stargate (Aldagolf)",
+    "position": {
+        "x": 1453918003200,
+        "y": -798821621760,
+        "z": -589133291520
+    },
+    "stargate_id": 50008830,
+    "system_id": 30003441,
+    "type_id": 3877
+}

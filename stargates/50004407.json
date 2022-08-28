@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007455,
+        "system_id": 30003434
+    },
+    "name": "Stargate (Polstodur)",
+    "position": {
+        "x": 1391796019200,
+        "y": -1512822251520,
+        "z": 25215590400
+    },
+    "stargate_id": 50004407,
+    "system_id": 30003390,
+    "type_id": 3877
+}

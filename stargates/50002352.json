@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002609,
+        "system_id": 30000880
+    },
+    "name": "Stargate (YLS8-J)",
+    "position": {
+        "x": -702009384960,
+        "y": -11412971520,
+        "z": -2571325562880
+    },
+    "stargate_id": 50002352,
+    "system_id": 30000879,
+    "type_id": 16
+}

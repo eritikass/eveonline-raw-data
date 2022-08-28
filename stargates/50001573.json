@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000397,
+        "system_id": 30001526
+    },
+    "name": "Stargate (L-WG68)",
+    "position": {
+        "x": -842839203840,
+        "y": -1079764623360,
+        "z": -5232717864960
+    },
+    "stargate_id": 50001573,
+    "system_id": 30001566,
+    "type_id": 3874
+}

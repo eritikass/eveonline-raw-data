@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008164,
+        "system_id": 30003608
+    },
+    "name": "Stargate (H1-ESN)",
+    "position": {
+        "x": 679640555520,
+        "y": -111364055040,
+        "z": -762148085760
+    },
+    "stargate_id": 50008217,
+    "system_id": 30003609,
+    "type_id": 16
+}

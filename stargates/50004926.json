@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002473,
+        "system_id": 30000964
+    },
+    "name": "Stargate (SL-YBS)",
+    "position": {
+        "x": 1115382128640,
+        "y": 5616230400,
+        "z": -3507666984960
+    },
+    "stargate_id": 50004926,
+    "system_id": 30000967,
+    "type_id": 29633
+}

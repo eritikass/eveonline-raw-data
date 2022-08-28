@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002169,
+        "system_id": 30001528
+    },
+    "name": "Stargate (HIK-MC)",
+    "position": {
+        "x": 8147801579520,
+        "y": -1325291151360,
+        "z": -5564020776960
+    },
+    "stargate_id": 50000398,
+    "system_id": 30001526,
+    "type_id": 3875
+}

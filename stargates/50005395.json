@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007243,
+        "system_id": 30003405
+    },
+    "name": "Stargate (Datulen)",
+    "position": {
+        "x": 158207877120,
+        "y": -15104040960,
+        "z": 199872798720
+    },
+    "stargate_id": 50005395,
+    "system_id": 30003402,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006110,
+        "system_id": 30001709
+    },
+    "name": "Stargate (Ferira)",
+    "position": {
+        "x": 5543207608320,
+        "y": -185066496000,
+        "z": 7414758236160
+    },
+    "stargate_id": 50006163,
+    "system_id": 30001710,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003218,
+        "system_id": 30000731
+    },
+    "name": "Stargate (8CN-CH)",
+    "position": {
+        "x": 154003415040,
+        "y": -11927838720,
+        "z": -253760839680
+    },
+    "stargate_id": 50002721,
+    "system_id": 30000730,
+    "type_id": 29633
+}

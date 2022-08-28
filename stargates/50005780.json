@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004081,
+        "system_id": 30005208
+    },
+    "name": "Stargate (Ziasad)",
+    "position": {
+        "x": -4285559808000,
+        "y": 6168681308160,
+        "z": -3200701440000
+    },
+    "stargate_id": 50005780,
+    "system_id": 30005224,
+    "type_id": 17
+}

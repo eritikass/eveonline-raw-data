@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009646,
+        "system_id": 30002038
+    },
+    "name": "Stargate (TFA0-U)",
+    "position": {
+        "x": -533316526080,
+        "y": -36383416320,
+        "z": 766842839040
+    },
+    "stargate_id": 50008658,
+    "system_id": 30002037,
+    "type_id": 16
+}

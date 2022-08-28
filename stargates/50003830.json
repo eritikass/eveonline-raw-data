@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003118,
+        "system_id": 30005091
+    },
+    "name": "Stargate (OJT-J3)",
+    "position": {
+        "x": -989785497600,
+        "y": -84233625600,
+        "z": -1095109140480
+    },
+    "stargate_id": 50003830,
+    "system_id": 30005093,
+    "type_id": 3875
+}

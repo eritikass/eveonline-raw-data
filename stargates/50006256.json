@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006321,
+        "system_id": 30002596
+    },
+    "name": "Stargate (HOHF-B)",
+    "position": {
+        "x": -1061525053440,
+        "y": -4977254400,
+        "z": 649764003840
+    },
+    "stargate_id": 50006256,
+    "system_id": 30002593,
+    "type_id": 29633
+}

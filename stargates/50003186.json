@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000630,
+        "system_id": 30002662
+    },
+    "name": "Stargate (Pulin)",
+    "position": {
+        "x": -2898511994880,
+        "y": -4368752640,
+        "z": -2134120734720
+    },
+    "stargate_id": 50003186,
+    "system_id": 30002665,
+    "type_id": 3875
+}

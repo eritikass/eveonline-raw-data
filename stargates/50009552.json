@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009594,
+        "system_id": 30003463
+    },
+    "name": "Stargate (Erlendur)",
+    "position": {
+        "x": 1908313497600,
+        "y": -105225216000,
+        "z": -76564193280
+    },
+    "stargate_id": 50009552,
+    "system_id": 30003461,
+    "type_id": 29633
+}

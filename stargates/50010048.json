@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010010,
+        "system_id": 30004013
+    },
+    "name": "Stargate (F2OY-X)",
+    "position": {
+        "x": 662792478720,
+        "y": -83756605440,
+        "z": -425708789760
+    },
+    "stargate_id": 50010048,
+    "system_id": 30004014,
+    "type_id": 29624
+}

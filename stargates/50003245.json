@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008474,
+        "system_id": 30003553
+    },
+    "name": "Stargate (Warouh)",
+    "position": {
+        "x": 1062590423040,
+        "y": -785563607040,
+        "z": -33646141440
+    },
+    "stargate_id": 50003245,
+    "system_id": 30002206,
+    "type_id": 17
+}

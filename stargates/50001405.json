@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003181,
+        "system_id": 30002633
+    },
+    "name": "Stargate (Du Annes)",
+    "position": {
+        "x": 771007488000,
+        "y": 1699283066880,
+        "z": 634144972800
+    },
+    "stargate_id": 50001405,
+    "system_id": 30004970,
+    "type_id": 29632
+}

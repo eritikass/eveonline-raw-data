@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004002,
+        "system_id": 30000295
+    },
+    "name": "Stargate (VI2K-J)",
+    "position": {
+        "x": 91544494080,
+        "y": -3162562560,
+        "z": -413892648960
+    },
+    "stargate_id": 50004018,
+    "system_id": 30000296,
+    "type_id": 16
+}

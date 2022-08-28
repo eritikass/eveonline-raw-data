@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008352,
+        "system_id": 30003917
+    },
+    "name": "Stargate (Amafi)",
+    "position": {
+        "x": -1165030072320,
+        "y": -200619417600,
+        "z": -2640643891200
+    },
+    "stargate_id": 50008708,
+    "system_id": 30003918,
+    "type_id": 29624
+}

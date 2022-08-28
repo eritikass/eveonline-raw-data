@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007380,
+        "system_id": 30005014
+    },
+    "name": "Stargate (Isenan)",
+    "position": {
+        "x": 2304021504000,
+        "y": -406132285440,
+        "z": 65896980480
+    },
+    "stargate_id": 50006634,
+    "system_id": 30005010,
+    "type_id": 3875
+}

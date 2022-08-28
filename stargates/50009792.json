@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010490,
+        "system_id": 30005067
+    },
+    "name": "Stargate (Zorenyen)",
+    "position": {
+        "x": -1257260605440,
+        "y": -238691573760,
+        "z": 34576588800
+    },
+    "stargate_id": 50009792,
+    "system_id": 30005063,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004012,
+        "system_id": 30000700
+    },
+    "name": "Stargate (C8-7AS)",
+    "position": {
+        "x": -15267471360,
+        "y": 297984000,
+        "z": 592822394880
+    },
+    "stargate_id": 50002766,
+    "system_id": 30000699,
+    "type_id": 29633
+}

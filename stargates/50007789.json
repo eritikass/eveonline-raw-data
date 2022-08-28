@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006202,
+        "system_id": 30005330
+    },
+    "name": "Stargate (Arraron)",
+    "position": {
+        "x": -1446158131200,
+        "y": -75090124800,
+        "z": 2169736028160
+    },
+    "stargate_id": 50007789,
+    "system_id": 30005333,
+    "type_id": 3875
+}

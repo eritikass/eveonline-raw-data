@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002066,
+        "system_id": 30000867
+    },
+    "name": "Stargate (D7-ZAC)",
+    "position": {
+        "x": -3322582179840,
+        "y": -16850165760,
+        "z": -2878329937920
+    },
+    "stargate_id": 50002593,
+    "system_id": 30000868,
+    "type_id": 16
+}

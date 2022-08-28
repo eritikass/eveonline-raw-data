@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010950,
+        "system_id": 30002928
+    },
+    "name": "Stargate (LT-DRO)",
+    "position": {
+        "x": 4786350120960,
+        "y": -457315246080,
+        "z": 1288356126720
+    },
+    "stargate_id": 50011282,
+    "system_id": 30002930,
+    "type_id": 16
+}

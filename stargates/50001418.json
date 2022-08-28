@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002288,
+        "system_id": 30000616
+    },
+    "name": "Stargate (995-3G)",
+    "position": {
+        "x": 259222609920,
+        "y": -33960222720,
+        "z": 1313935564800
+    },
+    "stargate_id": 50001418,
+    "system_id": 30000613,
+    "type_id": 29633
+}

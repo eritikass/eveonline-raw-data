@@ -1,0 +1,82 @@
+{
+    "constellation_id": 20000458,
+    "name": "E1UU-3",
+    "planets": [
+        {
+            "planet_id": 40199091
+        },
+        {
+            "moons": [
+                40199093
+            ],
+            "planet_id": 40199092
+        },
+        {
+            "asteroid_belts": [
+                40199095
+            ],
+            "planet_id": 40199094
+        },
+        {
+            "asteroid_belts": [
+                40199097,
+                40199098
+            ],
+            "planet_id": 40199096
+        },
+        {
+            "asteroid_belts": [
+                40199100
+            ],
+            "planet_id": 40199099
+        },
+        {
+            "moons": [
+                40199102,
+                40199103
+            ],
+            "planet_id": 40199101
+        },
+        {
+            "asteroid_belts": [
+                40199105
+            ],
+            "moons": [
+                40199106
+            ],
+            "planet_id": 40199104
+        },
+        {
+            "asteroid_belts": [
+                40199108
+            ],
+            "moons": [
+                40199109
+            ],
+            "planet_id": 40199107
+        },
+        {
+            "asteroid_belts": [
+                40199111
+            ],
+            "moons": [
+                40199112,
+                40199113
+            ],
+            "planet_id": 40199110
+        }
+    ],
+    "position": {
+        "x": -90723211678074450,
+        "y": 10154072170956692,
+        "z": -427628112702152260
+    },
+    "security_class": "G5",
+    "security_status": -0.6787484884262085,
+    "star_id": 40199090,
+    "stargates": [
+        50009931,
+        50009932
+    ],
+    "system_id": 30003136
+}

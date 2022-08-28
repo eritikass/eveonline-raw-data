@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000531,
+        "system_id": 30002302
+    },
+    "name": "Stargate (3G-LFX)",
+    "position": {
+        "x": -2054010347520,
+        "y": 107397734400,
+        "z": 3673803694080
+    },
+    "stargate_id": 50001438,
+    "system_id": 30002304,
+    "type_id": 3875
+}

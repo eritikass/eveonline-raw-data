@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011401,
+        "system_id": 30004183
+    },
+    "name": "Stargate (MK-YNM)",
+    "position": {
+        "x": 1944524759040,
+        "y": -259580436480,
+        "z": -309644943360
+    },
+    "stargate_id": 50010559,
+    "system_id": 30004176,
+    "type_id": 3874
+}

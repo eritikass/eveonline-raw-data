@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009896,
+        "system_id": 30003051
+    },
+    "name": "Stargate (Antollare)",
+    "position": {
+        "x": -575008481280,
+        "y": 52367646720,
+        "z": 110890721280
+    },
+    "stargate_id": 50009133,
+    "system_id": 30003049,
+    "type_id": 3875
+}

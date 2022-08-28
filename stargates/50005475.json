@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004230,
+        "system_id": 30000036
+    },
+    "name": "Stargate (Yishinoon)",
+    "position": {
+        "x": 46831902720,
+        "y": 9194741760,
+        "z": -56432271360
+    },
+    "stargate_id": 50005475,
+    "system_id": 30000037,
+    "type_id": 29624
+}

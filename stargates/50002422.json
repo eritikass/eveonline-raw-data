@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005362,
+        "system_id": 30000055
+    },
+    "name": "Stargate (Zemalu)",
+    "position": {
+        "x": 2581523865600,
+        "y": -376681881600,
+        "z": -370966487040
+    },
+    "stargate_id": 50002422,
+    "system_id": 30000054,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002175,
+        "system_id": 30000130
+    },
+    "name": "Stargate (Shihuken)",
+    "position": {
+        "x": -771048529920,
+        "y": -55107379200,
+        "z": 432396656640
+    },
+    "stargate_id": 50001165,
+    "system_id": 30000128,
+    "type_id": 16
+}

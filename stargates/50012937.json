@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011870,
+        "system_id": 30003298
+    },
+    "name": "Stargate (UM-Q7F)",
+    "position": {
+        "x": -1484462530560,
+        "y": 62417018880,
+        "z": -3021734338560
+    },
+    "stargate_id": 50012937,
+    "system_id": 30003299,
+    "type_id": 3875
+}

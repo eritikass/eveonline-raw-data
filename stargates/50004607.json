@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003894,
+        "system_id": 30002327
+    },
+    "name": "Stargate (TP-RTO)",
+    "position": {
+        "x": 853379358720,
+        "y": -53111808000,
+        "z": 1849818685440
+    },
+    "stargate_id": 50004607,
+    "system_id": 30002329,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005038,
+        "system_id": 30002547
+    },
+    "name": "Stargate (Ammold)",
+    "position": {
+        "x": -398117068800,
+        "y": -60082053120,
+        "z": -787150970880
+    },
+    "stargate_id": 50004912,
+    "system_id": 30002544,
+    "type_id": 29633
+}

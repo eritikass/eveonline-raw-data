@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011139,
+        "system_id": 30001784
+    },
+    "name": "Stargate (24I-FE)",
+    "position": {
+        "x": -113071841280,
+        "y": -4655800320,
+        "z": 1003309916160
+    },
+    "stargate_id": 50012079,
+    "system_id": 30001786,
+    "type_id": 3875
+}

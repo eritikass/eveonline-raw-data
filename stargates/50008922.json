@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008562,
+        "system_id": 30003306
+    },
+    "name": "Stargate (UTKS-5)",
+    "position": {
+        "x": 3846009692160,
+        "y": -621616373760,
+        "z": 776023695360
+    },
+    "stargate_id": 50008922,
+    "system_id": 30003308,
+    "type_id": 3875
+}

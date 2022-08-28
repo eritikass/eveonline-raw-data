@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008793,
+        "system_id": 30003336
+    },
+    "name": "Stargate (10UZ-P)",
+    "position": {
+        "x": 1351085137920,
+        "y": 121106964480,
+        "z": -115852861440
+    },
+    "stargate_id": 50008978,
+    "system_id": 30003338,
+    "type_id": 3875
+}

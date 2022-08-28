@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010766,
+        "system_id": 30005077
+    },
+    "name": "Stargate (Atarli)",
+    "position": {
+        "x": 5147879055360,
+        "y": 1947822366720,
+        "z": -3513590046720
+    },
+    "stargate_id": 50006413,
+    "system_id": 30005238,
+    "type_id": 29626
+}

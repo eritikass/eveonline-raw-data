@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002901,
+        "system_id": 30000091
+    },
+    "name": "Stargate (Eshwil)",
+    "position": {
+        "x": -4563477749760,
+        "y": 446773125120,
+        "z": -966155673600
+    },
+    "stargate_id": 50000601,
+    "system_id": 30000089,
+    "type_id": 29624
+}

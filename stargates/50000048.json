@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001477,
+        "system_id": 30001081
+    },
+    "name": "Stargate (1NZV-7)",
+    "position": {
+        "x": -22242877440,
+        "y": 3180748800,
+        "z": -73119129600
+    },
+    "stargate_id": 50000048,
+    "system_id": 30001075,
+    "type_id": 3875
+}

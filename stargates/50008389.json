@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008630,
+        "system_id": 30001342
+    },
+    "name": "Stargate (AZ-UWB)",
+    "position": {
+        "x": 4078494228480,
+        "y": -468677222400,
+        "z": 3099852103680
+    },
+    "stargate_id": 50008389,
+    "system_id": 30001341,
+    "type_id": 16
+}

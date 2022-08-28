@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013848,
+        "system_id": 30004341
+    },
+    "name": "Stargate (Z-K495)",
+    "position": {
+        "x": -3465234063360,
+        "y": -3265019781120,
+        "z": 3505260994560
+    },
+    "stargate_id": 50013847,
+    "system_id": 30004322,
+    "type_id": 12292
+}

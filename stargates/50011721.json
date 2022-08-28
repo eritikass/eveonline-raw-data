@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009506,
+        "system_id": 30003243
+    },
+    "name": "Stargate (HO4E-Q)",
+    "position": {
+        "x": -159016181760,
+        "y": -2686824161280,
+        "z": -989483704320
+    },
+    "stargate_id": 50011721,
+    "system_id": 30003265,
+    "type_id": 3874
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013180,
+        "system_id": 30004211
+    },
+    "name": "Stargate (T-67F8)",
+    "position": {
+        "x": 90296524800,
+        "y": 12585492480,
+        "z": 77313515520
+    },
+    "stargate_id": 50013145,
+    "system_id": 30004210,
+    "type_id": 3875
+}

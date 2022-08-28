@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002353,
+        "system_id": 30000879
+    },
+    "name": "Stargate (DL1C-E)",
+    "position": {
+        "x": 1281434787840,
+        "y": 123794595840,
+        "z": 2963009740800
+    },
+    "stargate_id": 50002661,
+    "system_id": 30000881,
+    "type_id": 16
+}

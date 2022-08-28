@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013263,
+        "system_id": 30004261
+    },
+    "name": "Stargate (Balas)",
+    "position": {
+        "x": 3632646758400,
+        "y": 478323548160,
+        "z": 1775411896320
+    },
+    "stargate_id": 50012599,
+    "system_id": 30004259,
+    "type_id": 29624
+}

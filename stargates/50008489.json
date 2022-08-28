@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009033,
+        "system_id": 30003910
+    },
+    "name": "Stargate (Balanaz)",
+    "position": {
+        "x": -4480298557440,
+        "y": -624497909760,
+        "z": 1303316275200
+    },
+    "stargate_id": 50008489,
+    "system_id": 30003909,
+    "type_id": 29624
+}

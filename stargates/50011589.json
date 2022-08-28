@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011956,
+        "system_id": 30005184
+    },
+    "name": "Stargate (F-A3TR)",
+    "position": {
+        "x": 539039539200,
+        "y": 29901742080,
+        "z": -159274967040
+    },
+    "stargate_id": 50011589,
+    "system_id": 30005181,
+    "type_id": 3875
+}

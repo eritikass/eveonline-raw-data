@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013051,
+        "system_id": 30004215
+    },
+    "name": "Stargate (J-QOKQ)",
+    "position": {
+        "x": -839367843840,
+        "y": 2772194058240,
+        "z": -5028104232960
+    },
+    "stargate_id": 50013035,
+    "system_id": 30004207,
+    "type_id": 3874
+}

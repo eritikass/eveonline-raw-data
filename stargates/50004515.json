@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004898,
+        "system_id": 30000891
+    },
+    "name": "Stargate (L-VXTK)",
+    "position": {
+        "x": 83271966720,
+        "y": -4915077120,
+        "z": 144259276800
+    },
+    "stargate_id": 50004515,
+    "system_id": 30000890,
+    "type_id": 16
+}

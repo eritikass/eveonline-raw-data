@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013440,
+        "system_id": 30004918
+    },
+    "name": "Stargate (RI-JB1)",
+    "position": {
+        "x": 8207496437760,
+        "y": -662019809280,
+        "z": -909210378240
+    },
+    "stargate_id": 50013350,
+    "system_id": 30004915,
+    "type_id": 29633
+}

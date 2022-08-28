@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008790,
+        "system_id": 30001715
+    },
+    "name": "Stargate (Moutid)",
+    "position": {
+        "x": -3235522437120,
+        "y": 537952788480,
+        "z": -2334733885440
+    },
+    "stargate_id": 50008162,
+    "system_id": 30001713,
+    "type_id": 29624
+}

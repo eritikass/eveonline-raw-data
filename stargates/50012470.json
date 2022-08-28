@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010899,
+        "system_id": 30003252
+    },
+    "name": "Stargate (XM-RMD)",
+    "position": {
+        "x": -190895185920,
+        "y": -30886502400,
+        "z": 66192384000
+    },
+    "stargate_id": 50012470,
+    "system_id": 30003254,
+    "type_id": 3875
+}

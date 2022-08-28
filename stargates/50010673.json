@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012242,
+        "system_id": 30003162
+    },
+    "name": "Stargate (HHE5-L)",
+    "position": {
+        "x": 2399995699200,
+        "y": -360893767680,
+        "z": -760457502720
+    },
+    "stargate_id": 50010673,
+    "system_id": 30003158,
+    "type_id": 29624
+}

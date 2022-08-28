@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006667,
+        "system_id": 30002605
+    },
+    "name": "Stargate (E7VE-V)",
+    "position": {
+        "x": -1483748843520,
+        "y": 1610531512320,
+        "z": -4736232529920
+    },
+    "stargate_id": 50006322,
+    "system_id": 30002596,
+    "type_id": 3877
+}

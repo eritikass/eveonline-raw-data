@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008546,
+        "system_id": 30001870
+    },
+    "name": "Stargate (A-GPTM)",
+    "position": {
+        "x": 286376632320,
+        "y": -56995307520,
+        "z": 1729071144960
+    },
+    "stargate_id": 50008220,
+    "system_id": 30001869,
+    "type_id": 29624
+}

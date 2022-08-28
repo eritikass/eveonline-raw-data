@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000599,
+        "system_id": 30001057
+    },
+    "name": "Stargate (7-YHRX)",
+    "position": {
+        "x": -123472158720,
+        "y": 3358679040,
+        "z": 387235307520
+    },
+    "stargate_id": 50002426,
+    "system_id": 30001059,
+    "type_id": 3875
+}

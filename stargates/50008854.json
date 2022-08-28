@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009859,
+        "system_id": 30004349
+    },
+    "name": "Stargate (UB-UQZ)",
+    "position": {
+        "x": -4259757465600,
+        "y": 385558487040,
+        "z": 3628277760
+    },
+    "stargate_id": 50008854,
+    "system_id": 30004346,
+    "type_id": 16
+}

@@ -1,0 +1,63 @@
+{
+    "constellation_id": 20000250,
+    "name": "Kibursha",
+    "planets": [
+        {
+            "planet_id": 40107533
+        },
+        {
+            "planet_id": 40107534
+        },
+        {
+            "planet_id": 40107535
+        },
+        {
+            "asteroid_belts": [
+                40107537
+            ],
+            "planet_id": 40107536
+        },
+        {
+            "asteroid_belts": [
+                40107539
+            ],
+            "moons": [
+                40107540
+            ],
+            "planet_id": 40107538
+        },
+        {
+            "moons": [
+                40107542,
+                40107543,
+                40107544
+            ],
+            "planet_id": 40107541
+        },
+        {
+            "asteroid_belts": [
+                40107546
+            ],
+            "moons": [
+                40107547
+            ],
+            "planet_id": 40107545
+        }
+    ],
+    "position": {
+        "x": -246956495825351870,
+        "y": 36560585427107780,
+        "z": -138628944963877950
+    },
+    "security_class": "B",
+    "security_status": 0.7617628574371338,
+    "star_id": 40107532,
+    "stargates": [
+        50005573,
+        50005574
+    ],
+    "stations": [
+        60008023
+    ],
+    "system_id": 30001692
+}

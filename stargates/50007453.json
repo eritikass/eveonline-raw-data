@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005963,
+        "system_id": 30003760
+    },
+    "name": "Stargate (JEIV-E)",
+    "position": {
+        "x": -3506009579520,
+        "y": -400569999360,
+        "z": 4558122147840
+    },
+    "stargate_id": 50007453,
+    "system_id": 30003761,
+    "type_id": 29624
+}

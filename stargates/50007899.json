@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011471,
+        "system_id": 30001727
+    },
+    "name": "Stargate (Rand)",
+    "position": {
+        "x": -3018885488640,
+        "y": -510537523200,
+        "z": -5165500293120
+    },
+    "stargate_id": 50007899,
+    "system_id": 30001705,
+    "type_id": 17
+}

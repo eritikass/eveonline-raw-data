@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008919,
+        "system_id": 30003447
+    },
+    "name": "Stargate (Josekorn)",
+    "position": {
+        "x": -7409230602240,
+        "y": -6687120384000,
+        "z": -6723899351040
+    },
+    "stargate_id": 50008169,
+    "system_id": 30003433,
+    "type_id": 3877
+}

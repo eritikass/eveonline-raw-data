@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006039,
+        "system_id": 30001722
+    },
+    "name": "Stargate (Marthia)",
+    "position": {
+        "x": -364220375040,
+        "y": 1751597998080,
+        "z": -2687410790400
+    },
+    "stargate_id": 50005852,
+    "system_id": 30001701,
+    "type_id": 17
+}

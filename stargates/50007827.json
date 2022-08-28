@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007762,
+        "system_id": 30001877
+    },
+    "name": "Stargate (8ZO-CK)",
+    "position": {
+        "x": 5983295447040,
+        "y": 715890155520,
+        "z": 73810944000
+    },
+    "stargate_id": 50007827,
+    "system_id": 30001878,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008839,
+        "system_id": 30004425
+    },
+    "name": "Stargate (Z-PNIA)",
+    "position": {
+        "x": -2835278438400,
+        "y": 359840686080,
+        "z": 1013295390720
+    },
+    "stargate_id": 50009119,
+    "system_id": 30004426,
+    "type_id": 29633
+}

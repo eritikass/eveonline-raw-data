@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000669,
+        "system_id": 30002712
+    },
+    "name": "Stargate (Alillere)",
+    "position": {
+        "x": 2884063764480,
+        "y": 3368739840000,
+        "z": 3151884410880
+    },
+    "stargate_id": 50002952,
+    "system_id": 30002664,
+    "type_id": 3874
+}

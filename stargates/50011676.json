@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012247,
+        "system_id": 30004282
+    },
+    "name": "Stargate (Getrenjesa)",
+    "position": {
+        "x": -1875803136000,
+        "y": 173458268160,
+        "z": 6069352734720
+    },
+    "stargate_id": 50011676,
+    "system_id": 30004280,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011068,
+        "system_id": 30001937
+    },
+    "name": "Stargate (JU-UYK)",
+    "position": {
+        "x": 380640829440,
+        "y": 63143239680,
+        "z": 855746273280
+    },
+    "stargate_id": 50012607,
+    "system_id": 30001938,
+    "type_id": 29624
+}

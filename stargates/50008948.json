@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008857,
+        "system_id": 30002576
+    },
+    "name": "Stargate (Hrondmund)",
+    "position": {
+        "x": -65793761280,
+        "y": -12565094400,
+        "z": -18961244160
+    },
+    "stargate_id": 50008948,
+    "system_id": 30002577,
+    "type_id": 29633
+}

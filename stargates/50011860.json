@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012387,
+        "system_id": 30003604
+    },
+    "name": "Stargate (Pochelympe)",
+    "position": {
+        "x": -3196820643840,
+        "y": -123553751040,
+        "z": 6860915466240
+    },
+    "stargate_id": 50011860,
+    "system_id": 30003603,
+    "type_id": 3875
+}

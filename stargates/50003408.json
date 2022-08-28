@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005072,
+        "system_id": 30001982
+    },
+    "name": "Stargate (G95-VZ)",
+    "position": {
+        "x": -740937523200,
+        "y": 72396349440,
+        "z": 1045926174720
+    },
+    "stargate_id": 50003408,
+    "system_id": 30001977,
+    "type_id": 16
+}

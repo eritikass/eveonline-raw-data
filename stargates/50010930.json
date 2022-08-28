@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011102,
+        "system_id": 30004748
+    },
+    "name": "Stargate (T-IPZB)",
+    "position": {
+        "x": -56999485440,
+        "y": -6082928640,
+        "z": 160178626560
+    },
+    "stargate_id": 50010930,
+    "system_id": 30004745,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004654,
+        "system_id": 30003409
+    },
+    "name": "Stargate (Leurtmar)",
+    "position": {
+        "x": -1307904368640,
+        "y": -5377597440,
+        "z": -1569864622080
+    },
+    "stargate_id": 50005543,
+    "system_id": 30003410,
+    "type_id": 29633
+}

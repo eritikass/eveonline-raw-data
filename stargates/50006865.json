@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007132,
+        "system_id": 30003877
+    },
+    "name": "Stargate (Gidali)",
+    "position": {
+        "x": -1917430947840,
+        "y": -369918812160,
+        "z": 6642262548480
+    },
+    "stargate_id": 50006865,
+    "system_id": 30003876,
+    "type_id": 29624
+}

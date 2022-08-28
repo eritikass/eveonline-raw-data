@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000799,
+        "system_id": 30002189
+    },
+    "name": "Stargate (Hedion)",
+    "position": {
+        "x": 103207034880,
+        "y": 11885322240,
+        "z": 837050327040
+    },
+    "stargate_id": 50002803,
+    "system_id": 30002190,
+    "type_id": 29624
+}

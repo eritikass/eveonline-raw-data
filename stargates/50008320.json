@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008340,
+        "system_id": 30003323
+    },
+    "name": "Stargate (TXW-EI)",
+    "position": {
+        "x": -155443200,
+        "y": 28876800,
+        "z": 64013475840
+    },
+    "stargate_id": 50008320,
+    "system_id": 30003321,
+    "type_id": 3875
+}

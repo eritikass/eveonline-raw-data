@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013832,
+        "system_id": 30000899
+    },
+    "name": "Stargate (QFF-O6)",
+    "position": {
+        "x": 286733230080,
+        "y": -6006903889920,
+        "z": 3116472606720
+    },
+    "stargate_id": 50013831,
+    "system_id": 30000303,
+    "type_id": 12292
+}

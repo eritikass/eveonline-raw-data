@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006678,
+        "system_id": 30002014
+    },
+    "name": "Stargate (DP-1YE)",
+    "position": {
+        "x": 997557657600,
+        "y": -22606356480,
+        "z": -2086386769920
+    },
+    "stargate_id": 50006926,
+    "system_id": 30002015,
+    "type_id": 16
+}

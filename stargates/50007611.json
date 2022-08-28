@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007320,
+        "system_id": 30001867
+    },
+    "name": "Stargate (40GX-P)",
+    "position": {
+        "x": 389990277120,
+        "y": 30862417920,
+        "z": -71329013760
+    },
+    "stargate_id": 50007611,
+    "system_id": 30001868,
+    "type_id": 29624
+}

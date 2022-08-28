@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001303,
+        "system_id": 30000619
+    },
+    "name": "Stargate (BLMX-B)",
+    "position": {
+        "x": 216261550080,
+        "y": -29977190400,
+        "z": -32782295040
+    },
+    "stargate_id": 50001420,
+    "system_id": 30000620,
+    "type_id": 29633
+}

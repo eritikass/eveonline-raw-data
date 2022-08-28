@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006506,
+        "system_id": 30003043
+    },
+    "name": "Stargate (Uphene)",
+    "position": {
+        "x": -108847226880,
+        "y": 776724480,
+        "z": -2312224727040
+    },
+    "stargate_id": 50005279,
+    "system_id": 30003040,
+    "type_id": 3875
+}

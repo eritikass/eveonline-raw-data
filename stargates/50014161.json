@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014162,
+        "system_id": 30014971
+    },
+    "name": "Stargate (Couster)",
+    "position": {
+        "x": -1782591528960,
+        "y": 295695605760,
+        "z": -3191942799360
+    },
+    "stargate_id": 50014161,
+    "system_id": 30004972,
+    "type_id": 3875
+}

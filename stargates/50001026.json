@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001693,
+        "system_id": 30001401
+    },
+    "name": "Stargate (Nonni)",
+    "position": {
+        "x": 2206190592000,
+        "y": 278660751360,
+        "z": -3295614197760
+    },
+    "stargate_id": 50001026,
+    "system_id": 30001399,
+    "type_id": 16
+}

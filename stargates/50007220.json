@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004744,
+        "system_id": 30000161
+    },
+    "name": "Stargate (Purjola)",
+    "position": {
+        "x": 615026565120,
+        "y": 49294417920,
+        "z": -880005242880
+    },
+    "stargate_id": 50007220,
+    "system_id": 30000162,
+    "type_id": 16
+}

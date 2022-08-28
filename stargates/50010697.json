@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010711,
+        "system_id": 30004556
+    },
+    "name": "Stargate (IR-WT1)",
+    "position": {
+        "x": -1782721536000,
+        "y": 94721433600,
+        "z": 7237106196480
+    },
+    "stargate_id": 50010697,
+    "system_id": 30004555,
+    "type_id": 3875
+}

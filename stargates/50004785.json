@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003144,
+        "system_id": 30002050
+    },
+    "name": "Stargate (Hagilur)",
+    "position": {
+        "x": 97141678080,
+        "y": 3030874644480,
+        "z": 3559734927360
+    },
+    "stargate_id": 50004785,
+    "system_id": 30002076,
+    "type_id": 3877
+}

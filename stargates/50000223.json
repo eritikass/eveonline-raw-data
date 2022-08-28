@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001904,
+        "system_id": 30001026
+    },
+    "name": "Stargate (K-QWHE)",
+    "position": {
+        "x": 1587200532480,
+        "y": 170855915520,
+        "z": 2928487587840
+    },
+    "stargate_id": 50000223,
+    "system_id": 30001022,
+    "type_id": 29633
+}

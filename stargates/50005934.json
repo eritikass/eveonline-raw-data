@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008375,
+        "system_id": 30001717
+    },
+    "name": "Stargate (Adar)",
+    "position": {
+        "x": 3492915732480,
+        "y": -543235645440,
+        "z": 977492582400
+    },
+    "stargate_id": 50005934,
+    "system_id": 30001716,
+    "type_id": 29624
+}

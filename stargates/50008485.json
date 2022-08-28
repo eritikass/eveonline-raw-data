@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011492,
+        "system_id": 30005021
+    },
+    "name": "Stargate (Adrel)",
+    "position": {
+        "x": -302997626880,
+        "y": -54344540160,
+        "z": -170186711040
+    },
+    "stargate_id": 50008485,
+    "system_id": 30005017,
+    "type_id": 3875
+}

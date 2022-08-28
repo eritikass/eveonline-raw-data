@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004831,
+        "system_id": 30003480
+    },
+    "name": "Stargate (Amod)",
+    "position": {
+        "x": -1509388001280,
+        "y": -297109463040,
+        "z": 193660477440
+    },
+    "stargate_id": 50004050,
+    "system_id": 30003479,
+    "type_id": 29624
+}

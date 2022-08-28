@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000814,
+        "system_id": 30000070
+    },
+    "name": "Stargate (Gomati)",
+    "position": {
+        "x": 2351990169600,
+        "y": -258602803200,
+        "z": 4862215495680
+    },
+    "stargate_id": 50002262,
+    "system_id": 30000075,
+    "type_id": 29624
+}

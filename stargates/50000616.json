@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000256,
+        "system_id": 30002743
+    },
+    "name": "Stargate (Ohvosamon)",
+    "position": {
+        "x": -2660704296960,
+        "y": 230609018880,
+        "z": 262995517440
+    },
+    "stargate_id": 50000616,
+    "system_id": 30002744,
+    "type_id": 16
+}

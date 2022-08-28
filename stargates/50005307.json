@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005272,
+        "system_id": 30001306
+    },
+    "name": "Stargate (9IPC-E)",
+    "position": {
+        "x": 1610726400000,
+        "y": 40809308160,
+        "z": 412416122880
+    },
+    "stargate_id": 50005307,
+    "system_id": 30001307,
+    "type_id": 16
+}

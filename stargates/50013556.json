@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013555,
+        "system_id": 30004107
+    },
+    "name": "Stargate (Zimmem)",
+    "position": {
+        "x": -6351758254080,
+        "y": -374478888960,
+        "z": -2342650552320
+    },
+    "stargate_id": 50013556,
+    "system_id": 30004112,
+    "type_id": 17
+}

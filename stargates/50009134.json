@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008761,
+        "system_id": 30004038
+    },
+    "name": "Stargate (XT-R36)",
+    "position": {
+        "x": 327438213120,
+        "y": 43961180160,
+        "z": -1608609669120
+    },
+    "stargate_id": 50009134,
+    "system_id": 30004041,
+    "type_id": 3875
+}

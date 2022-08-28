@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009606,
+        "system_id": 30005272
+    },
+    "name": "Stargate (Olin)",
+    "position": {
+        "x": 4177392721920,
+        "y": 371892019200,
+        "z": -729696460800
+    },
+    "stargate_id": 50009996,
+    "system_id": 30005274,
+    "type_id": 29624
+}

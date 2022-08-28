@@ -1,0 +1,60 @@
+{
+    "constellation_id": 20000781,
+    "name": "Okagaiken",
+    "planets": [
+        {
+            "planet_id": 40347678
+        },
+        {
+            "asteroid_belts": [
+                40347680
+            ],
+            "moons": [
+                40347681
+            ],
+            "planet_id": 40347679
+        },
+        {
+            "asteroid_belts": [
+                40347683,
+                40347684
+            ],
+            "planet_id": 40347682
+        },
+        {
+            "asteroid_belts": [
+                40347686
+            ],
+            "moons": [
+                40347687
+            ],
+            "planet_id": 40347685
+        },
+        {
+            "asteroid_belts": [
+                40347689,
+                40347690
+            ],
+            "moons": [
+                40347691
+            ],
+            "planet_id": 40347688
+        }
+    ],
+    "position": {
+        "x": -262404761144248670,
+        "y": 75600944615223900,
+        "z": 187321191738702820
+    },
+    "security_status": 0.14007709920406342,
+    "star_id": 40347677,
+    "stargates": [
+        50016225,
+        50016227,
+        50016245
+    ],
+    "stations": [
+        60015106
+    ],
+    "system_id": 30045307
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001727,
+        "system_id": 30000695
+    },
+    "name": "Stargate (F2-NXA)",
+    "position": {
+        "x": -1253063270400,
+        "y": 98308792320,
+        "z": 1728991272960
+    },
+    "stargate_id": 50001037,
+    "system_id": 30000692,
+    "type_id": 29633
+}

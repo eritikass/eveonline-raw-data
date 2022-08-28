@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008192,
+        "system_id": 30003827
+    },
+    "name": "Stargate (Aubenall)",
+    "position": {
+        "x": -1166019256320,
+        "y": 100424785920,
+        "z": -936185733120
+    },
+    "stargate_id": 50008494,
+    "system_id": 30003829,
+    "type_id": 3875
+}

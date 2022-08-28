@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007566,
+        "system_id": 30005131
+    },
+    "name": "Stargate (U-W436)",
+    "position": {
+        "x": -3064893972480,
+        "y": 568768880640,
+        "z": -5060178862080
+    },
+    "stargate_id": 50008016,
+    "system_id": 30005132,
+    "type_id": 3875
+}

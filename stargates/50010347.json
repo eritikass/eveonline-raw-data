@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011970,
+        "system_id": 30005279
+    },
+    "name": "Stargate (Anara)",
+    "position": {
+        "x": 481015111680,
+        "y": 47987712000,
+        "z": -484194017280
+    },
+    "stargate_id": 50010347,
+    "system_id": 30005276,
+    "type_id": 29624
+}

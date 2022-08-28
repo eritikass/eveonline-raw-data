@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010738,
+        "system_id": 30004134
+    },
+    "name": "Stargate (Kasi)",
+    "position": {
+        "x": -2535425433600,
+        "y": 2922857717760,
+        "z": 65564221440
+    },
+    "stargate_id": 50011352,
+    "system_id": 30004142,
+    "type_id": 17
+}

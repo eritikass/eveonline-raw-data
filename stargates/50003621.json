@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004416,
+        "system_id": 30001989
+    },
+    "name": "Stargate (L-TS8S)",
+    "position": {
+        "x": 1481993871360,
+        "y": 3378272870400,
+        "z": -18371108167680
+    },
+    "stargate_id": 50003621,
+    "system_id": 30001978,
+    "type_id": 29627
+}

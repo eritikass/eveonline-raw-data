@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007075,
+        "system_id": 30001683
+    },
+    "name": "Stargate (Nasesharafa)",
+    "position": {
+        "x": -2494641315840,
+        "y": -481449615360,
+        "z": 751530762240
+    },
+    "stargate_id": 50010938,
+    "system_id": 30001684,
+    "type_id": 29624
+}

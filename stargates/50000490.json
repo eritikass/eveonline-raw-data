@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004667,
+        "system_id": 30000079
+    },
+    "name": "Stargate (Milu)",
+    "position": {
+        "x": -229378990080,
+        "y": 12490137600,
+        "z": -1767576330240
+    },
+    "stargate_id": 50000490,
+    "system_id": 30000076,
+    "type_id": 29624
+}

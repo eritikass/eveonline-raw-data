@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013532,
+        "system_id": 30004229
+    },
+    "name": "Stargate (Q-VTWJ)",
+    "position": {
+        "x": -445369835520,
+        "y": 56631336960,
+        "z": -88329707520
+    },
+    "stargate_id": 50013090,
+    "system_id": 30004223,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005056,
+        "system_id": 30002582
+    },
+    "name": "Stargate (3-UCBF)",
+    "position": {
+        "x": -114487173120,
+        "y": -19011624960,
+        "z": -1088533094400
+    },
+    "stargate_id": 50004729,
+    "system_id": 30002581,
+    "type_id": 29633
+}

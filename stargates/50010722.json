@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009418,
+        "system_id": 30001446
+    },
+    "name": "Stargate (Otsasai)",
+    "position": {
+        "x": -2067464232960,
+        "y": 69712404480,
+        "z": 813843701760
+    },
+    "stargate_id": 50010722,
+    "system_id": 30001447,
+    "type_id": 16
+}

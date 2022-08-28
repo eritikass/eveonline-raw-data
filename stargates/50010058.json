@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010036,
+        "system_id": 30004517
+    },
+    "name": "Stargate (33FN-P)",
+    "position": {
+        "x": -1174159564800,
+        "y": -180796170240,
+        "z": 861384253440
+    },
+    "stargate_id": 50010058,
+    "system_id": 30004518,
+    "type_id": 3875
+}

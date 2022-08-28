@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007207,
+        "system_id": 30002465
+    },
+    "name": "Stargate (6YC-TU)",
+    "position": {
+        "x": 808582717440,
+        "y": -38766059520,
+        "z": -2296542044160
+    },
+    "stargate_id": 50006069,
+    "system_id": 30002459,
+    "type_id": 16
+}

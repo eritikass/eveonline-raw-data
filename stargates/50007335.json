@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005986,
+        "system_id": 30001993
+    },
+    "name": "Stargate (A8I-C5)",
+    "position": {
+        "x": 482809651200,
+        "y": 89396797440,
+        "z": -378115399680
+    },
+    "stargate_id": 50007335,
+    "system_id": 30001997,
+    "type_id": 16
+}

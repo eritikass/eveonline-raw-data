@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007875,
+        "system_id": 30002659
+    },
+    "name": "Stargate (Dodixie)",
+    "position": {
+        "x": -1712966000640,
+        "y": 62536704000,
+        "z": 2052660879360
+    },
+    "stargate_id": 50007297,
+    "system_id": 30002658,
+    "type_id": 3875
+}

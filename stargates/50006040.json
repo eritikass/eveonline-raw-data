@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006094,
+        "system_id": 30001723
+    },
+    "name": "Stargate (Assiad)",
+    "position": {
+        "x": -8747859763200,
+        "y": 1371300618240,
+        "z": -3254166773760
+    },
+    "stargate_id": 50006040,
+    "system_id": 30001722,
+    "type_id": 29624
+}

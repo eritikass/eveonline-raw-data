@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000582,
+        "system_id": 30002820
+    },
+    "name": "Stargate (N-JK02)",
+    "position": {
+        "x": 1001480478720,
+        "y": -1236455792640,
+        "z": 861294059520
+    },
+    "stargate_id": 50000053,
+    "system_id": 30002847,
+    "type_id": 3874
+}

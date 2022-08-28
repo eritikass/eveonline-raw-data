@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009688,
+        "system_id": 30003464
+    },
+    "name": "Stargate (Aldik)",
+    "position": {
+        "x": 1253878702080,
+        "y": -196941127680,
+        "z": -583512268800
+    },
+    "stargate_id": 50009578,
+    "system_id": 30003462,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001350,
+        "system_id": 30000747
+    },
+    "name": "Stargate (TZN-2V)",
+    "position": {
+        "x": -2182070231040,
+        "y": 101115863040,
+        "z": 3874272092160
+    },
+    "stargate_id": 50002437,
+    "system_id": 30000748,
+    "type_id": 29633
+}

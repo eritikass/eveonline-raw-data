@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002938,
+        "system_id": 30000465
+    },
+    "name": "Stargate (NB-ALM)",
+    "position": {
+        "x": -404231331840,
+        "y": 51029975040,
+        "z": -3317760
+    },
+    "stargate_id": 50000201,
+    "system_id": 30000460,
+    "type_id": 29633
+}

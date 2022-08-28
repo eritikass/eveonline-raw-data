@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007846,
+        "system_id": 30003196
+    },
+    "name": "Stargate (DYS-CG)",
+    "position": {
+        "x": -2692023459840,
+        "y": 2501913354240,
+        "z": 2361568174080
+    },
+    "stargate_id": 50007974,
+    "system_id": 30003210,
+    "type_id": 3874
+}

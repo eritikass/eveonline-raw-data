@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008875,
+        "system_id": 30002719
+    },
+    "name": "Stargate (Miroitem)",
+    "position": {
+        "x": -576023961600,
+        "y": -24494776320,
+        "z": 214595788800
+    },
+    "stargate_id": 50010455,
+    "system_id": 30002722,
+    "type_id": 3875
+}

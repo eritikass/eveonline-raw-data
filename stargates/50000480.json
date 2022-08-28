@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001411,
+        "system_id": 30001378
+    },
+    "name": "Stargate (Ekura)",
+    "position": {
+        "x": 1889569382400,
+        "y": 221964902400,
+        "z": 2596161576960
+    },
+    "stargate_id": 50000480,
+    "system_id": 30001375,
+    "type_id": 16
+}

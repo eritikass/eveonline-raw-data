@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013134,
+        "system_id": 30004662
+    },
+    "name": "Stargate (WMH-SO)",
+    "position": {
+        "x": -1849602170880,
+        "y": -289673256960,
+        "z": -3886119690240
+    },
+    "stargate_id": 50013075,
+    "system_id": 30004661,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009233,
+        "system_id": 30004136
+    },
+    "name": "Stargate (Mod)",
+    "position": {
+        "x": 3510968524800,
+        "y": 5953044357120,
+        "z": -329308938240
+    },
+    "stargate_id": 50009063,
+    "system_id": 30004121,
+    "type_id": 17
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011734,
+        "system_id": 30002067
+    },
+    "name": "Stargate (Brin)",
+    "position": {
+        "x": -74952253440,
+        "y": 8811847680,
+        "z": -602943037440
+    },
+    "stargate_id": 50008719,
+    "system_id": 30002064,
+    "type_id": 29633
+}

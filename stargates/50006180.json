@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006616,
+        "system_id": 30001589
+    },
+    "name": "Stargate (KS8G-M)",
+    "position": {
+        "x": 287917547520,
+        "y": -17801011200,
+        "z": -3220123361280
+    },
+    "stargate_id": 50006180,
+    "system_id": 30001587,
+    "type_id": 3875
+}

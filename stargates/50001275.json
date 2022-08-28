@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004358,
+        "system_id": 30001363
+    },
+    "name": "Stargate (Sobaseki)",
+    "position": {
+        "x": 1954170101760,
+        "y": 1260558213120,
+        "z": -891975229440
+    },
+    "stargate_id": 50001275,
+    "system_id": 30001389,
+    "type_id": 29627
+}

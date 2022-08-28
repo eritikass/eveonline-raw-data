@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013288,
+        "system_id": 30003799
+    },
+    "name": "Stargate (Uphallant)",
+    "position": {
+        "x": -65363189760,
+        "y": 12379299840,
+        "z": 1351909416960
+    },
+    "stargate_id": 50008125,
+    "system_id": 30003796,
+    "type_id": 3875
+}

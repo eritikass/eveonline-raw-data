@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013047,
+        "system_id": 30002948
+    },
+    "name": "Stargate (VPLL-N)",
+    "position": {
+        "x": -1027911229440,
+        "y": -207366021120,
+        "z": -3034706288640
+    },
+    "stargate_id": 50012890,
+    "system_id": 30002945,
+    "type_id": 16
+}

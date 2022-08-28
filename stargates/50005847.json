@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005562,
+        "system_id": 30001691
+    },
+    "name": "Stargate (Mimime)",
+    "position": {
+        "x": -1920381050880,
+        "y": 248764293120,
+        "z": 1587078635520
+    },
+    "stargate_id": 50005847,
+    "system_id": 30001693,
+    "type_id": 29624
+}

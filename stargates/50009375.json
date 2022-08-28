@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009259,
+        "system_id": 30002803
+    },
+    "name": "Stargate (Juunigaishi)",
+    "position": {
+        "x": -6923759738880,
+        "y": 1402811965440,
+        "z": 787527229440
+    },
+    "stargate_id": 50009375,
+    "system_id": 30002804,
+    "type_id": 16
+}

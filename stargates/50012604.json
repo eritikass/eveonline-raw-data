@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012579,
+        "system_id": 30004928
+    },
+    "name": "Stargate (35-JWD)",
+    "position": {
+        "x": -594604400640,
+        "y": 69813411840,
+        "z": 287048785920
+    },
+    "stargate_id": 50012604,
+    "system_id": 30004929,
+    "type_id": 29624
+}

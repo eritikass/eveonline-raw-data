@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008083,
+        "system_id": 30003762
+    },
+    "name": "Stargate (DNR-7M)",
+    "position": {
+        "x": 5888486891520,
+        "y": 73400524800,
+        "z": 6353128611840
+    },
+    "stargate_id": 50010028,
+    "system_id": 30003764,
+    "type_id": 29624
+}

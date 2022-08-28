@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004129,
+        "system_id": 30001975
+    },
+    "name": "Stargate (12YA-2)",
+    "position": {
+        "x": -3282453012480,
+        "y": 623155814400,
+        "z": 509214842880
+    },
+    "stargate_id": 50003599,
+    "system_id": 30001972,
+    "type_id": 16
+}

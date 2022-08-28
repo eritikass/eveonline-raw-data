@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006522,
+        "system_id": 30003804
+    },
+    "name": "Stargate (Pain)",
+    "position": {
+        "x": -589006725120,
+        "y": -16778403840,
+        "z": -807829708800
+    },
+    "stargate_id": 50006484,
+    "system_id": 30003803,
+    "type_id": 3875
+}

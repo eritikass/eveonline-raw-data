@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000695,
+        "system_id": 30004804
+    },
+    "name": "Stargate (BW-WJ2)",
+    "position": {
+        "x": -194685296640,
+        "y": 718876385280,
+        "z": -2646450708480
+    },
+    "stargate_id": 50002229,
+    "system_id": 30002122,
+    "type_id": 29635
+}

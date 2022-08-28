@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005252,
+        "system_id": 30000535
+    },
+    "name": "Stargate (384-IN)",
+    "position": {
+        "x": 4786434908160,
+        "y": -173605478400,
+        "z": -1300790599680
+    },
+    "stargate_id": 50002117,
+    "system_id": 30000557,
+    "type_id": 3877
+}

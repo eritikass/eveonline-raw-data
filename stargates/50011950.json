@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011314,
+        "system_id": 30004687
+    },
+    "name": "Stargate (ZWV-GD)",
+    "position": {
+        "x": 3537297039360,
+        "y": -486143877120,
+        "z": -7039288811520
+    },
+    "stargate_id": 50011950,
+    "system_id": 30004689,
+    "type_id": 29624
+}

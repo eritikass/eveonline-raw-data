@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004803,
+        "system_id": 30000574
+    },
+    "name": "Stargate (H6-EYX)",
+    "position": {
+        "x": 199014113280,
+        "y": -13669539840,
+        "z": -869359411200
+    },
+    "stargate_id": 50002693,
+    "system_id": 30000573,
+    "type_id": 29633
+}

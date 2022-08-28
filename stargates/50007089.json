@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008274,
+        "system_id": 30002807
+    },
+    "name": "Stargate (Nagamanen)",
+    "position": {
+        "x": -2465098752000,
+        "y": -69049589760,
+        "z": 1773237657600
+    },
+    "stargate_id": 50007089,
+    "system_id": 30002806,
+    "type_id": 16
+}

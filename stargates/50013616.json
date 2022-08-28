@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013615,
+        "system_id": 30003726
+    },
+    "name": "Stargate (Y-MPWL)",
+    "position": {
+        "x": 3843431669760,
+        "y": 733494435840,
+        "z": 811208908800
+    },
+    "stargate_id": 50013616,
+    "system_id": 30001742,
+    "type_id": 29625
+}

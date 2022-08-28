@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002755,
+        "system_id": 30001570
+    },
+    "name": "Stargate (Y4B-BQ)",
+    "position": {
+        "x": 137299599360,
+        "y": 6737141760,
+        "z": -497558446080
+    },
+    "stargate_id": 50003273,
+    "system_id": 30001572,
+    "type_id": 3875
+}

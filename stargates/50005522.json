@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005910,
+        "system_id": 30001237
+    },
+    "name": "Stargate (S25C-K)",
+    "position": {
+        "x": 1271305052160,
+        "y": 188215173120,
+        "z": 419907379200
+    },
+    "stargate_id": 50005522,
+    "system_id": 30001235,
+    "type_id": 29624
+}

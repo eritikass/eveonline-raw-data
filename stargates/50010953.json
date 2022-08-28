@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010679,
+        "system_id": 30004455
+    },
+    "name": "Stargate (5-LCI7)",
+    "position": {
+        "x": -105174343680,
+        "y": 5480325120,
+        "z": 511466250240
+    },
+    "stargate_id": 50010953,
+    "system_id": 30004456,
+    "type_id": 29633
+}

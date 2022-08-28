@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007100,
+        "system_id": 30002619
+    },
+    "name": "Stargate (6E-MOW)",
+    "position": {
+        "x": -1103769231360,
+        "y": 5374529740800,
+        "z": -3855959531520
+    },
+    "stargate_id": 50006353,
+    "system_id": 30002598,
+    "type_id": 3877
+}

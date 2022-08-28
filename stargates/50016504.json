@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016505,
+        "system_id": 30002770
+    },
+    "name": "Stargate (Tunudan)",
+    "position": {
+        "x": -120679911185.50594,
+        "y": -8208806312.394073,
+        "z": -25334939508.729
+    },
+    "stargate_id": 50016504,
+    "system_id": 30000021,
+    "type_id": 56317
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012589,
+        "system_id": 30004245
+    },
+    "name": "Stargate (Udianoor)",
+    "position": {
+        "x": -3482665328640,
+        "y": -595071344640,
+        "z": -1603997982720
+    },
+    "stargate_id": 50012966,
+    "system_id": 30004246,
+    "type_id": 29624
+}

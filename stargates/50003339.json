@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003776,
+        "system_id": 30002531
+    },
+    "name": "Stargate (Gerek)",
+    "position": {
+        "x": 224454696960,
+        "y": -276627087360,
+        "z": 3402822082560
+    },
+    "stargate_id": 50003339,
+    "system_id": 30002523,
+    "type_id": 3877
+}

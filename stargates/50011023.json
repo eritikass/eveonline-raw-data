@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012255,
+        "system_id": 30000199
+    },
+    "name": "Stargate (Fuskunen)",
+    "position": {
+        "x": 2421575147520,
+        "y": -271005327360,
+        "z": -1972625694720
+    },
+    "stargate_id": 50011023,
+    "system_id": 30000197,
+    "type_id": 16
+}

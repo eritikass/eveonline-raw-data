@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005769,
+        "system_id": 30004989
+    },
+    "name": "Stargate (Annages)",
+    "position": {
+        "x": 2712723333120,
+        "y": 224323461120,
+        "z": -16103792640
+    },
+    "stargate_id": 50003412,
+    "system_id": 30004987,
+    "type_id": 3875
+}

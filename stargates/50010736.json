@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009393,
+        "system_id": 30004133
+    },
+    "name": "Stargate (Hilmar)",
+    "position": {
+        "x": 902938091520,
+        "y": -46746624000,
+        "z": 3260248350720
+    },
+    "stargate_id": 50010736,
+    "system_id": 30004134,
+    "type_id": 29624
+}

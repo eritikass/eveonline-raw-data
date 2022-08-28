@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009306,
+        "system_id": 30002395
+    },
+    "name": "Stargate (Audesder)",
+    "position": {
+        "x": 19287859200,
+        "y": -2731499520,
+        "z": -676677672960
+    },
+    "stargate_id": 50008096,
+    "system_id": 30002393,
+    "type_id": 29633
+}

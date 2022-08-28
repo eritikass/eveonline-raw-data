@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010111,
+        "system_id": 30001777
+    },
+    "name": "Stargate (JBUH-H)",
+    "position": {
+        "x": 4811056128000,
+        "y": 947945103360,
+        "z": 3174909665280
+    },
+    "stargate_id": 50009950,
+    "system_id": 30001776,
+    "type_id": 3875
+}

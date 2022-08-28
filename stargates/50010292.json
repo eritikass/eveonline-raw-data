@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011673,
+        "system_id": 30001355
+    },
+    "name": "Stargate (C2-DDA)",
+    "position": {
+        "x": 5595958026240,
+        "y": 61556613120,
+        "z": -2999131054080
+    },
+    "stargate_id": 50010292,
+    "system_id": 30001353,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005727,
+        "system_id": 30000087
+    },
+    "name": "Stargate (Gelhan)",
+    "position": {
+        "x": -4030382530560,
+        "y": 105031802880,
+        "z": 2439543152640
+    },
+    "stargate_id": 50012305,
+    "system_id": 30000088,
+    "type_id": 29624
+}

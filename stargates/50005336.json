@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008141,
+        "system_id": 30000178
+    },
+    "name": "Stargate (Akkilen)",
+    "position": {
+        "x": 1345015357440,
+        "y": -68280115200,
+        "z": 3910666690560
+    },
+    "stargate_id": 50005336,
+    "system_id": 30000173,
+    "type_id": 16
+}

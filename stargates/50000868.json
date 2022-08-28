@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001654,
+        "system_id": 30001390
+    },
+    "name": "Stargate (Pakkonen)",
+    "position": {
+        "x": -1656231075840,
+        "y": -326152396800,
+        "z": -2055335485440
+    },
+    "stargate_id": 50000868,
+    "system_id": 30001387,
+    "type_id": 16
+}

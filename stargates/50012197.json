@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012029,
+        "system_id": 30004155
+    },
+    "name": "Stargate (Shemah)",
+    "position": {
+        "x": -296714526720,
+        "y": 42501857280,
+        "z": 1101575331840
+    },
+    "stargate_id": 50012197,
+    "system_id": 30004156,
+    "type_id": 29624
+}

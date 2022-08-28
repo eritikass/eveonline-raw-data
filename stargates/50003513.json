@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004505,
+        "system_id": 30001220
+    },
+    "name": "Stargate (SNFV-I)",
+    "position": {
+        "x": -1381169356800,
+        "y": -233660129280,
+        "z": 657762508800
+    },
+    "stargate_id": 50003513,
+    "system_id": 30001219,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011152,
+        "system_id": 30004761
+    },
+    "name": "Stargate (5BTK-M)",
+    "position": {
+        "x": -1393309900800,
+        "y": -40920883200,
+        "z": -339001221120
+    },
+    "stargate_id": 50011055,
+    "system_id": 30004760,
+    "type_id": 29624
+}

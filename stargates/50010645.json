@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011357,
+        "system_id": 30003233
+    },
+    "name": "Stargate (1P-QWR)",
+    "position": {
+        "x": -248879308800,
+        "y": -9355223040,
+        "z": 192299458560
+    },
+    "stargate_id": 50010645,
+    "system_id": 30003232,
+    "type_id": 3875
+}

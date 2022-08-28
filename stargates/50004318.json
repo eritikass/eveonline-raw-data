@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003937,
+        "system_id": 30001580
+    },
+    "name": "Stargate (GF-GR7)",
+    "position": {
+        "x": -4068299366400,
+        "y": 206126161920,
+        "z": -991363276800
+    },
+    "stargate_id": 50004318,
+    "system_id": 30001582,
+    "type_id": 3875
+}

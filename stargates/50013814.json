@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013813,
+        "system_id": 30000837
+    },
+    "name": "Stargate (HFC-AQ)",
+    "position": {
+        "x": 5504296427520,
+        "y": 2014558986240,
+        "z": 2837149163520
+    },
+    "stargate_id": 50013814,
+    "system_id": 30000813,
+    "type_id": 12292
+}

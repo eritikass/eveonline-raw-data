@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007784,
+        "system_id": 30001733
+    },
+    "name": "Stargate (Tew)",
+    "position": {
+        "x": 967980195840,
+        "y": -75930869760,
+        "z": -1746911109120
+    },
+    "stargate_id": 50007752,
+    "system_id": 30001732,
+    "type_id": 29624
+}

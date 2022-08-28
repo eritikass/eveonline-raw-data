@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008133,
+        "system_id": 30004324
+    },
+    "name": "Stargate (JTAU-5)",
+    "position": {
+        "x": 728162426880,
+        "y": -75670609920,
+        "z": 976079462400
+    },
+    "stargate_id": 50009049,
+    "system_id": 30004327,
+    "type_id": 16
+}

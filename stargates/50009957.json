@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007996,
+        "system_id": 30002474
+    },
+    "name": "Stargate (TJM-JJ)",
+    "position": {
+        "x": -411575623680,
+        "y": -36211138560,
+        "z": -526149181440
+    },
+    "stargate_id": 50009957,
+    "system_id": 30002479,
+    "type_id": 16
+}

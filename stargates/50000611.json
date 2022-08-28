@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002531,
+        "system_id": 30002138
+    },
+    "name": "Stargate (QE-E1D)",
+    "position": {
+        "x": 2514203811840,
+        "y": -745187696640,
+        "z": 191512780800
+    },
+    "stargate_id": 50000611,
+    "system_id": 30002104,
+    "type_id": 3877
+}

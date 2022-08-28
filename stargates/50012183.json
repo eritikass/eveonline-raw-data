@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010270,
+        "system_id": 30000066
+    },
+    "name": "Stargate (Pirohdim)",
+    "position": {
+        "x": -290110709760,
+        "y": -56663285760,
+        "z": 62134640640
+    },
+    "stargate_id": 50012183,
+    "system_id": 30000069,
+    "type_id": 29624
+}

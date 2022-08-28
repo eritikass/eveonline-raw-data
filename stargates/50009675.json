@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009892,
+        "system_id": 30001775
+    },
+    "name": "Stargate (FVQF-W)",
+    "position": {
+        "x": 288394813440,
+        "y": -43850342400,
+        "z": -419466977280
+    },
+    "stargate_id": 50009675,
+    "system_id": 30001774,
+    "type_id": 3875
+}

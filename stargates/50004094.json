@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004155,
+        "system_id": 30001836
+    },
+    "name": "Stargate (VTGN-U)",
+    "position": {
+        "x": 1312263168000,
+        "y": 110461132800,
+        "z": 3242308608000
+    },
+    "stargate_id": 50004094,
+    "system_id": 30001835,
+    "type_id": 29624
+}

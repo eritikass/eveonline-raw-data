@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004004,
+        "system_id": 30000093
+    },
+    "name": "Stargate (Ishkad)",
+    "position": {
+        "x": -1251948011520,
+        "y": 91046338560,
+        "z": -488021237760
+    },
+    "stargate_id": 50001084,
+    "system_id": 30000090,
+    "type_id": 29624
+}

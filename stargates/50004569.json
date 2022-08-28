@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001800,
+        "system_id": 30004085
+    },
+    "name": "Stargate (Gamdis)",
+    "position": {
+        "x": -2821287075840,
+        "y": 106638336000,
+        "z": -1591688601600
+    },
+    "stargate_id": 50004569,
+    "system_id": 30004088,
+    "type_id": 29624
+}

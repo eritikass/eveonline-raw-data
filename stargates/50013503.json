@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013310,
+        "system_id": 30004225
+    },
+    "name": "Stargate (RGU1-T)",
+    "position": {
+        "x": -47824035840,
+        "y": -7455498240,
+        "z": -54686392320
+    },
+    "stargate_id": 50013503,
+    "system_id": 30004227,
+    "type_id": 3875
+}

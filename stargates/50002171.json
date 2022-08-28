@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003722,
+        "system_id": 30001532
+    },
+    "name": "Stargate (5LAJ-8)",
+    "position": {
+        "x": 4458990428160,
+        "y": 514492784640,
+        "z": -278607175680
+    },
+    "stargate_id": 50002171,
+    "system_id": 30001528,
+    "type_id": 3875
+}

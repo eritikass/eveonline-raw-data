@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012174,
+        "system_id": 30004186
+    },
+    "name": "Stargate (E-B957)",
+    "position": {
+        "x": 5745711144960,
+        "y": 516190494720,
+        "z": -2995457925120
+    },
+    "stargate_id": 50011661,
+    "system_id": 30004184,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009131,
+        "system_id": 30003923
+    },
+    "name": "Stargate (Nandeza)",
+    "position": {
+        "x": -56064368640,
+        "y": 4009697280,
+        "z": -1152407592960
+    },
+    "stargate_id": 50009460,
+    "system_id": 30003925,
+    "type_id": 29624
+}

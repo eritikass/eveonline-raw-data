@@ -1,0 +1,72 @@
+{
+    "constellation_id": 20000507,
+    "name": "Naguton",
+    "planets": [
+        {
+            "planet_id": 40220299
+        },
+        {
+            "asteroid_belts": [
+                40220301
+            ],
+            "planet_id": 40220300
+        },
+        {
+            "asteroid_belts": [
+                40220303,
+                40220304
+            ],
+            "moons": [
+                40220305
+            ],
+            "planet_id": 40220302
+        },
+        {
+            "moons": [
+                40220307
+            ],
+            "planet_id": 40220306
+        },
+        {
+            "asteroid_belts": [
+                40220309
+            ],
+            "moons": [
+                40220310
+            ],
+            "planet_id": 40220308
+        },
+        {
+            "moons": [
+                40220312
+            ],
+            "planet_id": 40220311
+        },
+        {
+            "planet_id": 40220313
+        },
+        {
+            "moons": [
+                40220315,
+                40220316
+            ],
+            "planet_id": 40220314
+        }
+    ],
+    "position": {
+        "x": -212619277952252380,
+        "y": 74144988673058900,
+        "z": -17751953950342118
+    },
+    "security_class": "B2",
+    "security_status": 0.3096923232078552,
+    "star_id": 40220298,
+    "stargates": [
+        50002047,
+        50013559
+    ],
+    "stations": [
+        60012703
+    ],
+    "system_id": 30003475
+}

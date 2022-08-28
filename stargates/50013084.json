@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013018,
+        "system_id": 30004941
+    },
+    "name": "Stargate (Y-CWQY)",
+    "position": {
+        "x": -2266576527360,
+        "y": 442963845120,
+        "z": 3223743897600
+    },
+    "stargate_id": 50013084,
+    "system_id": 30004942,
+    "type_id": 29624
+}

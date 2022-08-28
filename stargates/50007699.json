@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006380,
+        "system_id": 30002403
+    },
+    "name": "Stargate (Gonheim)",
+    "position": {
+        "x": -213706629120,
+        "y": -14834933760,
+        "z": 1951524495360
+    },
+    "stargate_id": 50007699,
+    "system_id": 30002406,
+    "type_id": 29633
+}

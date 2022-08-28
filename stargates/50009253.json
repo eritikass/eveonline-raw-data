@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008943,
+        "system_id": 30003559
+    },
+    "name": "Stargate (Mamet)",
+    "position": {
+        "x": 147118940160,
+        "y": -688005120,
+        "z": -40382177280
+    },
+    "stargate_id": 50009253,
+    "system_id": 30003560,
+    "type_id": 29624
+}

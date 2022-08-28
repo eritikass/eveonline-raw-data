@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010872,
+        "system_id": 30003217
+    },
+    "name": "Stargate (7-UVMT)",
+    "position": {
+        "x": -1141656084480,
+        "y": 126575370240,
+        "z": 788199137280
+    },
+    "stargate_id": 50008664,
+    "system_id": 30003216,
+    "type_id": 3875
+}

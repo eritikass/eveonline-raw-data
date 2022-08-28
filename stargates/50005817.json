@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005376,
+        "system_id": 30002389
+    },
+    "name": "Stargate (Atlar)",
+    "position": {
+        "x": -2297692200960,
+        "y": 3584129064960,
+        "z": -1013206671360
+    },
+    "stargate_id": 50005817,
+    "system_id": 30002396,
+    "type_id": 3877
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002979,
+        "system_id": 30001202
+    },
+    "name": "Stargate (MY-W1V)",
+    "position": {
+        "x": 1102509465600,
+        "y": -270779719680,
+        "z": -1268416634880
+    },
+    "stargate_id": 50003512,
+    "system_id": 30001219,
+    "type_id": 17
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005619,
+        "system_id": 30001992
+    },
+    "name": "Stargate (C-H9X7)",
+    "position": {
+        "x": 433520517120,
+        "y": -41435258880,
+        "z": 4128195502080
+    },
+    "stargate_id": 50004600,
+    "system_id": 30001991,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004999,
+        "system_id": 30002898
+    },
+    "name": "Stargate (FMB-JP)",
+    "position": {
+        "x": -5214891171840,
+        "y": -324406026240,
+        "z": -675107266560
+    },
+    "stargate_id": 50004712,
+    "system_id": 30002897,
+    "type_id": 16
+}

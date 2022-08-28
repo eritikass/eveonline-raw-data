@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009981,
+        "system_id": 30003994
+    },
+    "name": "Stargate (RF-CN3)",
+    "position": {
+        "x": 3309217505280,
+        "y": -467833036800,
+        "z": -3780562329600
+    },
+    "stargate_id": 50009837,
+    "system_id": 30003992,
+    "type_id": 29624
+}

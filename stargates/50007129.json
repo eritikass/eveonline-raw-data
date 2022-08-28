@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007154,
+        "system_id": 30002464
+    },
+    "name": "Stargate (K25-XD)",
+    "position": {
+        "x": 2961114931200,
+        "y": 343273267200,
+        "z": 1473971527680
+    },
+    "stargate_id": 50007129,
+    "system_id": 30002463,
+    "type_id": 16
+}

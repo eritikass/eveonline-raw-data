@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003815,
+        "system_id": 30002986
+    },
+    "name": "Stargate (Mendori)",
+    "position": {
+        "x": -346102702080,
+        "y": 4915303833600,
+        "z": -72760074240
+    },
+    "stargate_id": 50006183,
+    "system_id": 30002997,
+    "type_id": 17
+}

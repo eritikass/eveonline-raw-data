@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010332,
+        "system_id": 30005137
+    },
+    "name": "Stargate (9WVY-F)",
+    "position": {
+        "x": 2116729282560,
+        "y": -262344990720,
+        "z": -3695921356800
+    },
+    "stargate_id": 50009217,
+    "system_id": 30005135,
+    "type_id": 3875
+}

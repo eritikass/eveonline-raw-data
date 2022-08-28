@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013414,
+        "system_id": 30002956
+    },
+    "name": "Stargate (UEJX-G)",
+    "position": {
+        "x": -551639900160,
+        "y": 25003253760,
+        "z": 461399285760
+    },
+    "stargate_id": 50013353,
+    "system_id": 30002952,
+    "type_id": 16
+}

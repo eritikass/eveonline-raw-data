@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008109,
+        "system_id": 30003944
+    },
+    "name": "Stargate (A3-LOG)",
+    "position": {
+        "x": -619820605440,
+        "y": -22765363200,
+        "z": -364670115840
+    },
+    "stargate_id": 50007924,
+    "system_id": 30003942,
+    "type_id": 29624
+}

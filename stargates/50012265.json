@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013107,
+        "system_id": 30001935
+    },
+    "name": "Stargate (QCKK-T)",
+    "position": {
+        "x": -2837147197440,
+        "y": -484848721920,
+        "z": 1629414973440
+    },
+    "stargate_id": 50012265,
+    "system_id": 30001932,
+    "type_id": 29624
+}

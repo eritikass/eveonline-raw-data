@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009608,
+        "system_id": 30002270
+    },
+    "name": "Stargate (Avair)",
+    "position": {
+        "x": -535626178560,
+        "y": 53972951040,
+        "z": 966347120640
+    },
+    "stargate_id": 50009889,
+    "system_id": 30002271,
+    "type_id": 29624
+}

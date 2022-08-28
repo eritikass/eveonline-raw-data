@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003692,
+        "system_id": 30000827
+    },
+    "name": "Stargate (74L2-U)",
+    "position": {
+        "x": 197209989120,
+        "y": 13361111040,
+        "z": 498815262720
+    },
+    "stargate_id": 50004157,
+    "system_id": 30000828,
+    "type_id": 29633
+}

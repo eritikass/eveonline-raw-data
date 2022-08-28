@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004602,
+        "system_id": 30002716
+    },
+    "name": "Stargate (Aurcel)",
+    "position": {
+        "x": 796393267200,
+        "y": 84500766720,
+        "z": -2222079959040
+    },
+    "stargate_id": 50003240,
+    "system_id": 30002714,
+    "type_id": 3875
+}

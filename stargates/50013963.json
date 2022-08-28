@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013964,
+        "system_id": 30003491
+    },
+    "name": "Stargate (Ashab)",
+    "position": {
+        "x": -2316308520960,
+        "y": 119334543360,
+        "z": -926394163200
+    },
+    "stargate_id": 50013963,
+    "system_id": 30003489,
+    "type_id": 29624
+}

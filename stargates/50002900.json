@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009776,
+        "system_id": 30002679
+    },
+    "name": "Stargate (Jolia)",
+    "position": {
+        "x": 2377645301760,
+        "y": 73208832000,
+        "z": 294991749120
+    },
+    "stargate_id": 50002900,
+    "system_id": 30002677,
+    "type_id": 3875
+}

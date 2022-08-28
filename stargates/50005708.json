@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005784,
+        "system_id": 30005110
+    },
+    "name": "Stargate (5ZU-VG)",
+    "position": {
+        "x": 430015733760,
+        "y": -32617390080,
+        "z": 247939031040
+    },
+    "stargate_id": 50005708,
+    "system_id": 30005109,
+    "type_id": 3875
+}

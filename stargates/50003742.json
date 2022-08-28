@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003757,
+        "system_id": 30000820
+    },
+    "name": "Stargate (5IH-GL)",
+    "position": {
+        "x": 3170055905280,
+        "y": 157779517440,
+        "z": -1025929912320
+    },
+    "stargate_id": 50003742,
+    "system_id": 30000819,
+    "type_id": 29633
+}

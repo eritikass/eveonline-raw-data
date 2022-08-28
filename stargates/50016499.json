@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016498,
+        "system_id": 30002225
+    },
+    "name": "Stargate (Harva)",
+    "position": {
+        "x": 49946546740.35728,
+        "y": -2461793786.54069,
+        "z": -920024320.559785
+    },
+    "stargate_id": 50016499,
+    "system_id": 30003495,
+    "type_id": 56317
+}

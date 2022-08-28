@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006359,
+        "system_id": 30005124
+    },
+    "name": "Stargate (KOI8-Z)",
+    "position": {
+        "x": 878710333440,
+        "y": 68010516480,
+        "z": 849203896320
+    },
+    "stargate_id": 50006286,
+    "system_id": 30005123,
+    "type_id": 3875
+}

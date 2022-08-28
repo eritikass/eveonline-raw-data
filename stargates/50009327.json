@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008888,
+        "system_id": 30004838
+    },
+    "name": "Stargate (YF-P4X)",
+    "position": {
+        "x": -4831453716480,
+        "y": 2384733020160,
+        "z": -1090641960960
+    },
+    "stargate_id": 50009327,
+    "system_id": 30004839,
+    "type_id": 3877
+}

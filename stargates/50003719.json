@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003300,
+        "system_id": 30000816
+    },
+    "name": "Stargate (DFH-V5)",
+    "position": {
+        "x": -210554757120,
+        "y": 6390620160,
+        "z": 2407511777280
+    },
+    "stargate_id": 50003719,
+    "system_id": 30000818,
+    "type_id": 29633
+}

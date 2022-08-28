@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003915,
+        "system_id": 30001433
+    },
+    "name": "Stargate (Oishami)",
+    "position": {
+        "x": -1525639864320,
+        "y": 82782658560,
+        "z": -1037481123840
+    },
+    "stargate_id": 50003612,
+    "system_id": 30001432,
+    "type_id": 16
+}

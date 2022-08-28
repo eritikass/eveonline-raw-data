@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006962,
+        "system_id": 30003680
+    },
+    "name": "Stargate (P-33KR)",
+    "position": {
+        "x": 1477102510080,
+        "y": -261388001280,
+        "z": -1296262225920
+    },
+    "stargate_id": 50007119,
+    "system_id": 30003682,
+    "type_id": 3875
+}

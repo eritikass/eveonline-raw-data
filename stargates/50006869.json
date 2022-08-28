@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007105,
+        "system_id": 30004410
+    },
+    "name": "Stargate (J-TPTA)",
+    "position": {
+        "x": 2101260165120,
+        "y": -2442782023680,
+        "z": -2204973342720
+    },
+    "stargate_id": 50006869,
+    "system_id": 30004407,
+    "type_id": 3877
+}

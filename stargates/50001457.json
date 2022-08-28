@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001903,
+        "system_id": 30001648
+    },
+    "name": "Stargate (Adahum)",
+    "position": {
+        "x": -162793267200,
+        "y": -24450785280,
+        "z": 2243261521920
+    },
+    "stargate_id": 50001457,
+    "system_id": 30001646,
+    "type_id": 29624
+}

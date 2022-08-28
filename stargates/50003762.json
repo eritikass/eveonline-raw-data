@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004087,
+        "system_id": 30002336
+    },
+    "name": "Stargate (JAWX-R)",
+    "position": {
+        "x": 2651769200640,
+        "y": -23840808960,
+        "z": 3371707146240
+    },
+    "stargate_id": 50003762,
+    "system_id": 30002334,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009762,
+        "system_id": 30001406
+    },
+    "name": "Stargate (Kamokor)",
+    "position": {
+        "x": 595883827200,
+        "y": 115549593600,
+        "z": 1137635450880
+    },
+    "stargate_id": 50010484,
+    "system_id": 30001408,
+    "type_id": 16
+}

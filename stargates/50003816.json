@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003443,
+        "system_id": 30005296
+    },
+    "name": "Stargate (Melmaniel)",
+    "position": {
+        "x": 125172572160,
+        "y": 17536081920,
+        "z": 235096104960
+    },
+    "stargate_id": 50003816,
+    "system_id": 30005297,
+    "type_id": 3875
+}

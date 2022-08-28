@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013029,
+        "system_id": 30004955
+    },
+    "name": "Stargate (ZU-MS3)",
+    "position": {
+        "x": -2710821888000,
+        "y": 123319787520,
+        "z": -85972131840
+    },
+    "stargate_id": 50012900,
+    "system_id": 30004939,
+    "type_id": 17
+}

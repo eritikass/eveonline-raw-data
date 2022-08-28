@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007542,
+        "system_id": 30002221
+    },
+    "name": "Stargate (Fabin)",
+    "position": {
+        "x": 4630374604800,
+        "y": 894340915200,
+        "z": 389310996480
+    },
+    "stargate_id": 50005017,
+    "system_id": 30002220,
+    "type_id": 29624
+}

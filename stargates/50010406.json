@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010451,
+        "system_id": 30003164
+    },
+    "name": "Stargate (QFGB-E)",
+    "position": {
+        "x": 104079237120,
+        "y": -3922452480,
+        "z": -419395706880
+    },
+    "stargate_id": 50010406,
+    "system_id": 30003163,
+    "type_id": 29624
+}

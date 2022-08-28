@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004945,
+        "system_id": 30002388
+    },
+    "name": "Stargate (Oddelulf)",
+    "position": {
+        "x": 1197462773760,
+        "y": -142540677120,
+        "z": -528369623040
+    },
+    "stargate_id": 50004611,
+    "system_id": 30002386,
+    "type_id": 29633
+}

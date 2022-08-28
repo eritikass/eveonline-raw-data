@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000327,
+        "system_id": 30000578
+    },
+    "name": "Stargate (F-EM4Q)",
+    "position": {
+        "x": -184969420800,
+        "y": -22529679360,
+        "z": 2035151708160
+    },
+    "stargate_id": 50001304,
+    "system_id": 30000580,
+    "type_id": 29633
+}

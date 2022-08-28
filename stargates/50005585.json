@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009367,
+        "system_id": 30002276
+    },
+    "name": "Stargate (Isamm)",
+    "position": {
+        "x": -1875808296960,
+        "y": -1949783777280,
+        "z": -1564454215680
+    },
+    "stargate_id": 50005585,
+    "system_id": 30002232,
+    "type_id": 17
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009652,
+        "system_id": 30002470
+    },
+    "name": "Stargate (L-TOFR)",
+    "position": {
+        "x": 1987557089280,
+        "y": -249821798400,
+        "z": 384278323200
+    },
+    "stargate_id": 50008258,
+    "system_id": 30002469,
+    "type_id": 16
+}

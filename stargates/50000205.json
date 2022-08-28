@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005097,
+        "system_id": 30004090
+    },
+    "name": "Stargate (Aband)",
+    "position": {
+        "x": -967693393920,
+        "y": -31030272000,
+        "z": -198002565120
+    },
+    "stargate_id": 50000205,
+    "system_id": 30004084,
+    "type_id": 29624
+}

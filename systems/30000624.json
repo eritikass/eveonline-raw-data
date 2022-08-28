@@ -1,0 +1,64 @@
+{
+    "constellation_id": 20000091,
+    "name": "B-T6BT",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40039152
+            ],
+            "planet_id": 40039151
+        },
+        {
+            "planet_id": 40039153
+        },
+        {
+            "planet_id": 40039154
+        },
+        {
+            "planet_id": 40039155
+        },
+        {
+            "moons": [
+                40039157
+            ],
+            "planet_id": 40039156
+        },
+        {
+            "planet_id": 40039158
+        },
+        {
+            "asteroid_belts": [
+                40039160
+            ],
+            "planet_id": 40039159
+        },
+        {
+            "moons": [
+                40039162,
+                40039163
+            ],
+            "planet_id": 40039161
+        },
+        {
+            "asteroid_belts": [
+                40039165,
+                40039166
+            ],
+            "planet_id": 40039164
+        }
+    ],
+    "position": {
+        "x": 234140753190651500,
+        "y": -19890625509424016,
+        "z": -72332324516879420
+    },
+    "security_class": "F7",
+    "security_status": -0.9010969400405884,
+    "star_id": 40039150,
+    "stargates": [
+        50001235,
+        50001236,
+        50013809
+    ],
+    "system_id": 30000624
+}

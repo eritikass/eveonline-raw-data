@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000176,
+        "system_id": 30000715
+    },
+    "name": "Stargate (Q4C-S5)",
+    "position": {
+        "x": -1464813035520,
+        "y": -295402414080,
+        "z": 2234086563840
+    },
+    "stargate_id": 50001185,
+    "system_id": 30000718,
+    "type_id": 29633
+}

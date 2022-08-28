@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009426,
+        "system_id": 30003460
+    },
+    "name": "Stargate (Offikatlin)",
+    "position": {
+        "x": 524288532480,
+        "y": 87828357120,
+        "z": -3505667973120
+    },
+    "stargate_id": 50009209,
+    "system_id": 30003459,
+    "type_id": 29633
+}

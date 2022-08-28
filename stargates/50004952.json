@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010647,
+        "system_id": 30005020
+    },
+    "name": "Stargate (Seyllin)",
+    "position": {
+        "x": -3298923110400,
+        "y": 1141035786240,
+        "z": 1035502510080
+    },
+    "stargate_id": 50004952,
+    "system_id": 30002637,
+    "type_id": 29632
+}

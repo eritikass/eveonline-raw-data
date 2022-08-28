@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000611,
+        "system_id": 30002104
+    },
+    "name": "Stargate (QI-S9W)",
+    "position": {
+        "x": -1614777999360,
+        "y": 478605926400,
+        "z": -123001282560
+    },
+    "stargate_id": 50002531,
+    "system_id": 30002138,
+    "type_id": 3877
+}

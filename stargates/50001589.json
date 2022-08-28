@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001772,
+        "system_id": 30002133
+    },
+    "name": "Stargate (GM-0K7)",
+    "position": {
+        "x": -349019381760,
+        "y": -49547550720,
+        "z": -3074249564160
+    },
+    "stargate_id": 50001589,
+    "system_id": 30002132,
+    "type_id": 29633
+}

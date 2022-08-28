@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002173,
+        "system_id": 30000665
+    },
+    "name": "Stargate (K212-A)",
+    "position": {
+        "x": 538515333120,
+        "y": -69012971520,
+        "z": 3195617894400
+    },
+    "stargate_id": 50000433,
+    "system_id": 30000660,
+    "type_id": 29633
+}

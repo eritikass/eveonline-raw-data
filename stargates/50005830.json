@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006994,
+        "system_id": 30003751
+    },
+    "name": "Stargate (F-YH5B)",
+    "position": {
+        "x": -1440544972800,
+        "y": -4739358720,
+        "z": -4681005096960
+    },
+    "stargate_id": 50005830,
+    "system_id": 30003750,
+    "type_id": 29624
+}

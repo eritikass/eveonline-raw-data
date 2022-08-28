@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009684,
+        "system_id": 30002560
+    },
+    "name": "Stargate (Gultratren)",
+    "position": {
+        "x": 462604001280,
+        "y": 24079441920,
+        "z": -1223977328640
+    },
+    "stargate_id": 50009319,
+    "system_id": 30002559,
+    "type_id": 29633
+}

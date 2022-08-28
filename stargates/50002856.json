@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002475,
+        "system_id": 30001416
+    },
+    "name": "Stargate (Liukikka)",
+    "position": {
+        "x": -270198005760,
+        "y": -48401080320,
+        "z": -686838374400
+    },
+    "stargate_id": 50002856,
+    "system_id": 30001417,
+    "type_id": 16
+}

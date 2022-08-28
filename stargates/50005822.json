@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005794,
+        "system_id": 30001315
+    },
+    "name": "Stargate (JURU-T)",
+    "position": {
+        "x": -3592697978880,
+        "y": -415077212160,
+        "z": -600481751040
+    },
+    "stargate_id": 50005822,
+    "system_id": 30001316,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003643,
+        "system_id": 30004087
+    },
+    "name": "Stargate (Gonan)",
+    "position": {
+        "x": 4876857384960,
+        "y": -282975068160,
+        "z": -1213128990720
+    },
+    "stargate_id": 50004740,
+    "system_id": 30004089,
+    "type_id": 29624
+}

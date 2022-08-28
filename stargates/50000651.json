@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000381,
+        "system_id": 30000906
+    },
+    "name": "Stargate (FVXK-D)",
+    "position": {
+        "x": 1709789552640,
+        "y": -290025185280,
+        "z": 7298045091840
+    },
+    "stargate_id": 50000651,
+    "system_id": 30000909,
+    "type_id": 29633
+}

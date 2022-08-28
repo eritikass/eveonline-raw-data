@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006631,
+        "system_id": 30002453
+    },
+    "name": "Stargate (AP9-LV)",
+    "position": {
+        "x": -6396413829120,
+        "y": 465894727680,
+        "z": -419938099200
+    },
+    "stargate_id": 50013031,
+    "system_id": 30002456,
+    "type_id": 16
+}

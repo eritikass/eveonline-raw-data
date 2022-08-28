@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012644,
+        "system_id": 30002101
+    },
+    "name": "Stargate (Ualkin)",
+    "position": {
+        "x": 549254553600,
+        "y": -13436313600,
+        "z": -110834442240
+    },
+    "stargate_id": 50013380,
+    "system_id": 30002102,
+    "type_id": 29633
+}

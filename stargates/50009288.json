@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009464,
+        "system_id": 30003577
+    },
+    "name": "Stargate (Oerse)",
+    "position": {
+        "x": -2489993994240,
+        "y": 441649520640,
+        "z": -1566060503040
+    },
+    "stargate_id": 50009288,
+    "system_id": 30003575,
+    "type_id": 3875
+}

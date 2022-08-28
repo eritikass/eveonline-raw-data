@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009681,
+        "system_id": 30003991
+    },
+    "name": "Stargate (Z-UZZN)",
+    "position": {
+        "x": 3535294095360,
+        "y": 510483947520,
+        "z": 842769899520
+    },
+    "stargate_id": 50009969,
+    "system_id": 30003993,
+    "type_id": 29624
+}

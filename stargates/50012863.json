@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007683,
+        "system_id": 30005234
+    },
+    "name": "Stargate (Beke)",
+    "position": {
+        "x": -493765632000,
+        "y": -2441141084160,
+        "z": 142808064000
+    },
+    "stargate_id": 50012863,
+    "system_id": 30005291,
+    "type_id": 17
+}

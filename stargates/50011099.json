@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012539,
+        "system_id": 30003785
+    },
+    "name": "Stargate (18XA-C)",
+    "position": {
+        "x": 1050782146560,
+        "y": -8903270400,
+        "z": 820033658880
+    },
+    "stargate_id": 50011099,
+    "system_id": 30003783,
+    "type_id": 29624
+}

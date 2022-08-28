@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004741,
+        "system_id": 30004089
+    },
+    "name": "Stargate (Neburab)",
+    "position": {
+        "x": -270524375040,
+        "y": -1172793384960,
+        "z": -517096366080
+    },
+    "stargate_id": 50012202,
+    "system_id": 30004140,
+    "type_id": 17
+}

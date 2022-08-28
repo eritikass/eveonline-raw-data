@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003347,
+        "system_id": 30002984
+    },
+    "name": "Stargate (Ibash)",
+    "position": {
+        "x": -557124771840,
+        "y": 108270919680,
+        "z": -527507742720
+    },
+    "stargate_id": 50004263,
+    "system_id": 30002987,
+    "type_id": 29624
+}

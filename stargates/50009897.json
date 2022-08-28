@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010099,
+        "system_id": 30003053
+    },
+    "name": "Stargate (Avele)",
+    "position": {
+        "x": 1014800916480,
+        "y": -107436810240,
+        "z": 1823206563840
+    },
+    "stargate_id": 50009897,
+    "system_id": 30003051,
+    "type_id": 3875
+}

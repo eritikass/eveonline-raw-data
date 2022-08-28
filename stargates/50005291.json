@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005797,
+        "system_id": 30001754
+    },
+    "name": "Stargate (M4U-EH)",
+    "position": {
+        "x": -3167945072640,
+        "y": 99800555520,
+        "z": -2002597355520
+    },
+    "stargate_id": 50005291,
+    "system_id": 30001750,
+    "type_id": 3875
+}

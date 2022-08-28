@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006386,
+        "system_id": 30003021
+    },
+    "name": "Stargate (Mosson)",
+    "position": {
+        "x": 4183648788480,
+        "y": 2523235737600,
+        "z": 677047050240
+    },
+    "stargate_id": 50000444,
+    "system_id": 30003027,
+    "type_id": 3874
+}

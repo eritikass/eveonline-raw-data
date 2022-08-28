@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004713,
+        "system_id": 30003518
+    },
+    "name": "Stargate (Saheri)",
+    "position": {
+        "x": -3013414379520,
+        "y": 88454799360,
+        "z": 646994042880
+    },
+    "stargate_id": 50001944,
+    "system_id": 30003515,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016283,
+        "system_id": 30045342
+    },
+    "name": "Stargate (Akidagi)",
+    "position": {
+        "x": 4845263708160,
+        "y": 97343692800,
+        "z": 3689037127680
+    },
+    "stargate_id": 50016284,
+    "system_id": 30045339,
+    "type_id": 16
+}

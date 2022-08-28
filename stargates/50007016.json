@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007095,
+        "system_id": 30003882
+    },
+    "name": "Stargate (Lansez)",
+    "position": {
+        "x": -7671510589440,
+        "y": -1879762329600,
+        "z": -1942758481920
+    },
+    "stargate_id": 50007016,
+    "system_id": 30003866,
+    "type_id": 17
+}

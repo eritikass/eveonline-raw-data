@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000033,
+        "system_id": 30001562
+    },
+    "name": "Stargate (Q-UVY6)",
+    "position": {
+        "x": 813617111040,
+        "y": -154790092800,
+        "z": 4847080857600
+    },
+    "stargate_id": 50001572,
+    "system_id": 30001566,
+    "type_id": 3875
+}

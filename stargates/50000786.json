@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000504,
+        "system_id": 30002197
+    },
+    "name": "Stargate (Akhragan)",
+    "position": {
+        "x": -385923932160,
+        "y": -4015358730240,
+        "z": -2999873003520
+    },
+    "stargate_id": 50000786,
+    "system_id": 30004081,
+    "type_id": 29626
+}

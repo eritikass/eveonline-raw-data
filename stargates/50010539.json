@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009880,
+        "system_id": 30002922
+    },
+    "name": "Stargate (E-FIC0)",
+    "position": {
+        "x": 542744616960,
+        "y": -28457164800,
+        "z": -623508234240
+    },
+    "stargate_id": 50010539,
+    "system_id": 30002924,
+    "type_id": 16
+}

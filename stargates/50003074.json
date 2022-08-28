@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010114,
+        "system_id": 30001187
+    },
+    "name": "Stargate (RNF-YH)",
+    "position": {
+        "x": -1088766320640,
+        "y": -15439257600,
+        "z": 75402977280
+    },
+    "stargate_id": 50003074,
+    "system_id": 30001183,
+    "type_id": 29624
+}

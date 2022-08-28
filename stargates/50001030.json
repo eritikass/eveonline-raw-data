@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000646,
+        "system_id": 30001177
+    },
+    "name": "Stargate (GE-94X)",
+    "position": {
+        "x": 1707046379520,
+        "y": 146018181120,
+        "z": -3886989189120
+    },
+    "stargate_id": 50001030,
+    "system_id": 30001179,
+    "type_id": 29624
+}

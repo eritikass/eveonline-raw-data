@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006894,
+        "system_id": 30004314
+    },
+    "name": "Stargate (EWN-2U)",
+    "position": {
+        "x": -37175746560,
+        "y": -5405614080,
+        "z": 189014384640
+    },
+    "stargate_id": 50006884,
+    "system_id": 30004313,
+    "type_id": 16
+}

@@ -1,0 +1,70 @@
+{
+    "constellation_id": 20000369,
+    "name": "Todeko",
+    "planets": [
+        {
+            "planet_id": 40347402
+        },
+        {
+            "asteroid_belts": [
+                40347404
+            ],
+            "planet_id": 40347403
+        },
+        {
+            "planet_id": 40347405
+        },
+        {
+            "asteroid_belts": [
+                40347407
+            ],
+            "planet_id": 40347406
+        },
+        {
+            "asteroid_belts": [
+                40347410
+            ],
+            "moons": [
+                40347409
+            ],
+            "planet_id": 40347408
+        },
+        {
+            "moons": [
+                40347412
+            ],
+            "planet_id": 40347411
+        },
+        {
+            "moons": [
+                40347414
+            ],
+            "planet_id": 40347413
+        },
+        {
+            "asteroid_belts": [
+                40347416
+            ],
+            "moons": [
+                40347417,
+                40347418
+            ],
+            "planet_id": 40347415
+        }
+    ],
+    "position": {
+        "x": -84393240823067260,
+        "y": 34988554237639692,
+        "z": 1877941965096972
+    },
+    "security_class": "A",
+    "security_status": 0.9921181201934814,
+    "star_id": 40347401,
+    "stargates": [
+        50014198
+    ],
+    "stations": [
+        60015043
+    ],
+    "system_id": 30032505
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003732,
+        "system_id": 30000954
+    },
+    "name": "Stargate (DE71-9)",
+    "position": {
+        "x": -185735454720,
+        "y": 24129822720,
+        "z": 505130065920
+    },
+    "stargate_id": 50003098,
+    "system_id": 30000952,
+    "type_id": 29633
+}

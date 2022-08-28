@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011901,
+        "system_id": 30005079
+    },
+    "name": "Stargate (Zatamaka)",
+    "position": {
+        "x": -196315668480,
+        "y": 6164766720,
+        "z": 331429601280
+    },
+    "stargate_id": 50011858,
+    "system_id": 30005078,
+    "type_id": 29624
+}

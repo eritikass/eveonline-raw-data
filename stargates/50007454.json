@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009902,
+        "system_id": 30003763
+    },
+    "name": "Stargate (N-RMSH)",
+    "position": {
+        "x": 53662310400,
+        "y": 6127165440,
+        "z": 59278909440
+    },
+    "stargate_id": 50007454,
+    "system_id": 30003761,
+    "type_id": 29624
+}

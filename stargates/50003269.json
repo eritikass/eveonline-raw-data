@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002752,
+        "system_id": 30000146
+    },
+    "name": "Stargate (Saisio)",
+    "position": {
+        "x": 15794576056320,
+        "y": 264193351680,
+        "z": -9311678668800
+    },
+    "stargate_id": 50003269,
+    "system_id": 30000148,
+    "type_id": 16
+}

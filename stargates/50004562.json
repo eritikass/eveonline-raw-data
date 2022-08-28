@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004319,
+        "system_id": 30001582
+    },
+    "name": "Stargate (Z19-B8)",
+    "position": {
+        "x": 139807580160,
+        "y": -6169436160,
+        "z": 113655767040
+    },
+    "stargate_id": 50004562,
+    "system_id": 30001583,
+    "type_id": 3875
+}

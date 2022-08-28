@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003257,
+        "system_id": 30000595
+    },
+    "name": "Stargate (DUO-51)",
+    "position": {
+        "x": -2665329991680,
+        "y": 357383577600,
+        "z": -3137642618880
+    },
+    "stargate_id": 50003306,
+    "system_id": 30000596,
+    "type_id": 29633
+}

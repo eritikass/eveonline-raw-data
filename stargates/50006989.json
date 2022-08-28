@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006812,
+        "system_id": 30001862
+    },
+    "name": "Stargate (GDEW-0)",
+    "position": {
+        "x": 468138516480,
+        "y": 47826247680,
+        "z": 27081400320
+    },
+    "stargate_id": 50006989,
+    "system_id": 30001863,
+    "type_id": 29624
+}

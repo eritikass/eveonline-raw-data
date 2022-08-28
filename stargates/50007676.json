@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007700,
+        "system_id": 30005055
+    },
+    "name": "Stargate (Zinkon)",
+    "position": {
+        "x": -2420483235840,
+        "y": 403130327040,
+        "z": 575718973440
+    },
+    "stargate_id": 50007676,
+    "system_id": 30005054,
+    "type_id": 29624
+}

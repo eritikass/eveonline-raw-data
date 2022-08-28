@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006889,
+        "system_id": 30003285
+    },
+    "name": "Stargate (JH-M2W)",
+    "position": {
+        "x": 2826489323520,
+        "y": 534847365120,
+        "z": -3395545866240
+    },
+    "stargate_id": 50006878,
+    "system_id": 30003284,
+    "type_id": 3875
+}

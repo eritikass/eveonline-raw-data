@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011498,
+        "system_id": 30003316
+    },
+    "name": "Stargate (6-U2M8)",
+    "position": {
+        "x": -4269923082240,
+        "y": -610975457280,
+        "z": 2435754762240
+    },
+    "stargate_id": 50011307,
+    "system_id": 30003315,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012859,
+        "system_id": 30003369
+    },
+    "name": "Stargate (ZV-72W)",
+    "position": {
+        "x": 1108930191360,
+        "y": 111529943040,
+        "z": -461874339840
+    },
+    "stargate_id": 50013356,
+    "system_id": 30003373,
+    "type_id": 3875
+}

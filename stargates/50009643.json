@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009853,
+        "system_id": 30003639
+    },
+    "name": "Stargate (SZ6-TA)",
+    "position": {
+        "x": 2353349468160,
+        "y": -463701565440,
+        "z": -775377346560
+    },
+    "stargate_id": 50009643,
+    "system_id": 30003637,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012916,
+        "system_id": 30004293
+    },
+    "name": "Stargate (Pserz)",
+    "position": {
+        "x": 1491225845760,
+        "y": -121723822080,
+        "z": -993951621120
+    },
+    "stargate_id": 50013038,
+    "system_id": 30004296,
+    "type_id": 29624
+}

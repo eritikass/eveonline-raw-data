@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002825,
+        "system_id": 30003706
+    },
+    "name": "Stargate (4B-NQN)",
+    "position": {
+        "x": 958989066240,
+        "y": -102555770880,
+        "z": -1078232309760
+    },
+    "stargate_id": 50002730,
+    "system_id": 30003704,
+    "type_id": 29624
+}

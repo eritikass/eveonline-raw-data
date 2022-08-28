@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010415,
+        "system_id": 30004717
+    },
+    "name": "Stargate (AJI-MA)",
+    "position": {
+        "x": -246315786240,
+        "y": 2071336427520,
+        "z": -2506972815360
+    },
+    "stargate_id": 50010632,
+    "system_id": 30004737,
+    "type_id": 17
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001415,
+        "system_id": 30001651
+    },
+    "name": "Stargate (Nafomeh)",
+    "position": {
+        "x": 4073383649280,
+        "y": -646581411840,
+        "z": 595944038400
+    },
+    "stargate_id": 50002393,
+    "system_id": 30001653,
+    "type_id": 29624
+}

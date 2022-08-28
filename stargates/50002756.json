@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012314,
+        "system_id": 30001592
+    },
+    "name": "Stargate (L-EUY2)",
+    "position": {
+        "x": -2240922378240,
+        "y": 138005176320,
+        "z": 9113759293440
+    },
+    "stargate_id": 50002756,
+    "system_id": 30001570,
+    "type_id": 3874
+}

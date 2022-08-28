@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001225,
+        "system_id": 30000719
+    },
+    "name": "Stargate (ZDB-HT)",
+    "position": {
+        "x": -1013630361600,
+        "y": 65695457280,
+        "z": 1473461329920
+    },
+    "stargate_id": 50001331,
+    "system_id": 30000720,
+    "type_id": 29633
+}

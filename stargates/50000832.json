@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007718,
+        "system_id": 30003494
+    },
+    "name": "Stargate (Ekid)",
+    "position": {
+        "x": 383187640320,
+        "y": 24259338240,
+        "z": -6925971087360
+    },
+    "stargate_id": 50000832,
+    "system_id": 30003493,
+    "type_id": 29624
+}

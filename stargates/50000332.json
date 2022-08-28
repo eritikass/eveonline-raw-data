@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001192,
+        "system_id": 30001548
+    },
+    "name": "Stargate (T6T-BQ)",
+    "position": {
+        "x": 3530710425600,
+        "y": 2978632458240,
+        "z": 8505865789440
+    },
+    "stargate_id": 50000332,
+    "system_id": 30001535,
+    "type_id": 3874
+}

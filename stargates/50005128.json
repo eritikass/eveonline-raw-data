@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006800,
+        "system_id": 30002056
+    },
+    "name": "Stargate (Resbroko)",
+    "position": {
+        "x": -3297165434880,
+        "y": -381977518080,
+        "z": -1951159050240
+    },
+    "stargate_id": 50005128,
+    "system_id": 30002055,
+    "type_id": 29633
+}

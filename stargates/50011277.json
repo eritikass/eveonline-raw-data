@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010561,
+        "system_id": 30004840
+    },
+    "name": "Stargate (X-1QGA)",
+    "position": {
+        "x": 429009592320,
+        "y": 13532651520,
+        "z": -4176773652480
+    },
+    "stargate_id": 50011277,
+    "system_id": 30004841,
+    "type_id": 29633
+}

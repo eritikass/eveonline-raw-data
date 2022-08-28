@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008636,
+        "system_id": 30003832
+    },
+    "name": "Stargate (Adacyne)",
+    "position": {
+        "x": 773842083840,
+        "y": 151827947520,
+        "z": -409781329920
+    },
+    "stargate_id": 50009442,
+    "system_id": 30003834,
+    "type_id": 3875
+}

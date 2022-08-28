@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003453,
+        "system_id": 30002985
+    },
+    "name": "Stargate (Itsyamil)",
+    "position": {
+        "x": 1777597440000,
+        "y": -329647349760,
+        "z": -3478652313600
+    },
+    "stargate_id": 50003129,
+    "system_id": 30002982,
+    "type_id": 29624
+}

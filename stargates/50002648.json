@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003534,
+        "system_id": 30000636
+    },
+    "name": "Stargate (I-2705)",
+    "position": {
+        "x": 1629142179840,
+        "y": -74915389440,
+        "z": -580119797760
+    },
+    "stargate_id": 50002648,
+    "system_id": 30000632,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013386,
+        "system_id": 30005287
+    },
+    "name": "Stargate (Canard)",
+    "position": {
+        "x": 4100344750080,
+        "y": 115406561280,
+        "z": -798770012160
+    },
+    "stargate_id": 50012651,
+    "system_id": 30005283,
+    "type_id": 29624
+}

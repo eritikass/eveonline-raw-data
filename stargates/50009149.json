@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010492,
+        "system_id": 30004449
+    },
+    "name": "Stargate (M-CMLV)",
+    "position": {
+        "x": -1452357672960,
+        "y": -142486855680,
+        "z": -564288184320
+    },
+    "stargate_id": 50009149,
+    "system_id": 30004443,
+    "type_id": 29633
+}

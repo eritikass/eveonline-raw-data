@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006861,
+        "system_id": 30002258
+    },
+    "name": "Stargate (Nadohman)",
+    "position": {
+        "x": -171589754880,
+        "y": -9298944000,
+        "z": 11135795650560
+    },
+    "stargate_id": 50006903,
+    "system_id": 30002259,
+    "type_id": 29624
+}

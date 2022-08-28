@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006453,
+        "system_id": 30002019
+    },
+    "name": "Stargate (F-NMX6)",
+    "position": {
+        "x": -567613317120,
+        "y": -46980833280,
+        "z": -339528622080
+    },
+    "stargate_id": 50005323,
+    "system_id": 30002016,
+    "type_id": 16
+}

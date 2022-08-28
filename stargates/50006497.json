@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005969,
+        "system_id": 30005225
+    },
+    "name": "Stargate (Alal)",
+    "position": {
+        "x": -1490719580160,
+        "y": -295179509760,
+        "z": -2364225331200
+    },
+    "stargate_id": 50006497,
+    "system_id": 30005228,
+    "type_id": 29624
+}

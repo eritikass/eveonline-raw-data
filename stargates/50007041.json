@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009887,
+        "system_id": 30000184
+    },
+    "name": "Stargate (Uminas)",
+    "position": {
+        "x": -2184341299200,
+        "y": 86709166080,
+        "z": -3059791011840
+    },
+    "stargate_id": 50007041,
+    "system_id": 30000182,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014077,
+        "system_id": 30002526
+    },
+    "name": "Stargate (Frarn)",
+    "position": {
+        "x": 437153095680,
+        "y": 60443074560,
+        "z": 4316227706880
+    },
+    "stargate_id": 50014078,
+    "system_id": 30002510,
+    "type_id": 3877
+}

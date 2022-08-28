@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013565,
+        "system_id": 30002704
+    },
+    "name": "Stargate (Adrallezoen)",
+    "position": {
+        "x": -1226625146880,
+        "y": 2034061025280,
+        "z": -471453573120
+    },
+    "stargate_id": 50013566,
+    "system_id": 30002648,
+    "type_id": 3874
+}

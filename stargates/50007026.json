@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006947,
+        "system_id": 30001321
+    },
+    "name": "Stargate (B-CZXG)",
+    "position": {
+        "x": -5868420833280,
+        "y": -51596451840,
+        "z": 1246516715520
+    },
+    "stargate_id": 50007026,
+    "system_id": 30001322,
+    "type_id": 16
+}

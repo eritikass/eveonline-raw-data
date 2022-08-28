@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004544,
+        "system_id": 30002977
+    },
+    "name": "Stargate (Arayar)",
+    "position": {
+        "x": 2999777157120,
+        "y": -448171745280,
+        "z": 10114842009600
+    },
+    "stargate_id": 50007280,
+    "system_id": 30002981,
+    "type_id": 29624
+}

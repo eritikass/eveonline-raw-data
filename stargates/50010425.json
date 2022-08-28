@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010532,
+        "system_id": 30004235
+    },
+    "name": "Stargate (Maseera)",
+    "position": {
+        "x": 738069504000,
+        "y": 61435453440,
+        "z": -2764812902400
+    },
+    "stargate_id": 50010425,
+    "system_id": 30004232,
+    "type_id": 29624
+}

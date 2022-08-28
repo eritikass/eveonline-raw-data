@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011851,
+        "system_id": 30004594
+    },
+    "name": "Stargate (U-SOH2)",
+    "position": {
+        "x": 130375680,
+        "y": 175595520,
+        "z": -1708044902400
+    },
+    "stargate_id": 50011810,
+    "system_id": 30004593,
+    "type_id": 3875
+}

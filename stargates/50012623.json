@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011890,
+        "system_id": 30001738
+    },
+    "name": "Stargate (Judra)",
+    "position": {
+        "x": -4746461798400,
+        "y": 405820170240,
+        "z": -2308673495040
+    },
+    "stargate_id": 50012623,
+    "system_id": 30001740,
+    "type_id": 29624
+}

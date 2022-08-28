@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006564,
+        "system_id": 30003272
+    },
+    "name": "Stargate (ZVN5-H)",
+    "position": {
+        "x": -1148694896640,
+        "y": 147477012480,
+        "z": -1418828390400
+    },
+    "stargate_id": 50006434,
+    "system_id": 30003270,
+    "type_id": 3875
+}

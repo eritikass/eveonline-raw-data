@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009374,
+        "system_id": 30003966
+    },
+    "name": "Stargate (T8T-RA)",
+    "position": {
+        "x": 1101434757120,
+        "y": 121108439040,
+        "z": -498575892480
+    },
+    "stargate_id": 50009497,
+    "system_id": 30003967,
+    "type_id": 29624
+}

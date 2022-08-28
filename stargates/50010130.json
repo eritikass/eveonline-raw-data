@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010169,
+        "system_id": 30004000
+    },
+    "name": "Stargate (3BK-O7)",
+    "position": {
+        "x": 1441972838400,
+        "y": -154419240960,
+        "z": 1897907036160
+    },
+    "stargate_id": 50010130,
+    "system_id": 30003999,
+    "type_id": 29624
+}

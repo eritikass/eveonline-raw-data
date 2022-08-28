@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003458,
+        "system_id": 30000125
+    },
+    "name": "Stargate (Ahtulaima)",
+    "position": {
+        "x": 1248450846720,
+        "y": 176108789760,
+        "z": -1279620587520
+    },
+    "stargate_id": 50000368,
+    "system_id": 30000119,
+    "type_id": 16
+}

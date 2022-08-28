@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007120,
+        "system_id": 30003682
+    },
+    "name": "Stargate (DW-T2I)",
+    "position": {
+        "x": 2272858890240,
+        "y": 4353430118400,
+        "z": 362785136640
+    },
+    "stargate_id": 50007224,
+    "system_id": 30003683,
+    "type_id": 3874
+}

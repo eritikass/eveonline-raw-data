@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010703,
+        "system_id": 30001905
+    },
+    "name": "Stargate (X5O1-L)",
+    "position": {
+        "x": -8230300508160,
+        "y": 4512510566400,
+        "z": 2054091694080
+    },
+    "stargate_id": 50010054,
+    "system_id": 30001892,
+    "type_id": 17
+}

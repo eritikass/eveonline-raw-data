@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000789,
+        "system_id": 30000717
+    },
+    "name": "Stargate (Q-NA5H)",
+    "position": {
+        "x": -1772418293760,
+        "y": 358660055040,
+        "z": 2440751800320
+    },
+    "stargate_id": 50000175,
+    "system_id": 30000715,
+    "type_id": 29633
+}

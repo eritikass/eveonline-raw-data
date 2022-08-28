@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007788,
+        "system_id": 30005333
+    },
+    "name": "Stargate (Stou)",
+    "position": {
+        "x": 1939180707840,
+        "y": 249222389760,
+        "z": -1682637742080
+    },
+    "stargate_id": 50005495,
+    "system_id": 30005329,
+    "type_id": 3875
+}

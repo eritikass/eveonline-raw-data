@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006222,
+        "system_id": 30003809
+    },
+    "name": "Stargate (Brellystier)",
+    "position": {
+        "x": -705812766720,
+        "y": -54026526720,
+        "z": 7091505930240
+    },
+    "stargate_id": 50006159,
+    "system_id": 30003808,
+    "type_id": 3875
+}

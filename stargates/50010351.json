@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010800,
+        "system_id": 30003364
+    },
+    "name": "Stargate (DCHR-L)",
+    "position": {
+        "x": -1247932784640,
+        "y": 39233249280,
+        "z": 3134788116480
+    },
+    "stargate_id": 50010351,
+    "system_id": 30003363,
+    "type_id": 3875
+}

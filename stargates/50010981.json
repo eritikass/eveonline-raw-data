@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010922,
+        "system_id": 30004051
+    },
+    "name": "Stargate (YI-8ZM)",
+    "position": {
+        "x": -204402155520,
+        "y": -34647613440,
+        "z": -3569684520960
+    },
+    "stargate_id": 50010981,
+    "system_id": 30004052,
+    "type_id": 3875
+}

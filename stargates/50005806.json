@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006774,
+        "system_id": 30001337
+    },
+    "name": "Stargate (LHJ-2G)",
+    "position": {
+        "x": 3675341660160,
+        "y": 3048443043840,
+        "z": -956041420800
+    },
+    "stargate_id": 50005806,
+    "system_id": 30001310,
+    "type_id": 29627
+}

@@ -1,0 +1,74 @@
+{
+    "constellation_id": 20000199,
+    "name": "Kappas",
+    "planets": [
+        {
+            "planet_id": 40341602
+        },
+        {
+            "planet_id": 40341603
+        },
+        {
+            "planet_id": 40341604
+        },
+        {
+            "planet_id": 40341605
+        },
+        {
+            "asteroid_belts": [
+                40341607
+            ],
+            "planet_id": 40341606
+        },
+        {
+            "asteroid_belts": [
+                40341609
+            ],
+            "moons": [
+                40341610
+            ],
+            "planet_id": 40341608
+        },
+        {
+            "asteroid_belts": [
+                40341612
+            ],
+            "moons": [
+                40341613
+            ],
+            "planet_id": 40341611
+        },
+        {
+            "moons": [
+                40341615,
+                40341616
+            ],
+            "planet_id": 40341614
+        },
+        {
+            "asteroid_belts": [
+                40341618
+            ],
+            "moons": [
+                40341619,
+                40341620
+            ],
+            "planet_id": 40341617
+        }
+    ],
+    "position": {
+        "x": -143167340138977400,
+        "y": 89235780673151300,
+        "z": 135288294370232140
+    },
+    "security_class": "A",
+    "security_status": 0.8699852228164673,
+    "star_id": 40341601,
+    "stargates": [
+        50014148
+    ],
+    "stations": [
+        60015006
+    ],
+    "system_id": 30021392
+}

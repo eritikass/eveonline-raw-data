@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009350,
+        "system_id": 30004502
+    },
+    "name": "Stargate (D5IW-F)",
+    "position": {
+        "x": 676804976640,
+        "y": -65905336320,
+        "z": 4618600243200
+    },
+    "stargate_id": 50009308,
+    "system_id": 30004501,
+    "type_id": 3875
+}

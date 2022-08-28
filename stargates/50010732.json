@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011608,
+        "system_id": 30003094
+    },
+    "name": "Stargate (Imata)",
+    "position": {
+        "x": -2725295677440,
+        "y": -238923079680,
+        "z": 456384552960
+    },
+    "stargate_id": 50010732,
+    "system_id": 30003093,
+    "type_id": 29624
+}

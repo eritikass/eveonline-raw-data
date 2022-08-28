@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011644,
+        "system_id": 30004773
+    },
+    "name": "Stargate (M2-XFE)",
+    "position": {
+        "x": -412729958400,
+        "y": 52721786880,
+        "z": -4101779251200
+    },
+    "stargate_id": 50011887,
+    "system_id": 30004775,
+    "type_id": 29624
+}

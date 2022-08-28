@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012380,
+        "system_id": 30004195
+    },
+    "name": "Stargate (DN58-U)",
+    "position": {
+        "x": 2302878474240,
+        "y": -392853381120,
+        "z": 1417800867840
+    },
+    "stargate_id": 50011849,
+    "system_id": 30004192,
+    "type_id": 3875
+}

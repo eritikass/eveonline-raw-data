@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012855,
+        "system_id": 30003097
+    },
+    "name": "Stargate (Satalama)",
+    "position": {
+        "x": -2461442088960,
+        "y": -138145505280,
+        "z": 1529313484800
+    },
+    "stargate_id": 50012222,
+    "system_id": 30003095,
+    "type_id": 29624
+}

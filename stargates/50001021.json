@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000922,
+        "system_id": 30001564
+    },
+    "name": "Stargate (QFU-4S)",
+    "position": {
+        "x": -3272235786240,
+        "y": 587824619520,
+        "z": -264223088640
+    },
+    "stargate_id": 50001021,
+    "system_id": 30001565,
+    "type_id": 3875
+}

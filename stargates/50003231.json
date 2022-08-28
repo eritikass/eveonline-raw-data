@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003202,
+        "system_id": 30001271
+    },
+    "name": "Stargate (YP-J33)",
+    "position": {
+        "x": 109226926080,
+        "y": -3213189120,
+        "z": -285279805440
+    },
+    "stargate_id": 50003231,
+    "system_id": 30001272,
+    "type_id": 16
+}

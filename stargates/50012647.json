@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013347,
+        "system_id": 30004036
+    },
+    "name": "Stargate (3D5K-R)",
+    "position": {
+        "x": 24117534720,
+        "y": 1366302720,
+        "z": -137634570240
+    },
+    "stargate_id": 50012647,
+    "system_id": 30004033,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011347,
+        "system_id": 30004267
+    },
+    "name": "Stargate (Nema)",
+    "position": {
+        "x": -2156603351040,
+        "y": 395683553280,
+        "z": -1187362529280
+    },
+    "stargate_id": 50010968,
+    "system_id": 30004240,
+    "type_id": 17
+}

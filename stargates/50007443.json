@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007407,
+        "system_id": 30002029
+    },
+    "name": "Stargate (B-9C24)",
+    "position": {
+        "x": 722193162240,
+        "y": 64417996800,
+        "z": -913923809280
+    },
+    "stargate_id": 50007443,
+    "system_id": 30002030,
+    "type_id": 16
+}

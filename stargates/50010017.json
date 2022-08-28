@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011329,
+        "system_id": 30003444
+    },
+    "name": "Stargate (Mateber)",
+    "position": {
+        "x": 1423281315840,
+        "y": -139981824000,
+        "z": -2017743052800
+    },
+    "stargate_id": 50010017,
+    "system_id": 30003442,
+    "type_id": 29633
+}

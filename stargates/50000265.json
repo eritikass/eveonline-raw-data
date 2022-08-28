@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007043,
+        "system_id": 30000994
+    },
+    "name": "Stargate (92-B0X)",
+    "position": {
+        "x": 1023632056320,
+        "y": -2709615206400,
+        "z": -1271228866560
+    },
+    "stargate_id": 50000265,
+    "system_id": 30000918,
+    "type_id": 3877
+}

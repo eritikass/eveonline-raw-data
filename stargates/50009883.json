@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009783,
+        "system_id": 30004045
+    },
+    "name": "Stargate (77-KDQ)",
+    "position": {
+        "x": -114255912960,
+        "y": 6330654720,
+        "z": -131281428480
+    },
+    "stargate_id": 50009883,
+    "system_id": 30004046,
+    "type_id": 3875
+}

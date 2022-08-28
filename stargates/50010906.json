@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011142,
+        "system_id": 30004433
+    },
+    "name": "Stargate (VF-FN6)",
+    "position": {
+        "x": -921162915840,
+        "y": 109033758720,
+        "z": -157660815360
+    },
+    "stargate_id": 50010906,
+    "system_id": 30004431,
+    "type_id": 29633
+}

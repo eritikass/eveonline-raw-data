@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002470,
+        "system_id": 30000450
+    },
+    "name": "Stargate (P7MI-T)",
+    "position": {
+        "x": -536669675520,
+        "y": -35158302720,
+        "z": 2008005058560
+    },
+    "stargate_id": 50002491,
+    "system_id": 30000451,
+    "type_id": 29633
+}

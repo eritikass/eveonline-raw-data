@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004611,
+        "system_id": 30002386
+    },
+    "name": "Stargate (Gelfiven)",
+    "position": {
+        "x": -1685795266560,
+        "y": 150841712640,
+        "z": -630998016000
+    },
+    "stargate_id": 50004945,
+    "system_id": 30002388,
+    "type_id": 29633
+}

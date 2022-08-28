@@ -1,0 +1,78 @@
+{
+    "constellation_id": 20000361,
+    "name": "K25-XD",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40156692
+            ],
+            "planet_id": 40156691
+        },
+        {
+            "asteroid_belts": [
+                40156694
+            ],
+            "moons": [
+                40156695
+            ],
+            "planet_id": 40156693
+        },
+        {
+            "asteroid_belts": [
+                40156697
+            ],
+            "moons": [
+                40156698
+            ],
+            "planet_id": 40156696
+        },
+        {
+            "asteroid_belts": [
+                40156700
+            ],
+            "planet_id": 40156699
+        },
+        {
+            "asteroid_belts": [
+                40156702
+            ],
+            "moons": [
+                40156703,
+                40156704
+            ],
+            "planet_id": 40156701
+        },
+        {
+            "asteroid_belts": [
+                40156706
+            ],
+            "moons": [
+                40156707
+            ],
+            "planet_id": 40156705
+        },
+        {
+            "asteroid_belts": [
+                40156709
+            ],
+            "moons": [
+                40156710,
+                40156711
+            ],
+            "planet_id": 40156708
+        }
+    ],
+    "position": {
+        "x": 9850198571155940,
+        "y": 75952368390074900,
+        "z": 110048622068414450
+    },
+    "security_class": "H4",
+    "security_status": -0.5871875882148743,
+    "star_id": 40156690,
+    "stargates": [
+        50007153,
+        50007154
+    ],
+    "system_id": 30002464
+}

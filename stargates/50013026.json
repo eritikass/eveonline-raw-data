@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012930,
+        "system_id": 30004485
+    },
+    "name": "Stargate (R97-CI)",
+    "position": {
+        "x": -8557731840,
+        "y": -1709629440,
+        "z": 59396382720
+    },
+    "stargate_id": 50013026,
+    "system_id": 30004486,
+    "type_id": 29633
+}

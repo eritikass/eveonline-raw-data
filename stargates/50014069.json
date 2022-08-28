@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014070,
+        "system_id": 30004975
+    },
+    "name": "Stargate (Mesybier)",
+    "position": {
+        "x": 1527253770240,
+        "y": 651710668800,
+        "z": -899098583040
+    },
+    "stargate_id": 50014069,
+    "system_id": 30003830,
+    "type_id": 29632
+}

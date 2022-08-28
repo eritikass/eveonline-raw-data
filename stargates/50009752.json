@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010278,
+        "system_id": 30001407
+    },
+    "name": "Stargate (Todaki)",
+    "position": {
+        "x": -796171591680,
+        "y": 149416058880,
+        "z": 8729268264960
+    },
+    "stargate_id": 50009752,
+    "system_id": 30001405,
+    "type_id": 16
+}

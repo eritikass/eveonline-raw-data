@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006432,
+        "system_id": 30003270
+    },
+    "name": "Stargate (6E-578)",
+    "position": {
+        "x": -1508723712000,
+        "y": 214763397120,
+        "z": -4039867146240
+    },
+    "stargate_id": 50006104,
+    "system_id": 30003268,
+    "type_id": 3875
+}

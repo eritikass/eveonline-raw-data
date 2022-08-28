@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004657,
+        "system_id": 30002342
+    },
+    "name": "Stargate (2B-UUQ)",
+    "position": {
+        "x": 11209139036160,
+        "y": -2167379927040,
+        "z": 4551350968320
+    },
+    "stargate_id": 50004305,
+    "system_id": 30002340,
+    "type_id": 3875
+}

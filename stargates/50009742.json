@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009545,
+        "system_id": 30003131
+    },
+    "name": "Stargate (450I-W)",
+    "position": {
+        "x": -405518868480,
+        "y": -1186487377920,
+        "z": 3205299855360
+    },
+    "stargate_id": 50009742,
+    "system_id": 30003148,
+    "type_id": 17
+}

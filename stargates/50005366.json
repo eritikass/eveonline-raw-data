@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002329,
+        "system_id": 30002964
+    },
+    "name": "Stargate (Esescama)",
+    "position": {
+        "x": 1337568337920,
+        "y": -3387410472960,
+        "z": 1938081669120
+    },
+    "stargate_id": 50005366,
+    "system_id": 30002991,
+    "type_id": 17
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013243,
+        "system_id": 30004957
+    },
+    "name": "Stargate (GR-J8B)",
+    "position": {
+        "x": 976834928640,
+        "y": 77598105600,
+        "z": -1909087887360
+    },
+    "stargate_id": 50013235,
+    "system_id": 30004956,
+    "type_id": 29624
+}

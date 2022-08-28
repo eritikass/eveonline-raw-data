@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003748,
+        "system_id": 30003718
+    },
+    "name": "Stargate (FC-3YI)",
+    "position": {
+        "x": 1998658560000,
+        "y": -380336087040,
+        "z": -568744796160
+    },
+    "stargate_id": 50003384,
+    "system_id": 30003717,
+    "type_id": 29624
+}

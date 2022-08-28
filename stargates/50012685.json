@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013278,
+        "system_id": 30004648
+    },
+    "name": "Stargate (R-BGSU)",
+    "position": {
+        "x": 981695078400,
+        "y": -156264652800,
+        "z": -940659548160
+    },
+    "stargate_id": 50012685,
+    "system_id": 30004645,
+    "type_id": 3875
+}

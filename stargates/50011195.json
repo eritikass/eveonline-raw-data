@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010245,
+        "system_id": 30003653
+    },
+    "name": "Stargate (GW7P-8)",
+    "position": {
+        "x": -4194037555200,
+        "y": 149402050560,
+        "z": -1187808829440
+    },
+    "stargate_id": 50011195,
+    "system_id": 30003655,
+    "type_id": 16
+}

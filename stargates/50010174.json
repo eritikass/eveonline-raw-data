@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010250,
+        "system_id": 30004715
+    },
+    "name": "Stargate (HM-XR2)",
+    "position": {
+        "x": -468897914880,
+        "y": -88482570240,
+        "z": 359827415040
+    },
+    "stargate_id": 50010174,
+    "system_id": 30004712,
+    "type_id": 29624
+}

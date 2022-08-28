@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016482,
+        "system_id": 30002818
+    },
+    "name": "Stargate (Oichiya)",
+    "position": {
+        "x": 274089123840,
+        "y": -12964208640,
+        "z": -50990653440
+    },
+    "stargate_id": 50016483,
+    "system_id": 30041392,
+    "type_id": 16
+}

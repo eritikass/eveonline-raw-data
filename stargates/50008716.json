@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008327,
+        "system_id": 30002365
+    },
+    "name": "Stargate (1PF-BC)",
+    "position": {
+        "x": 614934650880,
+        "y": -32619847680,
+        "z": 913240842240
+    },
+    "stargate_id": 50008716,
+    "system_id": 30002366,
+    "type_id": 3875
+}

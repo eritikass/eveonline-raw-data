@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004035,
+        "system_id": 30000701
+    },
+    "name": "Stargate (4E-EZS)",
+    "position": {
+        "x": 81384038400,
+        "y": 9607864320,
+        "z": -6183333765120
+    },
+    "stargate_id": 50004013,
+    "system_id": 30000700,
+    "type_id": 29633
+}

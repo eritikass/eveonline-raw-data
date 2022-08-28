@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002838,
+        "system_id": 30001045
+    },
+    "name": "Stargate (Utopia)",
+    "position": {
+        "x": -568261877760,
+        "y": -10227671040,
+        "z": 1659783782400
+    },
+    "stargate_id": 50002705,
+    "system_id": 30001044,
+    "type_id": 29633
+}

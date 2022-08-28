@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000015,
+        "system_id": 30001561
+    },
+    "name": "Stargate (8P-LKL)",
+    "position": {
+        "x": 2138942300160,
+        "y": 205885317120,
+        "z": 101508587520
+    },
+    "stargate_id": 50002138,
+    "system_id": 30001567,
+    "type_id": 3875
+}

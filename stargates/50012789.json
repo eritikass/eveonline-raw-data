@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013293,
+        "system_id": 30004263
+    },
+    "name": "Stargate (Feshur)",
+    "position": {
+        "x": 303105515520,
+        "y": 3362119680,
+        "z": 183198965760
+    },
+    "stargate_id": 50012789,
+    "system_id": 30004260,
+    "type_id": 29624
+}

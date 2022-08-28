@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007643,
+        "system_id": 30005053
+    },
+    "name": "Stargate (Imih)",
+    "position": {
+        "x": -1589034639360,
+        "y": 15702712320,
+        "z": -1575028039680
+    },
+    "stargate_id": 50007620,
+    "system_id": 30005051,
+    "type_id": 29624
+}

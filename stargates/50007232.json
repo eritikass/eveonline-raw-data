@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005632,
+        "system_id": 30000575
+    },
+    "name": "Stargate (U-HVIX)",
+    "position": {
+        "x": -117356421120,
+        "y": -6783836160,
+        "z": 429678305280
+    },
+    "stargate_id": 50007232,
+    "system_id": 30000577,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001043,
+        "system_id": 30000773
+    },
+    "name": "Stargate (78-0R6)",
+    "position": {
+        "x": 5999400099840,
+        "y": -44727951360,
+        "z": 580455997440
+    },
+    "stargate_id": 50001230,
+    "system_id": 30000774,
+    "type_id": 29633
+}

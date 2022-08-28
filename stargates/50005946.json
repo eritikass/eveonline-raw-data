@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005979,
+        "system_id": 30005218
+    },
+    "name": "Stargate (Sosh)",
+    "position": {
+        "x": 245978112000,
+        "y": -12259368960,
+        "z": -1068277800960
+    },
+    "stargate_id": 50005946,
+    "system_id": 30005217,
+    "type_id": 29624
+}

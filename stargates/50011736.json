@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011545,
+        "system_id": 30000322
+    },
+    "name": "Stargate (VORM-W)",
+    "position": {
+        "x": 243165880320,
+        "y": -14684037120,
+        "z": 3989092884480
+    },
+    "stargate_id": 50011736,
+    "system_id": 30000324,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003595,
+        "system_id": 30000485
+    },
+    "name": "Stargate (TYB-69)",
+    "position": {
+        "x": 3347246407680,
+        "y": 3559963484160,
+        "z": -1728564633600
+    },
+    "stargate_id": 50002977,
+    "system_id": 30000453,
+    "type_id": 3877
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011423,
+        "system_id": 30004269
+    },
+    "name": "Stargate (Rashagh)",
+    "position": {
+        "x": 2240576348160,
+        "y": -80440565760,
+        "z": -164144455680
+    },
+    "stargate_id": 50011503,
+    "system_id": 30004272,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012293,
+        "system_id": 30003671
+    },
+    "name": "Stargate (7D-PAT)",
+    "position": {
+        "x": 1285399879680,
+        "y": 185080012800,
+        "z": 3474078228480
+    },
+    "stargate_id": 50011398,
+    "system_id": 30003670,
+    "type_id": 16
+}

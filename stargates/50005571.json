@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005168,
+        "system_id": 30001851
+    },
+    "name": "Stargate (JS-E8E)",
+    "position": {
+        "x": 96093265920,
+        "y": 15933726720,
+        "z": 51776348160
+    },
+    "stargate_id": 50005571,
+    "system_id": 30001852,
+    "type_id": 29624
+}

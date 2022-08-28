@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010017,
+        "system_id": 30003442
+    },
+    "name": "Stargate (Finanar)",
+    "position": {
+        "x": -1171158835200,
+        "y": 91428986880,
+        "z": -1418596638720
+    },
+    "stargate_id": 50011329,
+    "system_id": 30003444,
+    "type_id": 29633
+}

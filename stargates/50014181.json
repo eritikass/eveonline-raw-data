@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014182,
+        "system_id": 30033410
+    },
+    "name": "Stargate (Erego)",
+    "position": {
+        "x": 657448181760,
+        "y": -110579097600,
+        "z": -4713500958720
+    },
+    "stargate_id": 50014181,
+    "system_id": 30003403,
+    "type_id": 29633
+}

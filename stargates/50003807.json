@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004177,
+        "system_id": 30005303
+    },
+    "name": "Stargate (Merolles)",
+    "position": {
+        "x": 66611404800,
+        "y": -1415700480,
+        "z": 256177643520
+    },
+    "stargate_id": 50003807,
+    "system_id": 30005301,
+    "type_id": 3875
+}

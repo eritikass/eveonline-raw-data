@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010939,
+        "system_id": 30004239
+    },
+    "name": "Stargate (Kamih)",
+    "position": {
+        "x": 117892177920,
+        "y": -5075066880,
+        "z": -550343516160
+    },
+    "stargate_id": 50010927,
+    "system_id": 30004238,
+    "type_id": 29624
+}

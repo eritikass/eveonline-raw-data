@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001919,
+        "system_id": 30000242
+    },
+    "name": "Stargate (8TPX-N)",
+    "position": {
+        "x": 3525764259840,
+        "y": 693530173440,
+        "z": -854404423680
+    },
+    "stargate_id": 50001397,
+    "system_id": 30000240,
+    "type_id": 16
+}

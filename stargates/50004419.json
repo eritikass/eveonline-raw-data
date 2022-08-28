@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004190,
+        "system_id": 30003528
+    },
+    "name": "Stargate (Herila)",
+    "position": {
+        "x": 34147246080,
+        "y": 6512025600,
+        "z": -827175198720
+    },
+    "stargate_id": 50004419,
+    "system_id": 30003529,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012668,
+        "system_id": 30001933
+    },
+    "name": "Stargate (EAWE-2)",
+    "position": {
+        "x": -2837141790720,
+        "y": -484854128640,
+        "z": 1629418414080
+    },
+    "stargate_id": 50012264,
+    "system_id": 30001932,
+    "type_id": 29624
+}

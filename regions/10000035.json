@@ -1,0 +1,16 @@
+{
+    "constellations": [
+        20000424,
+        20000425,
+        20000426,
+        20000427,
+        20000428,
+        20000429,
+        20000430,
+        20000431,
+        20000432
+    ],
+    "description": "Deklein is a narrow band of stars loosely connected by some of the most ancient gates outside of empire space. Reminiscent of a skeletal finger pointing out toward the void, it is such a remote region that some of the gates found when the area was first explored are still in use. While in most regions gate crews swap out every five years or so, in Deklein some of these ancient gates have been run by the same family for hundreds of years.\r\n\r\nThese families have intricate knowledge of their gates and the network they're connected to. It was once the practice that aspiring gatemen would travel to Deklein to do their year and come back “Deklein-trained” – a title of some honor which would almost guarantee them a chief gate operator position upon their return. Of course, some never would return...\r\n\r\nWith the gradual influx of heavy Gurista presence in the area this practice ceased, although the families still exist, keeping the gate network running and passing on their extensive knowledge to any gate operator crazy enough to run the gauntlet of dangers to reach them.",
+    "name": "Deklein",
+    "region_id": 10000035
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007687,
+        "system_id": 30004319
+    },
+    "name": "Stargate (C-HCGU)",
+    "position": {
+        "x": 3833666150400,
+        "y": -308407787520,
+        "z": 6386535997440
+    },
+    "stargate_id": 50007646,
+    "system_id": 30004318,
+    "type_id": 16
+}

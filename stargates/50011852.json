@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011862,
+        "system_id": 30004595
+    },
+    "name": "Stargate (DBRN-Z)",
+    "position": {
+        "x": 1263046041600,
+        "y": 174589009920,
+        "z": -491398225920
+    },
+    "stargate_id": 50011852,
+    "system_id": 30004594,
+    "type_id": 3875
+}

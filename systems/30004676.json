@@ -1,0 +1,52 @@
+{
+    "constellation_id": 20000683,
+    "name": "T-ZFID",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40295591
+            ],
+            "planet_id": 40295590
+        },
+        {
+            "asteroid_belts": [
+                40295593
+            ],
+            "planet_id": 40295592
+        },
+        {
+            "planet_id": 40295594
+        },
+        {
+            "moons": [
+                40295596,
+                40295597,
+                40295598
+            ],
+            "planet_id": 40295595
+        },
+        {
+            "asteroid_belts": [
+                40295600
+            ],
+            "moons": [
+                40295601,
+                40295602
+            ],
+            "planet_id": 40295599
+        }
+    ],
+    "position": {
+        "x": -82093350048299140,
+        "y": -49994892522587760,
+        "z": -473533870052205060
+    },
+    "security_class": "G",
+    "security_status": -0.06779661029577255,
+    "star_id": 40295589,
+    "stargates": [
+        50010896,
+        50010897
+    ],
+    "system_id": 30004676
+}

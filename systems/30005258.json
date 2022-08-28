@@ -1,0 +1,69 @@
+{
+    "constellation_id": 20000769,
+    "name": "Korridi",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40332620
+            ],
+            "planet_id": 40332619
+        },
+        {
+            "asteroid_belts": [
+                40332622
+            ],
+            "planet_id": 40332621
+        },
+        {
+            "asteroid_belts": [
+                40332624
+            ],
+            "moons": [
+                40332625
+            ],
+            "planet_id": 40332623
+        },
+        {
+            "asteroid_belts": [
+                40332627
+            ],
+            "moons": [
+                40332628
+            ],
+            "planet_id": 40332626
+        },
+        {
+            "moons": [
+                40332630
+            ],
+            "planet_id": 40332629
+        },
+        {
+            "asteroid_belts": [
+                40332632
+            ],
+            "moons": [
+                40332633
+            ],
+            "planet_id": 40332631
+        }
+    ],
+    "position": {
+        "x": -293438881402692200,
+        "y": 3315512161900786,
+        "z": -33860087073174244
+    },
+    "security_class": "B2",
+    "security_status": 0.32454824447631836,
+    "star_id": 40332618,
+    "stargates": [
+        50008655,
+        50008656
+    ],
+    "stations": [
+        60007099,
+        60011230,
+        60014626
+    ],
+    "system_id": 30005258
+}

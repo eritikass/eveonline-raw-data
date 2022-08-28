@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000486,
+        "system_id": 30002839
+    },
+    "name": "Stargate (RAI-0E)",
+    "position": {
+        "x": -3110133473280,
+        "y": -589910876160,
+        "z": 1859647856640
+    },
+    "stargate_id": 50001321,
+    "system_id": 30002840,
+    "type_id": 3875
+}

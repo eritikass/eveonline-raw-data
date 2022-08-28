@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012838,
+        "system_id": 30004647
+    },
+    "name": "Stargate (PXF-RF)",
+    "position": {
+        "x": 14895636480,
+        "y": 2423562240,
+        "z": -591149260800
+    },
+    "stargate_id": 50012753,
+    "system_id": 30004646,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009388,
+        "system_id": 30003985
+    },
+    "name": "Stargate (8-SNUD)",
+    "position": {
+        "x": 194487705600,
+        "y": -27263508480,
+        "z": -246751764480
+    },
+    "stargate_id": 50009371,
+    "system_id": 30003984,
+    "type_id": 29624
+}

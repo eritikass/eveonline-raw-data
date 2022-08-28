@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005012,
+        "system_id": 30000221
+    },
+    "name": "Stargate (X97D-W)",
+    "position": {
+        "x": 3837101629440,
+        "y": 663172669440,
+        "z": -2017323540480
+    },
+    "stargate_id": 50001003,
+    "system_id": 30000217,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012465,
+        "system_id": 30004150
+    },
+    "name": "Stargate (Shaggoth)",
+    "position": {
+        "x": -16026624000,
+        "y": 384983040,
+        "z": -38568960000
+    },
+    "stargate_id": 50012140,
+    "system_id": 30004149,
+    "type_id": 29624
+}

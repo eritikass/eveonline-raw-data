@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014082,
+        "system_id": 30002530
+    },
+    "name": "Stargate (Avesber)",
+    "position": {
+        "x": 492080947200,
+        "y": -1601094819840,
+        "z": 4605139722240
+    },
+    "stargate_id": 50014081,
+    "system_id": 30002507,
+    "type_id": 3877
+}

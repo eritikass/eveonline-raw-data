@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012354,
+        "system_id": 30004847
+    },
+    "name": "Stargate (WE-KK2)",
+    "position": {
+        "x": 435102228480,
+        "y": 64096051200,
+        "z": -881803223040
+    },
+    "stargate_id": 50012527,
+    "system_id": 30004850,
+    "type_id": 29633
+}

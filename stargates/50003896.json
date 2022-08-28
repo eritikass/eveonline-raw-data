@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003801,
+        "system_id": 30001089
+    },
+    "name": "Stargate (XU-BF8)",
+    "position": {
+        "x": 2411901296640,
+        "y": 392736645120,
+        "z": -335000985600
+    },
+    "stargate_id": 50003896,
+    "system_id": 30001090,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002249,
+        "system_id": 30002136
+    },
+    "name": "Stargate (E1F-LK)",
+    "position": {
+        "x": -1100000010240,
+        "y": -12815278080,
+        "z": -454740664320
+    },
+    "stargate_id": 50002168,
+    "system_id": 30002134,
+    "type_id": 29633
+}

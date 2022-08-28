@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005165,
+        "system_id": 30002357
+    },
+    "name": "Stargate (3IK-7O)",
+    "position": {
+        "x": 2248523243520,
+        "y": 193424793600,
+        "z": 3383244840960
+    },
+    "stargate_id": 50005180,
+    "system_id": 30002358,
+    "type_id": 3875
+}

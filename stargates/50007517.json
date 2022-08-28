@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007959,
+        "system_id": 30000273
+    },
+    "name": "Stargate (C-J7CR)",
+    "position": {
+        "x": -165392179200,
+        "y": 15487426560,
+        "z": -356767457280
+    },
+    "stargate_id": 50007517,
+    "system_id": 30000272,
+    "type_id": 16
+}

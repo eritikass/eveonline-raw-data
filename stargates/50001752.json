@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001990,
+        "system_id": 30000584
+    },
+    "name": "Stargate (SO-X5L)",
+    "position": {
+        "x": -681514229760,
+        "y": -15523553280,
+        "z": -355764264960
+    },
+    "stargate_id": 50001752,
+    "system_id": 30000583,
+    "type_id": 29633
+}

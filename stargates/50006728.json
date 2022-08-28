@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006572,
+        "system_id": 30005039
+    },
+    "name": "Stargate (Leva)",
+    "position": {
+        "x": -156017909760,
+        "y": 3507609600,
+        "z": 240877363200
+    },
+    "stargate_id": 50006728,
+    "system_id": 30005041,
+    "type_id": 29624
+}

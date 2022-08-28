@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006807,
+        "system_id": 30001766
+    },
+    "name": "Stargate (QFRV-2)",
+    "position": {
+        "x": -3809620500480,
+        "y": -180358717440,
+        "z": 4510513766400
+    },
+    "stargate_id": 50006559,
+    "system_id": 30001764,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011130,
+        "system_id": 30001790
+    },
+    "name": "Stargate (KGCF-5)",
+    "position": {
+        "x": -1369097379840,
+        "y": -261079572480,
+        "z": -1364917739520
+    },
+    "stargate_id": 50012067,
+    "system_id": 30001793,
+    "type_id": 3875
+}

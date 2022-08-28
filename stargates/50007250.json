@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008101,
+        "system_id": 30003816
+    },
+    "name": "Stargate (Vilinnon)",
+    "position": {
+        "x": 2848389488640,
+        "y": 6731980800,
+        "z": -2149374320640
+    },
+    "stargate_id": 50007250,
+    "system_id": 30003815,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016313,
+        "system_id": 30045324
+    },
+    "name": "Stargate (Onnamon)",
+    "position": {
+        "x": -4617424527360,
+        "y": -106615726080,
+        "z": 554400522240
+    },
+    "stargate_id": 50016314,
+    "system_id": 30045326,
+    "type_id": 16
+}

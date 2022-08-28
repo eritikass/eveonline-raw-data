@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012221,
+        "system_id": 30003095
+    },
+    "name": "Stargate (Furskeshin)",
+    "position": {
+        "x": -1329915125760,
+        "y": 184979742720,
+        "z": -1258136494080
+    },
+    "stargate_id": 50011609,
+    "system_id": 30003094,
+    "type_id": 29624
+}

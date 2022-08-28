@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016514,
+        "system_id": 30001445
+    },
+    "name": "Stargate (Nalvula)",
+    "position": {
+        "x": 4136345323.5571012,
+        "y": 598953591.7516134,
+        "z": 85039497674.88823
+    },
+    "stargate_id": 50016515,
+    "system_id": 30002737,
+    "type_id": 56317
+}

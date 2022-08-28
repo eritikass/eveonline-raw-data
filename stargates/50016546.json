@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016547,
+        "system_id": 30020141
+    },
+    "name": "Stargate (Senda)",
+    "position": {
+        "x": -16854838872.18368,
+        "y": -766560179.8301461,
+        "z": 59946195185.977036
+    },
+    "stargate_id": 50016546,
+    "system_id": 30000206,
+    "type_id": 56317
+}

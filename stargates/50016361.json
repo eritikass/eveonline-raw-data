@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016362,
+        "system_id": 30045353
+    },
+    "name": "Stargate (Pynekastoh)",
+    "position": {
+        "x": -2328400650240,
+        "y": -35426918400,
+        "z": -751745310720
+    },
+    "stargate_id": 50016361,
+    "system_id": 30045347,
+    "type_id": 16
+}

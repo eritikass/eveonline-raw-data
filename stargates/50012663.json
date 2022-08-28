@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012544,
+        "system_id": 30004202
+    },
+    "name": "Stargate (U6R-F9)",
+    "position": {
+        "x": 2196407623680,
+        "y": 158280130560,
+        "z": 1787101470720
+    },
+    "stargate_id": 50012663,
+    "system_id": 30004203,
+    "type_id": 3875
+}

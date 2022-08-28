@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007966,
+        "system_id": 30003943
+    },
+    "name": "Stargate (T8H-66)",
+    "position": {
+        "x": -657272954880,
+        "y": -8593858560,
+        "z": -2351400099840
+    },
+    "stargate_id": 50008166,
+    "system_id": 30003946,
+    "type_id": 29624
+}

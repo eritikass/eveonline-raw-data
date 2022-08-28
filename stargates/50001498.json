@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011256,
+        "system_id": 30000068
+    },
+    "name": "Stargate (Usroh)",
+    "position": {
+        "x": -2630432808960,
+        "y": 398992220160,
+        "z": -3937119068160
+    },
+    "stargate_id": 50001498,
+    "system_id": 30000057,
+    "type_id": 29624
+}

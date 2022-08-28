@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005741,
+        "system_id": 30005032
+    },
+    "name": "Stargate (Khabara)",
+    "position": {
+        "x": 3643260887040,
+        "y": -436082073600,
+        "z": -2426380738560
+    },
+    "stargate_id": 50005696,
+    "system_id": 30005031,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006461,
+        "system_id": 30005038
+    },
+    "name": "Stargate (Kor-Azor Prime)",
+    "position": {
+        "x": 2739141058560,
+        "y": 95353036800,
+        "z": 370686074880
+    },
+    "stargate_id": 50006571,
+    "system_id": 30005039,
+    "type_id": 29624
+}

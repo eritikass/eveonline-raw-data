@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005023,
+        "system_id": 30001371
+    },
+    "name": "Stargate (Erenta)",
+    "position": {
+        "x": 6516286709760,
+        "y": -825226321920,
+        "z": -6199405240320
+    },
+    "stargate_id": 50000167,
+    "system_id": 30001368,
+    "type_id": 16
+}

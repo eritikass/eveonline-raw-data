@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014084,
+        "system_id": 30002508
+    },
+    "name": "Stargate (Trytedald)",
+    "position": {
+        "x": -610046238720,
+        "y": -85410816000,
+        "z": -6628186398720
+    },
+    "stargate_id": 50014083,
+    "system_id": 30002524,
+    "type_id": 3877
+}

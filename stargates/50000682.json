@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008148,
+        "system_id": 30000056
+    },
+    "name": "Stargate (Khankenirdia)",
+    "position": {
+        "x": 612581498880,
+        "y": 67568640000,
+        "z": -905647104000
+    },
+    "stargate_id": 50000682,
+    "system_id": 30000051,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008330,
+        "system_id": 30002407
+    },
+    "name": "Stargate (Altbrard)",
+    "position": {
+        "x": 66327060480,
+        "y": 1105059840,
+        "z": 189449625600
+    },
+    "stargate_id": 50006081,
+    "system_id": 30002402,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013529,
+        "system_id": 30001961
+    },
+    "name": "Stargate (0T-LIB)",
+    "position": {
+        "x": 1847751106560,
+        "y": 346328309760,
+        "z": 2229011128320
+    },
+    "stargate_id": 50013498,
+    "system_id": 30001958,
+    "type_id": 29624
+}

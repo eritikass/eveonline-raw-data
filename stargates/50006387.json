@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002498,
+        "system_id": 30003018
+    },
+    "name": "Stargate (Azer)",
+    "position": {
+        "x": 3381039144960,
+        "y": 654664458240,
+        "z": -1078897827840
+    },
+    "stargate_id": 50006387,
+    "system_id": 30003021,
+    "type_id": 3875
+}

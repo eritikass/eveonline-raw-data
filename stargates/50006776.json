@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007377,
+        "system_id": 30001339
+    },
+    "name": "Stargate (6UQ-4U)",
+    "position": {
+        "x": -5844238049280,
+        "y": 90946314240,
+        "z": 1358319083520
+    },
+    "stargate_id": 50006776,
+    "system_id": 30001337,
+    "type_id": 16
+}

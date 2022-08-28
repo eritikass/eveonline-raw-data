@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005602,
+        "system_id": 30002845
+    },
+    "name": "Stargate (EPCD-D)",
+    "position": {
+        "x": -1521427783680,
+        "y": -261355806720,
+        "z": -951567605760
+    },
+    "stargate_id": 50003121,
+    "system_id": 30002842,
+    "type_id": 3875
+}

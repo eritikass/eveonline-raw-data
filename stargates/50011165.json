@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011065,
+        "system_id": 30003448
+    },
+    "name": "Stargate (Nifflung)",
+    "position": {
+        "x": -1036548710400,
+        "y": -55250657280,
+        "z": 4302500536320
+    },
+    "stargate_id": 50011165,
+    "system_id": 30003449,
+    "type_id": 29633
+}

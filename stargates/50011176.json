@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011651,
+        "system_id": 30001799
+    },
+    "name": "Stargate (2WU-XT)",
+    "position": {
+        "x": -4965546762240,
+        "y": 255411118080,
+        "z": -2209749442560
+    },
+    "stargate_id": 50011176,
+    "system_id": 30001796,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010192,
+        "system_id": 30003455
+    },
+    "name": "Stargate (Atonder)",
+    "position": {
+        "x": -2102966231040,
+        "y": -223999795200,
+        "z": 941783900160
+    },
+    "stargate_id": 50009028,
+    "system_id": 30003454,
+    "type_id": 29633
+}

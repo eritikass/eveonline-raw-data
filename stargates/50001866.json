@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000634,
+        "system_id": 30001029
+    },
+    "name": "Stargate (ES-UWY)",
+    "position": {
+        "x": 349186498560,
+        "y": -19685744640,
+        "z": -127691857920
+    },
+    "stargate_id": 50001866,
+    "system_id": 30001031,
+    "type_id": 29633
+}

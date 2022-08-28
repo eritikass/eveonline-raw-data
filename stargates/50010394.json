@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011006,
+        "system_id": 30004417
+    },
+    "name": "Stargate (BGN1-O)",
+    "position": {
+        "x": 839029678080,
+        "y": 92567592960,
+        "z": -3005835141120
+    },
+    "stargate_id": 50010394,
+    "system_id": 30004416,
+    "type_id": 29633
+}

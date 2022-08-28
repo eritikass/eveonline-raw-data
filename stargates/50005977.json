@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006362,
+        "system_id": 30000422
+    },
+    "name": "Stargate (IEZW-V)",
+    "position": {
+        "x": 37633597440,
+        "y": -3293552640,
+        "z": 870467543040
+    },
+    "stargate_id": 50005977,
+    "system_id": 30000421,
+    "type_id": 3876
+}

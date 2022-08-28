@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006343,
+        "system_id": 30004100
+    },
+    "name": "Stargate (Halibai)",
+    "position": {
+        "x": -5610738769920,
+        "y": -408542453760,
+        "z": 587497512960
+    },
+    "stargate_id": 50006331,
+    "system_id": 30004099,
+    "type_id": 29624
+}

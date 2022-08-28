@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012599,
+        "system_id": 30004259
+    },
+    "name": "Stargate (Ertoo)",
+    "position": {
+        "x": 264962334720,
+        "y": -47285084160,
+        "z": 4268850585600
+    },
+    "stargate_id": 50013263,
+    "system_id": 30004261,
+    "type_id": 29624
+}

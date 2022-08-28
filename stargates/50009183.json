@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009821,
+        "system_id": 30003960
+    },
+    "name": "Stargate (YOP-0T)",
+    "position": {
+        "x": -2436624261120,
+        "y": -289535877120,
+        "z": -1776387809280
+    },
+    "stargate_id": 50009183,
+    "system_id": 30003957,
+    "type_id": 29624
+}

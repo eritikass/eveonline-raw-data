@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013060,
+        "system_id": 30004545
+    },
+    "name": "Stargate (BOE7-P)",
+    "position": {
+        "x": -812887449600,
+        "y": 105486458880,
+        "z": 535713669120
+    },
+    "stargate_id": 50012956,
+    "system_id": 30004544,
+    "type_id": 3875
+}

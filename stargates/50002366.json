@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002579,
+        "system_id": 30001264
+    },
+    "name": "Stargate (KK-L97)",
+    "position": {
+        "x": 319902228480,
+        "y": 10918502400,
+        "z": 1745160069120
+    },
+    "stargate_id": 50002366,
+    "system_id": 30001262,
+    "type_id": 16
+}

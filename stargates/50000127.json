@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000784,
+        "system_id": 30000939
+    },
+    "name": "Stargate (9-34L5)",
+    "position": {
+        "x": -6003875635200,
+        "y": -952483553280,
+        "z": 696362803200
+    },
+    "stargate_id": 50000127,
+    "system_id": 30000936,
+    "type_id": 29633
+}

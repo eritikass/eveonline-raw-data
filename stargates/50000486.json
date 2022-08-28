@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001321,
+        "system_id": 30002840
+    },
+    "name": "Stargate (MN9P-A)",
+    "position": {
+        "x": 2626604605440,
+        "y": -108180480000,
+        "z": 2295720714240
+    },
+    "stargate_id": 50000486,
+    "system_id": 30002839,
+    "type_id": 3875
+}

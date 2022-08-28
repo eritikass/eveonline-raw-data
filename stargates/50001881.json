@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001778,
+        "system_id": 30000903
+    },
+    "name": "Stargate (E02-IK)",
+    "position": {
+        "x": 320334028800,
+        "y": -4673470586880,
+        "z": -1270259834880
+    },
+    "stargate_id": 50001881,
+    "system_id": 30000942,
+    "type_id": 3877
+}

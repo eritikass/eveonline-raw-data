@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003186,
+        "system_id": 30002665
+    },
+    "name": "Stargate (Misneden)",
+    "position": {
+        "x": 2025890242560,
+        "y": 174716313600,
+        "z": 2532515635200
+    },
+    "stargate_id": 50000630,
+    "system_id": 30002662,
+    "type_id": 3875
+}

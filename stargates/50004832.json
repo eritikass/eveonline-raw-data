@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004220,
+        "system_id": 30003714
+    },
+    "name": "Stargate (QBL-BV)",
+    "position": {
+        "x": -3761897349120,
+        "y": -1342704967680,
+        "z": 1297283604480
+    },
+    "stargate_id": 50004832,
+    "system_id": 30003735,
+    "type_id": 17
+}

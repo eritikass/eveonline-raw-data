@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011339,
+        "system_id": 30004581
+    },
+    "name": "Stargate (OW-TPO)",
+    "position": {
+        "x": 1529063792640,
+        "y": -34188779520,
+        "z": -1479618355200
+    },
+    "stargate_id": 50011241,
+    "system_id": 30004578,
+    "type_id": 3875
+}

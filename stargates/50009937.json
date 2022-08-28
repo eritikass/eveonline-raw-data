@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011238,
+        "system_id": 30005070
+    },
+    "name": "Stargate (Tadadan)",
+    "position": {
+        "x": -1361991966720,
+        "y": 91853660160,
+        "z": 1756478545920
+    },
+    "stargate_id": 50009937,
+    "system_id": 30005069,
+    "type_id": 29624
+}

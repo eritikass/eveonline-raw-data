@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005193,
+        "system_id": 30004094
+    },
+    "name": "Stargate (Nordar)",
+    "position": {
+        "x": -11128663203840,
+        "y": -1350521856000,
+        "z": -5547905310720
+    },
+    "stargate_id": 50004437,
+    "system_id": 30004092,
+    "type_id": 29624
+}

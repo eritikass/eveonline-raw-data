@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011480,
+        "system_id": 30002566
+    },
+    "name": "Stargate (Klir)",
+    "position": {
+        "x": 1873758904320,
+        "y": 31018229760,
+        "z": 522107658240
+    },
+    "stargate_id": 50008410,
+    "system_id": 30002565,
+    "type_id": 29633
+}

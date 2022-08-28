@@ -1,0 +1,54 @@
+{
+    "constellation_id": 20000616,
+    "name": "M-VACR",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40267038
+            ],
+            "planet_id": 40267037
+        },
+        {
+            "planet_id": 40267039
+        },
+        {
+            "asteroid_belts": [
+                40267041
+            ],
+            "planet_id": 40267040
+        },
+        {
+            "moons": [
+                40267043,
+                40267044,
+                40267045,
+                40267046,
+                40267047,
+                40267048
+            ],
+            "planet_id": 40267042
+        },
+        {
+            "asteroid_belts": [
+                40267050
+            ],
+            "moons": [
+                40267051
+            ],
+            "planet_id": 40267049
+        }
+    ],
+    "position": {
+        "x": 314353962682981300,
+        "y": 30051425004474496,
+        "z": 269032661229961540
+    },
+    "security_class": "K7",
+    "security_status": -1,
+    "star_id": 40267036,
+    "stargates": [
+        50013226,
+        50013227
+    ],
+    "system_id": 30004213
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007742,
+        "system_id": 30001144
+    },
+    "name": "Stargate (8C-VE3)",
+    "position": {
+        "x": -4275027763200,
+        "y": -89259417600,
+        "z": -2642332753920
+    },
+    "stargate_id": 50008442,
+    "system_id": 30001146,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002311,
+        "system_id": 30000877
+    },
+    "name": "Stargate (DBT-GB)",
+    "position": {
+        "x": -1146931568640,
+        "y": 34166415360,
+        "z": 1788374261760
+    },
+    "stargate_id": 50001374,
+    "system_id": 30000875,
+    "type_id": 16
+}

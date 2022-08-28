@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004724,
+        "system_id": 30005095
+    },
+    "name": "Stargate (XU7-CH)",
+    "position": {
+        "x": -135816437760,
+        "y": -220043550720,
+        "z": -1748217569280
+    },
+    "stargate_id": 50002642,
+    "system_id": 30005090,
+    "type_id": 3874
+}

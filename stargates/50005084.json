@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003483,
+        "system_id": 30003524
+    },
+    "name": "Stargate (Irnal)",
+    "position": {
+        "x": -868284948480,
+        "y": 3995633295360,
+        "z": 32754278400
+    },
+    "stargate_id": 50005084,
+    "system_id": 30002226,
+    "type_id": 17
+}

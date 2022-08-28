@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009854,
+        "system_id": 30002579
+    },
+    "name": "Stargate (Hedgiviter)",
+    "position": {
+        "x": 2375332454400,
+        "y": -245251399680,
+        "z": -2997053890560
+    },
+    "stargate_id": 50009500,
+    "system_id": 30002578,
+    "type_id": 29633
+}

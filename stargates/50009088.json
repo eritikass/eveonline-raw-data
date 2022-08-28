@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007035,
+        "system_id": 30003200
+    },
+    "name": "Stargate (M-NWLB)",
+    "position": {
+        "x": 2293961318400,
+        "y": -3488739778560,
+        "z": -4483162644480
+    },
+    "stargate_id": 50009088,
+    "system_id": 30003235,
+    "type_id": 3874
+}

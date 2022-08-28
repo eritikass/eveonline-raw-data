@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003575,
+        "system_id": 30002891
+    },
+    "name": "Stargate (FO8M-2)",
+    "position": {
+        "x": -467270000640,
+        "y": -20027105280,
+        "z": -103851417600
+    },
+    "stargate_id": 50002995,
+    "system_id": 30002889,
+    "type_id": 16
+}

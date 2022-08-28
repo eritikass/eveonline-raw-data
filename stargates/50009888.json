@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009248,
+        "system_id": 30002269
+    },
+    "name": "Stargate (Ebo)",
+    "position": {
+        "x": -535607992320,
+        "y": 54032916480,
+        "z": 966381527040
+    },
+    "stargate_id": 50009888,
+    "system_id": 30002271,
+    "type_id": 29624
+}

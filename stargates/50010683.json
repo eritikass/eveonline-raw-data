@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010612,
+        "system_id": 30000316
+    },
+    "name": "Stargate (PX5-LR)",
+    "position": {
+        "x": -250352394240,
+        "y": 24198389760,
+        "z": 1154114641920
+    },
+    "stargate_id": 50010683,
+    "system_id": 30000317,
+    "type_id": 16
+}

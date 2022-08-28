@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012037,
+        "system_id": 30003167
+    },
+    "name": "Stargate (PK-PHZ)",
+    "position": {
+        "x": -634416537600,
+        "y": 23816724480,
+        "z": 3971531612160
+    },
+    "stargate_id": 50010407,
+    "system_id": 30003163,
+    "type_id": 29624
+}

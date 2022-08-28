@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008833,
+        "system_id": 30003441
+    },
+    "name": "Stargate (Earwik)",
+    "position": {
+        "x": 21557944320,
+        "y": 4137492480,
+        "z": -765693173760
+    },
+    "stargate_id": 50011572,
+    "system_id": 30003445,
+    "type_id": 29633
+}

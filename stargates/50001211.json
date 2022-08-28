@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005655,
+        "system_id": 30002742
+    },
+    "name": "Stargate (Erila)",
+    "position": {
+        "x": 1781147443200,
+        "y": -342312345600,
+        "z": 2828075458560
+    },
+    "stargate_id": 50001211,
+    "system_id": 30002738,
+    "type_id": 16
+}

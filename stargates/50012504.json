@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012339,
+        "system_id": 30002417
+    },
+    "name": "Stargate (Kadlina)",
+    "position": {
+        "x": -1140749475840,
+        "y": -216630927360,
+        "z": 88585297920
+    },
+    "stargate_id": 50012504,
+    "system_id": 30002418,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012009,
+        "system_id": 30002471
+    },
+    "name": "Stargate (Q-TBHW)",
+    "position": {
+        "x": 2560820551680,
+        "y": 421795553280,
+        "z": 601227632640
+    },
+    "stargate_id": 50013262,
+    "system_id": 30002472,
+    "type_id": 16
+}

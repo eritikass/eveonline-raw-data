@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013276,
+        "system_id": 30004959
+    },
+    "name": "Stargate (E2-RDQ)",
+    "position": {
+        "x": 627989176320,
+        "y": -72229232640,
+        "z": -1852446105600
+    },
+    "stargate_id": 50013275,
+    "system_id": 30004958,
+    "type_id": 29624
+}

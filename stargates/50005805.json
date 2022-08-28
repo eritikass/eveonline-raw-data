@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006246,
+        "system_id": 30001313
+    },
+    "name": "Stargate (EK2-ET)",
+    "position": {
+        "x": -4038852157440,
+        "y": -752770129920,
+        "z": 1649373634560
+    },
+    "stargate_id": 50005805,
+    "system_id": 30001310,
+    "type_id": 16
+}

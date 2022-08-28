@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001347,
+        "system_id": 30002324
+    },
+    "name": "Stargate (R-6KYM)",
+    "position": {
+        "x": -2821591818240,
+        "y": -549640151040,
+        "z": -477132349440
+    },
+    "stargate_id": 50007598,
+    "system_id": 30002330,
+    "type_id": 3875
+}

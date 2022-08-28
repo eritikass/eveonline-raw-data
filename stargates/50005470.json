@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007004,
+        "system_id": 30001147
+    },
+    "name": "Stargate (POQP-K)",
+    "position": {
+        "x": 655163105280,
+        "y": 302817976320,
+        "z": -3038937292800
+    },
+    "stargate_id": 50005470,
+    "system_id": 30003189,
+    "type_id": 29632
+}

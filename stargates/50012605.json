@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012630,
+        "system_id": 30004931
+    },
+    "name": "Stargate (VR-YIQ)",
+    "position": {
+        "x": 314717429760,
+        "y": -37006909440,
+        "z": -3147098480640
+    },
+    "stargate_id": 50012605,
+    "system_id": 30004929,
+    "type_id": 29624
+}

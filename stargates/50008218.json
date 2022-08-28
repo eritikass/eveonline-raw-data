@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008243,
+        "system_id": 30003610
+    },
+    "name": "Stargate (RLTG-3)",
+    "position": {
+        "x": -1429393121280,
+        "y": 234087997440,
+        "z": 1741743022080
+    },
+    "stargate_id": 50008218,
+    "system_id": 30003609,
+    "type_id": 16
+}

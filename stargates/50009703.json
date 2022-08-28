@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009899,
+        "system_id": 30003998
+    },
+    "name": "Stargate (K-YI1L)",
+    "position": {
+        "x": -1670814720000,
+        "y": 89525084160,
+        "z": -1054375649280
+    },
+    "stargate_id": 50009703,
+    "system_id": 30003997,
+    "type_id": 29624
+}

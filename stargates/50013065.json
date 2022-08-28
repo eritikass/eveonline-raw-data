@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013088,
+        "system_id": 30004223
+    },
+    "name": "Stargate (MO-YDG)",
+    "position": {
+        "x": 1963025571840,
+        "y": -184998174720,
+        "z": 2147785973760
+    },
+    "stargate_id": 50013065,
+    "system_id": 30004222,
+    "type_id": 3875
+}

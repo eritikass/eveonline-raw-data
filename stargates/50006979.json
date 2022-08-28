@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007080,
+        "system_id": 30001769
+    },
+    "name": "Stargate (EZWQ-X)",
+    "position": {
+        "x": 10802599895040,
+        "y": -1480009605120,
+        "z": 9645731143680
+    },
+    "stargate_id": 50006979,
+    "system_id": 30001768,
+    "type_id": 3875
+}

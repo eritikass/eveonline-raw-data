@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003173,
+        "system_id": 30001831
+    },
+    "name": "Stargate (DSS-EZ)",
+    "position": {
+        "x": 358260449280,
+        "y": 1268307025920,
+        "z": -4259726745600
+    },
+    "stargate_id": 50002578,
+    "system_id": 30001200,
+    "type_id": 29626
+}

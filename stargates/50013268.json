@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013314,
+        "system_id": 30001824
+    },
+    "name": "Stargate (VE-W7O)",
+    "position": {
+        "x": 1905347665920,
+        "y": 32025600000,
+        "z": 1674201538560
+    },
+    "stargate_id": 50013268,
+    "system_id": 30001822,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004026,
+        "system_id": 30003719
+    },
+    "name": "Stargate (QR-K85)",
+    "position": {
+        "x": 4750729420800,
+        "y": -792433827840,
+        "z": 2838072238080
+    },
+    "stargate_id": 50004592,
+    "system_id": 30003720,
+    "type_id": 29624
+}

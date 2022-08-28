@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009687,
+        "system_id": 30004361
+    },
+    "name": "Stargate (I-7RIS)",
+    "position": {
+        "x": -3088123944960,
+        "y": 621736796160,
+        "z": -1339618713600
+    },
+    "stargate_id": 50009487,
+    "system_id": 30004359,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006613,
+        "system_id": 30003197
+    },
+    "name": "Stargate (MTGF-2)",
+    "position": {
+        "x": -2131463086080,
+        "y": -365137305600,
+        "z": -195993600
+    },
+    "stargate_id": 50006618,
+    "system_id": 30003198,
+    "type_id": 3875
+}

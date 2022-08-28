@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004721,
+        "system_id": 30002549
+    },
+    "name": "Stargate (Offugen)",
+    "position": {
+        "x": -2257771192320,
+        "y": -43012300800,
+        "z": -3049496125440
+    },
+    "stargate_id": 50005063,
+    "system_id": 30002552,
+    "type_id": 29633
+}

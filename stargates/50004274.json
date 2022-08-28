@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004792,
+        "system_id": 30002431
+    },
+    "name": "Stargate (QKTR-L)",
+    "position": {
+        "x": -274155970560,
+        "y": 3373916160,
+        "z": -813210624000
+    },
+    "stargate_id": 50004274,
+    "system_id": 30002428,
+    "type_id": 16
+}

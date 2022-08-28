@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004269,
+        "system_id": 30000986
+    },
+    "name": "Stargate (BRT-OP)",
+    "position": {
+        "x": -2762097991680,
+        "y": -253025280000,
+        "z": -1354220298240
+    },
+    "stargate_id": 50004564,
+    "system_id": 30000987,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010666,
+        "system_id": 30003000
+    },
+    "name": "Stargate (Thakala)",
+    "position": {
+        "x": 9960775680,
+        "y": 1663426560,
+        "z": -37681274880
+    },
+    "stargate_id": 50009117,
+    "system_id": 30002999,
+    "type_id": 29624
+}

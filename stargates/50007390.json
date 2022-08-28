@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007166,
+        "system_id": 30002373
+    },
+    "name": "Stargate (CT8K-0)",
+    "position": {
+        "x": 658689761280,
+        "y": 7564369920,
+        "z": 187292590080
+    },
+    "stargate_id": 50007390,
+    "system_id": 30002375,
+    "type_id": 3875
+}

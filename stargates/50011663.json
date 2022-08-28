@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011197,
+        "system_id": 30003655
+    },
+    "name": "Stargate (A1RR-M)",
+    "position": {
+        "x": -377898147840,
+        "y": -38405283840,
+        "z": 13676421120
+    },
+    "stargate_id": 50011663,
+    "system_id": 30003656,
+    "type_id": 16
+}

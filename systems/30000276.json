@@ -1,0 +1,69 @@
+{
+    "constellation_id": 20000039,
+    "name": "H-1EOH",
+    "planets": [
+        {
+            "planet_id": 40017407
+        },
+        {
+            "planet_id": 40017408
+        },
+        {
+            "planet_id": 40017409
+        },
+        {
+            "asteroid_belts": [
+                40017411
+            ],
+            "planet_id": 40017410
+        },
+        {
+            "asteroid_belts": [
+                40017413
+            ],
+            "planet_id": 40017412
+        },
+        {
+            "asteroid_belts": [
+                40017415
+            ],
+            "moons": [
+                40017416
+            ],
+            "planet_id": 40017414
+        },
+        {
+            "asteroid_belts": [
+                40017418
+            ],
+            "moons": [
+                40017419,
+                40017420
+            ],
+            "planet_id": 40017417
+        },
+        {
+            "asteroid_belts": [
+                40017422
+            ],
+            "moons": [
+                40017423,
+                40017424
+            ],
+            "planet_id": 40017421
+        }
+    ],
+    "position": {
+        "x": -40936741933641470,
+        "y": 99658745643225650,
+        "z": 145199902458567420
+    },
+    "security_class": "H",
+    "security_status": -0.17127500474452972,
+    "star_id": 40017406,
+    "stargates": [
+        50003675,
+        50003676
+    ],
+    "system_id": 30000276
+}

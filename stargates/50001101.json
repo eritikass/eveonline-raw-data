@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001522,
+        "system_id": 30002766
+    },
+    "name": "Stargate (Iivinen)",
+    "position": {
+        "x": 1761228840960,
+        "y": 222929756160,
+        "z": 2463891333120
+    },
+    "stargate_id": 50001101,
+    "system_id": 30002763,
+    "type_id": 16
+}

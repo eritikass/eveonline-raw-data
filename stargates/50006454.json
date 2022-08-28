@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006355,
+        "system_id": 30002018
+    },
+    "name": "Stargate (ZKYV-W)",
+    "position": {
+        "x": 888905687040,
+        "y": 75229470720,
+        "z": -624061440000
+    },
+    "stargate_id": 50006454,
+    "system_id": 30002019,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003918,
+        "system_id": 30002053
+    },
+    "name": "Stargate (Hek)",
+    "position": {
+        "x": 2472891555840,
+        "y": -2955749253120,
+        "z": 1859950878720
+    },
+    "stargate_id": 50004694,
+    "system_id": 30002068,
+    "type_id": 3877
+}

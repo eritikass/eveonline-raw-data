@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007955,
+        "system_id": 30003775
+    },
+    "name": "Stargate (H9-J8N)",
+    "position": {
+        "x": -425629655040,
+        "y": -42995343360,
+        "z": -45756211200
+    },
+    "stargate_id": 50007780,
+    "system_id": 30003774,
+    "type_id": 29624
+}

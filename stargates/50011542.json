@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010107,
+        "system_id": 30000320
+    },
+    "name": "Stargate (R-RSZZ)",
+    "position": {
+        "x": -276031119360,
+        "y": -48997048320,
+        "z": 2058123878400
+    },
+    "stargate_id": 50011542,
+    "system_id": 30000322,
+    "type_id": 16
+}

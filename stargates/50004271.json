@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007469,
+        "system_id": 30003022
+    },
+    "name": "Stargate (Mya)",
+    "position": {
+        "x": -2500276592640,
+        "y": -103575674880,
+        "z": -1440697344000
+    },
+    "stargate_id": 50004271,
+    "system_id": 30003020,
+    "type_id": 3875
+}

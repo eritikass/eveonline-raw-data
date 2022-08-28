@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010749,
+        "system_id": 30000067
+    },
+    "name": "Stargate (Sharir)",
+    "position": {
+        "x": -427768012800,
+        "y": 16678379520,
+        "z": 2611137208320
+    },
+    "stargate_id": 50008906,
+    "system_id": 30000065,
+    "type_id": 29624
+}

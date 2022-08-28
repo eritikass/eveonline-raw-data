@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006275,
+        "system_id": 30005036
+    },
+    "name": "Stargate (Amdonen)",
+    "position": {
+        "x": -2010251796480,
+        "y": 2530728468480,
+        "z": -3235741655040
+    },
+    "stargate_id": 50006123,
+    "system_id": 30005035,
+    "type_id": 17
+}

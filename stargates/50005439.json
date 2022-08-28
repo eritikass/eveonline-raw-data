@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005234,
+        "system_id": 30000651
+    },
+    "name": "Stargate (RV5-TT)",
+    "position": {
+        "x": 123967119360,
+        "y": -2606161920,
+        "z": -3161221324800
+    },
+    "stargate_id": 50005439,
+    "system_id": 30000654,
+    "type_id": 29633
+}

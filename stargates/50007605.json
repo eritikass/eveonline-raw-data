@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007339,
+        "system_id": 30000516
+    },
+    "name": "Stargate (DX-DFJ)",
+    "position": {
+        "x": 2666152796160,
+        "y": 209030062080,
+        "z": 3642011934720
+    },
+    "stargate_id": 50007605,
+    "system_id": 30000519,
+    "type_id": 29633
+}

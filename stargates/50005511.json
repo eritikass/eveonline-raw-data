@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005338,
+        "system_id": 30002990
+    },
+    "name": "Stargate (Hakshma)",
+    "position": {
+        "x": 3211944960000,
+        "y": 178528542720,
+        "z": -2882409799680
+    },
+    "stargate_id": 50005511,
+    "system_id": 30002993,
+    "type_id": 29624
+}

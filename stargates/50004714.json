@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007048,
+        "system_id": 30003519
+    },
+    "name": "Stargate (Lahnina)",
+    "position": {
+        "x": -1179939348480,
+        "y": -144614400000,
+        "z": 2205887569920
+    },
+    "stargate_id": 50004714,
+    "system_id": 30003518,
+    "type_id": 29624
+}

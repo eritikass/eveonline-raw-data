@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007001,
+        "system_id": 30004316
+    },
+    "name": "Stargate (KMC-WI)",
+    "position": {
+        "x": 904330813440,
+        "y": 157982269440,
+        "z": -1475919421440
+    },
+    "stargate_id": 50006959,
+    "system_id": 30004315,
+    "type_id": 16
+}

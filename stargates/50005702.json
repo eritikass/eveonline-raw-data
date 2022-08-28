@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006682,
+        "system_id": 30004832
+    },
+    "name": "Stargate (IL-YTR)",
+    "position": {
+        "x": -468386242560,
+        "y": -70897459200,
+        "z": 216671969280
+    },
+    "stargate_id": 50005702,
+    "system_id": 30004831,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003266,
+        "system_id": 30001420
+    },
+    "name": "Stargate (Daras)",
+    "position": {
+        "x": -1041908244480,
+        "y": 209787494400,
+        "z": 3713675059200
+    },
+    "stargate_id": 50003031,
+    "system_id": 30001419,
+    "type_id": 16
+}

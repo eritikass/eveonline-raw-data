@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011116,
+        "system_id": 30003853
+    },
+    "name": "Stargate (Mercomesier)",
+    "position": {
+        "x": 6154844282880,
+        "y": 381365821440,
+        "z": -3296640491520
+    },
+    "stargate_id": 50010074,
+    "system_id": 30003851,
+    "type_id": 3875
+}

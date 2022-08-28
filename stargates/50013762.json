@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013761,
+        "system_id": 30000145
+    },
+    "name": "Stargate (New Caldari)",
+    "position": {
+        "x": 196735672320,
+        "y": -687753830400,
+        "z": -549966766080
+    },
+    "stargate_id": 50013762,
+    "system_id": 30001393,
+    "type_id": 29629
+}

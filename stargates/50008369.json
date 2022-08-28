@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008396,
+        "system_id": 30003949
+    },
+    "name": "Stargate (G-3BOG)",
+    "position": {
+        "x": -13465804800,
+        "y": 1540300800,
+        "z": -755690004480
+    },
+    "stargate_id": 50008369,
+    "system_id": 30003948,
+    "type_id": 29624
+}

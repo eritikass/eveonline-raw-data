@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007463,
+        "system_id": 30005153
+    },
+    "name": "Stargate (M4-KX5)",
+    "position": {
+        "x": 2155111096320,
+        "y": -334364712960,
+        "z": 5234705080320
+    },
+    "stargate_id": 50007382,
+    "system_id": 30005152,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008621,
+        "system_id": 30003325
+    },
+    "name": "Stargate (NG-C6Y)",
+    "position": {
+        "x": -356571586560,
+        "y": 12377579520,
+        "z": -238022123520
+    },
+    "stargate_id": 50008645,
+    "system_id": 30003326,
+    "type_id": 3875
+}

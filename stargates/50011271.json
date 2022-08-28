@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011361,
+        "system_id": 30003352
+    },
+    "name": "Stargate (UFXF-C)",
+    "position": {
+        "x": -275808952320,
+        "y": -44261744640,
+        "z": -991092203520
+    },
+    "stargate_id": 50011271,
+    "system_id": 30003351,
+    "type_id": 3875
+}

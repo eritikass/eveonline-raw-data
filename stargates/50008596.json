@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009481,
+        "system_id": 30002250
+    },
+    "name": "Stargate (Hai)",
+    "position": {
+        "x": 478970880000,
+        "y": 34250711040,
+        "z": -801391042560
+    },
+    "stargate_id": 50008596,
+    "system_id": 30002246,
+    "type_id": 29624
+}

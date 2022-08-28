@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003395,
+        "system_id": 30001393
+    },
+    "name": "Stargate (Malkalen)",
+    "position": {
+        "x": 500664606720,
+        "y": -29210910720,
+        "z": -1682276720640
+    },
+    "stargate_id": 50006045,
+    "system_id": 30001395,
+    "type_id": 16
+}

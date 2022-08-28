@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001214,
+        "system_id": 30000567
+    },
+    "name": "Stargate (C-LTXS)",
+    "position": {
+        "x": 2119204823040,
+        "y": -258052546560,
+        "z": -1280314859520
+    },
+    "stargate_id": 50002620,
+    "system_id": 30000571,
+    "type_id": 29633
+}

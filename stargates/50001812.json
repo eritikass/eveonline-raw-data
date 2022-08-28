@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002617,
+        "system_id": 30001669
+    },
+    "name": "Stargate (Pimebeka)",
+    "position": {
+        "x": -7218479554560,
+        "y": 2331054858240,
+        "z": -4050745712640
+    },
+    "stargate_id": 50001812,
+    "system_id": 30001647,
+    "type_id": 17
+}

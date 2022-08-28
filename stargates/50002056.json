@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000189,
+        "system_id": 30000208
+    },
+    "name": "Stargate (LZ-6SU)",
+    "position": {
+        "x": -3386414899200,
+        "y": -585845760000,
+        "z": -3352712847360
+    },
+    "stargate_id": 50002056,
+    "system_id": 30000213,
+    "type_id": 16
+}

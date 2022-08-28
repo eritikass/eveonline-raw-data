@@ -1,0 +1,54 @@
+{
+    "constellation_id": 20000264,
+    "name": "U-FQ21",
+    "planets": [
+        {
+            "planet_id": 40114427
+        },
+        {
+            "asteroid_belts": [
+                40114429
+            ],
+            "moons": [
+                40114430
+            ],
+            "planet_id": 40114428
+        },
+        {
+            "asteroid_belts": [
+                40114432
+            ],
+            "planet_id": 40114431
+        },
+        {
+            "moons": [
+                40114434,
+                40114435
+            ],
+            "planet_id": 40114433
+        },
+        {
+            "asteroid_belts": [
+                40114437,
+                40114438,
+                40114440
+            ],
+            "moons": [
+                40114439
+            ],
+            "planet_id": 40114436
+        }
+    ],
+    "position": {
+        "x": 306141682004242200,
+        "y": 24930986249016204,
+        "z": 118171951332321660
+    },
+    "security_class": "K7",
+    "security_status": -0.8963690400123596,
+    "star_id": 40114426,
+    "stargates": [
+        50012606
+    ],
+    "system_id": 30001788
+}

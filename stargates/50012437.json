@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012606,
+        "system_id": 30001788
+    },
+    "name": "Stargate (U-FQ21)",
+    "position": {
+        "x": 2137508782080,
+        "y": -180371742720,
+        "z": 851821731840
+    },
+    "stargate_id": 50012437,
+    "system_id": 30001787,
+    "type_id": 3875
+}

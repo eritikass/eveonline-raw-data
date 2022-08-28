@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003436,
+        "system_id": 30001213
+    },
+    "name": "Stargate (MUXX-4)",
+    "position": {
+        "x": 1735479336960,
+        "y": -2433638400,
+        "z": 3565835673600
+    },
+    "stargate_id": 50003753,
+    "system_id": 30001214,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007498,
+        "system_id": 30002212
+    },
+    "name": "Stargate (Raren)",
+    "position": {
+        "x": -4261764341760,
+        "y": -468326522880,
+        "z": 33719377920
+    },
+    "stargate_id": 50013220,
+    "system_id": 30002218,
+    "type_id": 29624
+}

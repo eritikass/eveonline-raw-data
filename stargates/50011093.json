@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011926,
+        "system_id": 30004252
+    },
+    "name": "Stargate (Bazadod)",
+    "position": {
+        "x": -55433011200,
+        "y": 7717724160,
+        "z": -27642470400
+    },
+    "stargate_id": 50011093,
+    "system_id": 30004248,
+    "type_id": 29624
+}

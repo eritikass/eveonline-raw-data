@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005091,
+        "system_id": 30002145
+    },
+    "name": "Stargate (PH-NFR)",
+    "position": {
+        "x": 1897207111680,
+        "y": 5522504048640,
+        "z": -102871818240
+    },
+    "stargate_id": 50000693,
+    "system_id": 30002110,
+    "type_id": 3877
+}

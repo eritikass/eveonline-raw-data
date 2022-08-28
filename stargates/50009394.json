@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011179,
+        "system_id": 30004135
+    },
+    "name": "Stargate (Shura)",
+    "position": {
+        "x": -3096848916480,
+        "y": 155517050880,
+        "z": -3104838082560
+    },
+    "stargate_id": 50009394,
+    "system_id": 30004133,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008400,
+        "system_id": 30001887
+    },
+    "name": "Stargate (8KQR-O)",
+    "position": {
+        "x": 928213032960,
+        "y": -83211264000,
+        "z": 1170109194240
+    },
+    "stargate_id": 50008424,
+    "system_id": 30001888,
+    "type_id": 29624
+}

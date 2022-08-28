@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005223,
+        "system_id": 30000650
+    },
+    "name": "Stargate (NG-M8K)",
+    "position": {
+        "x": 1582374543360,
+        "y": -135652024320,
+        "z": 3855282708480
+    },
+    "stargate_id": 50005200,
+    "system_id": 30000649,
+    "type_id": 29633
+}

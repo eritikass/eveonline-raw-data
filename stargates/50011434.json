@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009719,
+        "system_id": 30003140
+    },
+    "name": "Stargate (IR-FDV)",
+    "position": {
+        "x": 3528389713920,
+        "y": 72078581760,
+        "z": 1196710010880
+    },
+    "stargate_id": 50011434,
+    "system_id": 30003145,
+    "type_id": 29624
+}

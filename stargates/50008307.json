@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008321,
+        "system_id": 30003106
+    },
+    "name": "Stargate (HAJ-DQ)",
+    "position": {
+        "x": -3950593351680,
+        "y": 715156316160,
+        "z": -1281187307520
+    },
+    "stargate_id": 50008307,
+    "system_id": 30003105,
+    "type_id": 29624
+}

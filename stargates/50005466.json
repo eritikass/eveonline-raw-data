@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007487,
+        "system_id": 30000505
+    },
+    "name": "Stargate (QIMO-2)",
+    "position": {
+        "x": 1269915525120,
+        "y": -67630571520,
+        "z": 2840889384960
+    },
+    "stargate_id": 50005466,
+    "system_id": 30000500,
+    "type_id": 29633
+}

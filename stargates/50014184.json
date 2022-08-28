@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014183,
+        "system_id": 30003388
+    },
+    "name": "Stargate (Olbra)",
+    "position": {
+        "x": 444311347200,
+        "y": 1833984000,
+        "z": 1093617377280
+    },
+    "stargate_id": 50014184,
+    "system_id": 30043410,
+    "type_id": 29633
+}

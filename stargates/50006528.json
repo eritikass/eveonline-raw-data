@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006544,
+        "system_id": 30003861
+    },
+    "name": "Stargate (Ipref)",
+    "position": {
+        "x": -498717204480,
+        "y": 15744245760,
+        "z": 897809571840
+    },
+    "stargate_id": 50006528,
+    "system_id": 30003860,
+    "type_id": 29624
+}

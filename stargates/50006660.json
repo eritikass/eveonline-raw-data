@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006237,
+        "system_id": 30004310
+    },
+    "name": "Stargate (UQ9-3C)",
+    "position": {
+        "x": 251988172800,
+        "y": -7548641280,
+        "z": -676255457280
+    },
+    "stargate_id": 50006660,
+    "system_id": 30004311,
+    "type_id": 16
+}

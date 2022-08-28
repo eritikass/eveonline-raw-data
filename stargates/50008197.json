@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008368,
+        "system_id": 30003948
+    },
+    "name": "Stargate (7GCD-P)",
+    "position": {
+        "x": -3838480097280,
+        "y": -2657524899840,
+        "z": -843314749440
+    },
+    "stargate_id": 50008197,
+    "system_id": 30003947,
+    "type_id": 17
+}

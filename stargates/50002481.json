@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002649,
+        "system_id": 30000269
+    },
+    "name": "Stargate (KX-2UI)",
+    "position": {
+        "x": 205426483200,
+        "y": 20930273280,
+        "z": 815877365760
+    },
+    "stargate_id": 50002481,
+    "system_id": 30000268,
+    "type_id": 16
+}

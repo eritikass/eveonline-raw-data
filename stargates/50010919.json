@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010595,
+        "system_id": 30004722
+    },
+    "name": "Stargate (319-3D)",
+    "position": {
+        "x": -1226342277120,
+        "y": 2825964134400,
+        "z": 2511338250240
+    },
+    "stargate_id": 50010919,
+    "system_id": 30004750,
+    "type_id": 17
+}

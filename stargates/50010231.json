@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010881,
+        "system_id": 30003472
+    },
+    "name": "Stargate (Erindur)",
+    "position": {
+        "x": 2301791969280,
+        "y": -317217300480,
+        "z": 2416784547840
+    },
+    "stargate_id": 50010231,
+    "system_id": 30003468,
+    "type_id": 29633
+}

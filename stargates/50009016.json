@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008732,
+        "system_id": 30004493
+    },
+    "name": "Stargate (C0T-77)",
+    "position": {
+        "x": 1998465638400,
+        "y": 379812372480,
+        "z": -5641895239680
+    },
+    "stargate_id": 50009016,
+    "system_id": 30004500,
+    "type_id": 3875
+}

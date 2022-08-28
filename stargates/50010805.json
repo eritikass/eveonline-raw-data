@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010965,
+        "system_id": 30004529
+    },
+    "name": "Stargate (T-Z6J2)",
+    "position": {
+        "x": -492656517120,
+        "y": 62766489600,
+        "z": -6044289392640
+    },
+    "stargate_id": 50010805,
+    "system_id": 30004527,
+    "type_id": 3875
+}

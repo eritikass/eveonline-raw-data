@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009132,
+        "system_id": 30003049
+    },
+    "name": "Stargate (Laic)",
+    "position": {
+        "x": 3415164395520,
+        "y": 82982707200,
+        "z": -188071649280
+    },
+    "stargate_id": 50005220,
+    "system_id": 30003045,
+    "type_id": 3875
+}

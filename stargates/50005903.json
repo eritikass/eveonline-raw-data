@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007202,
+        "system_id": 30002442
+    },
+    "name": "Stargate (8MG-J6)",
+    "position": {
+        "x": -1628024217600,
+        "y": 55396884480,
+        "z": -3865621340160
+    },
+    "stargate_id": 50005903,
+    "system_id": 30002440,
+    "type_id": 16
+}

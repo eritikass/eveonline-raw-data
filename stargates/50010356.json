@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010657,
+        "system_id": 30004018
+    },
+    "name": "Stargate (L-FVHR)",
+    "position": {
+        "x": -1517743595520,
+        "y": -185465364480,
+        "z": 11719884840960
+    },
+    "stargate_id": 50010356,
+    "system_id": 30004015,
+    "type_id": 29624
+}

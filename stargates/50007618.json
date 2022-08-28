@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007590,
+        "system_id": 30005050
+    },
+    "name": "Stargate (Kulu)",
+    "position": {
+        "x": -60313313280,
+        "y": 601743360,
+        "z": -977797079040
+    },
+    "stargate_id": 50007618,
+    "system_id": 30005051,
+    "type_id": 29624
+}

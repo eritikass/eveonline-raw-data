@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012994,
+        "system_id": 30004402
+    },
+    "name": "Stargate (QYZM-W)",
+    "position": {
+        "x": 1102182850560,
+        "y": -24271872000,
+        "z": 1793087201280
+    },
+    "stargate_id": 50012410,
+    "system_id": 30004399,
+    "type_id": 16
+}

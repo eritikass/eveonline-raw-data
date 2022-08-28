@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010549,
+        "system_id": 30001902
+    },
+    "name": "Stargate (RLDS-R)",
+    "position": {
+        "x": -1478695034880,
+        "y": -283036753920,
+        "z": -622393221120
+    },
+    "stargate_id": 50010301,
+    "system_id": 30001899,
+    "type_id": 29624
+}

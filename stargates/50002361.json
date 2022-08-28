@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002776,
+        "system_id": 30000629
+    },
+    "name": "Stargate (U-QMOA)",
+    "position": {
+        "x": 137719603200,
+        "y": -5959065600,
+        "z": -726298337280
+    },
+    "stargate_id": 50002361,
+    "system_id": 30000627,
+    "type_id": 29633
+}

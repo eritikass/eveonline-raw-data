@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012882,
+        "system_id": 30004298
+    },
+    "name": "Stargate (Tisot)",
+    "position": {
+        "x": 2761228001280,
+        "y": 134188523520,
+        "z": 86218629120
+    },
+    "stargate_id": 50012997,
+    "system_id": 30004299,
+    "type_id": 29624
+}

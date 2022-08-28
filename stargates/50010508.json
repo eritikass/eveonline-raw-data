@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011556,
+        "system_id": 30003173
+    },
+    "name": "Stargate (X-HISR)",
+    "position": {
+        "x": 394890485760,
+        "y": -50141798400,
+        "z": 210470952960
+    },
+    "stargate_id": 50010508,
+    "system_id": 30003170,
+    "type_id": 29624
+}

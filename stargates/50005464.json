@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005178,
+        "system_id": 30000477
+    },
+    "name": "Stargate (RZ-PIY)",
+    "position": {
+        "x": -531160473600,
+        "y": 2533233991680,
+        "z": -2241179197440
+    },
+    "stargate_id": 50005464,
+    "system_id": 30000500,
+    "type_id": 3877
+}

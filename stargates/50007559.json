@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007359,
+        "system_id": 30002627
+    },
+    "name": "Stargate (GU-9F4)",
+    "position": {
+        "x": 2102366576640,
+        "y": 235391016960,
+        "z": 2204799836160
+    },
+    "stargate_id": 50007559,
+    "system_id": 30002628,
+    "type_id": 29633
+}

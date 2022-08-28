@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005788,
+        "system_id": 30002233
+    },
+    "name": "Stargate (Dakba)",
+    "position": {
+        "x": -2336877158400,
+        "y": -154489036800,
+        "z": 2951541596160
+    },
+    "stargate_id": 50005399,
+    "system_id": 30002229,
+    "type_id": 29624
+}

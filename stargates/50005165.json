@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005180,
+        "system_id": 30002358
+    },
+    "name": "Stargate (O-EUHA)",
+    "position": {
+        "x": 801270128640,
+        "y": -60947374080,
+        "z": -4961683169280
+    },
+    "stargate_id": 50005165,
+    "system_id": 30002357,
+    "type_id": 3875
+}

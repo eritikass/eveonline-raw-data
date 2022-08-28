@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006873,
+        "system_id": 30002538
+    },
+    "name": "Stargate (Vard)",
+    "position": {
+        "x": 4056187330560,
+        "y": 663040696320,
+        "z": -3833643294720
+    },
+    "stargate_id": 50009557,
+    "system_id": 30002541,
+    "type_id": 29633
+}

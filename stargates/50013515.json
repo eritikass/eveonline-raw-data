@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013363,
+        "system_id": 30001918
+    },
+    "name": "Stargate (S-BWWQ)",
+    "position": {
+        "x": 2475290173440,
+        "y": -129208688640,
+        "z": 3789486366720
+    },
+    "stargate_id": 50013515,
+    "system_id": 30001922,
+    "type_id": 29624
+}

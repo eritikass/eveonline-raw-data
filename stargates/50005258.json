@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006070,
+        "system_id": 30005119
+    },
+    "name": "Stargate (RY-2FX)",
+    "position": {
+        "x": 394338754560,
+        "y": 24502394880,
+        "z": 1886632304640
+    },
+    "stargate_id": 50005258,
+    "system_id": 30005117,
+    "type_id": 3875
+}

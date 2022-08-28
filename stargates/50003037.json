@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002949,
+        "system_id": 30000274
+    },
+    "name": "Stargate (Q-EHMJ)",
+    "position": {
+        "x": -5936455680,
+        "y": 648192000,
+        "z": -3116836577280
+    },
+    "stargate_id": 50003037,
+    "system_id": 30000275,
+    "type_id": 16
+}

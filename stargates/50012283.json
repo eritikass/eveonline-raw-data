@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013120,
+        "system_id": 30004600
+    },
+    "name": "Stargate (C-N4OD)",
+    "position": {
+        "x": 2889693388800,
+        "y": -388993228800,
+        "z": -4183881277440
+    },
+    "stargate_id": 50012283,
+    "system_id": 30004598,
+    "type_id": 3875
+}

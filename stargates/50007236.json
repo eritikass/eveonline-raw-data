@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000734,
+        "system_id": 30000554
+    },
+    "name": "Stargate (5E-CMA)",
+    "position": {
+        "x": 4762077880320,
+        "y": 2825641943040,
+        "z": 821340119040
+    },
+    "stargate_id": 50007236,
+    "system_id": 30000610,
+    "type_id": 3877
+}

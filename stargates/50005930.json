@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006733,
+        "system_id": 30001591
+    },
+    "name": "Stargate (S-CUEA)",
+    "position": {
+        "x": 96907468800,
+        "y": 16164986880,
+        "z": -91341004800
+    },
+    "stargate_id": 50005930,
+    "system_id": 30001586,
+    "type_id": 3875
+}

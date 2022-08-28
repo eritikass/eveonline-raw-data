@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007748,
+        "system_id": 30000112
+    },
+    "name": "Stargate (Arnola)",
+    "position": {
+        "x": -489519882240,
+        "y": 54009815040,
+        "z": 4103872634880
+    },
+    "stargate_id": 50013055,
+    "system_id": 30000118,
+    "type_id": 29624
+}

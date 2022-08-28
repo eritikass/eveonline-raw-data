@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006525,
+        "system_id": 30003281
+    },
+    "name": "Stargate (EZA-FM)",
+    "position": {
+        "x": -54931660800,
+        "y": 876994560,
+        "z": -3450576691200
+    },
+    "stargate_id": 50006714,
+    "system_id": 30003283,
+    "type_id": 3875
+}

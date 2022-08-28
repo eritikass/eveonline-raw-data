@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001231,
+        "system_id": 30000774
+    },
+    "name": "Stargate (MSG-BZ)",
+    "position": {
+        "x": 883415900160,
+        "y": -5707256586240,
+        "z": -2671125504000
+    },
+    "stargate_id": 50001332,
+    "system_id": 30000720,
+    "type_id": 29635
+}

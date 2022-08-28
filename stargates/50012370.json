@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012210,
+        "system_id": 30004682
+    },
+    "name": "Stargate (3PPT-9)",
+    "position": {
+        "x": 500831232000,
+        "y": 9404620800,
+        "z": 583629004800
+    },
+    "stargate_id": 50012370,
+    "system_id": 30004683,
+    "type_id": 29624
+}

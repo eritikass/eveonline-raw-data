@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007555,
+        "system_id": 30004117
+    },
+    "name": "Stargate (Bushemal)",
+    "position": {
+        "x": 507650334720,
+        "y": -96266035200,
+        "z": -203621621760
+    },
+    "stargate_id": 50007070,
+    "system_id": 30004116,
+    "type_id": 29624
+}

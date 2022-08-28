@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004927,
+        "system_id": 30000967
+    },
+    "name": "Stargate (6WT-BE)",
+    "position": {
+        "x": -3639835975680,
+        "y": 187376148480,
+        "z": 2778831052800
+    },
+    "stargate_id": 50003550,
+    "system_id": 30000966,
+    "type_id": 29633
+}

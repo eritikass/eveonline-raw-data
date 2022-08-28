@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003264,
+        "system_id": 30003505
+    },
+    "name": "Stargate (Fabum)",
+    "position": {
+        "x": -3985089945600,
+        "y": -26353213440,
+        "z": 10774631915520
+    },
+    "stargate_id": 50000180,
+    "system_id": 30003500,
+    "type_id": 29624
+}

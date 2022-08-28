@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010557,
+        "system_id": 30002919
+    },
+    "name": "Stargate (33RB-O)",
+    "position": {
+        "x": -2144225894400,
+        "y": -53533532160,
+        "z": 1864666030080
+    },
+    "stargate_id": 50009921,
+    "system_id": 30002917,
+    "type_id": 16
+}

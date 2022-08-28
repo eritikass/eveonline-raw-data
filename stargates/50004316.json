@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004078,
+        "system_id": 30000844
+    },
+    "name": "Stargate (5C-RPA)",
+    "position": {
+        "x": -4051888496640,
+        "y": -2687659008000,
+        "z": 2016895672320
+    },
+    "stargate_id": 50004316,
+    "system_id": 30000494,
+    "type_id": 29635
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013447,
+        "system_id": 30004703
+    },
+    "name": "Stargate (O-N589)",
+    "position": {
+        "x": 514117263360,
+        "y": -47292702720,
+        "z": 572226478080
+    },
+    "stargate_id": 50013492,
+    "system_id": 30004704,
+    "type_id": 29624
+}

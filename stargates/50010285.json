@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011856,
+        "system_id": 30005078
+    },
+    "name": "Stargate (Keproh)",
+    "position": {
+        "x": -493807165440,
+        "y": -4130856960,
+        "z": 47516344320
+    },
+    "stargate_id": 50010285,
+    "system_id": 30005076,
+    "type_id": 29624
+}

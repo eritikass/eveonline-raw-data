@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002873,
+        "system_id": 30002841
+    },
+    "name": "Stargate (TA9T-P)",
+    "position": {
+        "x": 804672921600,
+        "y": -33130536960,
+        "z": -4219261624320
+    },
+    "stargate_id": 50000487,
+    "system_id": 30002839,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013312,
+        "system_id": 30001151
+    },
+    "name": "Stargate (T-8GWA)",
+    "position": {
+        "x": 629110579200,
+        "y": 120972533760,
+        "z": -385225482240
+    },
+    "stargate_id": 50013535,
+    "system_id": 30001152,
+    "type_id": 3875
+}

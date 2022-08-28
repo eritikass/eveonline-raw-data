@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009558,
+        "system_id": 30002541
+    },
+    "name": "Stargate (Dal)",
+    "position": {
+        "x": 557020323840,
+        "y": -48759889920,
+        "z": 1300866048000
+    },
+    "stargate_id": 50007506,
+    "system_id": 30002539,
+    "type_id": 29633
+}

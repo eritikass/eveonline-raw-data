@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003190,
+        "system_id": 30003708
+    },
+    "name": "Stargate (49GC-R)",
+    "position": {
+        "x": -1012753981440,
+        "y": 172098478080,
+        "z": -5139108864000
+    },
+    "stargate_id": 50002869,
+    "system_id": 30003707,
+    "type_id": 29624
+}

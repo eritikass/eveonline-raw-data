@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002683,
+        "system_id": 30004807
+    },
+    "name": "Stargate (UALX-3)",
+    "position": {
+        "x": -1038148853760,
+        "y": 150418513920,
+        "z": -594016788480
+    },
+    "stargate_id": 50003350,
+    "system_id": 30004809,
+    "type_id": 29633
+}

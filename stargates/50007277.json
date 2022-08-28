@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006075,
+        "system_id": 30002591
+    },
+    "name": "Stargate (5GQ-S9)",
+    "position": {
+        "x": -3971922862080,
+        "y": -569795665920,
+        "z": 1953843240960
+    },
+    "stargate_id": 50007277,
+    "system_id": 30002626,
+    "type_id": 3877
+}

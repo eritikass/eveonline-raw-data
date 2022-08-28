@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008545,
+        "system_id": 30002394
+    },
+    "name": "Stargate (Muttokon)",
+    "position": {
+        "x": 1340320358400,
+        "y": -189647462400,
+        "z": 864582574080
+    },
+    "stargate_id": 50008095,
+    "system_id": 30002393,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013999,
+        "system_id": 30001368
+    },
+    "name": "Stargate (Uemisaisen)",
+    "position": {
+        "x": 2065682718720,
+        "y": -2834253373440,
+        "z": -2107945820160
+    },
+    "stargate_id": 50014000,
+    "system_id": 30001400,
+    "type_id": 29627
+}

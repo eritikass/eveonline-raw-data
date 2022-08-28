@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006601,
+        "system_id": 30005244
+    },
+    "name": "Stargate (Gergish)",
+    "position": {
+        "x": 5704715673600,
+        "y": 188992512000,
+        "z": 2516341923840
+    },
+    "stargate_id": 50006767,
+    "system_id": 30005246,
+    "type_id": 29624
+}

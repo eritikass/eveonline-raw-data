@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013337,
+        "system_id": 30004879
+    },
+    "name": "Stargate (9-980U)",
+    "position": {
+        "x": -549279866880,
+        "y": 102479093760,
+        "z": 445928448000
+    },
+    "stargate_id": 50013339,
+    "system_id": 30004880,
+    "type_id": 29633
+}

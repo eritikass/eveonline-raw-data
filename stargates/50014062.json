@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014061,
+        "system_id": 30002542
+    },
+    "name": "Stargate (Auga)",
+    "position": {
+        "x": 1237946572800,
+        "y": 82547220480,
+        "z": 5384843796480
+    },
+    "stargate_id": 50014062,
+    "system_id": 30003068,
+    "type_id": 29625
+}

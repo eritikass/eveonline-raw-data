@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010614,
+        "system_id": 30003055
+    },
+    "name": "Stargate (Aydoteaux)",
+    "position": {
+        "x": 710899507200,
+        "y": -3651940884480,
+        "z": 5445170257920
+    },
+    "stargate_id": 50011430,
+    "system_id": 30005288,
+    "type_id": 29625
+}

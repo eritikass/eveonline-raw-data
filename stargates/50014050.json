@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014049,
+        "system_id": 30005195
+    },
+    "name": "Stargate (Vecamia)",
+    "position": {
+        "x": 2573994516480,
+        "y": -374480117760,
+        "z": -3809953505280
+    },
+    "stargate_id": 50014050,
+    "system_id": 30005205,
+    "type_id": 17
+}

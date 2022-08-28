@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006122,
+        "system_id": 30005035
+    },
+    "name": "Stargate (Ami)",
+    "position": {
+        "x": -3721608683520,
+        "y": 32328130560,
+        "z": -1854489600000
+    },
+    "stargate_id": 50005983,
+    "system_id": 30005034,
+    "type_id": 29624
+}

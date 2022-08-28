@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010333,
+        "system_id": 30001885
+    },
+    "name": "Stargate (BF-FVB)",
+    "position": {
+        "x": 16611041280,
+        "y": -1577902080,
+        "z": -1185785487360
+    },
+    "stargate_id": 50008879,
+    "system_id": 30001883,
+    "type_id": 29624
+}

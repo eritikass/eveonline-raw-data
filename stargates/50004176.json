@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006983,
+        "system_id": 30002718
+    },
+    "name": "Stargate (Rancer)",
+    "position": {
+        "x": 1831471226880,
+        "y": -3381225922560,
+        "z": -396848455680
+    },
+    "stargate_id": 50004176,
+    "system_id": 30002691,
+    "type_id": 3874
+}

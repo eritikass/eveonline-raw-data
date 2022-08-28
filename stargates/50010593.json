@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012586,
+        "system_id": 30001698
+    },
+    "name": "Stargate (Gaknem)",
+    "position": {
+        "x": -337568686080,
+        "y": 2167964835840,
+        "z": -1336114913280
+    },
+    "stargate_id": 50010593,
+    "system_id": 30001707,
+    "type_id": 17
+}

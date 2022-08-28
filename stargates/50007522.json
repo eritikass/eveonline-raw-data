@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007726,
+        "system_id": 30005252
+    },
+    "name": "Stargate (Anzalaisio)",
+    "position": {
+        "x": 4950818119680,
+        "y": 1670279700480,
+        "z": 1638571008000
+    },
+    "stargate_id": 50007522,
+    "system_id": 30005256,
+    "type_id": 17
+}

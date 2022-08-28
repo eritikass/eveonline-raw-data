@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016525,
+        "system_id": 30031392
+    },
+    "name": "Stargate (Komo)",
+    "position": {
+        "x": -41482312205.211205,
+        "y": 116441200.04178165,
+        "z": 116794666999.7128
+    },
+    "stargate_id": 50016524,
+    "system_id": 30005005,
+    "type_id": 56317
+}

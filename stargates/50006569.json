@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007803,
+        "system_id": 30003293
+    },
+    "name": "Stargate (AAS-8R)",
+    "position": {
+        "x": -522668482560,
+        "y": 3722924482560,
+        "z": 77283532800
+    },
+    "stargate_id": 50006569,
+    "system_id": 30003272,
+    "type_id": 3874
+}

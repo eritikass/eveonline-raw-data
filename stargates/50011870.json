@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012937,
+        "system_id": 30003299
+    },
+    "name": "Stargate (T-LIWS)",
+    "position": {
+        "x": -1370778869760,
+        "y": 108480061440,
+        "z": 984703672320
+    },
+    "stargate_id": 50011870,
+    "system_id": 30003298,
+    "type_id": 3875
+}

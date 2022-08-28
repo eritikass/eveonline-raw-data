@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013620,
+        "system_id": 30003563
+    },
+    "name": "Stargate (Misaba)",
+    "position": {
+        "x": -3524345241600,
+        "y": -2137309470720,
+        "z": 777098403840
+    },
+    "stargate_id": 50013619,
+    "system_id": 30003769,
+    "type_id": 29625
+}

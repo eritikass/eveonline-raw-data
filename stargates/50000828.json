@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002301,
+        "system_id": 30000586
+    },
+    "name": "Stargate (Q-GQHN)",
+    "position": {
+        "x": 1135875317760,
+        "y": 40016240640,
+        "z": -591747440640
+    },
+    "stargate_id": 50000828,
+    "system_id": 30000579,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013653,
+        "system_id": 30000116
+    },
+    "name": "Stargate (Kenobanala)",
+    "position": {
+        "x": 674205573120,
+        "y": 1818487726080,
+        "z": -2159283363840
+    },
+    "stargate_id": 50013654,
+    "system_id": 30002395,
+    "type_id": 29634
+}

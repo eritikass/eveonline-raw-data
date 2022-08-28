@@ -1,0 +1,74 @@
+{
+    "constellation_id": 20000201,
+    "name": "Jouvulen",
+    "planets": [
+        {
+            "planet_id": 40341402
+        },
+        {
+            "planet_id": 40341403
+        },
+        {
+            "planet_id": 40341404
+        },
+        {
+            "planet_id": 40341405
+        },
+        {
+            "asteroid_belts": [
+                40341407
+            ],
+            "planet_id": 40341406
+        },
+        {
+            "asteroid_belts": [
+                40341409
+            ],
+            "moons": [
+                40341410
+            ],
+            "planet_id": 40341408
+        },
+        {
+            "asteroid_belts": [
+                40341412
+            ],
+            "moons": [
+                40341413
+            ],
+            "planet_id": 40341411
+        },
+        {
+            "moons": [
+                40341415,
+                40341416
+            ],
+            "planet_id": 40341414
+        },
+        {
+            "asteroid_belts": [
+                40341418
+            ],
+            "moons": [
+                40341419,
+                40341420
+            ],
+            "planet_id": 40341417
+        }
+    ],
+    "position": {
+        "x": -148506234827000000,
+        "y": 101407661941000000,
+        "z": 128607192429000000
+    },
+    "security_class": "A",
+    "security_status": 0.8897628784179688,
+    "star_id": 40341401,
+    "stargates": [
+        50014146
+    ],
+    "stations": [
+        60015005
+    ],
+    "system_id": 30011392
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001923,
+        "system_id": 30001369
+    },
+    "name": "Stargate (Sotrentaira)",
+    "position": {
+        "x": -725282856960,
+        "y": 143836323840,
+        "z": -821797724160
+    },
+    "stargate_id": 50006494,
+    "system_id": 30001373,
+    "type_id": 16
+}

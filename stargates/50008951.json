@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009068,
+        "system_id": 30003955
+    },
+    "name": "Stargate (UQY-IK)",
+    "position": {
+        "x": 785440235520,
+        "y": -149722521600,
+        "z": 2002781675520
+    },
+    "stargate_id": 50008951,
+    "system_id": 30003954,
+    "type_id": 29624
+}

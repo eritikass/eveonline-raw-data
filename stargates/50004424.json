@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005228,
+        "system_id": 30000990
+    },
+    "name": "Stargate (PUC-JZ)",
+    "position": {
+        "x": 4494459740160,
+        "y": 61653442560,
+        "z": -1398154567680
+    },
+    "stargate_id": 50004424,
+    "system_id": 30000989,
+    "type_id": 29633
+}

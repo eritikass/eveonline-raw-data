@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004375,
+        "system_id": 30000043
+    },
+    "name": "Stargate (Sari)",
+    "position": {
+        "x": 8850923520,
+        "y": 377856000,
+        "z": -343822540800
+    },
+    "stargate_id": 50000641,
+    "system_id": 30000038,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010851,
+        "system_id": 30004732
+    },
+    "name": "Stargate (FM-JK5)",
+    "position": {
+        "x": -408772976640,
+        "y": 68221378560,
+        "z": -1239173898240
+    },
+    "stargate_id": 50010773,
+    "system_id": 30004731,
+    "type_id": 29624
+}

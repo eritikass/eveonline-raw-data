@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006152,
+        "system_id": 30001364
+    },
+    "name": "Stargate (Funtanainen)",
+    "position": {
+        "x": 611521290240,
+        "y": 81101660160,
+        "z": 1317068021760
+    },
+    "stargate_id": 50004359,
+    "system_id": 30001363,
+    "type_id": 16
+}

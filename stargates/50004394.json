@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003035,
+        "system_id": 30000531
+    },
+    "name": "Stargate (E-JCUS)",
+    "position": {
+        "x": -1437234831360,
+        "y": 176940195840,
+        "z": 2169743155200
+    },
+    "stargate_id": 50004394,
+    "system_id": 30000533,
+    "type_id": 29633
+}

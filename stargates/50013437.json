@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013377,
+        "system_id": 30004217
+    },
+    "name": "Stargate (E-EFAM)",
+    "position": {
+        "x": 575113666560,
+        "y": 7085383680,
+        "z": 3627591229440
+    },
+    "stargate_id": 50013437,
+    "system_id": 30004218,
+    "type_id": 3875
+}

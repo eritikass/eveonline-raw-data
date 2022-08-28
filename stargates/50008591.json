@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011107,
+        "system_id": 30002480
+    },
+    "name": "Stargate (54-MF6)",
+    "position": {
+        "x": 274173665280,
+        "y": 23694827520,
+        "z": -248516321280
+    },
+    "stargate_id": 50008591,
+    "system_id": 30002476,
+    "type_id": 16
+}

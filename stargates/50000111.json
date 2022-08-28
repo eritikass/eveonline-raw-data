@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000550,
+        "system_id": 30000011
+    },
+    "name": "Stargate (Shenela)",
+    "position": {
+        "x": 4313123512320,
+        "y": 569596846080,
+        "z": -1874440642560
+    },
+    "stargate_id": 50000111,
+    "system_id": 30000010,
+    "type_id": 29624
+}

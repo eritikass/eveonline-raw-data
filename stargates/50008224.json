@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010793,
+        "system_id": 30002042
+    },
+    "name": "Stargate (KU5R-W)",
+    "position": {
+        "x": -2005072896000,
+        "y": -4781931847680,
+        "z": 1168623820800
+    },
+    "stargate_id": 50008224,
+    "system_id": 30002033,
+    "type_id": 29627
+}

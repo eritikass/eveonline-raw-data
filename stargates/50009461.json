@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009467,
+        "system_id": 30003926
+    },
+    "name": "Stargate (Kuhri)",
+    "position": {
+        "x": -2835377479680,
+        "y": 187784601600,
+        "z": -6199256801280
+    },
+    "stargate_id": 50009461,
+    "system_id": 30003925,
+    "type_id": 29624
+}

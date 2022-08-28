@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013838,
+        "system_id": 30001348
+    },
+    "name": "Stargate (G9D-XW)",
+    "position": {
+        "x": -633816145920,
+        "y": 2612438261760,
+        "z": 6259726295040
+    },
+    "stargate_id": 50013837,
+    "system_id": 30000896,
+    "type_id": 12292
+}

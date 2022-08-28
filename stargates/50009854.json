@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009500,
+        "system_id": 30002578
+    },
+    "name": "Stargate (Otraren)",
+    "position": {
+        "x": -258329518080,
+        "y": 18862448640,
+        "z": -271201443840
+    },
+    "stargate_id": 50009854,
+    "system_id": 30002579,
+    "type_id": 29633
+}

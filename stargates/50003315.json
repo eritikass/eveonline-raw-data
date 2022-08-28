@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000203,
+        "system_id": 30004084
+    },
+    "name": "Stargate (Ghesis)",
+    "position": {
+        "x": -1661155123200,
+        "y": 296168939520,
+        "z": 625126563840
+    },
+    "stargate_id": 50003315,
+    "system_id": 30004086,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004568,
+        "system_id": 30001441
+    },
+    "name": "Stargate (Tartoken)",
+    "position": {
+        "x": 1707174912000,
+        "y": -62302003200,
+        "z": 3074729041920
+    },
+    "stargate_id": 50005378,
+    "system_id": 30001442,
+    "type_id": 16
+}

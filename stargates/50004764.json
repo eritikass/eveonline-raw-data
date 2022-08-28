@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006965,
+        "system_id": 30000603
+    },
+    "name": "Stargate (V7G-RL)",
+    "position": {
+        "x": 156560793600,
+        "y": -15645941760,
+        "z": -3400402083840
+    },
+    "stargate_id": 50004764,
+    "system_id": 30000602,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008302,
+        "system_id": 30005257
+    },
+    "name": "Stargate (Bantish)",
+    "position": {
+        "x": -500702945280,
+        "y": -46568693760,
+        "z": 1014556385280
+    },
+    "stargate_id": 50007452,
+    "system_id": 30005255,
+    "type_id": 29624
+}

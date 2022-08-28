@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001257,
+        "system_id": 30002767
+    },
+    "name": "Stargate (Kubinen)",
+    "position": {
+        "x": -2299216896000,
+        "y": 161814405120,
+        "z": 1805507174400
+    },
+    "stargate_id": 50002441,
+    "system_id": 30002768,
+    "type_id": 16
+}

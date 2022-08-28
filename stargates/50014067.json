@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014068,
+        "system_id": 30003503
+    },
+    "name": "Stargate (Madirmilire)",
+    "position": {
+        "x": 2873992028160,
+        "y": -964108001280,
+        "z": 7840791306240
+    },
+    "stargate_id": 50014067,
+    "system_id": 30003491,
+    "type_id": 17
+}

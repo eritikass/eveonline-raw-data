@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003487,
+        "system_id": 30001832
+    },
+    "name": "Stargate (MB4D-4)",
+    "position": {
+        "x": -117132533760,
+        "y": 22583009280,
+        "z": -620310159360
+    },
+    "stargate_id": 50003174,
+    "system_id": 30001831,
+    "type_id": 29624
+}

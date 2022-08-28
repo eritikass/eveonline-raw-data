@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009650,
+        "system_id": 30002078
+    },
+    "name": "Stargate (Arwa)",
+    "position": {
+        "x": 114296217600,
+        "y": -4677181440,
+        "z": 96225976320
+    },
+    "stargate_id": 50012689,
+    "system_id": 30002081,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004979,
+        "system_id": 30002432
+    },
+    "name": "Stargate (YN3-E3)",
+    "position": {
+        "x": 1431257210880,
+        "y": -5974478069760,
+        "z": -494570741760
+    },
+    "stargate_id": 50008071,
+    "system_id": 30002493,
+    "type_id": 29627
+}

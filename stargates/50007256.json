@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009677,
+        "system_id": 30002264
+    },
+    "name": "Stargate (Hadonoo)",
+    "position": {
+        "x": 189615513600,
+        "y": 30075248640,
+        "z": 2584987852800
+    },
+    "stargate_id": 50007256,
+    "system_id": 30002263,
+    "type_id": 29624
+}

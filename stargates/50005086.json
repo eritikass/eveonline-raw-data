@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005398,
+        "system_id": 30002229
+    },
+    "name": "Stargate (Sitanan)",
+    "position": {
+        "x": 1763192463360,
+        "y": 356365639680,
+        "z": 2263473315840
+    },
+    "stargate_id": 50005086,
+    "system_id": 30002226,
+    "type_id": 29624
+}

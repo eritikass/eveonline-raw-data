@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013219,
+        "system_id": 30002218
+    },
+    "name": "Stargate (Noli)",
+    "position": {
+        "x": -1439685795840,
+        "y": -1532478873600,
+        "z": 3968464527360
+    },
+    "stargate_id": 50006196,
+    "system_id": 30002252,
+    "type_id": 17
+}

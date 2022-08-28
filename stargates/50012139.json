@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011846,
+        "system_id": 30004148
+    },
+    "name": "Stargate (Jennim)",
+    "position": {
+        "x": 2265698181120,
+        "y": -54083297280,
+        "z": 446583152640
+    },
+    "stargate_id": 50012139,
+    "system_id": 30004149,
+    "type_id": 29624
+}

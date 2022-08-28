@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004955,
+        "system_id": 30001217
+    },
+    "name": "Stargate (E3-SDZ)",
+    "position": {
+        "x": -3260277596160,
+        "y": 302508564480,
+        "z": -3207219240960
+    },
+    "stargate_id": 50004873,
+    "system_id": 30001216,
+    "type_id": 29624
+}

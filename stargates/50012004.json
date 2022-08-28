@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011732,
+        "system_id": 30004779
+    },
+    "name": "Stargate (UEXO-Z)",
+    "position": {
+        "x": 1737092505600,
+        "y": -938751221760,
+        "z": 1680927498240
+    },
+    "stargate_id": 50012004,
+    "system_id": 30004790,
+    "type_id": 17
+}

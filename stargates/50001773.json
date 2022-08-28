@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002250,
+        "system_id": 30002137
+    },
+    "name": "Stargate (Z4-QLD)",
+    "position": {
+        "x": 238399610880,
+        "y": -18952396800,
+        "z": -6963554918400
+    },
+    "stargate_id": 50001773,
+    "system_id": 30002133,
+    "type_id": 29633
+}

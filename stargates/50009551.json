@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009576,
+        "system_id": 30003462
+    },
+    "name": "Stargate (Eldjaerin)",
+    "position": {
+        "x": 65085972480,
+        "y": -3564871680,
+        "z": 3636865228800
+    },
+    "stargate_id": 50009551,
+    "system_id": 30003461,
+    "type_id": 29633
+}

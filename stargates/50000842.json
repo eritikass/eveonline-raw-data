@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002784,
+        "system_id": 30000548
+    },
+    "name": "Stargate (JQU-KY)",
+    "position": {
+        "x": -625114767360,
+        "y": -125744947200,
+        "z": -428816424960
+    },
+    "stargate_id": 50000842,
+    "system_id": 30000546,
+    "type_id": 29633
+}

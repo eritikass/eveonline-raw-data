@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000288,
+        "system_id": 30000672
+    },
+    "name": "Stargate (AZ3F-N)",
+    "position": {
+        "x": 3729468334080,
+        "y": 488757043200,
+        "z": -5408122675200
+    },
+    "stargate_id": 50000353,
+    "system_id": 30000673,
+    "type_id": 29633
+}

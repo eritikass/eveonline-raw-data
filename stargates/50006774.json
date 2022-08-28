@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005806,
+        "system_id": 30001310
+    },
+    "name": "Stargate (PZOZ-K)",
+    "position": {
+        "x": -4981719982080,
+        "y": -4131993968640,
+        "z": 1295860654080
+    },
+    "stargate_id": 50006774,
+    "system_id": 30001337,
+    "type_id": 29627
+}

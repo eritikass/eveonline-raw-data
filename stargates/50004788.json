@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011094,
+        "system_id": 30002080
+    },
+    "name": "Stargate (Arifsdald)",
+    "position": {
+        "x": -2464303718400,
+        "y": 200414208000,
+        "z": 1416092098560
+    },
+    "stargate_id": 50004788,
+    "system_id": 30002076,
+    "type_id": 29633
+}

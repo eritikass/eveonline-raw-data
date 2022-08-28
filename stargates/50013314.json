@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013268,
+        "system_id": 30001822
+    },
+    "name": "Stargate (NQ-M6W)",
+    "position": {
+        "x": -6578874654720,
+        "y": -732755681280,
+        "z": -233944473600
+    },
+    "stargate_id": 50013314,
+    "system_id": 30001824,
+    "type_id": 3875
+}

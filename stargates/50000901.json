@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000753,
+        "system_id": 30002319
+    },
+    "name": "Stargate (XB-9U2)",
+    "position": {
+        "x": 1932904980480,
+        "y": 286706933760,
+        "z": -50809528320
+    },
+    "stargate_id": 50000901,
+    "system_id": 30002320,
+    "type_id": 3875
+}

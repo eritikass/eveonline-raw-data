@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013022,
+        "system_id": 30005086
+    },
+    "name": "Stargate (Arza)",
+    "position": {
+        "x": 274145157120,
+        "y": -2700533760,
+        "z": 2109397278720
+    },
+    "stargate_id": 50012968,
+    "system_id": 30005085,
+    "type_id": 29624
+}

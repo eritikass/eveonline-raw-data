@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005311,
+        "system_id": 30001696
+    },
+    "name": "Stargate (Iro)",
+    "position": {
+        "x": 11129798369280,
+        "y": 341680988160,
+        "z": -6657153392640
+    },
+    "stargate_id": 50004731,
+    "system_id": 30001695,
+    "type_id": 29624
+}

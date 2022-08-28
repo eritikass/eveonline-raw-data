@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001992,
+        "system_id": 30004806
+    },
+    "name": "Stargate (DT-PXH)",
+    "position": {
+        "x": -949922734080,
+        "y": 44457861120,
+        "z": 240779550720
+    },
+    "stargate_id": 50002681,
+    "system_id": 30004807,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004811,
+        "system_id": 30001576
+    },
+    "name": "Stargate (C-BHDN)",
+    "position": {
+        "x": -183476920320,
+        "y": 22432849920,
+        "z": -246336430080
+    },
+    "stargate_id": 50005174,
+    "system_id": 30001578,
+    "type_id": 3875
+}

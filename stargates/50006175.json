@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006575,
+        "system_id": 30000521
+    },
+    "name": "Stargate (W6P-7U)",
+    "position": {
+        "x": 916335452160,
+        "y": -1529691709440,
+        "z": 2374613606400
+    },
+    "stargate_id": 50006175,
+    "system_id": 30000493,
+    "type_id": 3877
+}

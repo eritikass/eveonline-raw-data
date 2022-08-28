@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011999,
+        "system_id": 30004605
+    },
+    "name": "Stargate (A-HZYL)",
+    "position": {
+        "x": -1216376709120,
+        "y": 143908085760,
+        "z": -600981626880
+    },
+    "stargate_id": 50012185,
+    "system_id": 30004607,
+    "type_id": 3875
+}

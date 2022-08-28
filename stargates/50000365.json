@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001368,
+        "system_id": 30000121
+    },
+    "name": "Stargate (Jatate)",
+    "position": {
+        "x": 1248346152960,
+        "y": 176039485440,
+        "z": -1279739289600
+    },
+    "stargate_id": 50000365,
+    "system_id": 30000119,
+    "type_id": 16
+}

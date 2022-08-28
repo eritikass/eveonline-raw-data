@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001721,
+        "system_id": 30001392
+    },
+    "name": "Stargate (Amsen)",
+    "position": {
+        "x": 4182116474880,
+        "y": 129673175040,
+        "z": 5585440235520
+    },
+    "stargate_id": 50001412,
+    "system_id": 30001378,
+    "type_id": 29627
+}

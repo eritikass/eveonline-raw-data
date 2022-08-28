@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008464,
+        "system_id": 30005156
+    },
+    "name": "Stargate (U-3FKL)",
+    "position": {
+        "x": -5547403714560,
+        "y": 2307902791680,
+        "z": 3231410135040
+    },
+    "stargate_id": 50009361,
+    "system_id": 30005168,
+    "type_id": 3874
+}

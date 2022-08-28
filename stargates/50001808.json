@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001924,
+        "system_id": 30000865
+    },
+    "name": "Stargate (H-W9TY)",
+    "position": {
+        "x": -97940398080,
+        "y": 8779653120,
+        "z": 503432355840
+    },
+    "stargate_id": 50001808,
+    "system_id": 30000864,
+    "type_id": 16
+}

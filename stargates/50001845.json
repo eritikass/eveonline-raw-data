@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000380,
+        "system_id": 30000752
+    },
+    "name": "Stargate (XKH-6O)",
+    "position": {
+        "x": 3938010439680,
+        "y": 709145763840,
+        "z": 2330726031360
+    },
+    "stargate_id": 50001845,
+    "system_id": 30000754,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006614,
+        "system_id": 30005213
+    },
+    "name": "Stargate (Hesarid)",
+    "position": {
+        "x": -1744496517120,
+        "y": 195940392960,
+        "z": -77631528960
+    },
+    "stargate_id": 50006584,
+    "system_id": 30005212,
+    "type_id": 29624
+}

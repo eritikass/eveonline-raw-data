@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004718,
+        "system_id": 30002004
+    },
+    "name": "Stargate (8S-0E1)",
+    "position": {
+        "x": 3315902177280,
+        "y": 293944811520,
+        "z": 5527279165440
+    },
+    "stargate_id": 50005663,
+    "system_id": 30002005,
+    "type_id": 16
+}

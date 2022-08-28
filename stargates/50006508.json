@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005922,
+        "system_id": 30004998
+    },
+    "name": "Stargate (Parts)",
+    "position": {
+        "x": -2774805258240,
+        "y": -2624111370240,
+        "z": -174285742080
+    },
+    "stargate_id": 50006508,
+    "system_id": 30005009,
+    "type_id": 3874
+}

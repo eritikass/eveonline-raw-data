@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010024,
+        "system_id": 30003362
+    },
+    "name": "Stargate (RSS-KA)",
+    "position": {
+        "x": 4533964431360,
+        "y": -822886195200,
+        "z": 3717590999040
+    },
+    "stargate_id": 50011297,
+    "system_id": 30003366,
+    "type_id": 3875
+}

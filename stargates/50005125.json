@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005209,
+        "system_id": 30002528
+    },
+    "name": "Stargate (Balginia)",
+    "position": {
+        "x": -1030816112640,
+        "y": 138576076800,
+        "z": 3007868067840
+    },
+    "stargate_id": 50005125,
+    "system_id": 30002527,
+    "type_id": 29633
+}

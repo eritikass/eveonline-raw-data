@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005357,
+        "system_id": 30001221
+    },
+    "name": "Stargate (HP-64T)",
+    "position": {
+        "x": 950344949760,
+        "y": -47261491200,
+        "z": -3214242570240
+    },
+    "stargate_id": 50004506,
+    "system_id": 30001220,
+    "type_id": 29624
+}

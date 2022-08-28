@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009003,
+        "system_id": 30003920
+    },
+    "name": "Stargate (Baratar)",
+    "position": {
+        "x": -2653995786240,
+        "y": -248268103680,
+        "z": -1089604608000
+    },
+    "stargate_id": 50008747,
+    "system_id": 30003919,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005215,
+        "system_id": 30002583
+    },
+    "name": "Stargate (N-CREL)",
+    "position": {
+        "x": -983828766720,
+        "y": -75579924480,
+        "z": -1771671183360
+    },
+    "stargate_id": 50005057,
+    "system_id": 30002582,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011610,
+        "system_id": 30004060
+    },
+    "name": "Stargate (O-BDXB)",
+    "position": {
+        "x": -3182580326400,
+        "y": -637012254720,
+        "z": -1881556869120
+    },
+    "stargate_id": 50011583,
+    "system_id": 30004059,
+    "type_id": 3875
+}

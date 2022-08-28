@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004533,
+        "system_id": 30000712
+    },
+    "name": "Stargate (RYC-19)",
+    "position": {
+        "x": 215839088640,
+        "y": -1656299520,
+        "z": -4870716825600
+    },
+    "stargate_id": 50000352,
+    "system_id": 30000709,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011995,
+        "system_id": 30004690
+    },
+    "name": "Stargate (AA-GWF)",
+    "position": {
+        "x": 108825108480,
+        "y": -21955338240,
+        "z": -2692797849600
+    },
+    "stargate_id": 50011315,
+    "system_id": 30004687,
+    "type_id": 29624
+}

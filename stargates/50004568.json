@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005378,
+        "system_id": 30001442
+    },
+    "name": "Stargate (Saranen)",
+    "position": {
+        "x": -310621102080,
+        "y": 619683840,
+        "z": 268535930880
+    },
+    "stargate_id": 50004568,
+    "system_id": 30001441,
+    "type_id": 16
+}

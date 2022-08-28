@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006376,
+        "system_id": 30000423
+    },
+    "name": "Stargate (B-DXO9)",
+    "position": {
+        "x": 629762334720,
+        "y": -89271951360,
+        "z": 648909496320
+    },
+    "stargate_id": 50006363,
+    "system_id": 30000422,
+    "type_id": 3876
+}

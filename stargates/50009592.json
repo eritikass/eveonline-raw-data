@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009697,
+        "system_id": 30004508
+    },
+    "name": "Stargate (5WAE-M)",
+    "position": {
+        "x": -1725756088320,
+        "y": -4019926179840,
+        "z": -172644802560
+    },
+    "stargate_id": 50009592,
+    "system_id": 30004506,
+    "type_id": 3874
+}

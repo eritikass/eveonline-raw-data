@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012805,
+        "system_id": 30004639
+    },
+    "name": "Stargate (14YI-D)",
+    "position": {
+        "x": -359537172480,
+        "y": 11348828160,
+        "z": 2876791726080
+    },
+    "stargate_id": 50012722,
+    "system_id": 30004637,
+    "type_id": 3875
+}

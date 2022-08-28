@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011594,
+        "system_id": 30004743
+    },
+    "name": "Stargate (MJXW-P)",
+    "position": {
+        "x": -4656622264320,
+        "y": -389060567040,
+        "z": 4004293140480
+    },
+    "stargate_id": 50011510,
+    "system_id": 30004742,
+    "type_id": 29624
+}

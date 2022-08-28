@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004552,
+        "system_id": 30002537
+    },
+    "name": "Stargate (Amamake)",
+    "position": {
+        "x": 3229831127040,
+        "y": -202765885440,
+        "z": 784031293440
+    },
+    "stargate_id": 50010658,
+    "system_id": 30002542,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009485,
+        "system_id": 30004359
+    },
+    "name": "Stargate (A-G1FM)",
+    "position": {
+        "x": 1551498240000,
+        "y": 81212743680,
+        "z": 3949855825920
+    },
+    "stargate_id": 50008933,
+    "system_id": 30004357,
+    "type_id": 16
+}

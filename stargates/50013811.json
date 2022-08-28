@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013812,
+        "system_id": 30001000
+    },
+    "name": "Stargate (K-IYNW)",
+    "position": {
+        "x": -2437366456320,
+        "y": 822928957440,
+        "z": 1353961267200
+    },
+    "stargate_id": 50013811,
+    "system_id": 30000626,
+    "type_id": 12292
+}

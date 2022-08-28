@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010458,
+        "system_id": 30003693
+    },
+    "name": "Stargate (0-ARFO)",
+    "position": {
+        "x": -2870685081600,
+        "y": -234730659840,
+        "z": -4571572838400
+    },
+    "stargate_id": 50010219,
+    "system_id": 30003692,
+    "type_id": 3875
+}

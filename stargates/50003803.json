@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003913,
+        "system_id": 30000482
+    },
+    "name": "Stargate (HZFJ-M)",
+    "position": {
+        "x": 4700048793600,
+        "y": -549597388800,
+        "z": -4908508078080
+    },
+    "stargate_id": 50003803,
+    "system_id": 30000480,
+    "type_id": 29633
+}

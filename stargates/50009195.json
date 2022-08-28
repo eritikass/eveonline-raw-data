@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010502,
+        "system_id": 30002066
+    },
+    "name": "Stargate (Arnher)",
+    "position": {
+        "x": -4111920783360,
+        "y": -311769784320,
+        "z": 1309888880640
+    },
+    "stargate_id": 50009195,
+    "system_id": 30002065,
+    "type_id": 29633
+}

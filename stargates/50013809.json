@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013810,
+        "system_id": 30000631
+    },
+    "name": "Stargate (K-RMI5)",
+    "position": {
+        "x": 143593021440,
+        "y": 1220497121280,
+        "z": -1148476907520
+    },
+    "stargate_id": 50013809,
+    "system_id": 30000624,
+    "type_id": 12292
+}

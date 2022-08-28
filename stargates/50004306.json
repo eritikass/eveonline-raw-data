@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004681,
+        "system_id": 30002343
+    },
+    "name": "Stargate (I64-XB)",
+    "position": {
+        "x": -8216323153920,
+        "y": 1588732354560,
+        "z": 282824417280
+    },
+    "stargate_id": 50004306,
+    "system_id": 30002340,
+    "type_id": 3875
+}

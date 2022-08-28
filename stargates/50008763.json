@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010071,
+        "system_id": 30003090
+    },
+    "name": "Stargate (Saidusairos)",
+    "position": {
+        "x": -1673779077120,
+        "y": -250758144000,
+        "z": -631051591680
+    },
+    "stargate_id": 50008763,
+    "system_id": 30003089,
+    "type_id": 29624
+}

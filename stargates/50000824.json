@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001505,
+        "system_id": 30000581
+    },
+    "name": "Stargate (5H-SM2)",
+    "position": {
+        "x": 2744801157120,
+        "y": 96344924160,
+        "z": -5070672568320
+    },
+    "stargate_id": 50000824,
+    "system_id": 30000579,
+    "type_id": 29633
+}

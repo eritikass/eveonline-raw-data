@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001146,
+        "system_id": 30000229
+    },
+    "name": "Stargate (UH-9ZG)",
+    "position": {
+        "x": -6185746882560,
+        "y": -105622609920,
+        "z": 1883140792320
+    },
+    "stargate_id": 50001933,
+    "system_id": 30000231,
+    "type_id": 16
+}

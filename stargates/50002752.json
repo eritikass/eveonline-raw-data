@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003269,
+        "system_id": 30000148
+    },
+    "name": "Stargate (Jakanerva)",
+    "position": {
+        "x": -2352246497280,
+        "y": 303048990720,
+        "z": 596820172800
+    },
+    "stargate_id": 50002752,
+    "system_id": 30000146,
+    "type_id": 16
+}

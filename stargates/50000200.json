@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002855,
+        "system_id": 30000464
+    },
+    "name": "Stargate (GC-LTF)",
+    "position": {
+        "x": -120263024640,
+        "y": 15147540480,
+        "z": -511398912000
+    },
+    "stargate_id": 50000200,
+    "system_id": 30000460,
+    "type_id": 29633
+}

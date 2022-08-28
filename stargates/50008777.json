@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010630,
+        "system_id": 30004328
+    },
+    "name": "Stargate (B-GC1T)",
+    "position": {
+        "x": 1196554444800,
+        "y": -194089082880,
+        "z": -40069570560
+    },
+    "stargate_id": 50008777,
+    "system_id": 30004326,
+    "type_id": 16
+}

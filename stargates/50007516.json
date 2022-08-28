@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005654,
+        "system_id": 30000270
+    },
+    "name": "Stargate (MO-FIF)",
+    "position": {
+        "x": -527288279040,
+        "y": 49496678400,
+        "z": 3828489707520
+    },
+    "stargate_id": 50007516,
+    "system_id": 30000272,
+    "type_id": 16
+}

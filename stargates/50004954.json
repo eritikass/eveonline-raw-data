@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005204,
+        "system_id": 30000499
+    },
+    "name": "Stargate (XW2H-V)",
+    "position": {
+        "x": 156866519040,
+        "y": 8072601600,
+        "z": 1840455229440
+    },
+    "stargate_id": 50004954,
+    "system_id": 30000498,
+    "type_id": 29633
+}

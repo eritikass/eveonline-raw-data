@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013423,
+        "system_id": 30004660
+    },
+    "name": "Stargate (ZTS-4D)",
+    "position": {
+        "x": -1038484316160,
+        "y": 83761029120,
+        "z": -509890682880
+    },
+    "stargate_id": 50013344,
+    "system_id": 30004658,
+    "type_id": 3875
+}

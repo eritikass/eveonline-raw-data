@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013035,
+        "system_id": 30004207
+    },
+    "name": "Stargate (DK0-N8)",
+    "position": {
+        "x": 777081937920,
+        "y": -2566481141760,
+        "z": 4654989434880
+    },
+    "stargate_id": 50013051,
+    "system_id": 30004215,
+    "type_id": 3874
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002931,
+        "system_id": 30003521
+    },
+    "name": "Stargate (Alkabsi)",
+    "position": {
+        "x": -2128510279680,
+        "y": 387886571520,
+        "z": -5934060380160
+    },
+    "stargate_id": 50002788,
+    "system_id": 30003520,
+    "type_id": 29624
+}

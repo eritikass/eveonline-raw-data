@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008640,
+        "system_id": 30004351
+    },
+    "name": "Stargate (8-4GQM)",
+    "position": {
+        "x": -1997461217280,
+        "y": 122012590080,
+        "z": 11859271680
+    },
+    "stargate_id": 50009191,
+    "system_id": 30004352,
+    "type_id": 16
+}

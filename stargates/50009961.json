@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009976,
+        "system_id": 30000137
+    },
+    "name": "Stargate (Eskunen)",
+    "position": {
+        "x": -1211940986880,
+        "y": 38933422080,
+        "z": -629871452160
+    },
+    "stargate_id": 50009961,
+    "system_id": 30000136,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008968,
+        "system_id": 30004126
+    },
+    "name": "Stargate (Nidupad)",
+    "position": {
+        "x": 10702479360,
+        "y": -1407098880,
+        "z": -3449670328320
+    },
+    "stargate_id": 50008007,
+    "system_id": 30004123,
+    "type_id": 29624
+}

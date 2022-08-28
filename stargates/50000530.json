@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000963,
+        "system_id": 30002303
+    },
+    "name": "Stargate (NK-VTL)",
+    "position": {
+        "x": -1679394201600,
+        "y": -44381675520,
+        "z": -263255531520
+    },
+    "stargate_id": 50000530,
+    "system_id": 30002302,
+    "type_id": 3875
+}

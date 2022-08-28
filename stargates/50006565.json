@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006702,
+        "system_id": 30003282
+    },
+    "name": "Stargate (8-JYPM)",
+    "position": {
+        "x": 162342543360,
+        "y": 3153782415360,
+        "z": -2041230827520
+    },
+    "stargate_id": 50006565,
+    "system_id": 30003272,
+    "type_id": 3874
+}

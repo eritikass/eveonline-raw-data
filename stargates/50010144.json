@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012385,
+        "system_id": 30002497
+    },
+    "name": "Stargate (W-3BSU)",
+    "position": {
+        "x": 1178478059520,
+        "y": -77760061440,
+        "z": -3902753218560
+    },
+    "stargate_id": 50010144,
+    "system_id": 30002496,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000603,
+        "system_id": 30003481
+    },
+    "name": "Stargate (Unefsih)",
+    "position": {
+        "x": 17238712320,
+        "y": 3444695040,
+        "z": 3600267141120
+    },
+    "stargate_id": 50001050,
+    "system_id": 30003483,
+    "type_id": 29624
+}

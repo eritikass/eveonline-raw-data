@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008661,
+        "system_id": 30003436
+    },
+    "name": "Stargate (Tollus)",
+    "position": {
+        "x": -938330234880,
+        "y": 94196244480,
+        "z": -2537971507200
+    },
+    "stargate_id": 50008894,
+    "system_id": 30003437,
+    "type_id": 29633
+}

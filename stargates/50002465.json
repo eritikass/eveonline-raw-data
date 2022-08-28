@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002408,
+        "system_id": 30000223
+    },
+    "name": "Stargate (H-UCD1)",
+    "position": {
+        "x": -3554433392640,
+        "y": -418589614080,
+        "z": 5135042273280
+    },
+    "stargate_id": 50002465,
+    "system_id": 30000224,
+    "type_id": 16
+}

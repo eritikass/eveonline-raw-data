@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002795,
+        "system_id": 30000467
+    },
+    "name": "Stargate (L-QQ6P)",
+    "position": {
+        "x": 1350748938240,
+        "y": 23887257600,
+        "z": 9800677908480
+    },
+    "stargate_id": 50002905,
+    "system_id": 30000468,
+    "type_id": 29633
+}

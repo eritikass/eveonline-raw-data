@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006980,
+        "system_id": 30001768
+    },
+    "name": "Stargate (8-AA98)",
+    "position": {
+        "x": 4839099801600,
+        "y": 516789166080,
+        "z": -4782072422400
+    },
+    "stargate_id": 50007162,
+    "system_id": 30001771,
+    "type_id": 3875
+}

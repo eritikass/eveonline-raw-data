@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005227,
+        "system_id": 30000029
+    },
+    "name": "Stargate (Lachailes)",
+    "position": {
+        "x": 1778452684800,
+        "y": -328063426560,
+        "z": 2010022502400
+    },
+    "stargate_id": 50005547,
+    "system_id": 30000030,
+    "type_id": 29624
+}

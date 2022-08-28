@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011079,
+        "system_id": 30000185
+    },
+    "name": "Stargate (Airaken)",
+    "position": {
+        "x": -4364176711680,
+        "y": -139561574400,
+        "z": 113157857280
+    },
+    "stargate_id": 50013452,
+    "system_id": 30000186,
+    "type_id": 16
+}

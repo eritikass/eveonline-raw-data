@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008686,
+        "system_id": 30002477
+    },
+    "name": "Stargate (E-91FV)",
+    "position": {
+        "x": 274153021440,
+        "y": 23651082240,
+        "z": -248531558400
+    },
+    "stargate_id": 50008589,
+    "system_id": 30002476,
+    "type_id": 16
+}

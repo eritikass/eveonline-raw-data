@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009731,
+        "system_id": 30003134
+    },
+    "name": "Stargate (CZ6U-1)",
+    "position": {
+        "x": -663453573120,
+        "y": -5243658240,
+        "z": 103050731520
+    },
+    "stargate_id": 50009630,
+    "system_id": 30003133,
+    "type_id": 29624
+}

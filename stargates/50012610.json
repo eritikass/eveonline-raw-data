@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012622,
+        "system_id": 30004853
+    },
+    "name": "Stargate (R-XDKM)",
+    "position": {
+        "x": -2866430238720,
+        "y": -37853306880,
+        "z": 2254747361280
+    },
+    "stargate_id": 50012610,
+    "system_id": 30004852,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005868,
+        "system_id": 30002434
+    },
+    "name": "Stargate (L-HV5C)",
+    "position": {
+        "x": 1746758492160,
+        "y": -134946201600,
+        "z": 385480826880
+    },
+    "stargate_id": 50004978,
+    "system_id": 30002432,
+    "type_id": 16
+}

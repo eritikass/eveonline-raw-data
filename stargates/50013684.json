@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013683,
+        "system_id": 30002554
+    },
+    "name": "Stargate (Wiskeber)",
+    "position": {
+        "x": -647560519680,
+        "y": -4711420600320,
+        "z": -1749882593280
+    },
+    "stargate_id": 50013684,
+    "system_id": 30003444,
+    "type_id": 29635
+}

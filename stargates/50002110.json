@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001704,
+        "system_id": 30002972
+    },
+    "name": "Stargate (Gheth)",
+    "position": {
+        "x": -68370063360,
+        "y": 1586257920,
+        "z": -144333987840
+    },
+    "stargate_id": 50002110,
+    "system_id": 30002974,
+    "type_id": 29624
+}

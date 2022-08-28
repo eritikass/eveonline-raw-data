@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005521,
+        "system_id": 30001235
+    },
+    "name": "Stargate (BR-N97)",
+    "position": {
+        "x": 4233339740160,
+        "y": -764828098560,
+        "z": -2881862983680
+    },
+    "stargate_id": 50005690,
+    "system_id": 30001236,
+    "type_id": 29624
+}

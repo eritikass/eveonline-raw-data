@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000341,
+        "system_id": 30001176
+    },
+    "name": "Stargate (S-U2VD)",
+    "position": {
+        "x": -158587822080,
+        "y": -29158563840,
+        "z": 42478018560
+    },
+    "stargate_id": 50000775,
+    "system_id": 30001178,
+    "type_id": 29624
+}

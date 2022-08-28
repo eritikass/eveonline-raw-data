@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005904,
+        "system_id": 30002440
+    },
+    "name": "Stargate (BWF-ZZ)",
+    "position": {
+        "x": -8507346493440,
+        "y": 987973754880,
+        "z": 668394823680
+    },
+    "stargate_id": 50008706,
+    "system_id": 30002443,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016361,
+        "system_id": 30045347
+    },
+    "name": "Stargate (Oinasiken)",
+    "position": {
+        "x": 63354593280,
+        "y": 5350318080,
+        "z": 99300433920
+    },
+    "stargate_id": 50016362,
+    "system_id": 30045353,
+    "type_id": 16
+}

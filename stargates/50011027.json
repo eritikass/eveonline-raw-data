@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011683,
+        "system_id": 30004182
+    },
+    "name": "Stargate (ETXT-F)",
+    "position": {
+        "x": -509875937280,
+        "y": -28262522880,
+        "z": 145372078080
+    },
+    "stargate_id": 50011027,
+    "system_id": 30004178,
+    "type_id": 3875
+}

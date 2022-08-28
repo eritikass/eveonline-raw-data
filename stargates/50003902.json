@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001955,
+        "system_id": 30000957
+    },
+    "name": "Stargate (WTIE-6)",
+    "position": {
+        "x": -1039651676160,
+        "y": -66085232640,
+        "z": -32447324160
+    },
+    "stargate_id": 50003902,
+    "system_id": 30000962,
+    "type_id": 29633
+}

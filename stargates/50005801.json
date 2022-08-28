@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005445,
+        "system_id": 30002237
+    },
+    "name": "Stargate (Sobenah)",
+    "position": {
+        "x": -2564532756480,
+        "y": 191517696000,
+        "z": -1105788149760
+    },
+    "stargate_id": 50005801,
+    "system_id": 30002238,
+    "type_id": 29624
+}

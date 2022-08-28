@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000452,
+        "system_id": 30000852
+    },
+    "name": "Stargate (A-DDGY)",
+    "position": {
+        "x": -3461664645120,
+        "y": -692318576640,
+        "z": -2665425100800
+    },
+    "stargate_id": 50001375,
+    "system_id": 30000856,
+    "type_id": 16
+}

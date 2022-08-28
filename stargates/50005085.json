@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005293,
+        "system_id": 30002227
+    },
+    "name": "Stargate (Rasile)",
+    "position": {
+        "x": -1554285649920,
+        "y": -314132275200,
+        "z": -433243545600
+    },
+    "stargate_id": 50005085,
+    "system_id": 30002226,
+    "type_id": 29624
+}

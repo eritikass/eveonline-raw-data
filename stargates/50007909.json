@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008107,
+        "system_id": 30001351
+    },
+    "name": "Stargate (VG-QW1)",
+    "position": {
+        "x": 3043368837120,
+        "y": 494994923520,
+        "z": -2268945162240
+    },
+    "stargate_id": 50007909,
+    "system_id": 30001350,
+    "type_id": 16
+}

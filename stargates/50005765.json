@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006326,
+        "system_id": 30002673
+    },
+    "name": "Stargate (Estene)",
+    "position": {
+        "x": 75332444160,
+        "y": -13365780480,
+        "z": 4530741043200
+    },
+    "stargate_id": 50005765,
+    "system_id": 30002672,
+    "type_id": 3875
+}

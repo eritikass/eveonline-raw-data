@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011461,
+        "system_id": 30004752
+    },
+    "name": "Stargate (QY6-RK)",
+    "position": {
+        "x": 629170544640,
+        "y": 44456878080,
+        "z": -3234722979840
+    },
+    "stargate_id": 50011210,
+    "system_id": 30004751,
+    "type_id": 29624
+}

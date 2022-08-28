@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005790,
+        "system_id": 30000975
+    },
+    "name": "Stargate (O-RXCZ)",
+    "position": {
+        "x": -4436265984000,
+        "y": -508395233280,
+        "z": -359566417920
+    },
+    "stargate_id": 50006638,
+    "system_id": 30000976,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006749,
+        "system_id": 30003812
+    },
+    "name": "Stargate (Osmallanais)",
+    "position": {
+        "x": 3439344967680,
+        "y": -686071603200,
+        "z": 3050579681280
+    },
+    "stargate_id": 50006771,
+    "system_id": 30003813,
+    "type_id": 3875
+}

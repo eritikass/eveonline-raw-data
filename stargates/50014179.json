@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014180,
+        "system_id": 30023410
+    },
+    "name": "Stargate (Embod)",
+    "position": {
+        "x": -1150627307520,
+        "y": 15309987840,
+        "z": 1168033013760
+    },
+    "stargate_id": 50014179,
+    "system_id": 30003409,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005065,
+        "system_id": 30002552
+    },
+    "name": "Stargate (Eddar)",
+    "position": {
+        "x": 1853110886400,
+        "y": 3303532339200,
+        "z": -1767990190080
+    },
+    "stargate_id": 50010253,
+    "system_id": 30002561,
+    "type_id": 3877
+}

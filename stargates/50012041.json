@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011737,
+        "system_id": 30000324
+    },
+    "name": "Stargate (Q3-BAY)",
+    "position": {
+        "x": 5012889600,
+        "y": -958832640,
+        "z": 83762503680
+    },
+    "stargate_id": 50012041,
+    "system_id": 30000325,
+    "type_id": 16
+}

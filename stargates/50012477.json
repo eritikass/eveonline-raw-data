@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012725,
+        "system_id": 30004484
+    },
+    "name": "Stargate (SWBV-2)",
+    "position": {
+        "x": 102884106240,
+        "y": -9059573760,
+        "z": -131686440960
+    },
+    "stargate_id": 50012477,
+    "system_id": 30004483,
+    "type_id": 29633
+}

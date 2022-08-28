@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010429,
+        "system_id": 30003772
+    },
+    "name": "Stargate (G-B22J)",
+    "position": {
+        "x": -242627911680,
+        "y": -13306306560,
+        "z": 1965465600
+    },
+    "stargate_id": 50009994,
+    "system_id": 30003771,
+    "type_id": 29624
+}

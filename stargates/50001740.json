@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000067,
+        "system_id": 30000002
+    },
+    "name": "Stargate (Lashesih)",
+    "position": {
+        "x": -699212390400,
+        "y": -56042250240,
+        "z": -226620334080
+    },
+    "stargate_id": 50001740,
+    "system_id": 30000005,
+    "type_id": 29624
+}

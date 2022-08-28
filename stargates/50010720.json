@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007050,
+        "system_id": 30002570
+    },
+    "name": "Stargate (Magiko)",
+    "position": {
+        "x": -3484930990080,
+        "y": -140345548800,
+        "z": -2073818849280
+    },
+    "stargate_id": 50010720,
+    "system_id": 30002573,
+    "type_id": 29633
+}

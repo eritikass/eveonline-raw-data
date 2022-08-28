@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005695,
+        "system_id": 30005031
+    },
+    "name": "Stargate (Nebian)",
+    "position": {
+        "x": 648081039360,
+        "y": -85080760320,
+        "z": -2267321917440
+    },
+    "stargate_id": 50004451,
+    "system_id": 30005030,
+    "type_id": 29624
+}

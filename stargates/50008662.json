@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010932,
+        "system_id": 30003438
+    },
+    "name": "Stargate (Earled)",
+    "position": {
+        "x": -3293784760320,
+        "y": -60110807040,
+        "z": -89569320960
+    },
+    "stargate_id": 50008662,
+    "system_id": 30003436,
+    "type_id": 29633
+}

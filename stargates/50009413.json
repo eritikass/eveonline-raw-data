@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012382,
+        "system_id": 30003360
+    },
+    "name": "Stargate (GRNJ-3)",
+    "position": {
+        "x": 11177779200,
+        "y": -1520394240,
+        "z": -1400713175040
+    },
+    "stargate_id": 50009413,
+    "system_id": 30003355,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004873,
+        "system_id": 30001216
+    },
+    "name": "Stargate (AOK-WQ)",
+    "position": {
+        "x": -115278028800,
+        "y": 18288107520,
+        "z": 607584952320
+    },
+    "stargate_id": 50004955,
+    "system_id": 30001217,
+    "type_id": 29624
+}

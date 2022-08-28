@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010529,
+        "system_id": 30004234
+    },
+    "name": "Stargate (Maalna)",
+    "position": {
+        "x": 5805962158080,
+        "y": -197867397120,
+        "z": -748283535360
+    },
+    "stargate_id": 50010533,
+    "system_id": 30004235,
+    "type_id": 29624
+}

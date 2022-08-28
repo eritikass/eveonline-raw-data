@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004669,
+        "system_id": 30005306
+    },
+    "name": "Stargate (Vaere)",
+    "position": {
+        "x": 2728304640,
+        "y": -141926400,
+        "z": -2476635955200
+    },
+    "stargate_id": 50004282,
+    "system_id": 30005304,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008878,
+        "system_id": 30001883
+    },
+    "name": "Stargate (GU-54G)",
+    "position": {
+        "x": 1001240862720,
+        "y": -97125949440,
+        "z": -469921013760
+    },
+    "stargate_id": 50008524,
+    "system_id": 30001882,
+    "type_id": 29624
+}

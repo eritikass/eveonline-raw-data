@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000650,
+        "system_id": 30000783
+    },
+    "name": "Stargate (EFM-C4)",
+    "position": {
+        "x": 138622033920,
+        "y": 4567818240,
+        "z": 52350689280
+    },
+    "stargate_id": 50002147,
+    "system_id": 30000788,
+    "type_id": 29633
+}

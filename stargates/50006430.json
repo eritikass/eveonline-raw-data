@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006134,
+        "system_id": 30000428
+    },
+    "name": "Stargate (3C-26I)",
+    "position": {
+        "x": 26953605120,
+        "y": 5441003520,
+        "z": 118020218880
+    },
+    "stargate_id": 50006430,
+    "system_id": 30000432,
+    "type_id": 3876
+}

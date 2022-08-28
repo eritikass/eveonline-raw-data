@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014043,
+        "system_id": 30004040
+    },
+    "name": "Stargate (B-DBYQ)",
+    "position": {
+        "x": 3327319695360,
+        "y": 877200875520,
+        "z": 2466420449280
+    },
+    "stargate_id": 50014044,
+    "system_id": 30004589,
+    "type_id": 29632
+}

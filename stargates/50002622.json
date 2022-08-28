@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000409,
+        "system_id": 30000802
+    },
+    "name": "Stargate (ZO-4AR)",
+    "position": {
+        "x": -548064583680,
+        "y": -91625349120,
+        "z": -1391607767040
+    },
+    "stargate_id": 50002622,
+    "system_id": 30000804,
+    "type_id": 29633
+}

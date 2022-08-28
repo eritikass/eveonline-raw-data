@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003858,
+        "system_id": 30001132
+    },
+    "name": "Stargate (863P-X)",
+    "position": {
+        "x": 1046530498560,
+        "y": -4319480586240,
+        "z": 5390104043520
+    },
+    "stargate_id": 50003133,
+    "system_id": 30003186,
+    "type_id": 29632
+}

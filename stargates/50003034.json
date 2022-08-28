@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003962,
+        "system_id": 30000532
+    },
+    "name": "Stargate (W-QN5X)",
+    "position": {
+        "x": 2200735948800,
+        "y": 2613043200,
+        "z": -2171826954240
+    },
+    "stargate_id": 50003034,
+    "system_id": 30000531,
+    "type_id": 29633
+}

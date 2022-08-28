@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000501,
+        "system_id": 30001154
+    },
+    "name": "Stargate (9KOE-A)",
+    "position": {
+        "x": 636592988160,
+        "y": 32069591040,
+        "z": -5177747496960
+    },
+    "stargate_id": 50001908,
+    "system_id": 30001160,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009797,
+        "system_id": 30002616
+    },
+    "name": "Stargate (442-CS)",
+    "position": {
+        "x": -723438919680,
+        "y": -24129331200,
+        "z": -186413506560
+    },
+    "stargate_id": 50009990,
+    "system_id": 30002617,
+    "type_id": 29633
+}

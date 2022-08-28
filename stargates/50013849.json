@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013850,
+        "system_id": 30001312
+    },
+    "name": "Stargate (92D-OI)",
+    "position": {
+        "x": 1165521346560,
+        "y": 4073121669120,
+        "z": -1587053322240
+    },
+    "stargate_id": 50013849,
+    "system_id": 30004369,
+    "type_id": 12292
+}

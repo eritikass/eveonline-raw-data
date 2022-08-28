@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002571,
+        "system_id": 30001425
+    },
+    "name": "Stargate (Oipo)",
+    "position": {
+        "x": -3046572564480,
+        "y": -218134487040,
+        "z": 2295172177920
+    },
+    "stargate_id": 50002563,
+    "system_id": 30001424,
+    "type_id": 16
+}

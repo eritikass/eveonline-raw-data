@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003694,
+        "system_id": 30001286
+    },
+    "name": "Stargate (BV-1JG)",
+    "position": {
+        "x": -1552168919040,
+        "y": 207914065920,
+        "z": -2665662504960
+    },
+    "stargate_id": 50003919,
+    "system_id": 30001287,
+    "type_id": 16
+}

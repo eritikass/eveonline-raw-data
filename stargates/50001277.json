@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000173,
+        "system_id": 30000758
+    },
+    "name": "Stargate (I3CR-F)",
+    "position": {
+        "x": 6853034680320,
+        "y": 614184099840,
+        "z": -7427818659840
+    },
+    "stargate_id": 50001277,
+    "system_id": 30000761,
+    "type_id": 29633
+}

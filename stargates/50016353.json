@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016354,
+        "system_id": 30045345
+    },
+    "name": "Stargate (Hirri)",
+    "position": {
+        "x": -166020833280,
+        "y": -23878656000,
+        "z": -961464852480
+    },
+    "stargate_id": 50016353,
+    "system_id": 30045352,
+    "type_id": 16
+}

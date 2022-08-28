@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010553,
+        "system_id": 30002925
+    },
+    "name": "Stargate (YZ-UKA)",
+    "position": {
+        "x": 135852810240,
+        "y": -7125688320,
+        "z": 11316142080
+    },
+    "stargate_id": 50010540,
+    "system_id": 30002924,
+    "type_id": 16
+}

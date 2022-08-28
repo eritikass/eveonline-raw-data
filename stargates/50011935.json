@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011709,
+        "system_id": 30004572
+    },
+    "name": "Stargate (K8L-X7)",
+    "position": {
+        "x": 596612751360,
+        "y": -340364451840,
+        "z": 989992673280
+    },
+    "stargate_id": 50011935,
+    "system_id": 30004602,
+    "type_id": 3874
+}

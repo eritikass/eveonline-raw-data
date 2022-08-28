@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007211,
+        "system_id": 30005310
+    },
+    "name": "Stargate (Scheenins)",
+    "position": {
+        "x": 1043198238720,
+        "y": -865447649280,
+        "z": 2859597619200
+    },
+    "stargate_id": 50005588,
+    "system_id": 30005318,
+    "type_id": 3874
+}

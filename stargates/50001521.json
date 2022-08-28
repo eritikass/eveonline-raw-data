@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000559,
+        "system_id": 30000685
+    },
+    "name": "Stargate (H5N-V7)",
+    "position": {
+        "x": -3689490800640,
+        "y": -583259381760,
+        "z": -2450237890560
+    },
+    "stargate_id": 50001521,
+    "system_id": 30000689,
+    "type_id": 29633
+}

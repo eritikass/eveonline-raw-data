@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005414,
+        "system_id": 30002154
+    },
+    "name": "Stargate (4DV-1T)",
+    "position": {
+        "x": 441223618560,
+        "y": 77876551680,
+        "z": 764598558720
+    },
+    "stargate_id": 50005269,
+    "system_id": 30002153,
+    "type_id": 29633
+}

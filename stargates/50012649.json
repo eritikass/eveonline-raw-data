@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012940,
+        "system_id": 30005284
+    },
+    "name": "Stargate (Promised Land)",
+    "position": {
+        "x": -1606616064000,
+        "y": -45238640640,
+        "z": -685303603200
+    },
+    "stargate_id": 50012649,
+    "system_id": 30005283,
+    "type_id": 29624
+}

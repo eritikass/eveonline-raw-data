@@ -1,0 +1,55 @@
+{
+    "constellation_id": 20000292,
+    "name": "O-N8XZ",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40126870
+            ],
+            "planet_id": 40126869
+        },
+        {
+            "asteroid_belts": [
+                40126872
+            ],
+            "planet_id": 40126871
+        },
+        {
+            "planet_id": 40126873
+        },
+        {
+            "asteroid_belts": [
+                40126875
+            ],
+            "moons": [
+                40126876
+            ],
+            "planet_id": 40126874
+        },
+        {
+            "asteroid_belts": [
+                40126878
+            ],
+            "moons": [
+                40126879,
+                40126880,
+                40126881
+            ],
+            "planet_id": 40126877
+        }
+    ],
+    "position": {
+        "x": -248217897664922980,
+        "y": 78137700779398610,
+        "z": 201467134978504450
+    },
+    "security_class": "J",
+    "security_status": -0.18645651638507843,
+    "star_id": 40126868,
+    "stargates": [
+        50004056,
+        50004057,
+        50004058
+    ],
+    "system_id": 30001986
+}

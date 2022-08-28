@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011820,
+        "system_id": 30003247
+    },
+    "name": "Stargate (VZEG-B)",
+    "position": {
+        "x": 2703609077760,
+        "y": -337235681280,
+        "z": 2144103014400
+    },
+    "stargate_id": 50009507,
+    "system_id": 30003243,
+    "type_id": 3875
+}

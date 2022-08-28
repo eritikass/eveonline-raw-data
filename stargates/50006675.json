@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004262,
+        "system_id": 30002959
+    },
+    "name": "Stargate (Sifilar)",
+    "position": {
+        "x": -3402793574400,
+        "y": -654871633920,
+        "z": -668543508480
+    },
+    "stargate_id": 50006675,
+    "system_id": 30002961,
+    "type_id": 29624
+}

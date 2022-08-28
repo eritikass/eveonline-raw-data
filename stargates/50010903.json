@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011345,
+        "system_id": 30004582
+    },
+    "name": "Stargate (9O-ORX)",
+    "position": {
+        "x": 528414597120,
+        "y": 24720384000,
+        "z": -2757273722880
+    },
+    "stargate_id": 50010903,
+    "system_id": 30004573,
+    "type_id": 3875
+}

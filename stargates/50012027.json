@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012061,
+        "system_id": 30004464
+    },
+    "name": "Stargate (MSKR-1)",
+    "position": {
+        "x": -3115988705280,
+        "y": -574133575680,
+        "z": -4243481026560
+    },
+    "stargate_id": 50012027,
+    "system_id": 30004462,
+    "type_id": 29633
+}

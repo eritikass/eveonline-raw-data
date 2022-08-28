@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012786,
+        "system_id": 30004260
+    },
+    "name": "Stargate (Yiratal)",
+    "position": {
+        "x": 2578630041600,
+        "y": -204498739200,
+        "z": 5144168816640
+    },
+    "stargate_id": 50012324,
+    "system_id": 30004256,
+    "type_id": 29624
+}

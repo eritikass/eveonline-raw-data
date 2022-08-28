@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006953,
+        "system_id": 30001136
+    },
+    "name": "Stargate (2FL-5W)",
+    "position": {
+        "x": -876133294080,
+        "y": -76414771200,
+        "z": -652839198720
+    },
+    "stargate_id": 50007850,
+    "system_id": 30001138,
+    "type_id": 3875
+}

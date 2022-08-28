@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011744,
+        "system_id": 30004754
+    },
+    "name": "Stargate (PUIG-F)",
+    "position": {
+        "x": 6059931770880,
+        "y": 832784179200,
+        "z": -7087127961600
+    },
+    "stargate_id": 50011646,
+    "system_id": 30004753,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008889,
+        "system_id": 30000179
+    },
+    "name": "Stargate (Silen)",
+    "position": {
+        "x": -496165478400,
+        "y": -27333795840,
+        "z": 2033562624000
+    },
+    "stargate_id": 50005538,
+    "system_id": 30000175,
+    "type_id": 16
+}

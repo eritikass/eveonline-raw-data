@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003280,
+        "system_id": 30001117
+    },
+    "name": "Stargate (NBW-GD)",
+    "position": {
+        "x": 83569336320,
+        "y": -13111664640,
+        "z": 159721267200
+    },
+    "stargate_id": 50008901,
+    "system_id": 30001119,
+    "type_id": 3875
+}

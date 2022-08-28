@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013396,
+        "system_id": 30003940
+    },
+    "name": "Stargate (Pout)",
+    "position": {
+        "x": -116189798400,
+        "y": -901079040,
+        "z": 305731706880
+    },
+    "stargate_id": 50010242,
+    "system_id": 30003936,
+    "type_id": 29624
+}

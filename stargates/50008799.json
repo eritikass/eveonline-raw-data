@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008704,
+        "system_id": 30003624
+    },
+    "name": "Stargate (1BWK-S)",
+    "position": {
+        "x": 703144304640,
+        "y": -134674391040,
+        "z": -771841351680
+    },
+    "stargate_id": 50008799,
+    "system_id": 30003626,
+    "type_id": 16
+}

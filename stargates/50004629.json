@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003622,
+        "system_id": 30001978
+    },
+    "name": "Stargate (X-7OMU)",
+    "position": {
+        "x": 4383400058880,
+        "y": 690906931200,
+        "z": 3979019182080
+    },
+    "stargate_id": 50004629,
+    "system_id": 30001979,
+    "type_id": 16
+}

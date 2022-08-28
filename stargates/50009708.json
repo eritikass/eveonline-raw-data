@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011738,
+        "system_id": 30004435
+    },
+    "name": "Stargate (JI-LGM)",
+    "position": {
+        "x": -2617565306880,
+        "y": 191485501440,
+        "z": 9946417029120
+    },
+    "stargate_id": 50009708,
+    "system_id": 30004428,
+    "type_id": 29633
+}

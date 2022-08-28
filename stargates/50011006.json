@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010394,
+        "system_id": 30004416
+    },
+    "name": "Stargate (X6-J6R)",
+    "position": {
+        "x": -1541219573760,
+        "y": 157092864000,
+        "z": 122902241280
+    },
+    "stargate_id": 50011006,
+    "system_id": 30004417,
+    "type_id": 29633
+}

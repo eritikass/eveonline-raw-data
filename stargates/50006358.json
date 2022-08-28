@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003735,
+        "system_id": 30000259
+    },
+    "name": "Stargate (A8A-JN)",
+    "position": {
+        "x": 1036931358720,
+        "y": 96462888960,
+        "z": -478861025280
+    },
+    "stargate_id": 50006358,
+    "system_id": 30000260,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001437,
+        "system_id": 30003183
+    },
+    "name": "Stargate (QB-AE6)",
+    "position": {
+        "x": -21143101440,
+        "y": 691691520,
+        "z": -7738696458240
+    },
+    "stargate_id": 50002177,
+    "system_id": 30003185,
+    "type_id": 3875
+}

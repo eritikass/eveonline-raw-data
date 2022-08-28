@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010519,
+        "system_id": 30003157
+    },
+    "name": "Stargate (DNEP-Y)",
+    "position": {
+        "x": 251229020160,
+        "y": -20324720640,
+        "z": 3397499412480
+    },
+    "stargate_id": 50010149,
+    "system_id": 30003154,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004665,
+        "system_id": 30003416
+    },
+    "name": "Stargate (Aldrat)",
+    "position": {
+        "x": 324464517120,
+        "y": -3621888000,
+        "z": 2349476044800
+    },
+    "stargate_id": 50007205,
+    "system_id": 30003420,
+    "type_id": 29633
+}

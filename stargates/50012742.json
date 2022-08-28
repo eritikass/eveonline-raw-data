@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012407,
+        "system_id": 30004277
+    },
+    "name": "Stargate (Ajna)",
+    "position": {
+        "x": 753415987200,
+        "y": -100928348160,
+        "z": -1838601707520
+    },
+    "stargate_id": 50012742,
+    "system_id": 30004278,
+    "type_id": 29624
+}

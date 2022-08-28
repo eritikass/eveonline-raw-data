@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008851,
+        "system_id": 30002091
+    },
+    "name": "Stargate (Ontorn)",
+    "position": {
+        "x": -30278246400,
+        "y": 5985361920,
+        "z": -1234224783360
+    },
+    "stargate_id": 50012051,
+    "system_id": 30002094,
+    "type_id": 29633
+}

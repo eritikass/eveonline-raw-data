@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009869,
+        "system_id": 30004340
+    },
+    "name": "Stargate (KL3O-J)",
+    "position": {
+        "x": -3459971850240,
+        "y": 2754064343040,
+        "z": -3430472294400
+    },
+    "stargate_id": 50010417,
+    "system_id": 30004371,
+    "type_id": 29627
+}

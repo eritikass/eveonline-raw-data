@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006797,
+        "system_id": 30003512
+    },
+    "name": "Stargate (Abaim)",
+    "position": {
+        "x": 1018805084160,
+        "y": 113930035200,
+        "z": 276765941760
+    },
+    "stargate_id": 50005214,
+    "system_id": 30003510,
+    "type_id": 29624
+}

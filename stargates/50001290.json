@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000412,
+        "system_id": 30001536
+    },
+    "name": "Stargate (KPI-OW)",
+    "position": {
+        "x": 4315539087360,
+        "y": -430183096320,
+        "z": 1607823728640
+    },
+    "stargate_id": 50001290,
+    "system_id": 30001538,
+    "type_id": 3875
+}

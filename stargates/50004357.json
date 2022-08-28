@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000810,
+        "system_id": 30001362
+    },
+    "name": "Stargate (Veisto)",
+    "position": {
+        "x": -1237919539200,
+        "y": -164186234880,
+        "z": -2723375800320
+    },
+    "stargate_id": 50004357,
+    "system_id": 30001363,
+    "type_id": 16
+}

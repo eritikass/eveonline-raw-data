@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012149,
+        "system_id": 30003667
+    },
+    "name": "Stargate (SY0W-2)",
+    "position": {
+        "x": -2428794101760,
+        "y": 24873492480,
+        "z": 219513692160
+    },
+    "stargate_id": 50011377,
+    "system_id": 30003664,
+    "type_id": 16
+}

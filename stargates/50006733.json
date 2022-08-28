@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005930,
+        "system_id": 30001586
+    },
+    "name": "Stargate (OTJ9-E)",
+    "position": {
+        "x": -1234636922880,
+        "y": -159230484480,
+        "z": 2764272230400
+    },
+    "stargate_id": 50006733,
+    "system_id": 30001591,
+    "type_id": 3875
+}

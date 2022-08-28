@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013985,
+        "system_id": 30000483
+    },
+    "name": "Stargate (77S8-E)",
+    "position": {
+        "x": 2969874800640,
+        "y": -1464998584320,
+        "z": 5687835648000
+    },
+    "stargate_id": 50013986,
+    "system_id": 30004878,
+    "type_id": 29635
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002686,
+        "system_id": 30001014
+    },
+    "name": "Stargate (5E-VR8)",
+    "position": {
+        "x": 1052223283200,
+        "y": -135430594560,
+        "z": -604954337280
+    },
+    "stargate_id": 50003056,
+    "system_id": 30001015,
+    "type_id": 29633
+}

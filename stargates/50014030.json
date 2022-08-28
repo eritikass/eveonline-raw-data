@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014029,
+        "system_id": 30003620
+    },
+    "name": "Stargate (ZXA-V6)",
+    "position": {
+        "x": 2096214958080,
+        "y": 429914234880,
+        "z": 516591083520
+    },
+    "stargate_id": 50014030,
+    "system_id": 30004352,
+    "type_id": 29629
+}

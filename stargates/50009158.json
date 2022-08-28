@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009166,
+        "system_id": 30003632
+    },
+    "name": "Stargate (30-D5G)",
+    "position": {
+        "x": 732027002880,
+        "y": 57551216640,
+        "z": 1618104606720
+    },
+    "stargate_id": 50009158,
+    "system_id": 30003631,
+    "type_id": 16
+}

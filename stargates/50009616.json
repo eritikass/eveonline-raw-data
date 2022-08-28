@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010667,
+        "system_id": 30003641
+    },
+    "name": "Stargate (IKTD-P)",
+    "position": {
+        "x": 5568063774720,
+        "y": 378883645440,
+        "z": 2608859504640
+    },
+    "stargate_id": 50009616,
+    "system_id": 30003636,
+    "type_id": 16
+}

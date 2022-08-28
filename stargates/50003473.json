@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004511,
+        "system_id": 30005102
+    },
+    "name": "Stargate (0FG-KS)",
+    "position": {
+        "x": 615958732800,
+        "y": 94042890240,
+        "z": 2195063562240
+    },
+    "stargate_id": 50003473,
+    "system_id": 30005101,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004830,
+        "system_id": 30002194
+    },
+    "name": "Stargate (Martha)",
+    "position": {
+        "x": -2345113313280,
+        "y": -3062646251520,
+        "z": 897380229120
+    },
+    "stargate_id": 50012873,
+    "system_id": 30004152,
+    "type_id": 29626
+}

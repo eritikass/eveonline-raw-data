@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002944,
+        "system_id": 30000959
+    },
+    "name": "Stargate (F5-CGW)",
+    "position": {
+        "x": -371214950400,
+        "y": 64760832000,
+        "z": 351475261440
+    },
+    "stargate_id": 50002460,
+    "system_id": 30000958,
+    "type_id": 29633
+}

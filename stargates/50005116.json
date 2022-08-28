@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008214,
+        "system_id": 30005319
+    },
+    "name": "Stargate (Raneilles)",
+    "position": {
+        "x": 356394639360,
+        "y": -25248522240,
+        "z": -31165440000
+    },
+    "stargate_id": 50005116,
+    "system_id": 30005317,
+    "type_id": 3875
+}

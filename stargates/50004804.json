@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004136,
+        "system_id": 30002634
+    },
+    "name": "Stargate (Balle)",
+    "position": {
+        "x": -202012876800,
+        "y": -23634616320,
+        "z": 2975125954560
+    },
+    "stargate_id": 50004804,
+    "system_id": 30002635,
+    "type_id": 3875
+}

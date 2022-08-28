@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016340,
+        "system_id": 30045334
+    },
+    "name": "Stargate (Mushikegi)",
+    "position": {
+        "x": 4052763156480,
+        "y": 84877271040,
+        "z": 3155517235200
+    },
+    "stargate_id": 50016339,
+    "system_id": 30045332,
+    "type_id": 16
+}

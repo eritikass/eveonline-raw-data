@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013602,
+        "system_id": 30001155
+    },
+    "name": "Stargate (U-QVWD)",
+    "position": {
+        "x": -6005022351360,
+        "y": 1176951644160,
+        "z": -3516365905920
+    },
+    "stargate_id": 50013601,
+    "system_id": 30001009,
+    "type_id": 29635
+}

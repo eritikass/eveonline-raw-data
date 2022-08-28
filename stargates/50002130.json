@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001590,
+        "system_id": 30000072
+    },
+    "name": "Stargate (Nakah)",
+    "position": {
+        "x": -3359835709440,
+        "y": 41828720640,
+        "z": -433941995520
+    },
+    "stargate_id": 50002130,
+    "system_id": 30000074,
+    "type_id": 29624
+}

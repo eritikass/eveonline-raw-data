@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006484,
+        "system_id": 30003803
+    },
+    "name": "Stargate (Reynire)",
+    "position": {
+        "x": 6442420592640,
+        "y": -136532828160,
+        "z": 10560233349120
+    },
+    "stargate_id": 50006522,
+    "system_id": 30003804,
+    "type_id": 3875
+}

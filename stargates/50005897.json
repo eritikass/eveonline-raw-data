@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006829,
+        "system_id": 30002371
+    },
+    "name": "Stargate (WPV-JN)",
+    "position": {
+        "x": -2284372992000,
+        "y": -360023531520,
+        "z": -1444848967680
+    },
+    "stargate_id": 50005897,
+    "system_id": 30002370,
+    "type_id": 3875
+}

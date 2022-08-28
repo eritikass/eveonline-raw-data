@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007399,
+        "system_id": 30002641
+    },
+    "name": "Stargate (Aufay)",
+    "position": {
+        "x": 1889707745280,
+        "y": -102179512320,
+        "z": 856692449280
+    },
+    "stargate_id": 50004137,
+    "system_id": 30002634,
+    "type_id": 3875
+}

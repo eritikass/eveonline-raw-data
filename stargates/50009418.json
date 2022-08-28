@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010722,
+        "system_id": 30001447
+    },
+    "name": "Stargate (Taisy)",
+    "position": {
+        "x": 4239338250240,
+        "y": 554978549760,
+        "z": 521832652800
+    },
+    "stargate_id": 50009418,
+    "system_id": 30001446,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013302,
+        "system_id": 30004986
+    },
+    "name": "Stargate (Estaunitte)",
+    "position": {
+        "x": -1439383265280,
+        "y": -118865141760,
+        "z": 993291264000
+    },
+    "stargate_id": 50008941,
+    "system_id": 30004983,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014132,
+        "system_id": 30011672
+    },
+    "name": "Stargate (Kerepa)",
+    "position": {
+        "x": 1255079239680,
+        "y": -47668961280,
+        "z": -1482705592320
+    },
+    "stargate_id": 50014131,
+    "system_id": 30001723,
+    "type_id": 29624
+}

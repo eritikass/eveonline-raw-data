@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003468,
+        "system_id": 30001672
+    },
+    "name": "Stargate (Emrayur)",
+    "position": {
+        "x": 1082806640640,
+        "y": 3658069893120,
+        "z": -1590108610560
+    },
+    "stargate_id": 50004005,
+    "system_id": 30001687,
+    "type_id": 17
+}

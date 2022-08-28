@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007466,
+        "system_id": 30002701
+    },
+    "name": "Stargate (Atier)",
+    "position": {
+        "x": 86486507520,
+        "y": -9374638080,
+        "z": 410978426880
+    },
+    "stargate_id": 50012361,
+    "system_id": 30002705,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004061,
+        "system_id": 30003397
+    },
+    "name": "Stargate (Bongveber)",
+    "position": {
+        "x": -2339266191360,
+        "y": 382699806720,
+        "z": 204612280320
+    },
+    "stargate_id": 50004379,
+    "system_id": 30003398,
+    "type_id": 29633
+}

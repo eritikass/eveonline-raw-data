@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003630,
+        "system_id": 30004994
+    },
+    "name": "Stargate (Arant)",
+    "position": {
+        "x": 1722349854720,
+        "y": -340028497920,
+        "z": -4368996556800
+    },
+    "stargate_id": 50003537,
+    "system_id": 30004993,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005476,
+        "system_id": 30005098
+    },
+    "name": "Stargate (AK-L0Z)",
+    "position": {
+        "x": -1036112977920,
+        "y": -5112049950720,
+        "z": 625724989440
+    },
+    "stargate_id": 50004993,
+    "system_id": 30005116,
+    "type_id": 3874
+}

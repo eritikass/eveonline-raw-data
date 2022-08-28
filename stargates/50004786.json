@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008355,
+        "system_id": 30002077
+    },
+    "name": "Stargate (Hakisalki)",
+    "position": {
+        "x": -2464323133440,
+        "y": 200430428160,
+        "z": 1416113725440
+    },
+    "stargate_id": 50004786,
+    "system_id": 30002076,
+    "type_id": 29633
+}

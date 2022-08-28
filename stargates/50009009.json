@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009814,
+        "system_id": 30001891
+    },
+    "name": "Stargate (S91-TI)",
+    "position": {
+        "x": -222270382080,
+        "y": 18921185280,
+        "z": 1344223272960
+    },
+    "stargate_id": 50009009,
+    "system_id": 30001890,
+    "type_id": 29624
+}

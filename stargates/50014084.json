@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014083,
+        "system_id": 30002524
+    },
+    "name": "Stargate (Ivar)",
+    "position": {
+        "x": 381826867200,
+        "y": 53458575360,
+        "z": 4148570726400
+    },
+    "stargate_id": 50014084,
+    "system_id": 30002508,
+    "type_id": 3877
+}

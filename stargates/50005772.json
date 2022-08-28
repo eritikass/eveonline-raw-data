@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005810,
+        "system_id": 30004827
+    },
+    "name": "Stargate (L2GN-K)",
+    "position": {
+        "x": 1754606346240,
+        "y": -17245102080,
+        "z": 2296301936640
+    },
+    "stargate_id": 50005772,
+    "system_id": 30004826,
+    "type_id": 29633
+}

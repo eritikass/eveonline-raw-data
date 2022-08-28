@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007920,
+        "system_id": 30004321
+    },
+    "name": "Stargate (Q-FEEJ)",
+    "position": {
+        "x": 136718376960,
+        "y": 11487436800,
+        "z": -483496550400
+    },
+    "stargate_id": 50007689,
+    "system_id": 30004319,
+    "type_id": 16
+}

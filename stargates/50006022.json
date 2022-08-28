@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009396,
+        "system_id": 30002150
+    },
+    "name": "Stargate (JKWP-U)",
+    "position": {
+        "x": -695653539840,
+        "y": 51072983040,
+        "z": 982179471360
+    },
+    "stargate_id": 50006022,
+    "system_id": 30002147,
+    "type_id": 29633
+}

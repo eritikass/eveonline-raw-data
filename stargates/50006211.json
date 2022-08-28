@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006412,
+        "system_id": 30005238
+    },
+    "name": "Stargate (Menai)",
+    "position": {
+        "x": -355067043840,
+        "y": 15870320640,
+        "z": -3573993431040
+    },
+    "stargate_id": 50006211,
+    "system_id": 30005236,
+    "type_id": 29624
+}

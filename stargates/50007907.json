@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011716,
+        "system_id": 30001414
+    },
+    "name": "Stargate (Ajanen)",
+    "position": {
+        "x": -952268759040,
+        "y": -65077125120,
+        "z": -3337389465600
+    },
+    "stargate_id": 50007907,
+    "system_id": 30001412,
+    "type_id": 16
+}

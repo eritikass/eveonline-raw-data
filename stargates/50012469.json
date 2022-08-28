@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013000,
+        "system_id": 30005074
+    },
+    "name": "Stargate (Daran)",
+    "position": {
+        "x": -283901091840,
+        "y": 13768581120,
+        "z": 255419719680
+    },
+    "stargate_id": 50012469,
+    "system_id": 30005073,
+    "type_id": 29624
+}

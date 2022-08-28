@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011915,
+        "system_id": 30004785
+    },
+    "name": "Stargate (Y5C-YD)",
+    "position": {
+        "x": 3470761943040,
+        "y": -555068252160,
+        "z": 300694609920
+    },
+    "stargate_id": 50012969,
+    "system_id": 30004787,
+    "type_id": 29624
+}

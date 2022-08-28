@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008556,
+        "system_id": 30002255
+    },
+    "name": "Stargate (Miyeli)",
+    "position": {
+        "x": -150170542080,
+        "y": 24486666240,
+        "z": -313417605120
+    },
+    "stargate_id": 50006194,
+    "system_id": 30002252,
+    "type_id": 29624
+}

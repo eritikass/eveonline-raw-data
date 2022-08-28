@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004248,
+        "system_id": 30003072
+    },
+    "name": "Stargate (Iesa)",
+    "position": {
+        "x": 2708665589760,
+        "y": -67196313600,
+        "z": 3161479864320
+    },
+    "stargate_id": 50004293,
+    "system_id": 30003073,
+    "type_id": 29624
+}

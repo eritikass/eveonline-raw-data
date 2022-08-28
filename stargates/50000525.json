@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001732,
+        "system_id": 30002644
+    },
+    "name": "Stargate (Ambeke)",
+    "position": {
+        "x": -1950480506880,
+        "y": -57811230720,
+        "z": -1439632711680
+    },
+    "stargate_id": 50000525,
+    "system_id": 30002643,
+    "type_id": 3875
+}

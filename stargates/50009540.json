@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010653,
+        "system_id": 30002410
+    },
+    "name": "Stargate (Mimiror)",
+    "position": {
+        "x": 339284828160,
+        "y": -16380518400,
+        "z": -369816330240
+    },
+    "stargate_id": 50009540,
+    "system_id": 30002408,
+    "type_id": 29633
+}

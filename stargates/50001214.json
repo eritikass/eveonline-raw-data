@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002620,
+        "system_id": 30000571
+    },
+    "name": "Stargate (SJJ-4F)",
+    "position": {
+        "x": -1720586035200,
+        "y": -191852175360,
+        "z": -1132920053760
+    },
+    "stargate_id": 50001214,
+    "system_id": 30000567,
+    "type_id": 29633
+}

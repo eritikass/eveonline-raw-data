@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009659,
+        "system_id": 30004166
+    },
+    "name": "Stargate (5-3722)",
+    "position": {
+        "x": 1905764720640,
+        "y": -117974999040,
+        "z": 2970718740480
+    },
+    "stargate_id": 50009112,
+    "system_id": 30004163,
+    "type_id": 3875
+}

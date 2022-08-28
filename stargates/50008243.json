@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008218,
+        "system_id": 30003609
+    },
+    "name": "Stargate (3DR-CR)",
+    "position": {
+        "x": -891653283840,
+        "y": 121372876800,
+        "z": -824722513920
+    },
+    "stargate_id": 50008243,
+    "system_id": 30003610,
+    "type_id": 16
+}

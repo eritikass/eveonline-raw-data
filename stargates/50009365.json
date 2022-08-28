@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009220,
+        "system_id": 30003964
+    },
+    "name": "Stargate (SKR-SP)",
+    "position": {
+        "x": 1574183608320,
+        "y": 117486182400,
+        "z": 695714979840
+    },
+    "stargate_id": 50009365,
+    "system_id": 30003965,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008333,
+        "system_id": 30004992
+    },
+    "name": "Stargate (Palmon)",
+    "position": {
+        "x": 920866529280,
+        "y": 11986083840,
+        "z": -1074123694080
+    },
+    "stargate_id": 50007529,
+    "system_id": 30004991,
+    "type_id": 3875
+}

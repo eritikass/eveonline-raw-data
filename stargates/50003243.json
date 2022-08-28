@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004030,
+        "system_id": 30002207
+    },
+    "name": "Stargate (Cailanar)",
+    "position": {
+        "x": -1175284162560,
+        "y": 100250050560,
+        "z": 229779333120
+    },
+    "stargate_id": 50003243,
+    "system_id": 30002206,
+    "type_id": 29624
+}

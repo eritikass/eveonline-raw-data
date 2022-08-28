@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011531,
+        "system_id": 30003353
+    },
+    "name": "Stargate (RLL-9R)",
+    "position": {
+        "x": -275842621440,
+        "y": -44150906880,
+        "z": -991155855360
+    },
+    "stargate_id": 50011272,
+    "system_id": 30003351,
+    "type_id": 3875
+}

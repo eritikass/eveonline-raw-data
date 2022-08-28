@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007053,
+        "system_id": 30000509
+    },
+    "name": "Stargate (IAS-I5)",
+    "position": {
+        "x": -486186147840,
+        "y": 89732259840,
+        "z": 118342901760
+    },
+    "stargate_id": 50007268,
+    "system_id": 30000511,
+    "type_id": 29633
+}

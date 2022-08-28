@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003211,
+        "system_id": 30000960
+    },
+    "name": "Stargate (H9S-WC)",
+    "position": {
+        "x": 412327157760,
+        "y": 82334883840,
+        "z": 2113138728960
+    },
+    "stargate_id": 50002945,
+    "system_id": 30000959,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001750,
+        "system_id": 30000583
+    },
+    "name": "Stargate (YI-GV6)",
+    "position": {
+        "x": 1135894241280,
+        "y": 39726489600,
+        "z": -591740313600
+    },
+    "stargate_id": 50000826,
+    "system_id": 30000579,
+    "type_id": 29633
+}

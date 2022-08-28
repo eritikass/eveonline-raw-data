@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003888,
+        "system_id": 30004995
+    },
+    "name": "Stargate (Allamotte)",
+    "position": {
+        "x": 2412055388160,
+        "y": 345762816000,
+        "z": -1972612915200
+    },
+    "stargate_id": 50004659,
+    "system_id": 30004997,
+    "type_id": 3875
+}

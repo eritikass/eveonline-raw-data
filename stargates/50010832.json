@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011541,
+        "system_id": 30003357
+    },
+    "name": "Stargate (Z-QENW)",
+    "position": {
+        "x": -2928222658560,
+        "y": 29970063360,
+        "z": -2027510784000
+    },
+    "stargate_id": 50010832,
+    "system_id": 30003356,
+    "type_id": 3875
+}

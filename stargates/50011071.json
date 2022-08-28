@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011014,
+        "system_id": 30000318
+    },
+    "name": "Stargate (9-GBPD)",
+    "position": {
+        "x": -1416682414080,
+        "y": -105180733440,
+        "z": 1041142210560
+    },
+    "stargate_id": 50011071,
+    "system_id": 30000319,
+    "type_id": 16
+}

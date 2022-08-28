@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011440,
+        "system_id": 30003976
+    },
+    "name": "Stargate (C-9RRR)",
+    "position": {
+        "x": -12014713528320,
+        "y": 1460146790400,
+        "z": -10751535636480
+    },
+    "stargate_id": 50009515,
+    "system_id": 30003970,
+    "type_id": 29624
+}

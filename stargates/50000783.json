@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000079,
+        "system_id": 30000666
+    },
+    "name": "Stargate (F-5FDA)",
+    "position": {
+        "x": 676531691520,
+        "y": -1667605094400,
+        "z": -1882240327680
+    },
+    "stargate_id": 50000783,
+    "system_id": 30000939,
+    "type_id": 29635
+}

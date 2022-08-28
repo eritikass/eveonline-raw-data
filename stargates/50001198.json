@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000115,
+        "system_id": 30002750
+    },
+    "name": "Stargate (Oiniken)",
+    "position": {
+        "x": 788432363520,
+        "y": -116800757760,
+        "z": -97054433280
+    },
+    "stargate_id": 50001198,
+    "system_id": 30002753,
+    "type_id": 16
+}

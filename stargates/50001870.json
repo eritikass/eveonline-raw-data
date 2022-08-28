@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000484,
+        "system_id": 30000778
+    },
+    "name": "Stargate (G-EURJ)",
+    "position": {
+        "x": 1689373286400,
+        "y": 277487001600,
+        "z": -3569405583360
+    },
+    "stargate_id": 50001870,
+    "system_id": 30000782,
+    "type_id": 29633
+}

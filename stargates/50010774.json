@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010891,
+        "system_id": 30004734
+    },
+    "name": "Stargate (23G-XC)",
+    "position": {
+        "x": 322916229120,
+        "y": -53885460480,
+        "z": 128969564160
+    },
+    "stargate_id": 50010774,
+    "system_id": 30004731,
+    "type_id": 29624
+}

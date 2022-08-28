@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007708,
+        "system_id": 30003738
+    },
+    "name": "Stargate (5KG-PY)",
+    "position": {
+        "x": -726352896000,
+        "y": -95442739200,
+        "z": 1046829834240
+    },
+    "stargate_id": 50006718,
+    "system_id": 30003737,
+    "type_id": 29624
+}

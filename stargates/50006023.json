@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005112,
+        "system_id": 30001140
+    },
+    "name": "Stargate (WVJU-4)",
+    "position": {
+        "x": 144073236480,
+        "y": 29046251520,
+        "z": 149201018880
+    },
+    "stargate_id": 50006023,
+    "system_id": 30001141,
+    "type_id": 3875
+}

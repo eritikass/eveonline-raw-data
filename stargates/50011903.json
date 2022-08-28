@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011831,
+        "system_id": 30004460
+    },
+    "name": "Stargate (J94-MU)",
+    "position": {
+        "x": -1883649761280,
+        "y": 174868193280,
+        "z": 634693509120
+    },
+    "stargate_id": 50011903,
+    "system_id": 30004461,
+    "type_id": 29633
+}

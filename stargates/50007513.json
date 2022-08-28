@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008277,
+        "system_id": 30003104
+    },
+    "name": "Stargate (RBW-8G)",
+    "position": {
+        "x": 1493604556800,
+        "y": -45796515840,
+        "z": -132099563520
+    },
+    "stargate_id": 50007513,
+    "system_id": 30003102,
+    "type_id": 29624
+}

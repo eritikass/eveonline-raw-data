@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012721,
+        "system_id": 30004637
+    },
+    "name": "Stargate (J-RQMF)",
+    "position": {
+        "x": 368445726720,
+        "y": 72749752320,
+        "z": 202462617600
+    },
+    "stargate_id": 50012760,
+    "system_id": 30004638,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016516,
+        "system_id": 30001372
+    },
+    "name": "Stargate (Kino)",
+    "position": {
+        "x": -53136924928.912544,
+        "y": 9439744704.015923,
+        "z": -39638187061.854675
+    },
+    "stargate_id": 50016517,
+    "system_id": 30001445,
+    "type_id": 56317
+}

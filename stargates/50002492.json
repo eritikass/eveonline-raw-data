@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001361,
+        "system_id": 30000927
+    },
+    "name": "Stargate (VKU-BG)",
+    "position": {
+        "x": 5702351953920,
+        "y": 1007381913600,
+        "z": -2203841126400
+    },
+    "stargate_id": 50002492,
+    "system_id": 30000928,
+    "type_id": 29633
+}

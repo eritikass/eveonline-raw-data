@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002816,
+        "system_id": 30000946
+    },
+    "name": "Stargate (Q2FL-T)",
+    "position": {
+        "x": -330916208640,
+        "y": -21960990720,
+        "z": 1521567621120
+    },
+    "stargate_id": 50004191,
+    "system_id": 30000947,
+    "type_id": 29633
+}

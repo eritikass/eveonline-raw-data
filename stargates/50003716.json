@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004111,
+        "system_id": 30002895
+    },
+    "name": "Stargate (94-H3F)",
+    "position": {
+        "x": -2379112243200,
+        "y": -1280736583680,
+        "z": 1123579453440
+    },
+    "stargate_id": 50003716,
+    "system_id": 30002893,
+    "type_id": 29627
+}

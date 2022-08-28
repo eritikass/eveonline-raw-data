@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002793,
+        "system_id": 30002313
+    },
+    "name": "Stargate (5U-3PW)",
+    "position": {
+        "x": 7449354240,
+        "y": -178053120,
+        "z": 309116067840
+    },
+    "stargate_id": 50003462,
+    "system_id": 30002315,
+    "type_id": 3875
+}

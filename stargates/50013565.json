@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013566,
+        "system_id": 30002648
+    },
+    "name": "Stargate (Ardene)",
+    "position": {
+        "x": 807401349120,
+        "y": -1338879959040,
+        "z": 310324715520
+    },
+    "stargate_id": 50013565,
+    "system_id": 30002704,
+    "type_id": 3874
+}

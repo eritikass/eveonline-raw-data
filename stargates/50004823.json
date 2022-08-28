@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003831,
+        "system_id": 30005093
+    },
+    "name": "Stargate (DE-IHK)",
+    "position": {
+        "x": -2957662248960,
+        "y": -2448932904960,
+        "z": -890878156800
+    },
+    "stargate_id": 50004823,
+    "system_id": 30005106,
+    "type_id": 3874
+}

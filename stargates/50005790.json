@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006638,
+        "system_id": 30000976
+    },
+    "name": "Stargate (4M-P1I)",
+    "position": {
+        "x": 1525092556800,
+        "y": 232728698880,
+        "z": -1306341089280
+    },
+    "stargate_id": 50005790,
+    "system_id": 30000975,
+    "type_id": 29633
+}

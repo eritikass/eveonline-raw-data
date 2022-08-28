@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006080,
+        "system_id": 30002402
+    },
+    "name": "Stargate (Istodard)",
+    "position": {
+        "x": 211321036800,
+        "y": 18477834240,
+        "z": 377611837440
+    },
+    "stargate_id": 50006754,
+    "system_id": 30002404,
+    "type_id": 29633
+}

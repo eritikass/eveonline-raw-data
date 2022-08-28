@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011230,
+        "system_id": 30003172
+    },
+    "name": "Stargate (LG-RO2)",
+    "position": {
+        "x": 2201746022400,
+        "y": -385426268160,
+        "z": -1247768616960
+    },
+    "stargate_id": 50010952,
+    "system_id": 30003171,
+    "type_id": 29624
+}

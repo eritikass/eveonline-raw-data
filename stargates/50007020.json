@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007409,
+        "system_id": 30000517
+    },
+    "name": "Stargate (X-31TE)",
+    "position": {
+        "x": 1151405383680,
+        "y": 98143641600,
+        "z": 68462469120
+    },
+    "stargate_id": 50007020,
+    "system_id": 30000515,
+    "type_id": 29633
+}

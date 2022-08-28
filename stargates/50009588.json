@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003674,
+        "system_id": 30002790
+    },
+    "name": "Stargate (Waskisen)",
+    "position": {
+        "x": -75005337600,
+        "y": -5245624320,
+        "z": -24995635200
+    },
+    "stargate_id": 50009588,
+    "system_id": 30002792,
+    "type_id": 16
+}

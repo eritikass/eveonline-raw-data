@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001976,
+        "system_id": 30002293
+    },
+    "name": "Stargate (8-MXHA)",
+    "position": {
+        "x": 2185575260160,
+        "y": 138469908480,
+        "z": -2442680524800
+    },
+    "stargate_id": 50000570,
+    "system_id": 30002290,
+    "type_id": 3875
+}

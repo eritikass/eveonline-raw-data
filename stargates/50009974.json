@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010032,
+        "system_id": 30003844
+    },
+    "name": "Stargate (Gallusiene)",
+    "position": {
+        "x": 4382520975360,
+        "y": -872617943040,
+        "z": 4333742776320
+    },
+    "stargate_id": 50009974,
+    "system_id": 30003843,
+    "type_id": 3875
+}

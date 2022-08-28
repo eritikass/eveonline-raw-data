@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013199,
+        "system_id": 30004303
+    },
+    "name": "Stargate (Fobiner)",
+    "position": {
+        "x": 2099450880000,
+        "y": 193611816960,
+        "z": -512741007360
+    },
+    "stargate_id": 50013224,
+    "system_id": 30004304,
+    "type_id": 29624
+}

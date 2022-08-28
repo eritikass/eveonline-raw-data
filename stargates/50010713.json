@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010322,
+        "system_id": 30003845
+    },
+    "name": "Stargate (Ruerrotta)",
+    "position": {
+        "x": -313119744000,
+        "y": -2329681920,
+        "z": -1697779507200
+    },
+    "stargate_id": 50010713,
+    "system_id": 30003846,
+    "type_id": 3875
+}

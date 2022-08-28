@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004369,
+        "system_id": 30005305
+    },
+    "name": "Stargate (Cistuvaert)",
+    "position": {
+        "x": -4031443722240,
+        "y": 1906449899520,
+        "z": -2567102914560
+    },
+    "stargate_id": 50004985,
+    "system_id": 30005315,
+    "type_id": 3874
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012843,
+        "system_id": 30004858
+    },
+    "name": "Stargate (OQTY-Z)",
+    "position": {
+        "x": -2631489822720,
+        "y": -391911383040,
+        "z": -3937137008640
+    },
+    "stargate_id": 50012772,
+    "system_id": 30004857,
+    "type_id": 29633
+}

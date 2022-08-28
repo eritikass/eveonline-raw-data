@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007888,
+        "system_id": 30000062
+    },
+    "name": "Stargate (Iosantin)",
+    "position": {
+        "x": -427759902720,
+        "y": 16656261120,
+        "z": 2611183165440
+    },
+    "stargate_id": 50008905,
+    "system_id": 30000065,
+    "type_id": 29624
+}

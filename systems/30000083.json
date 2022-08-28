@@ -1,0 +1,61 @@
+{
+    "constellation_id": 20000012,
+    "name": "Ejahi",
+    "planets": [
+        {
+            "planet_id": 40005399
+        },
+        {
+            "planet_id": 40005400
+        },
+        {
+            "moons": [
+                40005402
+            ],
+            "planet_id": 40005401
+        },
+        {
+            "asteroid_belts": [
+                40005404
+            ],
+            "moons": [
+                40005405
+            ],
+            "planet_id": 40005403
+        },
+        {
+            "asteroid_belts": [
+                40005407
+            ],
+            "moons": [
+                40005408,
+                40005409
+            ],
+            "planet_id": 40005406
+        },
+        {
+            "asteroid_belts": [
+                40005411,
+                40005412
+            ],
+            "planet_id": 40005410
+        }
+    ],
+    "position": {
+        "x": -106306688887846620,
+        "y": 59731533376764920,
+        "z": -65513066698408910
+    },
+    "security_class": "B1",
+    "security_status": 0.7289102077484131,
+    "star_id": 40005398,
+    "stargates": [
+        50000291,
+        50000292
+    ],
+    "stations": [
+        60007561,
+        60007567
+    ],
+    "system_id": 30000083
+}

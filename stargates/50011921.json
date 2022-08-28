@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012020,
+        "system_id": 30004468
+    },
+    "name": "Stargate (UTDH-N)",
+    "position": {
+        "x": 207102074880,
+        "y": 18121482240,
+        "z": 190533427200
+    },
+    "stargate_id": 50011921,
+    "system_id": 30004467,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007516,
+        "system_id": 30000272
+    },
+    "name": "Stargate (MA-XAP)",
+    "position": {
+        "x": -1600088924160,
+        "y": 238536499200,
+        "z": -809985024000
+    },
+    "stargate_id": 50005654,
+    "system_id": 30000270,
+    "type_id": 16
+}

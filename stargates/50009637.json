@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009240,
+        "system_id": 30003567
+    },
+    "name": "Stargate (Yveve)",
+    "position": {
+        "x": 3455385477120,
+        "y": -466505687040,
+        "z": -679038443520
+    },
+    "stargate_id": 50009637,
+    "system_id": 30003570,
+    "type_id": 3875
+}

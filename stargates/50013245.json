@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012776,
+        "system_id": 30004694
+    },
+    "name": "Stargate (GQ2S-8)",
+    "position": {
+        "x": -5256387502080,
+        "y": 530561556480,
+        "z": 2282297794560
+    },
+    "stargate_id": 50013245,
+    "system_id": 30004697,
+    "type_id": 29624
+}

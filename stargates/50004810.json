@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005052,
+        "system_id": 30001577
+    },
+    "name": "Stargate (R-RE2B)",
+    "position": {
+        "x": -210991964160,
+        "y": -1153474560,
+        "z": -119096401920
+    },
+    "stargate_id": 50004810,
+    "system_id": 30001576,
+    "type_id": 3875
+}

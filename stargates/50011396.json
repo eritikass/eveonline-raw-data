@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011323,
+        "system_id": 30001667
+    },
+    "name": "Stargate (Shousran)",
+    "position": {
+        "x": -316747653120,
+        "y": 43266662400,
+        "z": 1275034460160
+    },
+    "stargate_id": 50011396,
+    "system_id": 30001668,
+    "type_id": 29624
+}

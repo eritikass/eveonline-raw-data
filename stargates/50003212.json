@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003198,
+        "system_id": 30001109
+    },
+    "name": "Stargate (1-EVAX)",
+    "position": {
+        "x": -190181253120,
+        "y": -5750169600,
+        "z": 111900057600
+    },
+    "stargate_id": 50003212,
+    "system_id": 30001110,
+    "type_id": 3875
+}

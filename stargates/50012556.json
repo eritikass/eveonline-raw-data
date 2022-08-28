@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013079,
+        "system_id": 30005294
+    },
+    "name": "Stargate (Bania)",
+    "position": {
+        "x": -422145515520,
+        "y": -8551833600,
+        "z": 372438343680
+    },
+    "stargate_id": 50012556,
+    "system_id": 30005289,
+    "type_id": 29624
+}

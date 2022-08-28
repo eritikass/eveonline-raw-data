@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008267,
+        "system_id": 30003611
+    },
+    "name": "Stargate (S-EVIQ)",
+    "position": {
+        "x": 3790191697920,
+        "y": -515988480000,
+        "z": 2514682060800
+    },
+    "stargate_id": 50008244,
+    "system_id": 30003610,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005141,
+        "system_id": 30003725
+    },
+    "name": "Stargate (Shintaht)",
+    "position": {
+        "x": 302727045120,
+        "y": 5928837120,
+        "z": 2507511275520
+    },
+    "stargate_id": 50003486,
+    "system_id": 30003723,
+    "type_id": 29624
+}

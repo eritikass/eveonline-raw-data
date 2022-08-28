@@ -1,0 +1,73 @@
+{
+    "constellation_id": 20000001,
+    "name": "Lashesih",
+    "planets": [
+        {
+            "moons": [
+                40000021
+            ],
+            "planet_id": 40000020
+        },
+        {
+            "asteroid_belts": [
+                40000023
+            ],
+            "planet_id": 40000022
+        },
+        {
+            "asteroid_belts": [
+                40000025
+            ],
+            "moons": [
+                40000026,
+                40000027
+            ],
+            "planet_id": 40000024
+        },
+        {
+            "moons": [
+                40000029,
+                40000030
+            ],
+            "planet_id": 40000028
+        },
+        {
+            "moons": [
+                40000032
+            ],
+            "planet_id": 40000031
+        },
+        {
+            "asteroid_belts": [
+                40000034
+            ],
+            "moons": [
+                40000035,
+                40000036
+            ],
+            "planet_id": 40000033
+        },
+        {
+            "asteroid_belts": [
+                40000038
+            ],
+            "moons": [
+                40000039
+            ],
+            "planet_id": 40000037
+        }
+    ],
+    "position": {
+        "x": -103300968263126460,
+        "y": 41707503568269944,
+        "z": -29856304129795090
+    },
+    "security_class": "B",
+    "security_status": 0.7516891360282898,
+    "star_id": 40000019,
+    "stargates": [
+        50000067,
+        50000068
+    ],
+    "system_id": 30000002
+}

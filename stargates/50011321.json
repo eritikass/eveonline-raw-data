@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010282,
+        "system_id": 30001665
+    },
+    "name": "Stargate (Nuzair)",
+    "position": {
+        "x": -1522356756480,
+        "y": -253022330880,
+        "z": -1426021785600
+    },
+    "stargate_id": 50011321,
+    "system_id": 30001667,
+    "type_id": 29624
+}

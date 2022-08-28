@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000146,
+        "system_id": 30000750
+    },
+    "name": "Stargate (XQP-9C)",
+    "position": {
+        "x": 1502396129280,
+        "y": -3585654743040,
+        "z": -987794841600
+    },
+    "stargate_id": 50000006,
+    "system_id": 30000756,
+    "type_id": 3877
+}

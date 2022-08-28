@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012972,
+        "system_id": 30004787
+    },
+    "name": "Stargate (Q-02UL)",
+    "position": {
+        "x": -300752855040,
+        "y": 45494476800,
+        "z": -763678924800
+    },
+    "stargate_id": 50013106,
+    "system_id": 30004789,
+    "type_id": 29624
+}

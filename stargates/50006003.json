@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006076,
+        "system_id": 30003542
+    },
+    "name": "Stargate (Hayumtom)",
+    "position": {
+        "x": 601038643200,
+        "y": -45253386240,
+        "z": -26151444480
+    },
+    "stargate_id": 50006003,
+    "system_id": 30003541,
+    "type_id": 29624
+}

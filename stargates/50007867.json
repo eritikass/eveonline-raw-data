@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007951,
+        "system_id": 30004329
+    },
+    "name": "Stargate (V8W-QS)",
+    "position": {
+        "x": -896341401600,
+        "y": 927236136960,
+        "z": 3858359132160
+    },
+    "stargate_id": 50007867,
+    "system_id": 30004320,
+    "type_id": 29627
+}

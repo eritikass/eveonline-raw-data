@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000678,
+        "system_id": 30001024
+    },
+    "name": "Stargate (YKE4-3)",
+    "position": {
+        "x": 1152478617600,
+        "y": 199864197120,
+        "z": 342368624640
+    },
+    "stargate_id": 50002589,
+    "system_id": 30001028,
+    "type_id": 29633
+}

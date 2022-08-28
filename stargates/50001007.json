@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000948,
+        "system_id": 30000766
+    },
+    "name": "Stargate (1TG7-W)",
+    "position": {
+        "x": 420800962560,
+        "y": -2070896640,
+        "z": -742331473920
+    },
+    "stargate_id": 50001007,
+    "system_id": 30000768,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014140,
+        "system_id": 30021407
+    },
+    "name": "Stargate (Aokannitoh)",
+    "position": {
+        "x": -177632256000,
+        "y": -5173862400,
+        "z": -732375490560
+    },
+    "stargate_id": 50014139,
+    "system_id": 30000133,
+    "type_id": 16
+}

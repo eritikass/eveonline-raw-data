@@ -1,0 +1,77 @@
+{
+    "constellation_id": 20000679,
+    "name": "ATQ-QS",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40294282
+            ],
+            "planet_id": 40294281
+        },
+        {
+            "planet_id": 40294283
+        },
+        {
+            "planet_id": 40294284
+        },
+        {
+            "asteroid_belts": [
+                40294286
+            ],
+            "planet_id": 40294285
+        },
+        {
+            "asteroid_belts": [
+                40294288
+            ],
+            "planet_id": 40294287
+        },
+        {
+            "planet_id": 40294289
+        },
+        {
+            "moons": [
+                40294291,
+                40294292
+            ],
+            "planet_id": 40294290
+        },
+        {
+            "moons": [
+                40294294,
+                40294295
+            ],
+            "planet_id": 40294293
+        },
+        {
+            "moons": [
+                40294297,
+                40294298
+            ],
+            "planet_id": 40294296
+        },
+        {
+            "asteroid_belts": [
+                40294300
+            ],
+            "moons": [
+                40294301,
+                40294302,
+                40294303
+            ],
+            "planet_id": 40294299
+        }
+    ],
+    "position": {
+        "x": -476824550075691100,
+        "y": 29509358218642424,
+        "z": -22375972724660740
+    },
+    "security_class": "J3",
+    "security_status": -0.5376062989234924,
+    "star_id": 40294280,
+    "stargates": [
+        50013495
+    ],
+    "system_id": 30004654
+}

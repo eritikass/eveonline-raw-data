@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002657,
+        "system_id": 30000226
+    },
+    "name": "Stargate (FH-TTC)",
+    "position": {
+        "x": -2604369469440,
+        "y": 270640128000,
+        "z": -1728714055680
+    },
+    "stargate_id": 50002918,
+    "system_id": 30000227,
+    "type_id": 16
+}

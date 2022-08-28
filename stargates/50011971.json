@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013155,
+        "system_id": 30005280
+    },
+    "name": "Stargate (Partod)",
+    "position": {
+        "x": 90063052800,
+        "y": 10587463680,
+        "z": -579247841280
+    },
+    "stargate_id": 50011971,
+    "system_id": 30005279,
+    "type_id": 29624
+}

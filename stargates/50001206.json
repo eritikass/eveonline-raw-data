@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000649,
+        "system_id": 30002318
+    },
+    "name": "Stargate (BNX-AS)",
+    "position": {
+        "x": 2437652766720,
+        "y": 67817103360,
+        "z": -195795886080
+    },
+    "stargate_id": 50001206,
+    "system_id": 30002321,
+    "type_id": 3875
+}

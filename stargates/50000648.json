@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000900,
+        "system_id": 30002320
+    },
+    "name": "Stargate (F9-FUV)",
+    "position": {
+        "x": -551091118080,
+        "y": 82675261440,
+        "z": 2352041533440
+    },
+    "stargate_id": 50000648,
+    "system_id": 30002318,
+    "type_id": 3875
+}

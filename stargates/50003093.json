@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000489,
+        "system_id": 30000076
+    },
+    "name": "Stargate (Tidacha)",
+    "position": {
+        "x": 1864760647680,
+        "y": -184353792000,
+        "z": 3634683617280
+    },
+    "stargate_id": 50003093,
+    "system_id": 30000077,
+    "type_id": 29624
+}

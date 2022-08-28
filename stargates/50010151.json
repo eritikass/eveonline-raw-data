@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010864,
+        "system_id": 30003144
+    },
+    "name": "Stargate (H-T40Z)",
+    "position": {
+        "x": -4954981048320,
+        "y": 261276917760,
+        "z": -717058252800
+    },
+    "stargate_id": 50010151,
+    "system_id": 30003142,
+    "type_id": 29624
+}

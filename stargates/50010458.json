@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010219,
+        "system_id": 30003692
+    },
+    "name": "Stargate (C-OK0R)",
+    "position": {
+        "x": 391039918080,
+        "y": -12810608640,
+        "z": -228573143040
+    },
+    "stargate_id": 50010458,
+    "system_id": 30003693,
+    "type_id": 3875
+}

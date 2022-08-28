@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007851,
+        "system_id": 30001138
+    },
+    "name": "Stargate (RXTY-4)",
+    "position": {
+        "x": 1287278469120,
+        "y": -237886218240,
+        "z": 1653854822400
+    },
+    "stargate_id": 50007086,
+    "system_id": 30001137,
+    "type_id": 3875
+}

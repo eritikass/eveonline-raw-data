@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007709,
+        "system_id": 30005261
+    },
+    "name": "Stargate (Antem)",
+    "position": {
+        "x": 1821492387840,
+        "y": -755529768960,
+        "z": 4200632279040
+    },
+    "stargate_id": 50006645,
+    "system_id": 30005239,
+    "type_id": 17
+}

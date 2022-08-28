@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009420,
+        "system_id": 30003128
+    },
+    "name": "Stargate (TEIZ-C)",
+    "position": {
+        "x": 1252751892480,
+        "y": 167990599680,
+        "z": -6027070464000
+    },
+    "stargate_id": 50009124,
+    "system_id": 30003126,
+    "type_id": 29624
+}

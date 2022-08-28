@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001512,
+        "system_id": 30000704
+    },
+    "name": "Stargate (LQ-OAI)",
+    "position": {
+        "x": -502827786240,
+        "y": 719185059840,
+        "z": 1000997314560
+    },
+    "stargate_id": 50000987,
+    "system_id": 30000680,
+    "type_id": 3877
+}

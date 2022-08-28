@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004048,
+        "system_id": 30004091
+    },
+    "name": "Stargate (Uanim)",
+    "position": {
+        "x": 6971082547200,
+        "y": 845971169280,
+        "z": -17551346933760
+    },
+    "stargate_id": 50004435,
+    "system_id": 30004092,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009857,
+        "system_id": 30002163
+    },
+    "name": "Stargate (E8-YS9)",
+    "position": {
+        "x": 4952471592960,
+        "y": -961807441920,
+        "z": 243839754240
+    },
+    "stargate_id": 50007272,
+    "system_id": 30002161,
+    "type_id": 29633
+}

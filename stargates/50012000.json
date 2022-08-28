@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012495,
+        "system_id": 30004643
+    },
+    "name": "Stargate (57-KJB)",
+    "position": {
+        "x": -3979192934400,
+        "y": 52311367680,
+        "z": -2499070894080
+    },
+    "stargate_id": 50012000,
+    "system_id": 30004605,
+    "type_id": 3874
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009375,
+        "system_id": 30002804
+    },
+    "name": "Stargate (Isikesu)",
+    "position": {
+        "x": 3055428280320,
+        "y": 448990617600,
+        "z": 2511611289600
+    },
+    "stargate_id": 50009259,
+    "system_id": 30002803,
+    "type_id": 16
+}

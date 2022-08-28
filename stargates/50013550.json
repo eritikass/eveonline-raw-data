@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013549,
+        "system_id": 30005087
+    },
+    "name": "Stargate (Liparer)",
+    "position": {
+        "x": 8487818649600,
+        "y": 4775956439040,
+        "z": -1373905674240
+    },
+    "stargate_id": 50013550,
+    "system_id": 30005053,
+    "type_id": 17
+}

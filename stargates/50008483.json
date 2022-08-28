@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009038,
+        "system_id": 30005018
+    },
+    "name": "Stargate (Noghere)",
+    "position": {
+        "x": -303026872320,
+        "y": -54338396160,
+        "z": -170174914560
+    },
+    "stargate_id": 50008483,
+    "system_id": 30005017,
+    "type_id": 3875
+}

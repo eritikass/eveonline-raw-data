@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012661,
+        "system_id": 30004855
+    },
+    "name": "Stargate (QCDG-H)",
+    "position": {
+        "x": 1774022615040,
+        "y": 23350272000,
+        "z": -702119731200
+    },
+    "stargate_id": 50012612,
+    "system_id": 30004852,
+    "type_id": 29633
+}

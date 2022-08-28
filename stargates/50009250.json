@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009190,
+        "system_id": 30003573
+    },
+    "name": "Stargate (Pertnineere)",
+    "position": {
+        "x": -908472606720,
+        "y": 157301022720,
+        "z": 6077654507520
+    },
+    "stargate_id": 50009250,
+    "system_id": 30003574,
+    "type_id": 3875
+}

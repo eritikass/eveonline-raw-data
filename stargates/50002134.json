@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001190,
+        "system_id": 30002119
+    },
+    "name": "Stargate (DY-P7Q)",
+    "position": {
+        "x": -2477720494080,
+        "y": 135333027840,
+        "z": -1714695659520
+    },
+    "stargate_id": 50002134,
+    "system_id": 30002123,
+    "type_id": 3877
+}

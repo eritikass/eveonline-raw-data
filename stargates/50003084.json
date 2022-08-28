@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000529,
+        "system_id": 30000127
+    },
+    "name": "Stargate (Sirseshin)",
+    "position": {
+        "x": 5056302981120,
+        "y": -243475783680,
+        "z": 514793594880
+    },
+    "stargate_id": 50003084,
+    "system_id": 30002788,
+    "type_id": 29629
+}

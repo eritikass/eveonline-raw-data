@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006468,
+        "system_id": 30003802
+    },
+    "name": "Stargate (Cumemare)",
+    "position": {
+        "x": -420518584320,
+        "y": -16008683520,
+        "z": 246831390720
+    },
+    "stargate_id": 50006311,
+    "system_id": 30003801,
+    "type_id": 3875
+}

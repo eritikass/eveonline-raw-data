@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004448,
+        "system_id": 30001677
+    },
+    "name": "Stargate (Thashkarai)",
+    "position": {
+        "x": 351416279040,
+        "y": 65408409600,
+        "z": 1221620244480
+    },
+    "stargate_id": 50005031,
+    "system_id": 30001678,
+    "type_id": 29624
+}

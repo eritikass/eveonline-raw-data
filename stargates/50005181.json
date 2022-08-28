@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005319,
+        "system_id": 30002359
+    },
+    "name": "Stargate (MO-I1W)",
+    "position": {
+        "x": 2248539217920,
+        "y": 193321082880,
+        "z": 3383211171840
+    },
+    "stargate_id": 50005181,
+    "system_id": 30002358,
+    "type_id": 3875
+}

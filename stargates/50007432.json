@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009002,
+        "system_id": 30001131
+    },
+    "name": "Stargate (ZOPZ-6)",
+    "position": {
+        "x": -2944352624640,
+        "y": -68268564480,
+        "z": -2251470643200
+    },
+    "stargate_id": 50007432,
+    "system_id": 30001130,
+    "type_id": 3875
+}

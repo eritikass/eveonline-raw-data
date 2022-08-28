@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003241,
+        "system_id": 30000470
+    },
+    "name": "Stargate (XA5-TY)",
+    "position": {
+        "x": 1046015877120,
+        "y": 18342174720,
+        "z": -567738654720
+    },
+    "stargate_id": 50002907,
+    "system_id": 30000468,
+    "type_id": 29633
+}

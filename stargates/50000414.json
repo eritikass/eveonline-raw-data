@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001182,
+        "system_id": 30000618
+    },
+    "name": "Stargate (Q-UEN6)",
+    "position": {
+        "x": -6227918561280,
+        "y": 380219596800,
+        "z": -2258099527680
+    },
+    "stargate_id": 50000414,
+    "system_id": 30000611,
+    "type_id": 3877
+}

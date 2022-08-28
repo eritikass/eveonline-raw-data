@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003063,
+        "system_id": 30004978
+    },
+    "name": "Stargate (Pemene)",
+    "position": {
+        "x": 846847549440,
+        "y": 5109133025280,
+        "z": 72625152000
+    },
+    "stargate_id": 50003536,
+    "system_id": 30004993,
+    "type_id": 3874
+}

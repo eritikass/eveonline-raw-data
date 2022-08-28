@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012600,
+        "system_id": 30004793
+    },
+    "name": "Stargate (G-M5L3)",
+    "position": {
+        "x": -215600455680,
+        "y": 10761216000,
+        "z": -553325568000
+    },
+    "stargate_id": 50012007,
+    "system_id": 30004790,
+    "type_id": 29624
+}

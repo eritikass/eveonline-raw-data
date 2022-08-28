@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012928,
+        "system_id": 30004795
+    },
+    "name": "Stargate (M-SRKS)",
+    "position": {
+        "x": -253571112960,
+        "y": -14989271040,
+        "z": -1970560327680
+    },
+    "stargate_id": 50012564,
+    "system_id": 30004792,
+    "type_id": 29624
+}

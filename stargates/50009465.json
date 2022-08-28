@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009435,
+        "system_id": 30003576
+    },
+    "name": "Stargate (Maire)",
+    "position": {
+        "x": -5338499850240,
+        "y": 29808353280,
+        "z": 5581933486080
+    },
+    "stargate_id": 50009465,
+    "system_id": 30003577,
+    "type_id": 3875
+}

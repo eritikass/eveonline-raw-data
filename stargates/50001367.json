@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000974,
+        "system_id": 30003065
+    },
+    "name": "Stargate (Otelen)",
+    "position": {
+        "x": -654326046720,
+        "y": 48534282240,
+        "z": -2771424092160
+    },
+    "stargate_id": 50001367,
+    "system_id": 30003066,
+    "type_id": 29624
+}

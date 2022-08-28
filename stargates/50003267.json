@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003296,
+        "system_id": 30001421
+    },
+    "name": "Stargate (Otalieto)",
+    "position": {
+        "x": 189724631040,
+        "y": 13526261760,
+        "z": 73354321920
+    },
+    "stargate_id": 50003267,
+    "system_id": 30001420,
+    "type_id": 16
+}

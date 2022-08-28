@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010057,
+        "system_id": 30003759
+    },
+    "name": "Stargate (LF-2KP)",
+    "position": {
+        "x": -3537336852480,
+        "y": 143141560320,
+        "z": 1219243499520
+    },
+    "stargate_id": 50009543,
+    "system_id": 30003758,
+    "type_id": 29624
+}

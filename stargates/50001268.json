@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002060,
+        "system_id": 30003476
+    },
+    "name": "Stargate (Ealur)",
+    "position": {
+        "x": -6061569269760,
+        "y": -1130392166400,
+        "z": 9519250513920
+    },
+    "stargate_id": 50001268,
+    "system_id": 30003474,
+    "type_id": 29624
+}

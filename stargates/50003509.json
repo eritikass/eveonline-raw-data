@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004450,
+        "system_id": 30005030
+    },
+    "name": "Stargate (Fensi)",
+    "position": {
+        "x": -1406650245120,
+        "y": -535795015680,
+        "z": -1853721108480
+    },
+    "stargate_id": 50003509,
+    "system_id": 30002202,
+    "type_id": 29626
+}

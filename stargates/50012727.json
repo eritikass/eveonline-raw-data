@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012674,
+        "system_id": 30001826
+    },
+    "name": "Stargate (NEU-UD)",
+    "position": {
+        "x": 452725678080,
+        "y": 45964124160,
+        "z": 1030292889600
+    },
+    "stargate_id": 50012727,
+    "system_id": 30001828,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005717,
+        "system_id": 30003540
+    },
+    "name": "Stargate (Sirkahri)",
+    "position": {
+        "x": -505702932480,
+        "y": 86989578240,
+        "z": 243829432320
+    },
+    "stargate_id": 50008493,
+    "system_id": 30003544,
+    "type_id": 29624
+}

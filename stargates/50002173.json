@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000433,
+        "system_id": 30000660
+    },
+    "name": "Stargate (U-IVGH)",
+    "position": {
+        "x": -186959585280,
+        "y": 7314186240,
+        "z": -627298344960
+    },
+    "stargate_id": 50002173,
+    "system_id": 30000665,
+    "type_id": 29633
+}

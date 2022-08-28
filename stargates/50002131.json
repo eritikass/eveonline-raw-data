@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002264,
+        "system_id": 30000075
+    },
+    "name": "Stargate (Assah)",
+    "position": {
+        "x": -3359842099200,
+        "y": 41812992000,
+        "z": -433967308800
+    },
+    "stargate_id": 50002131,
+    "system_id": 30000074,
+    "type_id": 29624
+}

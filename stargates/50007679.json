@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007329,
+        "system_id": 30003868
+    },
+    "name": "Stargate (Mashtarmem)",
+    "position": {
+        "x": -6158767104000,
+        "y": 392679628800,
+        "z": -603328634880
+    },
+    "stargate_id": 50007679,
+    "system_id": 30003872,
+    "type_id": 29624
+}

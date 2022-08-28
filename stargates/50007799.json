@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009384,
+        "system_id": 30000114
+    },
+    "name": "Stargate (Ubtes)",
+    "position": {
+        "x": 2935999242240,
+        "y": -246886686720,
+        "z": 792460124160
+    },
+    "stargate_id": 50007799,
+    "system_id": 30000113,
+    "type_id": 29624
+}

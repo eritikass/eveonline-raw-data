@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011026,
+        "system_id": 30004178
+    },
+    "name": "Stargate (H23-B5)",
+    "position": {
+        "x": 1801069977600,
+        "y": 309551308800,
+        "z": -1981878067200
+    },
+    "stargate_id": 50011630,
+    "system_id": 30004181,
+    "type_id": 3875
+}

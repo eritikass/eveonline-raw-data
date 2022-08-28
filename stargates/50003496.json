@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002146,
+        "system_id": 30003384
+    },
+    "name": "Stargate (Asgeir)",
+    "position": {
+        "x": -3553706188800,
+        "y": 2683831296000,
+        "z": 2962142699520
+    },
+    "stargate_id": 50003496,
+    "system_id": 30003393,
+    "type_id": 3877
+}

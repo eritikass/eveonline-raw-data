@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002760,
+        "system_id": 30001002
+    },
+    "name": "Stargate (G-G78S)",
+    "position": {
+        "x": 3333544796160,
+        "y": 504685240320,
+        "z": -2224684769280
+    },
+    "stargate_id": 50000586,
+    "system_id": 30001001,
+    "type_id": 29633
+}

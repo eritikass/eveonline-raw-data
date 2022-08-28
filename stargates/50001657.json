@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000825,
+        "system_id": 30000579
+    },
+    "name": "Stargate (1L-OEK)",
+    "position": {
+        "x": 2711718420480,
+        "y": -2052131512320,
+        "z": 1048689745920
+    },
+    "stargate_id": 50001657,
+    "system_id": 30000572,
+    "type_id": 3877
+}

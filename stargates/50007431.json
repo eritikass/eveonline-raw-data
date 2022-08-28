@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003636,
+        "system_id": 30001126
+    },
+    "name": "Stargate (N6NK-J)",
+    "position": {
+        "x": 241766522880,
+        "y": 5572239360,
+        "z": 18417377280
+    },
+    "stargate_id": 50007431,
+    "system_id": 30001130,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002013,
+        "system_id": 30000705
+    },
+    "name": "Stargate (5-MQQ7)",
+    "position": {
+        "x": -147831398400,
+        "y": 5045575680,
+        "z": 440728903680
+    },
+    "stargate_id": 50001513,
+    "system_id": 30000704,
+    "type_id": 29633
+}

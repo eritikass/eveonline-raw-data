@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016535,
+        "system_id": 30045329
+    },
+    "name": "Stargate (Ichoriya)",
+    "position": {
+        "x": 8485061619.665215,
+        "y": -1340421400.7019625,
+        "z": 60172399920.70236
+    },
+    "stargate_id": 50016534,
+    "system_id": 30003046,
+    "type_id": 56317
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008564,
+        "system_id": 30002085
+    },
+    "name": "Stargate (Eytjangard)",
+    "position": {
+        "x": -1340347146240,
+        "y": 82974105600,
+        "z": 542402519040
+    },
+    "stargate_id": 50008503,
+    "system_id": 30002084,
+    "type_id": 29633
+}

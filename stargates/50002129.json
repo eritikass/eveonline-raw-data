@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001384,
+        "system_id": 30000071
+    },
+    "name": "Stargate (Jangar)",
+    "position": {
+        "x": 789593088000,
+        "y": -9802506240,
+        "z": 2030949703680
+    },
+    "stargate_id": 50002129,
+    "system_id": 30000074,
+    "type_id": 29624
+}

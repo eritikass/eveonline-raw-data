@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007913,
+        "system_id": 30003911
+    },
+    "name": "Stargate (Edani)",
+    "position": {
+        "x": -545292902400,
+        "y": -341747589120,
+        "z": -4294098247680
+    },
+    "stargate_id": 50007574,
+    "system_id": 30003881,
+    "type_id": 17
+}

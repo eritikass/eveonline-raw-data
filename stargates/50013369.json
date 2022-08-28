@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013367,
+        "system_id": 30002953
+    },
+    "name": "Stargate (CZDJ-1)",
+    "position": {
+        "x": 1478724034560,
+        "y": 169763758080,
+        "z": -11064442183680
+    },
+    "stargate_id": 50013369,
+    "system_id": 30002954,
+    "type_id": 16
+}

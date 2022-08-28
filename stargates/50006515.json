@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006244,
+        "system_id": 30005328
+    },
+    "name": "Stargate (Reblier)",
+    "position": {
+        "x": 2386950021120,
+        "y": 4144566067200,
+        "z": -2215932764160
+    },
+    "stargate_id": 50006515,
+    "system_id": 30003280,
+    "type_id": 3876
+}

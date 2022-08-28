@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012503,
+        "system_id": 30002418
+    },
+    "name": "Stargate (Hegfunden)",
+    "position": {
+        "x": 1347341721600,
+        "y": -104923422720,
+        "z": 654601052160
+    },
+    "stargate_id": 50012136,
+    "system_id": 30002416,
+    "type_id": 29633
+}

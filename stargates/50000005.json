@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002266,
+        "system_id": 30001391
+    },
+    "name": "Stargate (Piekura)",
+    "position": {
+        "x": -1001340149760,
+        "y": -178915614720,
+        "z": 1414168289280
+    },
+    "stargate_id": 50000005,
+    "system_id": 30001386,
+    "type_id": 16
+}

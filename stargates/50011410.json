@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011586,
+        "system_id": 30005181
+    },
+    "name": "Stargate (OBV-YC)",
+    "position": {
+        "x": 1334773063680,
+        "y": -25796075520,
+        "z": 593087324160
+    },
+    "stargate_id": 50011410,
+    "system_id": 30005180,
+    "type_id": 3875
+}

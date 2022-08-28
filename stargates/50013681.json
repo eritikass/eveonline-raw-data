@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013682,
+        "system_id": 30002412
+    },
+    "name": "Stargate (Ennur)",
+    "position": {
+        "x": 1196600893440,
+        "y": -1763975946240,
+        "z": -360551178240
+    },
+    "stargate_id": 50013681,
+    "system_id": 30003465,
+    "type_id": 29635
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007205,
+        "system_id": 30003420
+    },
+    "name": "Stargate (Fredagod)",
+    "position": {
+        "x": -1506629836800,
+        "y": -27450777600,
+        "z": -480719462400
+    },
+    "stargate_id": 50004665,
+    "system_id": 30003416,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004458,
+        "system_id": 30001976
+    },
+    "name": "Stargate (BDV3-T)",
+    "position": {
+        "x": 3762439987200,
+        "y": 943611863040,
+        "z": -2409131827200
+    },
+    "stargate_id": 50004599,
+    "system_id": 30001991,
+    "type_id": 29627
+}

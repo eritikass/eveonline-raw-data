@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009437,
+        "system_id": 30001725
+    },
+    "name": "Stargate (Nosodnis)",
+    "position": {
+        "x": -2374912204800,
+        "y": 90211000320,
+        "z": -3216188989440
+    },
+    "stargate_id": 50006096,
+    "system_id": 30001723,
+    "type_id": 29624
+}

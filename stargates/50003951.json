@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003516,
+        "system_id": 30001429
+    },
+    "name": "Stargate (Torrinos)",
+    "position": {
+        "x": 3257459712000,
+        "y": 4965624668160,
+        "z": 1368547614720
+    },
+    "stargate_id": 50003951,
+    "system_id": 30001984,
+    "type_id": 3873
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011916,
+        "system_id": 30000202
+    },
+    "name": "Stargate (Mastakomon)",
+    "position": {
+        "x": -24119992320,
+        "y": -4896153600,
+        "z": 97207050240
+    },
+    "stargate_id": 50011906,
+    "system_id": 30000201,
+    "type_id": 16
+}

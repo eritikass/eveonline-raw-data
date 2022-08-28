@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014164,
+        "system_id": 30024971
+    },
+    "name": "Stargate (Hecarrin)",
+    "position": {
+        "x": 3579209932800,
+        "y": -70545285120,
+        "z": 491608350720
+    },
+    "stargate_id": 50014163,
+    "system_id": 30005024,
+    "type_id": 3875
+}

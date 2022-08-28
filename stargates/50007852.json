@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007904,
+        "system_id": 30001139
+    },
+    "name": "Stargate (RSE-PT)",
+    "position": {
+        "x": -876133294080,
+        "y": -76411330560,
+        "z": -652836495360
+    },
+    "stargate_id": 50007852,
+    "system_id": 30001138,
+    "type_id": 3875
+}

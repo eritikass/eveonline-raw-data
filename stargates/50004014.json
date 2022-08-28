@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004843,
+        "system_id": 30000702
+    },
+    "name": "Stargate (A-80UA)",
+    "position": {
+        "x": -612029521920,
+        "y": -72159682560,
+        "z": 169781207040
+    },
+    "stargate_id": 50004014,
+    "system_id": 30000700,
+    "type_id": 29633
+}

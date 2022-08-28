@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003290,
+        "system_id": 30005204
+    },
+    "name": "Stargate (Yulai)",
+    "position": {
+        "x": -689194721280,
+        "y": -22018744320,
+        "z": 749384785920
+    },
+    "stargate_id": 50003261,
+    "system_id": 30005203,
+    "type_id": 29624
+}

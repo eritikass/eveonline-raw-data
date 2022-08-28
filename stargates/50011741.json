@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012557,
+        "system_id": 30000081
+    },
+    "name": "Stargate (Buftiar)",
+    "position": {
+        "x": -555516518400,
+        "y": -60963840000,
+        "z": 445842923520
+    },
+    "stargate_id": 50011741,
+    "system_id": 30000080,
+    "type_id": 29624
+}

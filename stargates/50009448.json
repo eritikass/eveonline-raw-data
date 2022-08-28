@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010472,
+        "system_id": 30003498
+    },
+    "name": "Stargate (Sharhelund)",
+    "position": {
+        "x": -712918917120,
+        "y": 65001185280,
+        "z": 2283329003520
+    },
+    "stargate_id": 50009448,
+    "system_id": 30003497,
+    "type_id": 29624
+}

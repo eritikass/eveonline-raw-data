@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010272,
+        "system_id": 30004716
+    },
+    "name": "Stargate (4K-TRB)",
+    "position": {
+        "x": 4951910522880,
+        "y": -1160660951040,
+        "z": 2853176401920
+    },
+    "stargate_id": 50010543,
+    "system_id": 30004730,
+    "type_id": 17
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010717,
+        "system_id": 30004380
+    },
+    "name": "Stargate (C-VGYO)",
+    "position": {
+        "x": 883188572160,
+        "y": 138619330560,
+        "z": -129391042560
+    },
+    "stargate_id": 50010916,
+    "system_id": 30004382,
+    "type_id": 16
+}

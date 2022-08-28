@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013164,
+        "system_id": 30003786
+    },
+    "name": "Stargate (3D-CQU)",
+    "position": {
+        "x": -175682150400,
+        "y": 5510799360,
+        "z": -42747617280
+    },
+    "stargate_id": 50010974,
+    "system_id": 30003782,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011419,
+        "system_id": 30002099
+    },
+    "name": "Stargate (Egmar)",
+    "position": {
+        "x": 240796753920,
+        "y": 47926517760,
+        "z": -2567706501120
+    },
+    "stargate_id": 50009694,
+    "system_id": 30002098,
+    "type_id": 29633
+}

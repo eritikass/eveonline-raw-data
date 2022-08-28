@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008819,
+        "system_id": 30003838
+    },
+    "name": "Stargate (Oicx)",
+    "position": {
+        "x": 3719253565440,
+        "y": 728692039680,
+        "z": 1585262469120
+    },
+    "stargate_id": 50008692,
+    "system_id": 30003836,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006956,
+        "system_id": 30000282
+    },
+    "name": "Stargate (UNAG-6)",
+    "position": {
+        "x": -3205653995520,
+        "y": 62799667200,
+        "z": 1061438791680
+    },
+    "stargate_id": 50007765,
+    "system_id": 30000283,
+    "type_id": 16
+}

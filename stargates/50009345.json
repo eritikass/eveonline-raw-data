@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009299,
+        "system_id": 30004043
+    },
+    "name": "Stargate (FD53-H)",
+    "position": {
+        "x": -3007421767680,
+        "y": 460952494080,
+        "z": 659312025600
+    },
+    "stargate_id": 50009345,
+    "system_id": 30004044,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003527,
+        "system_id": 30000234
+    },
+    "name": "Stargate (GEKJ-9)",
+    "position": {
+        "x": -2582368542720,
+        "y": -37168865280,
+        "z": 797846691840
+    },
+    "stargate_id": 50002070,
+    "system_id": 30000232,
+    "type_id": 16
+}

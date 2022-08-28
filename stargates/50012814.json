@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012899,
+        "system_id": 30004939
+    },
+    "name": "Stargate (CW9-1Y)",
+    "position": {
+        "x": -1188549550080,
+        "y": 239283118080,
+        "z": -629867765760
+    },
+    "stargate_id": 50012814,
+    "system_id": 30004936,
+    "type_id": 29624
+}

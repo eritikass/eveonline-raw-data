@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002345,
+        "system_id": 30004083
+    },
+    "name": "Stargate (Gensela)",
+    "position": {
+        "x": -5360224542720,
+        "y": 793625518080,
+        "z": -3641140469760
+    },
+    "stargate_id": 50000042,
+    "system_id": 30004078,
+    "type_id": 29624
+}

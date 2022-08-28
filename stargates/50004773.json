@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005693,
+        "system_id": 30003190
+    },
+    "name": "Stargate (KH-EWC)",
+    "position": {
+        "x": 209445642240,
+        "y": 32707092480,
+        "z": 39719116800
+    },
+    "stargate_id": 50004773,
+    "system_id": 30003188,
+    "type_id": 3875
+}

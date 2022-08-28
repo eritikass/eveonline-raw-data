@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016504,
+        "system_id": 30000021
+    },
+    "name": "Stargate (Kuharah)",
+    "position": {
+        "x": -9953063416.417213,
+        "y": 339330066.8775419,
+        "z": -39595238037.19088
+    },
+    "stargate_id": 50016505,
+    "system_id": 30002770,
+    "type_id": 56317
+}

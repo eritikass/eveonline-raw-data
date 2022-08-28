@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006591,
+        "system_id": 30001328
+    },
+    "name": "Stargate (6ZJ-SC)",
+    "position": {
+        "x": 531132948480,
+        "y": -106750648320,
+        "z": 6002856960000
+    },
+    "stargate_id": 50006058,
+    "system_id": 30001327,
+    "type_id": 16
+}

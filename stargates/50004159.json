@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004884,
+        "system_id": 30000830
+    },
+    "name": "Stargate (W-MF6J)",
+    "position": {
+        "x": 970535116800,
+        "y": 65859379200,
+        "z": 1338467082240
+    },
+    "stargate_id": 50004159,
+    "system_id": 30000828,
+    "type_id": 29633
+}

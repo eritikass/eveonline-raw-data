@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012641,
+        "system_id": 30004188
+    },
+    "name": "Stargate (4A-6NI)",
+    "position": {
+        "x": 2194464645120,
+        "y": 339606282240,
+        "z": -13180231680
+    },
+    "stargate_id": 50011404,
+    "system_id": 30004183,
+    "type_id": 3875
+}

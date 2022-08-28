@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000762,
+        "system_id": 30001173
+    },
+    "name": "Stargate (WLAR-J)",
+    "position": {
+        "x": 4494021304320,
+        "y": -3151990824960,
+        "z": -3164673269760
+    },
+    "stargate_id": 50002074,
+    "system_id": 30001182,
+    "type_id": 17
+}

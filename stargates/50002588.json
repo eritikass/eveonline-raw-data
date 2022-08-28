@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005557,
+        "system_id": 30000932
+    },
+    "name": "Stargate (W-RFUO)",
+    "position": {
+        "x": 481234821120,
+        "y": -22313656320,
+        "z": 1265211432960
+    },
+    "stargate_id": 50002588,
+    "system_id": 30000929,
+    "type_id": 29633
+}

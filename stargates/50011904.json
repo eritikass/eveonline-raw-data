@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012025,
+        "system_id": 30004462
+    },
+    "name": "Stargate (JO-32L)",
+    "position": {
+        "x": -1189065400320,
+        "y": 110364057600,
+        "z": -2689263575040
+    },
+    "stargate_id": 50011904,
+    "system_id": 30004461,
+    "type_id": 29633
+}

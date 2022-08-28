@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012748,
+        "system_id": 30001821
+    },
+    "name": "Stargate (UEPO-D)",
+    "position": {
+        "x": 1202826485760,
+        "y": 20263034880,
+        "z": -6265874718720
+    },
+    "stargate_id": 50013266,
+    "system_id": 30001822,
+    "type_id": 3875
+}

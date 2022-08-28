@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002452,
+        "system_id": 30000131
+    },
+    "name": "Stargate (Nomaa)",
+    "position": {
+        "x": -122386882560,
+        "y": 2267746099200,
+        "z": -1441981194240
+    },
+    "stargate_id": 50002750,
+    "system_id": 30000146,
+    "type_id": 29627
+}

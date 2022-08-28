@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003829,
+        "system_id": 30002425
+    },
+    "name": "Stargate (O1-FTD)",
+    "position": {
+        "x": 990926807040,
+        "y": -24617902080,
+        "z": 3117521510400
+    },
+    "stargate_id": 50004360,
+    "system_id": 30002438,
+    "type_id": 29627
+}

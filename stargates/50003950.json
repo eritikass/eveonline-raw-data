@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008529,
+        "system_id": 30005320
+    },
+    "name": "Stargate (Hevrice)",
+    "position": {
+        "x": 1340392120320,
+        "y": -1346109726720,
+        "z": -3308760883200
+    },
+    "stargate_id": 50003950,
+    "system_id": 30005299,
+    "type_id": 3874
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011933,
+        "system_id": 30003166
+    },
+    "name": "Stargate (WT-2J9)",
+    "position": {
+        "x": 611359825920,
+        "y": 89183969280,
+        "z": 830571110400
+    },
+    "stargate_id": 50010542,
+    "system_id": 30003165,
+    "type_id": 29624
+}

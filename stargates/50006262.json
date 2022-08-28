@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005737,
+        "system_id": 30003545
+    },
+    "name": "Stargate (Yuhelia)",
+    "position": {
+        "x": 492782592000,
+        "y": 45560832000,
+        "z": -128316825600
+    },
+    "stargate_id": 50006262,
+    "system_id": 30003546,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010304,
+        "system_id": 30004718
+    },
+    "name": "Stargate (FWST-8)",
+    "position": {
+        "x": -582475653120,
+        "y": -85540823040,
+        "z": 295132815360
+    },
+    "stargate_id": 50010329,
+    "system_id": 30004719,
+    "type_id": 29624
+}

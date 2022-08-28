@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001969,
+        "system_id": 30001554
+    },
+    "name": "Stargate (MOSA-I)",
+    "position": {
+        "x": -3541123768320,
+        "y": -8526329733120,
+        "z": 2906899292160
+    },
+    "stargate_id": 50000334,
+    "system_id": 30001535,
+    "type_id": 3874
+}

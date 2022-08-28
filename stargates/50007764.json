@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008256,
+        "system_id": 30003902
+    },
+    "name": "Stargate (Hemouner)",
+    "position": {
+        "x": 498629959680,
+        "y": -77904814080,
+        "z": 156077875200
+    },
+    "stargate_id": 50007764,
+    "system_id": 30003898,
+    "type_id": 29624
+}

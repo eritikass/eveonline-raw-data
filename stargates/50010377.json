@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009726,
+        "system_id": 30004365
+    },
+    "name": "Stargate (C-LP3N)",
+    "position": {
+        "x": -128176742400,
+        "y": 18105262080,
+        "z": 34635325440
+    },
+    "stargate_id": 50010377,
+    "system_id": 30004367,
+    "type_id": 16
+}

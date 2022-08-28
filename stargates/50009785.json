@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006402,
+        "system_id": 30003078
+    },
+    "name": "Stargate (Erkinen)",
+    "position": {
+        "x": -111831736320,
+        "y": 4084200775680,
+        "z": 94748958720
+    },
+    "stargate_id": 50009785,
+    "system_id": 30003092,
+    "type_id": 17
+}

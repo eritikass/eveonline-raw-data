@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003660,
+        "system_id": 30002141
+    },
+    "name": "Stargate (Z-H2MA)",
+    "position": {
+        "x": -3084595814400,
+        "y": -524641443840,
+        "z": -808044011520
+    },
+    "stargate_id": 50006419,
+    "system_id": 30002143,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001293,
+        "system_id": 30000902
+    },
+    "name": "Stargate (NK-7XO)",
+    "position": {
+        "x": 2850897223680,
+        "y": -293980938240,
+        "z": 285627310080
+    },
+    "stargate_id": 50000254,
+    "system_id": 30000901,
+    "type_id": 29633
+}

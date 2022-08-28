@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006764,
+        "system_id": 30004981
+    },
+    "name": "Stargate (Actee)",
+    "position": {
+        "x": 1433553592320,
+        "y": 288973086720,
+        "z": 767219589120
+    },
+    "stargate_id": 50003312,
+    "system_id": 30004979,
+    "type_id": 3875
+}

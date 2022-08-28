@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002909,
+        "system_id": 30001385
+    },
+    "name": "Stargate (Jan)",
+    "position": {
+        "x": 511728967680,
+        "y": 99615744000,
+        "z": -127906897920
+    },
+    "stargate_id": 50002053,
+    "system_id": 30001384,
+    "type_id": 16
+}

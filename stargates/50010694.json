@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010705,
+        "system_id": 30003470
+    },
+    "name": "Stargate (Odebeinn)",
+    "position": {
+        "x": 3247200460800,
+        "y": -561472020480,
+        "z": -1506963824640
+    },
+    "stargate_id": 50010694,
+    "system_id": 30003469,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007865,
+        "system_id": 30002468
+    },
+    "name": "Stargate (HJO-84)",
+    "position": {
+        "x": -681462865920,
+        "y": 85647728640,
+        "z": -56575303680
+    },
+    "stargate_id": 50008257,
+    "system_id": 30002469,
+    "type_id": 16
+}

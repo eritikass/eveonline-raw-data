@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006481,
+        "system_id": 30005129
+    },
+    "name": "Stargate (BEG-RL)",
+    "position": {
+        "x": 891820154880,
+        "y": -22823608320,
+        "z": -6794264371200
+    },
+    "stargate_id": 50007347,
+    "system_id": 30005130,
+    "type_id": 3875
+}

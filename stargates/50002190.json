@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010482,
+        "system_id": 30001408
+    },
+    "name": "Stargate (Ruvas)",
+    "position": {
+        "x": -667290624000,
+        "y": 43823554560,
+        "z": -1454278287360
+    },
+    "stargate_id": 50002190,
+    "system_id": 30001404,
+    "type_id": 16
+}

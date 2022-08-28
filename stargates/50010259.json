@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009656,
+        "system_id": 30003971
+    },
+    "name": "Stargate (P4-3TJ)",
+    "position": {
+        "x": -197726822400,
+        "y": 25489367040,
+        "z": 213512232960
+    },
+    "stargate_id": 50010259,
+    "system_id": 30003972,
+    "type_id": 29624
+}

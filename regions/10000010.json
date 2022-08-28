@@ -1,0 +1,15 @@
+{
+    "constellations": [
+        20000124,
+        20000125,
+        20000126,
+        20000127,
+        20000128,
+        20000129,
+        20000130,
+        20000131
+    ],
+    "description": "For a long time, the Caldari State maintained an illicit but considerable military presence in the region they often referred to as \"The Northern Barrier,\" patrolling the crescent-shaped region in an attempt to detect and intercept raiding parties from the Gurista strongholds in Venal. The arrival of capsuleer alliances made their listening posts both untenable and unnecessary, so they evacuated their assets and retreated from the region. Where the Empires saw a barrier, the capsuleers see a transit corridor, and the \"Tribute Pipeline\" is now a strategically important route carrying trade between the State and the northern territories.",
+    "name": "Tribute",
+    "region_id": 10000010
+}

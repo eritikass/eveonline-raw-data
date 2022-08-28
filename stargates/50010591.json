@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010724,
+        "system_id": 30004729
+    },
+    "name": "Stargate (T-J6HT)",
+    "position": {
+        "x": 8651015577600,
+        "y": -826757898240,
+        "z": 3372970352640
+    },
+    "stargate_id": 50010591,
+    "system_id": 30004725,
+    "type_id": 29624
+}

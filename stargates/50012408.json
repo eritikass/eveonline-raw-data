@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012919,
+        "system_id": 30004279
+    },
+    "name": "Stargate (Ahraghen)",
+    "position": {
+        "x": -2775046103040,
+        "y": -217608069120,
+        "z": -1124786135040
+    },
+    "stargate_id": 50012408,
+    "system_id": 30004277,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006680,
+        "system_id": 30002257
+    },
+    "name": "Stargate (Moussou)",
+    "position": {
+        "x": 5603180175360,
+        "y": 498716467200,
+        "z": 5075318906880
+    },
+    "stargate_id": 50006860,
+    "system_id": 30002258,
+    "type_id": 29624
+}

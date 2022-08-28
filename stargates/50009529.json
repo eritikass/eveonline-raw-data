@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009562,
+        "system_id": 30003132
+    },
+    "name": "Stargate (OIOM-Y)",
+    "position": {
+        "x": 295499980800,
+        "y": 33922375680,
+        "z": -1114690805760
+    },
+    "stargate_id": 50009529,
+    "system_id": 30003130,
+    "type_id": 29624
+}

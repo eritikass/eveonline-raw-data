@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003004,
+        "system_id": 30002781
+    },
+    "name": "Stargate (Halaima)",
+    "position": {
+        "x": 1401194864640,
+        "y": 707717652480,
+        "z": 736903372800
+    },
+    "stargate_id": 50002914,
+    "system_id": 30002774,
+    "type_id": 29627
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008042,
+        "system_id": 30002223
+    },
+    "name": "Stargate (Patzcha)",
+    "position": {
+        "x": 1343733719040,
+        "y": 80911441920,
+        "z": 320298639360
+    },
+    "stargate_id": 50012784,
+    "system_id": 30002224,
+    "type_id": 29624
+}

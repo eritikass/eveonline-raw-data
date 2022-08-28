@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011848,
+        "system_id": 30004192
+    },
+    "name": "Stargate (JE-VLG)",
+    "position": {
+        "x": 1765893365760,
+        "y": -292182712320,
+        "z": -1780666736640
+    },
+    "stargate_id": 50012237,
+    "system_id": 30004193,
+    "type_id": 3875
+}

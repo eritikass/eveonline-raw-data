@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009999,
+        "system_id": 30003262
+    },
+    "name": "Stargate (PND-SI)",
+    "position": {
+        "x": 1503187476480,
+        "y": 56930426880,
+        "z": -4057722101760
+    },
+    "stargate_id": 50009316,
+    "system_id": 30003261,
+    "type_id": 3875
+}

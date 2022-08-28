@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008043,
+        "system_id": 30002726
+    },
+    "name": "Stargate (Raeghoscon)",
+    "position": {
+        "x": 225638031360,
+        "y": -10048266240,
+        "z": 213376573440
+    },
+    "stargate_id": 50007946,
+    "system_id": 30002725,
+    "type_id": 3875
+}

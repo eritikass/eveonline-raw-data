@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013214,
+        "system_id": 30004872
+    },
+    "name": "Stargate (7KIK-H)",
+    "position": {
+        "x": -1015120650240,
+        "y": -3018746388480,
+        "z": 929147904000
+    },
+    "stargate_id": 50013160,
+    "system_id": 30004870,
+    "type_id": 3877
+}

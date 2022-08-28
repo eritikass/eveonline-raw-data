@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007675,
+        "system_id": 30005054
+    },
+    "name": "Stargate (Nare)",
+    "position": {
+        "x": 8463828787200,
+        "y": -1536976527360,
+        "z": -2439730421760
+    },
+    "stargate_id": 50007644,
+    "system_id": 30005053,
+    "type_id": 29624
+}

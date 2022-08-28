@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005748,
+        "system_id": 30000647
+    },
+    "name": "Stargate (LJ-RJK)",
+    "position": {
+        "x": 144820346880,
+        "y": 24504606720,
+        "z": 145689600000
+    },
+    "stargate_id": 50005705,
+    "system_id": 30000646,
+    "type_id": 29633
+}

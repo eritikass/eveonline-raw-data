@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012509,
+        "system_id": 30004927
+    },
+    "name": "Stargate (L-YMYU)",
+    "position": {
+        "x": -139927756800,
+        "y": -3253493760,
+        "z": 530115747840
+    },
+    "stargate_id": 50012578,
+    "system_id": 30004928,
+    "type_id": 29624
+}

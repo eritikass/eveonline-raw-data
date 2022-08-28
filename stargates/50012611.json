@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012627,
+        "system_id": 30004854
+    },
+    "name": "Stargate (G1-0UI)",
+    "position": {
+        "x": 1774014013440,
+        "y": 23508787200,
+        "z": -702154137600
+    },
+    "stargate_id": 50012611,
+    "system_id": 30004852,
+    "type_id": 29633
+}

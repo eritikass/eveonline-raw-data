@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006675,
+        "system_id": 30002961
+    },
+    "name": "Stargate (Oyeman)",
+    "position": {
+        "x": 1987391938560,
+        "y": 395285913600,
+        "z": 3449327247360
+    },
+    "stargate_id": 50004262,
+    "system_id": 30002959,
+    "type_id": 29624
+}

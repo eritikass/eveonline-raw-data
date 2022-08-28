@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002196,
+        "system_id": 30001193
+    },
+    "name": "Stargate (A-803L)",
+    "position": {
+        "x": 3301660631040,
+        "y": 380839157760,
+        "z": -2549966561280
+    },
+    "stargate_id": 50001899,
+    "system_id": 30001192,
+    "type_id": 29624
+}

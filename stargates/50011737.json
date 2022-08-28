@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012041,
+        "system_id": 30000325
+    },
+    "name": "Stargate (JZV-F4)",
+    "position": {
+        "x": 243196846080,
+        "y": -14817730560,
+        "z": 3989120409600
+    },
+    "stargate_id": 50011737,
+    "system_id": 30000324,
+    "type_id": 16
+}

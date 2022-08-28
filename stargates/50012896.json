@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006226,
+        "system_id": 30005243
+    },
+    "name": "Stargate (Madomi)",
+    "position": {
+        "x": -744999444480,
+        "y": 1461109432320,
+        "z": -2475591229440
+    },
+    "stargate_id": 50012896,
+    "system_id": 30005293,
+    "type_id": 17
+}

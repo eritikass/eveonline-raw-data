@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001880,
+        "system_id": 30002298
+    },
+    "name": "Stargate (SAH-AD)",
+    "position": {
+        "x": -3515047895040,
+        "y": -695047249920,
+        "z": 765173882880
+    },
+    "stargate_id": 50003948,
+    "system_id": 30002301,
+    "type_id": 3875
+}

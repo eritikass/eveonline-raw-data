@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013094,
+        "system_id": 30003458
+    },
+    "name": "Stargate (Klaevik)",
+    "position": {
+        "x": -29199114240,
+        "y": -4121026560,
+        "z": 94159872000
+    },
+    "stargate_id": 50011965,
+    "system_id": 30003457,
+    "type_id": 29633
+}

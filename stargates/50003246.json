@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003188,
+        "system_id": 30003387
+    },
+    "name": "Stargate (Jondik)",
+    "position": {
+        "x": -739740917760,
+        "y": 143937822720,
+        "z": 3312908820480
+    },
+    "stargate_id": 50003246,
+    "system_id": 30003388,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009637,
+        "system_id": 30003570
+    },
+    "name": "Stargate (Elore)",
+    "position": {
+        "x": -23425474560,
+        "y": 355246080,
+        "z": -24514928640
+    },
+    "stargate_id": 50009240,
+    "system_id": 30003567,
+    "type_id": 3875
+}

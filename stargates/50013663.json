@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013664,
+        "system_id": 30003061
+    },
+    "name": "Stargate (Mormelot)",
+    "position": {
+        "x": -1092587151360,
+        "y": -2416676413440,
+        "z": 647920312320
+    },
+    "stargate_id": 50013663,
+    "system_id": 30002654,
+    "type_id": 29632
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013496,
+        "system_id": 30001958
+    },
+    "name": "Stargate (XFBE-T)",
+    "position": {
+        "x": -6550866370560,
+        "y": -331816181760,
+        "z": -1245793198080
+    },
+    "stargate_id": 50013462,
+    "system_id": 30001956,
+    "type_id": 29624
+}

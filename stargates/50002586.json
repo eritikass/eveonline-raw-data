@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002493,
+        "system_id": 30000928
+    },
+    "name": "Stargate (WPR-EI)",
+    "position": {
+        "x": 481282990080,
+        "y": -22336266240,
+        "z": 1265167687680
+    },
+    "stargate_id": 50002586,
+    "system_id": 30000929,
+    "type_id": 29633
+}

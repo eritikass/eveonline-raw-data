@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008350,
+        "system_id": 30005047
+    },
+    "name": "Stargate (Nibainkier)",
+    "position": {
+        "x": 244720312320,
+        "y": 166488268800,
+        "z": -1305806069760
+    },
+    "stargate_id": 50010283,
+    "system_id": 30005076,
+    "type_id": 17
+}

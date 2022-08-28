@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004205,
+        "system_id": 30003787
+    },
+    "name": "Stargate (Agoze)",
+    "position": {
+        "x": 1939917987840,
+        "y": 116854333440,
+        "z": 4250205020160
+    },
+    "stargate_id": 50004430,
+    "system_id": 30003788,
+    "type_id": 3875
+}

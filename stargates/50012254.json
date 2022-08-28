@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012485,
+        "system_id": 30004470
+    },
+    "name": "Stargate (DB1R-4)",
+    "position": {
+        "x": -1719756595200,
+        "y": -23291535360,
+        "z": 1817125232640
+    },
+    "stargate_id": 50012254,
+    "system_id": 30004469,
+    "type_id": 29633
+}

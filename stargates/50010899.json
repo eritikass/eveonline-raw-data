@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012470,
+        "system_id": 30003254
+    },
+    "name": "Stargate (OZ-DS5)",
+    "position": {
+        "x": 893882818560,
+        "y": 179660021760,
+        "z": -1217937776640
+    },
+    "stargate_id": 50010899,
+    "system_id": 30003252,
+    "type_id": 3875
+}

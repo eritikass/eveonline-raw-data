@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001241,
+        "system_id": 30000739
+    },
+    "name": "Stargate (Z182-R)",
+    "position": {
+        "x": -85938954240,
+        "y": 7129620480,
+        "z": 85370019840
+    },
+    "stargate_id": 50000286,
+    "system_id": 30000736,
+    "type_id": 29633
+}

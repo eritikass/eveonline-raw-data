@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016371,
+        "system_id": 30045354
+    },
+    "name": "Stargate (Reitsato)",
+    "position": {
+        "x": -4499915612160,
+        "y": -171642101760,
+        "z": 2590826373120
+    },
+    "stargate_id": 50016372,
+    "system_id": 30045346,
+    "type_id": 16
+}

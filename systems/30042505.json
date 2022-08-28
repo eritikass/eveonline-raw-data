@@ -1,0 +1,70 @@
+{
+    "constellation_id": 20000370,
+    "name": "Usteli",
+    "planets": [
+        {
+            "planet_id": 40347602
+        },
+        {
+            "asteroid_belts": [
+                40347604
+            ],
+            "planet_id": 40347603
+        },
+        {
+            "planet_id": 40347605
+        },
+        {
+            "asteroid_belts": [
+                40347607
+            ],
+            "planet_id": 40347606
+        },
+        {
+            "asteroid_belts": [
+                40347610
+            ],
+            "moons": [
+                40347609
+            ],
+            "planet_id": 40347608
+        },
+        {
+            "moons": [
+                40347612
+            ],
+            "planet_id": 40347611
+        },
+        {
+            "moons": [
+                40347614
+            ],
+            "planet_id": 40347613
+        },
+        {
+            "asteroid_belts": [
+                40347616
+            ],
+            "moons": [
+                40347617,
+                40347618
+            ],
+            "planet_id": 40347615
+        }
+    ],
+    "position": {
+        "x": -89444503589646780,
+        "y": 41314106564361176,
+        "z": 12220108268269276
+    },
+    "security_class": "A",
+    "security_status": 0.9505950212478638,
+    "star_id": 40347601,
+    "stargates": [
+        50014200
+    ],
+    "stations": [
+        60015044
+    ],
+    "system_id": 30042505
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007289,
+        "system_id": 30000061
+    },
+    "name": "Stargate (Agha)",
+    "position": {
+        "x": -2630437478400,
+        "y": 398976245760,
+        "z": -3937143398400
+    },
+    "stargate_id": 50001497,
+    "system_id": 30000057,
+    "type_id": 29624
+}

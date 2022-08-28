@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001082,
+        "system_id": 30000090
+    },
+    "name": "Stargate (Ilahed)",
+    "position": {
+        "x": -933054504960,
+        "y": 91415224320,
+        "z": 1840220774400
+    },
+    "stargate_id": 50000600,
+    "system_id": 30000089,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013318,
+        "system_id": 30002492
+    },
+    "name": "Stargate (N-HK93)",
+    "position": {
+        "x": -1373916241920,
+        "y": -250568663040,
+        "z": -1921570283520
+    },
+    "stargate_id": 50009484,
+    "system_id": 30002485,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007983,
+        "system_id": 30003103
+    },
+    "name": "Stargate (HT4K-M)",
+    "position": {
+        "x": -2068889395200,
+        "y": 1013419253760,
+        "z": 4022718259200
+    },
+    "stargate_id": 50008306,
+    "system_id": 30003105,
+    "type_id": 17
+}

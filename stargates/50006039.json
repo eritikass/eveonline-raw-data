@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005852,
+        "system_id": 30001701
+    },
+    "name": "Stargate (Yanuel)",
+    "position": {
+        "x": 1170697543680,
+        "y": -5630082539520,
+        "z": 8638023475200
+    },
+    "stargate_id": 50006039,
+    "system_id": 30001722,
+    "type_id": 17
+}

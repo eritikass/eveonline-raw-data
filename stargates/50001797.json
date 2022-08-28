@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003610,
+        "system_id": 30000590
+    },
+    "name": "Stargate (3Q-VZA)",
+    "position": {
+        "x": -130292490240,
+        "y": 26329128960,
+        "z": 633479700480
+    },
+    "stargate_id": 50001797,
+    "system_id": 30000587,
+    "type_id": 29633
+}

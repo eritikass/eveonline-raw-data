@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012285,
+        "system_id": 30004797
+    },
+    "name": "Stargate (YAW-7M)",
+    "position": {
+        "x": -2032321536000,
+        "y": -178589982720,
+        "z": -1006167121920
+    },
+    "stargate_id": 50012152,
+    "system_id": 30004796,
+    "type_id": 29624
+}

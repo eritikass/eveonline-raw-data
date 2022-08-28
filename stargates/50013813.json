@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013814,
+        "system_id": 30000813
+    },
+    "name": "Stargate (LVL-GZ)",
+    "position": {
+        "x": -1973043978240,
+        "y": -722129264640,
+        "z": -1016990883840
+    },
+    "stargate_id": 50013813,
+    "system_id": 30000837,
+    "type_id": 12292
+}

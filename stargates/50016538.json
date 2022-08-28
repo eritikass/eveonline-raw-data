@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016539,
+        "system_id": 30005029
+    },
+    "name": "Stargate (Vale)",
+    "position": {
+        "x": 850964740.7309123,
+        "y": -135547025.65557858,
+        "z": 32863998550.911587
+    },
+    "stargate_id": 50016538,
+    "system_id": 30003046,
+    "type_id": 56317
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000059,
+        "system_id": 30001016
+    },
+    "name": "Stargate (HLW-HP)",
+    "position": {
+        "x": 4023737180160,
+        "y": 610305269760,
+        "z": 2611761684480
+    },
+    "stargate_id": 50001095,
+    "system_id": 30001018,
+    "type_id": 29633
+}

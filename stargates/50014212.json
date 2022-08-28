@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014211,
+        "system_id": 30000198
+    },
+    "name": "Stargate (Paala)",
+    "position": {
+        "x": -2571633991680,
+        "y": -173567139840,
+        "z": 581899837440
+    },
+    "stargate_id": 50014212,
+    "system_id": 30002355,
+    "type_id": 3876
+}

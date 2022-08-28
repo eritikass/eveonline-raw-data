@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002977,
+        "system_id": 30000453
+    },
+    "name": "Stargate (52CW-6)",
+    "position": {
+        "x": -1393218969600,
+        "y": -1481757941760,
+        "z": 719477760000
+    },
+    "stargate_id": 50003595,
+    "system_id": 30000485,
+    "type_id": 3877
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011008,
+        "system_id": 30000171
+    },
+    "name": "Stargate (Otitoh)",
+    "position": {
+        "x": 2079306915840,
+        "y": -178373959680,
+        "z": 1672928747520
+    },
+    "stargate_id": 50008509,
+    "system_id": 30000169,
+    "type_id": 16
+}

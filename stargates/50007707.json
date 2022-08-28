@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009223,
+        "system_id": 30003891
+    },
+    "name": "Stargate (Tzashrah)",
+    "position": {
+        "x": -91299225600,
+        "y": 14773248000,
+        "z": -166323855360
+    },
+    "stargate_id": 50007707,
+    "system_id": 30003888,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008070,
+        "system_id": 30003087
+    },
+    "name": "Stargate (Haras)",
+    "position": {
+        "x": -197791948800,
+        "y": 38921625600,
+        "z": 221568737280
+    },
+    "stargate_id": 50007968,
+    "system_id": 30003086,
+    "type_id": 29624
+}

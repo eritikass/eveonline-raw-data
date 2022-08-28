@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011627,
+        "system_id": 30004021
+    },
+    "name": "Stargate (LS-V29)",
+    "position": {
+        "x": -27200348160,
+        "y": -3595100160,
+        "z": -385485496320
+    },
+    "stargate_id": 50011225,
+    "system_id": 30004020,
+    "type_id": 29624
+}

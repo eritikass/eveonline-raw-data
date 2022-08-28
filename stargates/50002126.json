@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001027,
+        "system_id": 30001399
+    },
+    "name": "Stargate (Elonaya)",
+    "position": {
+        "x": 5248369090560,
+        "y": 907208908800,
+        "z": -959486238720
+    },
+    "stargate_id": 50002126,
+    "system_id": 30001403,
+    "type_id": 16
+}

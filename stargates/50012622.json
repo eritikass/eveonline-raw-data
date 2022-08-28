@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012610,
+        "system_id": 30004852
+    },
+    "name": "Stargate (DZ6-I5)",
+    "position": {
+        "x": -126003240960,
+        "y": 4072120320,
+        "z": 250980065280
+    },
+    "stargate_id": 50012622,
+    "system_id": 30004853,
+    "type_id": 29633
+}

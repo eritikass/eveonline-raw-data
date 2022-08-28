@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013816,
+        "system_id": 30000786
+    },
+    "name": "Stargate (L5-UWT)",
+    "position": {
+        "x": 218913054720,
+        "y": 5087437578240,
+        "z": 2819306004480
+    },
+    "stargate_id": 50013815,
+    "system_id": 30000794,
+    "type_id": 12292
+}

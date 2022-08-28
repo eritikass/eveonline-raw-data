@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009929,
+        "system_id": 30004446
+    },
+    "name": "Stargate (H-P4LB)",
+    "position": {
+        "x": 641906565120,
+        "y": -2263080960,
+        "z": -1171564339200
+    },
+    "stargate_id": 50010052,
+    "system_id": 30004447,
+    "type_id": 29633
+}

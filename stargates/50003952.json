@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003968,
+        "system_id": 30001985
+    },
+    "name": "Stargate (EWOK-K)",
+    "position": {
+        "x": 48861880320,
+        "y": 792698880,
+        "z": 5540133642240
+    },
+    "stargate_id": 50003952,
+    "system_id": 30001984,
+    "type_id": 16
+}

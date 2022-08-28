@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001873,
+        "system_id": 30002108
+    },
+    "name": "Stargate (B-A587)",
+    "position": {
+        "x": 224066641920,
+        "y": -42621542400,
+        "z": 112213155840
+    },
+    "stargate_id": 50000610,
+    "system_id": 30002104,
+    "type_id": 29633
+}

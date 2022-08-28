@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007638,
+        "system_id": 30005052
+    },
+    "name": "Stargate (Soumi)",
+    "position": {
+        "x": -213612257280,
+        "y": -13345628160,
+        "z": 803873464320
+    },
+    "stargate_id": 50007591,
+    "system_id": 30005050,
+    "type_id": 29624
+}

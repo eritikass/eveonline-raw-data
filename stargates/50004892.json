@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006289,
+        "system_id": 30001849
+    },
+    "name": "Stargate (WNS-7J)",
+    "position": {
+        "x": -1101785456640,
+        "y": -14008442880,
+        "z": 422079160320
+    },
+    "stargate_id": 50004892,
+    "system_id": 30001847,
+    "type_id": 29624
+}

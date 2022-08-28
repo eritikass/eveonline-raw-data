@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005188,
+        "system_id": 30005210
+    },
+    "name": "Stargate (Makhwasan)",
+    "position": {
+        "x": 433530839040,
+        "y": -48745881600,
+        "z": 303611535360
+    },
+    "stargate_id": 50006583,
+    "system_id": 30005212,
+    "type_id": 29624
+}

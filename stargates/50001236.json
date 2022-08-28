@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002564,
+        "system_id": 30000628
+    },
+    "name": "Stargate (8-SPNN)",
+    "position": {
+        "x": -650497597440,
+        "y": -110324244480,
+        "z": 1379459112960
+    },
+    "stargate_id": 50001236,
+    "system_id": 30000624,
+    "type_id": 29633
+}

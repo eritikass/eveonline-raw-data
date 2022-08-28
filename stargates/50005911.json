@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005391,
+        "system_id": 30002548
+    },
+    "name": "Stargate (Emolgranlan)",
+    "position": {
+        "x": -2158327111680,
+        "y": 2555711938560,
+        "z": 458179584000
+    },
+    "stargate_id": 50005911,
+    "system_id": 30002555,
+    "type_id": 3877
+}

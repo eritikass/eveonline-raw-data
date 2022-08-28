@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005629,
+        "system_id": 30003721
+    },
+    "name": "Stargate (DP-JD4)",
+    "position": {
+        "x": -635128504320,
+        "y": -115010887680,
+        "z": -1098283130880
+    },
+    "stargate_id": 50005989,
+    "system_id": 30003722,
+    "type_id": 29624
+}

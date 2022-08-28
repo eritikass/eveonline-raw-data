@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009823,
+        "system_id": 30003622
+    },
+    "name": "Stargate (W8O-19)",
+    "position": {
+        "x": 3879496949760,
+        "y": -562615050240,
+        "z": 1395412869120
+    },
+    "stargate_id": 50008538,
+    "system_id": 30003617,
+    "type_id": 16
+}

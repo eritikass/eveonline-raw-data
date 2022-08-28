@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002529,
+        "system_id": 30002828
+    },
+    "name": "Stargate (BVRQ-O)",
+    "position": {
+        "x": -431775129600,
+        "y": 14459658240,
+        "z": 227414384640
+    },
+    "stargate_id": 50000845,
+    "system_id": 30002827,
+    "type_id": 3875
+}

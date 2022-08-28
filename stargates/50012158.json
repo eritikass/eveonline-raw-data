@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011989,
+        "system_id": 30004843
+    },
+    "name": "Stargate (0VK-43)",
+    "position": {
+        "x": 1269097144320,
+        "y": -96578396160,
+        "z": 517222195200
+    },
+    "stargate_id": 50012158,
+    "system_id": 30004844,
+    "type_id": 29633
+}

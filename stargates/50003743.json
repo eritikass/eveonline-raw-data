@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003729,
+        "system_id": 30000107
+    },
+    "name": "Stargate (Gamis)",
+    "position": {
+        "x": 1304346009600,
+        "y": 58948362240,
+        "z": 2696233328640
+    },
+    "stargate_id": 50003743,
+    "system_id": 30000108,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013027,
+        "system_id": 30004788
+    },
+    "name": "Stargate (7UTB-F)",
+    "position": {
+        "x": 1316474019840,
+        "y": -210467266560,
+        "z": -1248948019200
+    },
+    "stargate_id": 50012971,
+    "system_id": 30004787,
+    "type_id": 29624
+}

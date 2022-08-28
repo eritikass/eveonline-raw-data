@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010992,
+        "system_id": 30001719
+    },
+    "name": "Stargate (Sagain)",
+    "position": {
+        "x": 212068638720,
+        "y": -27336007680,
+        "z": 446277918720
+    },
+    "stargate_id": 50011432,
+    "system_id": 30001721,
+    "type_id": 29624
+}

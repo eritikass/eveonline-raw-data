@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012412,
+        "system_id": 30005072
+    },
+    "name": "Stargate (Gademam)",
+    "position": {
+        "x": -283910184960,
+        "y": 13732208640,
+        "z": 255381872640
+    },
+    "stargate_id": 50012468,
+    "system_id": 30005073,
+    "type_id": 29624
+}

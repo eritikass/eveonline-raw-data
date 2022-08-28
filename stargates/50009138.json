@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009536,
+        "system_id": 30001122
+    },
+    "name": "Stargate (GL6S-2)",
+    "position": {
+        "x": -667162091520,
+        "y": -110579834880,
+        "z": -5955819724800
+    },
+    "stargate_id": 50009138,
+    "system_id": 30001120,
+    "type_id": 3875
+}

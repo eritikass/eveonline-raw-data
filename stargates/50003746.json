@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005849,
+        "system_id": 30000728
+    },
+    "name": "Stargate (6-KPAB)",
+    "position": {
+        "x": -660962549760,
+        "y": -2200166400,
+        "z": 1956082360320
+    },
+    "stargate_id": 50003746,
+    "system_id": 30000727,
+    "type_id": 29633
+}

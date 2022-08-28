@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012526,
+        "system_id": 30005144
+    },
+    "name": "Stargate (QHY-RU)",
+    "position": {
+        "x": -45588480,
+        "y": -141680640,
+        "z": 1112707031040
+    },
+    "stargate_id": 50011794,
+    "system_id": 30005143,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002387,
+        "system_id": 30001649
+    },
+    "name": "Stargate (Ahrosseas)",
+    "position": {
+        "x": -162811699200,
+        "y": -24467988480,
+        "z": 2243260784640
+    },
+    "stargate_id": 50001458,
+    "system_id": 30001646,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005860,
+        "system_id": 30005033
+    },
+    "name": "Stargate (Jeni)",
+    "position": {
+        "x": -6142815068160,
+        "y": 735210086400,
+        "z": 1883170529280
+    },
+    "stargate_id": 50005697,
+    "system_id": 30005031,
+    "type_id": 29624
+}

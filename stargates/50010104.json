@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009954,
+        "system_id": 30004429
+    },
+    "name": "Stargate (75C-WN)",
+    "position": {
+        "x": 188950487040,
+        "y": -28836372480,
+        "z": 1921061806080
+    },
+    "stargate_id": 50010104,
+    "system_id": 30004430,
+    "type_id": 29633
+}

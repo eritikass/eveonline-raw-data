@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004968,
+        "system_id": 30004980
+    },
+    "name": "Stargate (Fliet)",
+    "position": {
+        "x": 1359806914560,
+        "y": 193897635840,
+        "z": -3627099463680
+    },
+    "stargate_id": 50012885,
+    "system_id": 30004985,
+    "type_id": 3875
+}

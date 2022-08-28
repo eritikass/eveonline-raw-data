@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003104,
+        "system_id": 30000978
+    },
+    "name": "Stargate (PUZ-IO)",
+    "position": {
+        "x": 967436328960,
+        "y": 53939036160,
+        "z": -490929807360
+    },
+    "stargate_id": 50002959,
+    "system_id": 30000977,
+    "type_id": 29633
+}

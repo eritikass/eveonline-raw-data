@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007547,
+        "system_id": 30005233
+    },
+    "name": "Stargate (Leran)",
+    "position": {
+        "x": -2328157593600,
+        "y": 147017195520,
+        "z": -3150201692160
+    },
+    "stargate_id": 50007151,
+    "system_id": 30005231,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001951,
+        "system_id": 30000683
+    },
+    "name": "Stargate (LBC-AW)",
+    "position": {
+        "x": 2425408266240,
+        "y": -111590645760,
+        "z": -1543485726720
+    },
+    "stargate_id": 50000027,
+    "system_id": 30000678,
+    "type_id": 29633
+}

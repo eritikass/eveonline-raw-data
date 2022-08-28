@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011454,
+        "system_id": 30004270
+    },
+    "name": "Stargate (Sazilid)",
+    "position": {
+        "x": 4744734351360,
+        "y": 7550639677440,
+        "z": 4015734251520
+    },
+    "stargate_id": 50011674,
+    "system_id": 30004280,
+    "type_id": 17
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005026,
+        "system_id": 30001841
+    },
+    "name": "Stargate (32-GI9)",
+    "position": {
+        "x": -2610521333760,
+        "y": 455660052480,
+        "z": 1289868288000
+    },
+    "stargate_id": 50004235,
+    "system_id": 30001838,
+    "type_id": 29624
+}

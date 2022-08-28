@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003987,
+        "system_id": 30000151
+    },
+    "name": "Stargate (Uoyonen)",
+    "position": {
+        "x": -5837939712000,
+        "y": -1357759488000,
+        "z": 166244474880
+    },
+    "stargate_id": 50005333,
+    "system_id": 30000173,
+    "type_id": 29627
+}

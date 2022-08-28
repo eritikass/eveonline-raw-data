@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006540,
+        "system_id": 30003404
+    },
+    "name": "Stargate (Agtver)",
+    "position": {
+        "x": -2001806008320,
+        "y": -218380492800,
+        "z": 202349568000
+    },
+    "stargate_id": 50007245,
+    "system_id": 30003405,
+    "type_id": 29633
+}

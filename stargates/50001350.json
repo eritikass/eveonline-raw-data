@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002437,
+        "system_id": 30000748
+    },
+    "name": "Stargate (8EF-58)",
+    "position": {
+        "x": -490175078400,
+        "y": -15247564800,
+        "z": -515346063360
+    },
+    "stargate_id": 50001350,
+    "system_id": 30000747,
+    "type_id": 29633
+}

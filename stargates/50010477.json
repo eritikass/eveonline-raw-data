@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010158,
+        "system_id": 30001106
+    },
+    "name": "Stargate (PWPY-4)",
+    "position": {
+        "x": 2140609536000,
+        "y": 27785748480,
+        "z": -889689169920
+    },
+    "stargate_id": 50010477,
+    "system_id": 30001107,
+    "type_id": 3875
+}

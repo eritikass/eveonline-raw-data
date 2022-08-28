@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001660,
+        "system_id": 30000572
+    },
+    "name": "Stargate (F-QQ5N)",
+    "position": {
+        "x": 181486018560,
+        "y": 2769592320,
+        "z": -80623411200
+    },
+    "stargate_id": 50006593,
+    "system_id": 30000576,
+    "type_id": 29633
+}

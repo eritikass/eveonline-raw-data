@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010027,
+        "system_id": 30004441
+    },
+    "name": "Stargate (U1-C18)",
+    "position": {
+        "x": -5002919239680,
+        "y": -2706177269760,
+        "z": -1346005770240
+    },
+    "stargate_id": 50011746,
+    "system_id": 30004465,
+    "type_id": 3877
+}

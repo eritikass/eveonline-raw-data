@@ -1,0 +1,54 @@
+{
+    "constellation_id": 20000464,
+    "name": "B1D-KU",
+    "planets": [
+        {
+            "planet_id": 40201709
+        },
+        {
+            "asteroid_belts": [
+                40201711
+            ],
+            "moons": [
+                40201712
+            ],
+            "planet_id": 40201710
+        },
+        {
+            "asteroid_belts": [
+                40201714,
+                40201715
+            ],
+            "planet_id": 40201713
+        },
+        {
+            "asteroid_belts": [
+                40201717
+            ],
+            "moons": [
+                40201718,
+                40201719
+            ],
+            "planet_id": 40201716
+        },
+        {
+            "moons": [
+                40201721
+            ],
+            "planet_id": 40201720
+        }
+    ],
+    "position": {
+        "x": -85090551465282580,
+        "y": -35616264520873710,
+        "z": -470805163451482500
+    },
+    "security_class": "G2",
+    "security_status": -0.3858993649482727,
+    "star_id": 40201708,
+    "stargates": [
+        50011032,
+        50011033
+    ],
+    "system_id": 30003180
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007607,
+        "system_id": 30000519
+    },
+    "name": "Stargate (KE-0FB)",
+    "position": {
+        "x": 7936722247680,
+        "y": -667985633280,
+        "z": 4030290370560
+    },
+    "stargate_id": 50007667,
+    "system_id": 30000520,
+    "type_id": 29633
+}

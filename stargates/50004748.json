@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002570,
+        "system_id": 30002976
+    },
+    "name": "Stargate (Labapi)",
+    "position": {
+        "x": 815441879040,
+        "y": -12650618880,
+        "z": -238651269120
+    },
+    "stargate_id": 50004748,
+    "system_id": 30002978,
+    "type_id": 29624
+}

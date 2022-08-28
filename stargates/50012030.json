@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012832,
+        "system_id": 30004157
+    },
+    "name": "Stargate (Ithar)",
+    "position": {
+        "x": -4812243394560,
+        "y": 242787901440,
+        "z": -1874837790720
+    },
+    "stargate_id": 50012030,
+    "system_id": 30004155,
+    "type_id": 29624
+}

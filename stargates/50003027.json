@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003923,
+        "system_id": 30002894
+    },
+    "name": "Stargate (R8S-1K)",
+    "position": {
+        "x": 1594718330880,
+        "y": -320085811200,
+        "z": 2038168657920
+    },
+    "stargate_id": 50003027,
+    "system_id": 30002890,
+    "type_id": 16
+}

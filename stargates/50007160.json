@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007345,
+        "system_id": 30003747
+    },
+    "name": "Stargate (ZT-LPU)",
+    "position": {
+        "x": 965924413440,
+        "y": -38274785280,
+        "z": 954310041600
+    },
+    "stargate_id": 50007160,
+    "system_id": 30003746,
+    "type_id": 29624
+}

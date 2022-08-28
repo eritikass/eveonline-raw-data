@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007193,
+        "system_id": 30002877
+    },
+    "name": "Stargate (I2D3-5)",
+    "position": {
+        "x": 4559766773760,
+        "y": -809578291200,
+        "z": -1329184727040
+    },
+    "stargate_id": 50007912,
+    "system_id": 30002880,
+    "type_id": 3875
+}

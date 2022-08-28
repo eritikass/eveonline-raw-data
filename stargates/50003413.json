@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007481,
+        "system_id": 30004990
+    },
+    "name": "Stargate (Onne)",
+    "position": {
+        "x": 2712716451840,
+        "y": 224314122240,
+        "z": -16102809600
+    },
+    "stargate_id": 50003413,
+    "system_id": 30004987,
+    "type_id": 3875
+}

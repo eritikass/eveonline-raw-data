@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013183,
+        "system_id": 30004634
+    },
+    "name": "Stargate (TU-Y2A)",
+    "position": {
+        "x": -2050005196800,
+        "y": 274161623040,
+        "z": -418297896960
+    },
+    "stargate_id": 50013365,
+    "system_id": 30004635,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010759,
+        "system_id": 30003056
+    },
+    "name": "Stargate (Muer)",
+    "position": {
+        "x": 1908986142720,
+        "y": 302663393280,
+        "z": 7225907896320
+    },
+    "stargate_id": 50010580,
+    "system_id": 30003054,
+    "type_id": 3875
+}

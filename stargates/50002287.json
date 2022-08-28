@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000416,
+        "system_id": 30000611
+    },
+    "name": "Stargate (2-2EWC)",
+    "position": {
+        "x": -1699399802880,
+        "y": -285771079680,
+        "z": 2114679398400
+    },
+    "stargate_id": 50002287,
+    "system_id": 30000616,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014100,
+        "system_id": 30005015
+    },
+    "name": "Stargate (Synchelle)",
+    "position": {
+        "x": 2054878371840,
+        "y": 2529572904960,
+        "z": 2933772656640
+    },
+    "stargate_id": 50014099,
+    "system_id": 30005198,
+    "type_id": 29625
+}

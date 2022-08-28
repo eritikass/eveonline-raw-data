@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010382,
+        "system_id": 30004668
+    },
+    "name": "Stargate (33-JRO)",
+    "position": {
+        "x": 8112509460480,
+        "y": 1526391152640,
+        "z": -627666984960
+    },
+    "stargate_id": 50010457,
+    "system_id": 30004670,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001211,
+        "system_id": 30002738
+    },
+    "name": "Stargate (Inoue)",
+    "position": {
+        "x": -216246804480,
+        "y": -13100359680,
+        "z": -1808387727360
+    },
+    "stargate_id": 50005655,
+    "system_id": 30002742,
+    "type_id": 16
+}

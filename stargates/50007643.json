@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007620,
+        "system_id": 30005051
+    },
+    "name": "Stargate (Choga)",
+    "position": {
+        "x": 8463890718720,
+        "y": -1536973332480,
+        "z": -2439692328960
+    },
+    "stargate_id": 50007643,
+    "system_id": 30005053,
+    "type_id": 29624
+}

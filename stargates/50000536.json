@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002224,
+        "system_id": 30002112
+    },
+    "name": "Stargate (JDAS-0)",
+    "position": {
+        "x": 379293327360,
+        "y": 43397406720,
+        "z": 3517040762880
+    },
+    "stargate_id": 50000536,
+    "system_id": 30002109,
+    "type_id": 29633
+}

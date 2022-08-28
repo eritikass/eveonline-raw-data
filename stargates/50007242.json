@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006990,
+        "system_id": 30001863
+    },
+    "name": "Stargate (PSJ-10)",
+    "position": {
+        "x": -4847477268480,
+        "y": 258162892800,
+        "z": 2620513689600
+    },
+    "stargate_id": 50007242,
+    "system_id": 30001866,
+    "type_id": 29624
+}

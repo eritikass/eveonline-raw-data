@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006876,
+        "system_id": 30003082
+    },
+    "name": "Stargate (Hatori)",
+    "position": {
+        "x": 1596562268160,
+        "y": -47291719680,
+        "z": -957970391040
+    },
+    "stargate_id": 50007285,
+    "system_id": 30003085,
+    "type_id": 29624
+}

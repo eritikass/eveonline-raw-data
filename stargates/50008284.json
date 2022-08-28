@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008319,
+        "system_id": 30003321
+    },
+    "name": "Stargate (5-FGQI)",
+    "position": {
+        "x": -4231828561920,
+        "y": 366413291520,
+        "z": 2895161548800
+    },
+    "stargate_id": 50008284,
+    "system_id": 30003320,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013225,
+        "system_id": 30004304
+    },
+    "name": "Stargate (Huna)",
+    "position": {
+        "x": 950427525120,
+        "y": 21692620800,
+        "z": -283047075840
+    },
+    "stargate_id": 50013405,
+    "system_id": 30004306,
+    "type_id": 29624
+}

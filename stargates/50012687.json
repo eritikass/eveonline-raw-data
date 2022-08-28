@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012738,
+        "system_id": 30004209
+    },
+    "name": "Stargate (KI2-S3)",
+    "position": {
+        "x": -2215247093760,
+        "y": -257444782080,
+        "z": 425189253120
+    },
+    "stargate_id": 50012687,
+    "system_id": 30004208,
+    "type_id": 3875
+}

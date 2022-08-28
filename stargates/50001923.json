@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006494,
+        "system_id": 30001373
+    },
+    "name": "Stargate (Raussinen)",
+    "position": {
+        "x": 1284580761600,
+        "y": 239128289280,
+        "z": 1817211740160
+    },
+    "stargate_id": 50001923,
+    "system_id": 30001369,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004317,
+        "system_id": 30000494
+    },
+    "name": "Stargate (8FN-GP)",
+    "position": {
+        "x": -4027228938240,
+        "y": -180292362240,
+        "z": 1415418470400
+    },
+    "stargate_id": 50004330,
+    "system_id": 30000495,
+    "type_id": 29633
+}

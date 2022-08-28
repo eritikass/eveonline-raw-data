@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005035,
+        "system_id": 30001233
+    },
+    "name": "Stargate (ERVK-P)",
+    "position": {
+        "x": 282268262400,
+        "y": 47849103360,
+        "z": 2661251604480
+    },
+    "stargate_id": 50004860,
+    "system_id": 30001232,
+    "type_id": 29624
+}

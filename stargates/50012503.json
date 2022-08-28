@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012136,
+        "system_id": 30002416
+    },
+    "name": "Stargate (Kattegaud)",
+    "position": {
+        "x": 816561070080,
+        "y": 155112529920,
+        "z": 2131653304320
+    },
+    "stargate_id": 50012503,
+    "system_id": 30002418,
+    "type_id": 29633
+}

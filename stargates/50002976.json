@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002934,
+        "system_id": 30000452
+    },
+    "name": "Stargate (3-3EZB)",
+    "position": {
+        "x": -446562263040,
+        "y": 5910896640,
+        "z": -1325930618880
+    },
+    "stargate_id": 50002976,
+    "system_id": 30000453,
+    "type_id": 29633
+}

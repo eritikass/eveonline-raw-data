@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012573,
+        "system_id": 30004902
+    },
+    "name": "Stargate (D2EZ-X)",
+    "position": {
+        "x": -7076737228800,
+        "y": 226989957120,
+        "z": -2307329187840
+    },
+    "stargate_id": 50012731,
+    "system_id": 30004903,
+    "type_id": 29633
+}

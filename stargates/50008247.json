@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008365,
+        "system_id": 30004420
+    },
+    "name": "Stargate (BLC-X0)",
+    "position": {
+        "x": 1780942479360,
+        "y": -138162708480,
+        "z": 37709045760
+    },
+    "stargate_id": 50008247,
+    "system_id": 30004419,
+    "type_id": 29633
+}

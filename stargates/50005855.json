@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006866,
+        "system_id": 30001704
+    },
+    "name": "Stargate (Arkoz)",
+    "position": {
+        "x": 2905414164480,
+        "y": -364069478400,
+        "z": 200164515840
+    },
+    "stargate_id": 50005855,
+    "system_id": 30001701,
+    "type_id": 29624
+}

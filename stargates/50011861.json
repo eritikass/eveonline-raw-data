@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013279,
+        "system_id": 30003607
+    },
+    "name": "Stargate (Straloin)",
+    "position": {
+        "x": -3196822855680,
+        "y": -123541217280,
+        "z": 6860918415360
+    },
+    "stargate_id": 50011861,
+    "system_id": 30003603,
+    "type_id": 3875
+}

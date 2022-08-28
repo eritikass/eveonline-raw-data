@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013256,
+        "system_id": 30004863
+    },
+    "name": "Stargate (NZW-ZO)",
+    "position": {
+        "x": 1176155381760,
+        "y": -1592893440,
+        "z": -154031923200
+    },
+    "stargate_id": 50013113,
+    "system_id": 30004862,
+    "type_id": 29633
+}

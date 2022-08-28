@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002950,
+        "system_id": 30002966
+    },
+    "name": "Stargate (Thasinaz)",
+    "position": {
+        "x": -133394472960,
+        "y": -5366292480,
+        "z": -1443992248320
+    },
+    "stargate_id": 50002812,
+    "system_id": 30002965,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000098,
+        "system_id": 30001063
+    },
+    "name": "Stargate (NBO-O0)",
+    "position": {
+        "x": -27667046400,
+        "y": -936222720,
+        "z": -1458291056640
+    },
+    "stargate_id": 50000642,
+    "system_id": 30001064,
+    "type_id": 3875
+}

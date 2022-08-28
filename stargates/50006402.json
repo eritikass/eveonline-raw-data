@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009785,
+        "system_id": 30003092
+    },
+    "name": "Stargate (Komaa)",
+    "position": {
+        "x": 87329218560,
+        "y": -3189343887360,
+        "z": -73989120000
+    },
+    "stargate_id": 50006402,
+    "system_id": 30003078,
+    "type_id": 17
+}

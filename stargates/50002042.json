@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001130,
+        "system_id": 30002746
+    },
+    "name": "Stargate (Oijamon)",
+    "position": {
+        "x": 468177592320,
+        "y": 18502164480,
+        "z": -2059991162880
+    },
+    "stargate_id": 50002042,
+    "system_id": 30002748,
+    "type_id": 16
+}

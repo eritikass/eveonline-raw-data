@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006969,
+        "system_id": 30003551
+    },
+    "name": "Stargate (Jaswelu)",
+    "position": {
+        "x": 1956201062400,
+        "y": -29136691200,
+        "z": -448900915200
+    },
+    "stargate_id": 50007007,
+    "system_id": 30003552,
+    "type_id": 29624
+}

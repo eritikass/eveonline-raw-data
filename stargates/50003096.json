@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002696,
+        "system_id": 30000951
+    },
+    "name": "Stargate (CI4M-T)",
+    "position": {
+        "x": -923585126400,
+        "y": 119806894080,
+        "z": -651647508480
+    },
+    "stargate_id": 50003096,
+    "system_id": 30000952,
+    "type_id": 29633
+}

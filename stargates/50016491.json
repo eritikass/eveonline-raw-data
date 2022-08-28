@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016490,
+        "system_id": 30001413
+    },
+    "name": "Stargate (Nani)",
+    "position": {
+        "x": 983454916073.2119,
+        "y": -119220941073.22992,
+        "z": -1157780287413.3154
+    },
+    "stargate_id": 50016491,
+    "system_id": 30040141,
+    "type_id": 56317
+}

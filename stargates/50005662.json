@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009030,
+        "system_id": 30003537
+    },
+    "name": "Stargate (Erzoh)",
+    "position": {
+        "x": 1850970071040,
+        "y": -349534986240,
+        "z": 1852216811520
+    },
+    "stargate_id": 50005662,
+    "system_id": 30003530,
+    "type_id": 29624
+}

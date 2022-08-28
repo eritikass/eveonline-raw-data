@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008440,
+        "system_id": 30001146
+    },
+    "name": "Stargate (IL-OL1)",
+    "position": {
+        "x": -2098599075840,
+        "y": 2205523353600,
+        "z": 1261063004160
+    },
+    "stargate_id": 50000101,
+    "system_id": 30001063,
+    "type_id": 3874
+}

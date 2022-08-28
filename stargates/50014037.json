@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014038,
+        "system_id": 30004046
+    },
+    "name": "Stargate (F7C-H0)",
+    "position": {
+        "x": -1282387599360,
+        "y": -1459455713280,
+        "z": 631089930240
+    },
+    "stargate_id": 50014037,
+    "system_id": 30003841,
+    "type_id": 3876
+}

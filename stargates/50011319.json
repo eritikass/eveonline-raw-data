@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012047,
+        "system_id": 30001256
+    },
+    "name": "Stargate (FAT-6P)",
+    "position": {
+        "x": 418031493120,
+        "y": 52235919360,
+        "z": -1905343979520
+    },
+    "stargate_id": 50011319,
+    "system_id": 30001255,
+    "type_id": 29624
+}

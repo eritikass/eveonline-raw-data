@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016528,
+        "system_id": 30001381
+    },
+    "name": "Stargate (Arvasaras)",
+    "position": {
+        "x": 983466364916.6605,
+        "y": -119220382336.40704,
+        "z": -1157787444111.9802
+    },
+    "stargate_id": 50016529,
+    "system_id": 30010141,
+    "type_id": 56317
+}

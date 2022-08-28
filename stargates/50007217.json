@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004046,
+        "system_id": 30005002
+    },
+    "name": "Stargate (Laurvier)",
+    "position": {
+        "x": -3399255121920,
+        "y": -454603776000,
+        "z": -541155778560
+    },
+    "stargate_id": 50007217,
+    "system_id": 30005004,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002765,
+        "system_id": 30000699
+    },
+    "name": "Stargate (ZNF-OK)",
+    "position": {
+        "x": 3376346849280,
+        "y": -739549470720,
+        "z": 1943711784960
+    },
+    "stargate_id": 50002414,
+    "system_id": 30000721,
+    "type_id": 3877
+}

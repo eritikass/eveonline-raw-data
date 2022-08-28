@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001095,
+        "system_id": 30001018
+    },
+    "name": "Stargate (RA-NXN)",
+    "position": {
+        "x": -784331612160,
+        "y": 55608238080,
+        "z": -943794462720
+    },
+    "stargate_id": 50000059,
+    "system_id": 30001016,
+    "type_id": 29633
+}

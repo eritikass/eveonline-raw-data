@@ -1,0 +1,78 @@
+{
+    "constellation_id": 20000428,
+    "name": "DKUK-G",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40185298,
+                40185299
+            ],
+            "planet_id": 40185297
+        },
+        {
+            "asteroid_belts": [
+                40185301
+            ],
+            "planet_id": 40185300
+        },
+        {
+            "planet_id": 40185302
+        },
+        {
+            "asteroid_belts": [
+                40185304
+            ],
+            "planet_id": 40185303
+        },
+        {
+            "asteroid_belts": [
+                40185306,
+                40185308
+            ],
+            "moons": [
+                40185307
+            ],
+            "planet_id": 40185305
+        },
+        {
+            "asteroid_belts": [
+                40185310
+            ],
+            "moons": [
+                40185311,
+                40185312
+            ],
+            "planet_id": 40185309
+        },
+        {
+            "moons": [
+                40185314,
+                40185315
+            ],
+            "planet_id": 40185313
+        },
+        {
+            "asteroid_belts": [
+                40185317
+            ],
+            "moons": [
+                40185318,
+                40185319
+            ],
+            "planet_id": 40185316
+        }
+    ],
+    "position": {
+        "x": -244768972255338400,
+        "y": 53882785868806296,
+        "z": 306544718504767300
+    },
+    "security_class": "H2",
+    "security_status": -0.36080217361450195,
+    "star_id": 40185296,
+    "stargates": [
+        50010635,
+        50013854
+    ],
+    "system_id": 30002920
+}

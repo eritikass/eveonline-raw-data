@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003289,
+        "system_id": 30005295
+    },
+    "name": "Stargate (Murethand)",
+    "position": {
+        "x": 2200865218560,
+        "y": 56979087360,
+        "z": 1631073853440
+    },
+    "stargate_id": 50003442,
+    "system_id": 30005296,
+    "type_id": 3875
+}

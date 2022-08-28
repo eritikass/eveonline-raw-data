@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011050,
+        "system_id": 30000287
+    },
+    "name": "Stargate (7-PO3P)",
+    "position": {
+        "x": 3532409118720,
+        "y": 152534261760,
+        "z": -1899782184960
+    },
+    "stargate_id": 50006957,
+    "system_id": 30000282,
+    "type_id": 16
+}

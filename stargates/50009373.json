@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009366,
+        "system_id": 30003965
+    },
+    "name": "Stargate (V-3U8T)",
+    "position": {
+        "x": -248640430080,
+        "y": -24243118080,
+        "z": 747634237440
+    },
+    "stargate_id": 50009373,
+    "system_id": 30003966,
+    "type_id": 29624
+}

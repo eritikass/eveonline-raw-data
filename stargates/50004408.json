@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004342,
+        "system_id": 30001755
+    },
+    "name": "Stargate (WK2F-Y)",
+    "position": {
+        "x": 134966845440,
+        "y": 6947512320,
+        "z": 119994408960
+    },
+    "stargate_id": 50004408,
+    "system_id": 30001756,
+    "type_id": 3875
+}

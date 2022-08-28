@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008427,
+        "system_id": 30005263
+    },
+    "name": "Stargate (Mozzidit)",
+    "position": {
+        "x": 2468536320,
+        "y": -123985920,
+        "z": -37764341760
+    },
+    "stargate_id": 50007712,
+    "system_id": 30005261,
+    "type_id": 29624
+}

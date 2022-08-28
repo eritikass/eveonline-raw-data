@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008401,
+        "system_id": 30003328
+    },
+    "name": "Stargate (BY-S36)",
+    "position": {
+        "x": -3516729876480,
+        "y": 13968384000,
+        "z": 1646609817600
+    },
+    "stargate_id": 50008288,
+    "system_id": 30003327,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008846,
+        "system_id": 30003224
+    },
+    "name": "Stargate (XEF6-Z)",
+    "position": {
+        "x": 951161364480,
+        "y": 105800785920,
+        "z": -583393075200
+    },
+    "stargate_id": 50009424,
+    "system_id": 30003226,
+    "type_id": 3875
+}

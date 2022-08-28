@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004931,
+        "system_id": 30000028
+    },
+    "name": "Stargate (Eshtah)",
+    "position": {
+        "x": -3674194698240,
+        "y": -279170211840,
+        "z": -5721760604160
+    },
+    "stargate_id": 50004484,
+    "system_id": 30000026,
+    "type_id": 29624
+}

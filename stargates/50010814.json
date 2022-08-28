@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010663,
+        "system_id": 30004673
+    },
+    "name": "Stargate (4Y-OBL)",
+    "position": {
+        "x": 920925265920,
+        "y": -126603141120,
+        "z": -5005240934400
+    },
+    "stargate_id": 50010814,
+    "system_id": 30004675,
+    "type_id": 29624
+}

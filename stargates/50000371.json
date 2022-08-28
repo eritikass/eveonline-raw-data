@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001333,
+        "system_id": 30000792
+    },
+    "name": "Stargate (GDHN-K)",
+    "position": {
+        "x": -2883643760640,
+        "y": -111484477440,
+        "z": -5371716280320
+    },
+    "stargate_id": 50000371,
+    "system_id": 30000790,
+    "type_id": 29633
+}

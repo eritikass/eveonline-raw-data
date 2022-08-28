@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001642,
+        "system_id": 30000073
+    },
+    "name": "Stargate (Irshah)",
+    "position": {
+        "x": -4457014272000,
+        "y": 2295784857600,
+        "z": 4674061885440
+    },
+    "stargate_id": 50001177,
+    "system_id": 30000012,
+    "type_id": 17
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006399,
+        "system_id": 30004102
+    },
+    "name": "Stargate (Inis-Ilix)",
+    "position": {
+        "x": -5610756464640,
+        "y": -408523776000,
+        "z": 587456716800
+    },
+    "stargate_id": 50006333,
+    "system_id": 30004099,
+    "type_id": 29624
+}

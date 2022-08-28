@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012903,
+        "system_id": 30001794
+    },
+    "name": "Stargate (VH-9VO)",
+    "position": {
+        "x": 1615862046720,
+        "y": 308163010560,
+        "z": -2277052538880
+    },
+    "stargate_id": 50012069,
+    "system_id": 30001793,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009321,
+        "system_id": 30003982
+    },
+    "name": "Stargate (K-L690)",
+    "position": {
+        "x": -655866961920,
+        "y": 5571961036800,
+        "z": -3235699138560
+    },
+    "stargate_id": 50009597,
+    "system_id": 30003996,
+    "type_id": 17
+}

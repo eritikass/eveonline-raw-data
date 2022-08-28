@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007656,
+        "system_id": 30002606
+    },
+    "name": "Stargate (NUG-OF)",
+    "position": {
+        "x": -1268519116800,
+        "y": -180265328640,
+        "z": 987522539520
+    },
+    "stargate_id": 50007815,
+    "system_id": 30002607,
+    "type_id": 29633
+}

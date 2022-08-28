@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002272,
+        "system_id": 30001021
+    },
+    "name": "Stargate (XX9-WV)",
+    "position": {
+        "x": -3050269532160,
+        "y": 1036331704320,
+        "z": 4500996710400
+    },
+    "stargate_id": 50001928,
+    "system_id": 30001032,
+    "type_id": 3877
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007518,
+        "system_id": 30003079
+    },
+    "name": "Stargate (Saikamon)",
+    "position": {
+        "x": 905664307200,
+        "y": 95095234560,
+        "z": 2001752186880
+    },
+    "stargate_id": 50004583,
+    "system_id": 30003075,
+    "type_id": 29624
+}

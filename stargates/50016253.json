@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016254,
+        "system_id": 30045319
+    },
+    "name": "Stargate (Eha)",
+    "position": {
+        "x": 553813401600,
+        "y": 17093959680,
+        "z": -5455909724160
+    },
+    "stargate_id": 50016253,
+    "system_id": 30045318,
+    "type_id": 16
+}

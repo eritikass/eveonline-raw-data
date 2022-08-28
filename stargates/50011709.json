@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011935,
+        "system_id": 30004602
+    },
+    "name": "Stargate (UAYL-F)",
+    "position": {
+        "x": -2016376135680,
+        "y": 1150331658240,
+        "z": -3345884405760
+    },
+    "stargate_id": 50011709,
+    "system_id": 30004572,
+    "type_id": 3874
+}

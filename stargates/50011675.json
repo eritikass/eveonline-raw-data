@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011897,
+        "system_id": 30004281
+    },
+    "name": "Stargate (Jerhesh)",
+    "position": {
+        "x": 7267797196800,
+        "y": -671981199360,
+        "z": 5077205114880
+    },
+    "stargate_id": 50011675,
+    "system_id": 30004280,
+    "type_id": 29624
+}

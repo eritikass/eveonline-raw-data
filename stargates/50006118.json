@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005232,
+        "system_id": 30004095
+    },
+    "name": "Stargate (Kador Prime)",
+    "position": {
+        "x": 378829578240,
+        "y": 38839541760,
+        "z": 787315630080
+    },
+    "stargate_id": 50006118,
+    "system_id": 30004097,
+    "type_id": 29624
+}

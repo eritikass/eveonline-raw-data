@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001720,
+        "system_id": 30000664
+    },
+    "name": "Stargate (X9V-15)",
+    "position": {
+        "x": -871937433600,
+        "y": 11319582720,
+        "z": 658177597440
+    },
+    "stargate_id": 50001291,
+    "system_id": 30000663,
+    "type_id": 29633
+}

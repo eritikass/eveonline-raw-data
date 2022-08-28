@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012132,
+        "system_id": 30004612
+    },
+    "name": "Stargate (NY6-FH)",
+    "position": {
+        "x": -55319224320,
+        "y": -4573470720,
+        "z": -49254359040
+    },
+    "stargate_id": 50012018,
+    "system_id": 30004609,
+    "type_id": 3875
+}

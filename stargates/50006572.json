@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006728,
+        "system_id": 30005041
+    },
+    "name": "Stargate (Masanuh)",
+    "position": {
+        "x": 204373647360,
+        "y": 7122739200,
+        "z": -980913807360
+    },
+    "stargate_id": 50006572,
+    "system_id": 30005039,
+    "type_id": 29624
+}

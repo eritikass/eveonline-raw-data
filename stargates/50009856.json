@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006535,
+        "system_id": 30002160
+    },
+    "name": "Stargate (AC-7LZ)",
+    "position": {
+        "x": -809627197440,
+        "y": -9316392960,
+        "z": 370580889600
+    },
+    "stargate_id": 50009856,
+    "system_id": 30002163,
+    "type_id": 29633
+}

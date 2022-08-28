@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010536,
+        "system_id": 30003662
+    },
+    "name": "Stargate (EN-GTB)",
+    "position": {
+        "x": 597286379520,
+        "y": 7043112960,
+        "z": 650905804800
+    },
+    "stargate_id": 50010065,
+    "system_id": 30003658,
+    "type_id": 16
+}

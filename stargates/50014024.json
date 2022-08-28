@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014023,
+        "system_id": 30003151
+    },
+    "name": "Stargate (R-ARKN)",
+    "position": {
+        "x": 5393056358400,
+        "y": -741306408960,
+        "z": 846478909440
+    },
+    "stargate_id": 50014024,
+    "system_id": 30004691,
+    "type_id": 29626
+}

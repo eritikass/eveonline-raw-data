@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002882,
+        "system_id": 30003019
+    },
+    "name": "Stargate (Cherore)",
+    "position": {
+        "x": 11190718095360,
+        "y": 7054849597440,
+        "z": 11918870077440
+    },
+    "stargate_id": 50001139,
+    "system_id": 30003029,
+    "type_id": 3874
+}

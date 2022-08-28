@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016378,
+        "system_id": 30004984
+    },
+    "name": "Stargate (Abune)",
+    "position": {
+        "x": -1097338429440,
+        "y": -470552616960,
+        "z": -2412347351040
+    },
+    "stargate_id": 50016377,
+    "system_id": 30045347,
+    "type_id": 3873
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008419,
+        "system_id": 30002063
+    },
+    "name": "Stargate (Helgatild)",
+    "position": {
+        "x": -1017608970240,
+        "y": -65757880320,
+        "z": -1400283586560
+    },
+    "stargate_id": 50007792,
+    "system_id": 30002062,
+    "type_id": 29633
+}

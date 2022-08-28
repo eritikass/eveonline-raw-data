@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009723,
+        "system_id": 30001114
+    },
+    "name": "Stargate (APES-G)",
+    "position": {
+        "x": 851695902720,
+        "y": 163273236480,
+        "z": 342605537280
+    },
+    "stargate_id": 50007180,
+    "system_id": 30001112,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013178,
+        "system_id": 30004247
+    },
+    "name": "Stargate (Marmeha)",
+    "position": {
+        "x": 786844262400,
+        "y": 46507745280,
+        "z": -1418179092480
+    },
+    "stargate_id": 50011220,
+    "system_id": 30004243,
+    "type_id": 29624
+}

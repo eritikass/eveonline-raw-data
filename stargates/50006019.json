@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006833,
+        "system_id": 30002905
+    },
+    "name": "Stargate (2R-CRW)",
+    "position": {
+        "x": -955096965120,
+        "y": 162834800640,
+        "z": 1033988136960
+    },
+    "stargate_id": 50006019,
+    "system_id": 30002903,
+    "type_id": 16
+}

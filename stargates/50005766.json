@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007696,
+        "system_id": 30002675
+    },
+    "name": "Stargate (Stayme)",
+    "position": {
+        "x": 266317455360,
+        "y": -47242567680,
+        "z": -1147037491200
+    },
+    "stargate_id": 50005766,
+    "system_id": 30002672,
+    "type_id": 3875
+}

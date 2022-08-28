@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002174,
+        "system_id": 30001034
+    },
+    "name": "Stargate (CVY-UC)",
+    "position": {
+        "x": -1003860418560,
+        "y": 190873804800,
+        "z": -463807488000
+    },
+    "stargate_id": 50002155,
+    "system_id": 30001033,
+    "type_id": 29633
+}

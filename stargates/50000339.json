@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003080,
+        "system_id": 30002295
+    },
+    "name": "Stargate (D3S-EA)",
+    "position": {
+        "x": -795298652160,
+        "y": -96656302080,
+        "z": -3414976143360
+    },
+    "stargate_id": 50000339,
+    "system_id": 30002289,
+    "type_id": 3875
+}

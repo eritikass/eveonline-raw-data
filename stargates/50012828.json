@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012942,
+        "system_id": 30002946
+    },
+    "name": "Stargate (XCBK-X)",
+    "position": {
+        "x": -82588508160,
+        "y": 9170903040,
+        "z": 276568350720
+    },
+    "stargate_id": 50012828,
+    "system_id": 30002944,
+    "type_id": 16
+}

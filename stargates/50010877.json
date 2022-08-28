@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011455,
+        "system_id": 30004180
+    },
+    "name": "Stargate (CBY8-J)",
+    "position": {
+        "x": -157607239680,
+        "y": -7367516160,
+        "z": -70021570560
+    },
+    "stargate_id": 50010877,
+    "system_id": 30004177,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008316,
+        "system_id": 30002074
+    },
+    "name": "Stargate (Lanngisi)",
+    "position": {
+        "x": -344788131840,
+        "y": -20689674240,
+        "z": 280530739200
+    },
+    "stargate_id": 50004700,
+    "system_id": 30002068,
+    "type_id": 29633
+}

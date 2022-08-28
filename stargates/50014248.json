@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014247,
+        "system_id": 30002321
+    },
+    "name": "Stargate (FB-MPY)",
+    "position": {
+        "x": -1158440755200,
+        "y": 737421926400,
+        "z": -1339315200000
+    },
+    "stargate_id": 50014248,
+    "system_id": 30002836,
+    "type_id": 29632
+}

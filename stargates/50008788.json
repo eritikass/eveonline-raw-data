@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005574,
+        "system_id": 30001692
+    },
+    "name": "Stargate (Kibursha)",
+    "position": {
+        "x": -5679325224960,
+        "y": 1141485281280,
+        "z": -1309292666880
+    },
+    "stargate_id": 50008788,
+    "system_id": 30001715,
+    "type_id": 17
+}

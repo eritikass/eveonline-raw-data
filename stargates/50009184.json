@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010334,
+        "system_id": 30004019
+    },
+    "name": "Stargate (3-FKCZ)",
+    "position": {
+        "x": 2730568212480,
+        "y": 1889241292800,
+        "z": 279036518400
+    },
+    "stargate_id": 50009184,
+    "system_id": 30003957,
+    "type_id": 17
+}

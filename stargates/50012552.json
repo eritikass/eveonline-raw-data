@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013477,
+        "system_id": 30003593
+    },
+    "name": "Stargate (Stoure)",
+    "position": {
+        "x": -1931614494720,
+        "y": 314837114880,
+        "z": -2330217799680
+    },
+    "stargate_id": 50012552,
+    "system_id": 30003592,
+    "type_id": 3875
+}

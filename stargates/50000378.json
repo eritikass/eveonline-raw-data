@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000915,
+        "system_id": 30000848
+    },
+    "name": "Stargate (M-OEE8)",
+    "position": {
+        "x": -3540151050240,
+        "y": -15738347520,
+        "z": -1702331719680
+    },
+    "stargate_id": 50000378,
+    "system_id": 30000846,
+    "type_id": 16
+}

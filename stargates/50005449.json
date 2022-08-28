@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004907,
+        "system_id": 30005307
+    },
+    "name": "Stargate (Aidart)",
+    "position": {
+        "x": 867707904000,
+        "y": 4199911956480,
+        "z": -1265365770240
+    },
+    "stargate_id": 50005449,
+    "system_id": 30003794,
+    "type_id": 29632
+}

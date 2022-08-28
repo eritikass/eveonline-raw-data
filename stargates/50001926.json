@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001723,
+        "system_id": 30001030
+    },
+    "name": "Stargate (S1DP-Y)",
+    "position": {
+        "x": -952684339200,
+        "y": -174578442240,
+        "z": 327102750720
+    },
+    "stargate_id": 50001926,
+    "system_id": 30001032,
+    "type_id": 29633
+}

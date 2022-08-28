@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005098,
+        "system_id": 30001843
+    },
+    "name": "Stargate (IP-MVJ)",
+    "position": {
+        "x": 541263421440,
+        "y": -102189834240,
+        "z": -12087565148160
+    },
+    "stargate_id": 50005045,
+    "system_id": 30001842,
+    "type_id": 29624
+}

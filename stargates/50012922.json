@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013111,
+        "system_id": 30004862
+    },
+    "name": "Stargate (8-BEW8)",
+    "position": {
+        "x": 346632069120,
+        "y": -50123120640,
+        "z": -1339735695360
+    },
+    "stargate_id": 50012922,
+    "system_id": 30004859,
+    "type_id": 29633
+}

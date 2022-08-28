@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013184,
+        "system_id": 30003598
+    },
+    "name": "Stargate (Ogaria)",
+    "position": {
+        "x": -3114129776640,
+        "y": -528089948160,
+        "z": 734319697920
+    },
+    "stargate_id": 50011818,
+    "system_id": 30003597,
+    "type_id": 3875
+}

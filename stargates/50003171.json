@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003903,
+        "system_id": 30000962
+    },
+    "name": "Stargate (1L-AED)",
+    "position": {
+        "x": -1905116897280,
+        "y": 6619315445760,
+        "z": 3905310842880
+    },
+    "stargate_id": 50003171,
+    "system_id": 30000915,
+    "type_id": 3877
+}

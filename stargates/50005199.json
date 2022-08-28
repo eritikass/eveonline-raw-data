@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004298,
+        "system_id": 30000639
+    },
+    "name": "Stargate (M-MCP8)",
+    "position": {
+        "x": -1514355793920,
+        "y": 1117826703360,
+        "z": -8492709765120
+    },
+    "stargate_id": 50005199,
+    "system_id": 30000649,
+    "type_id": 3877
+}

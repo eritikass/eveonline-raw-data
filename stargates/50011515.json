@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011289,
+        "system_id": 30003695
+    },
+    "name": "Stargate (8W-OSE)",
+    "position": {
+        "x": 1601346969600,
+        "y": 153784688640,
+        "z": -1387344568320
+    },
+    "stargate_id": 50011515,
+    "system_id": 30003696,
+    "type_id": 3875
+}

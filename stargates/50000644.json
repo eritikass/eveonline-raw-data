@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001636,
+        "system_id": 30001067
+    },
+    "name": "Stargate (6UT-1K)",
+    "position": {
+        "x": -27697274880,
+        "y": -1011425280,
+        "z": -1458285649920
+    },
+    "stargate_id": 50000644,
+    "system_id": 30001064,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002051,
+        "system_id": 30001384
+    },
+    "name": "Stargate (Autaris)",
+    "position": {
+        "x": 2063850086400,
+        "y": -322631147520,
+        "z": 8380379258880
+    },
+    "stargate_id": 50000325,
+    "system_id": 30001380,
+    "type_id": 16
+}

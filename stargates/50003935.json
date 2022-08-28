@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002847,
+        "system_id": 30001529
+    },
+    "name": "Stargate (B9EA-G)",
+    "position": {
+        "x": -856849735680,
+        "y": 786859008000,
+        "z": -256779264000
+    },
+    "stargate_id": 50003935,
+    "system_id": 30001580,
+    "type_id": 3874
+}

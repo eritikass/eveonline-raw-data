@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011253,
+        "system_id": 30004249
+    },
+    "name": "Stargate (Avada)",
+    "position": {
+        "x": 691988029440,
+        "y": -8096440320,
+        "z": 2524629934080
+    },
+    "stargate_id": 50012109,
+    "system_id": 30004253,
+    "type_id": 29624
+}

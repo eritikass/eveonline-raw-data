@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010777,
+        "system_id": 30001789
+    },
+    "name": "Stargate (NHKO-4)",
+    "position": {
+        "x": -3859402383360,
+        "y": -235053834240,
+        "z": -1225286983680
+    },
+    "stargate_id": 50011127,
+    "system_id": 30001790,
+    "type_id": 3875
+}

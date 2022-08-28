@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006817,
+        "system_id": 30000060
+    },
+    "name": "Stargate (Janus)",
+    "position": {
+        "x": -71426088960,
+        "y": -3435847680,
+        "z": 61928202240
+    },
+    "stargate_id": 50007887,
+    "system_id": 30000062,
+    "type_id": 29624
+}

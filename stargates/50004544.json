@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007280,
+        "system_id": 30002981
+    },
+    "name": "Stargate (Halmah)",
+    "position": {
+        "x": -2687244902400,
+        "y": -24208220160,
+        "z": 1196560343040
+    },
+    "stargate_id": 50004544,
+    "system_id": 30002977,
+    "type_id": 29624
+}

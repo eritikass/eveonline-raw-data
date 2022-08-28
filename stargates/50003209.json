@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003680,
+        "system_id": 30000981
+    },
+    "name": "Stargate (F7A-MR)",
+    "position": {
+        "x": -3896801648640,
+        "y": 581046804480,
+        "z": 3551457976320
+    },
+    "stargate_id": 50003209,
+    "system_id": 30000979,
+    "type_id": 29633
+}

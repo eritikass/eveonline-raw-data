@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011704,
+        "system_id": 30004377
+    },
+    "name": "Stargate (SVB-RE)",
+    "position": {
+        "x": 905400606720,
+        "y": 98953420800,
+        "z": 501401395200
+    },
+    "stargate_id": 50011591,
+    "system_id": 30004376,
+    "type_id": 16
+}

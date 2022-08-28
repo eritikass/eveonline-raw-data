@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006758,
+        "system_id": 30002022
+    },
+    "name": "Stargate (RZC-16)",
+    "position": {
+        "x": 14317691658240,
+        "y": -1987480412160,
+        "z": -1413875589120
+    },
+    "stargate_id": 50007999,
+    "system_id": 30002035,
+    "type_id": 29627
+}

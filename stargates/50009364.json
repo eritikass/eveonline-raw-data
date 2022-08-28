@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011409,
+        "system_id": 30005180
+    },
+    "name": "Stargate (9IZ-HU)",
+    "position": {
+        "x": 1675529871360,
+        "y": -5720727674880,
+        "z": -3317828689920
+    },
+    "stargate_id": 50009364,
+    "system_id": 30005168,
+    "type_id": 3874
+}

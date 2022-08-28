@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001816,
+        "system_id": 30001168
+    },
+    "name": "Stargate (ZXIC-7)",
+    "position": {
+        "x": -3639348142080,
+        "y": 80250101760,
+        "z": 3497109872640
+    },
+    "stargate_id": 50002256,
+    "system_id": 30001194,
+    "type_id": 17
+}

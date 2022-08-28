@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011873,
+        "system_id": 30001929
+    },
+    "name": "Stargate (Z-XMUC)",
+    "position": {
+        "x": 756866949120,
+        "y": -43597209600,
+        "z": 2660925480960
+    },
+    "stargate_id": 50011475,
+    "system_id": 30001925,
+    "type_id": 29624
+}

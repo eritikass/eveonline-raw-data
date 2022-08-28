@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002133,
+        "system_id": 30001058
+    },
+    "name": "Stargate (Y6-9LF)",
+    "position": {
+        "x": -7512808611840,
+        "y": 1262586961920,
+        "z": -3970597969920
+    },
+    "stargate_id": 50003678,
+    "system_id": 30001061,
+    "type_id": 3875
+}

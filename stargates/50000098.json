@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000642,
+        "system_id": 30001064
+    },
+    "name": "Stargate (F-TQWO)",
+    "position": {
+        "x": -391739842560,
+        "y": 58101473280,
+        "z": 211633152000
+    },
+    "stargate_id": 50000098,
+    "system_id": 30001063,
+    "type_id": 3875
+}

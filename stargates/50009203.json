@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007298,
+        "system_id": 30002658
+    },
+    "name": "Stargate (Agrallarier)",
+    "position": {
+        "x": 2761782927360,
+        "y": 118784040960,
+        "z": -1436180275200
+    },
+    "stargate_id": 50009203,
+    "system_id": 30002660,
+    "type_id": 3875
+}

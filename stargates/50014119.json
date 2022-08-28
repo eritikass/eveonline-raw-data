@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014120,
+        "system_id": 30035042
+    },
+    "name": "Stargate (Chaktaren)",
+    "position": {
+        "x": -2661571092480,
+        "y": 275042672640,
+        "z": 4881548206080
+    },
+    "stargate_id": 50014119,
+    "system_id": 30005048,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010170,
+        "system_id": 30005167
+    },
+    "name": "Stargate (A1F-22)",
+    "position": {
+        "x": -2021542256640,
+        "y": -276751933440,
+        "z": 1625051996160
+    },
+    "stargate_id": 50009532,
+    "system_id": 30005161,
+    "type_id": 3875
+}

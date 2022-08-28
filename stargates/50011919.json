@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013416,
+        "system_id": 30000207
+    },
+    "name": "Stargate (Osaa)",
+    "position": {
+        "x": 1460266229760,
+        "y": -48692551680,
+        "z": -662931333120
+    },
+    "stargate_id": 50011919,
+    "system_id": 30000202,
+    "type_id": 16
+}

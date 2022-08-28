@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009518,
+        "system_id": 30005271
+    },
+    "name": "Stargate (Shapisin)",
+    "position": {
+        "x": 6789740912640,
+        "y": -207208980480,
+        "z": -66374000640
+    },
+    "stargate_id": 50009829,
+    "system_id": 30005273,
+    "type_id": 29624
+}

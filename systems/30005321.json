@@ -1,0 +1,72 @@
+{
+    "constellation_id": 20000778,
+    "name": "Jovainnon",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40336518
+            ],
+            "planet_id": 40336517
+        },
+        {
+            "planet_id": 40336519
+        },
+        {
+            "asteroid_belts": [
+                40336521
+            ],
+            "moons": [
+                40336522
+            ],
+            "planet_id": 40336520
+        },
+        {
+            "asteroid_belts": [
+                40336524
+            ],
+            "planet_id": 40336523
+        },
+        {
+            "planet_id": 40336525
+        },
+        {
+            "moons": [
+                40336527
+            ],
+            "planet_id": 40336526
+        },
+        {
+            "asteroid_belts": [
+                40336529
+            ],
+            "planet_id": 40336528
+        },
+        {
+            "asteroid_belts": [
+                40336531
+            ],
+            "moons": [
+                40336532,
+                40336533
+            ],
+            "planet_id": 40336530
+        }
+    ],
+    "position": {
+        "x": -231267617331987780,
+        "y": 54099384589729550,
+        "z": 60132572822748260
+    },
+    "security_class": "D2",
+    "security_status": 0.2981414198875427,
+    "star_id": 40336516,
+    "stargates": [
+        50008577,
+        50013718
+    ],
+    "stations": [
+        60009400,
+        60009406
+    ],
+    "system_id": 30005321
+}

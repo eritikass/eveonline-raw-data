@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002374,
+        "system_id": 30005194
+    },
+    "name": "Stargate (Cleyd)",
+    "position": {
+        "x": -2698845020160,
+        "y": -311055851520,
+        "z": -3461237022720
+    },
+    "stargate_id": 50001485,
+    "system_id": 30005193,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006047,
+        "system_id": 30001395
+    },
+    "name": "Stargate (Ylandoki)",
+    "position": {
+        "x": -1703622205440,
+        "y": 15270420480,
+        "z": -63402762240
+    },
+    "stargate_id": 50006647,
+    "system_id": 30001396,
+    "type_id": 16
+}

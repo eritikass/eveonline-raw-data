@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010633,
+        "system_id": 30004737
+    },
+    "name": "Stargate (Q-HESZ)",
+    "position": {
+        "x": -379516477440,
+        "y": 28995133440,
+        "z": -503879393280
+    },
+    "stargate_id": 50010946,
+    "system_id": 30004738,
+    "type_id": 29624
+}

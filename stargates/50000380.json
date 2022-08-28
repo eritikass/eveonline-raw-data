@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001845,
+        "system_id": 30000754
+    },
+    "name": "Stargate (F39H-1)",
+    "position": {
+        "x": -131370885120,
+        "y": -2081955840,
+        "z": -480529981440
+    },
+    "stargate_id": 50000380,
+    "system_id": 30000752,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006996,
+        "system_id": 30003047
+    },
+    "name": "Stargate (Averon)",
+    "position": {
+        "x": -6108972687360,
+        "y": -148235919360,
+        "z": -5146766991360
+    },
+    "stargate_id": 50005219,
+    "system_id": 30003045,
+    "type_id": 3875
+}

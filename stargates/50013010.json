@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012603,
+        "system_id": 30004290
+    },
+    "name": "Stargate (Zaveral)",
+    "position": {
+        "x": 275697623040,
+        "y": -51940761600,
+        "z": -2300093521920
+    },
+    "stargate_id": 50013010,
+    "system_id": 30004295,
+    "type_id": 29624
+}

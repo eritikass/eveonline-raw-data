@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003886,
+        "system_id": 30002777
+    },
+    "name": "Stargate (Isutaka)",
+    "position": {
+        "x": -5866661191680,
+        "y": -654262886400,
+        "z": 2578061107200
+    },
+    "stargate_id": 50004503,
+    "system_id": 30002778,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012363,
+        "system_id": 30004620
+    },
+    "name": "Stargate (75FA-Z)",
+    "position": {
+        "x": 3050167296000,
+        "y": -255541616640,
+        "z": -3518953267200
+    },
+    "stargate_id": 50012192,
+    "system_id": 30004617,
+    "type_id": 3875
+}

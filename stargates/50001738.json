@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001890,
+        "system_id": 30000622
+    },
+    "name": "Stargate (IVP-KA)",
+    "position": {
+        "x": 5352254545920,
+        "y": -447352381440,
+        "z": 2062198087680
+    },
+    "stargate_id": 50001738,
+    "system_id": 30000762,
+    "type_id": 29635
+}

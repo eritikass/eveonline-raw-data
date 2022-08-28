@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005104,
+        "system_id": 30002356
+    },
+    "name": "Stargate (HV-EAP)",
+    "position": {
+        "x": 2248514150400,
+        "y": 193380065280,
+        "z": 3383267942400
+    },
+    "stargate_id": 50005179,
+    "system_id": 30002358,
+    "type_id": 3875
+}

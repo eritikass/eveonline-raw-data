@@ -1,0 +1,83 @@
+{
+    "constellation_id": 20000669,
+    "name": "7X-02R",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40289952
+            ],
+            "planet_id": 40289951
+        },
+        {
+            "planet_id": 40289953
+        },
+        {
+            "asteroid_belts": [
+                40289955,
+                40289956
+            ],
+            "moons": [
+                40289957
+            ],
+            "planet_id": 40289954
+        },
+        {
+            "asteroid_belts": [
+                40289959
+            ],
+            "planet_id": 40289958
+        },
+        {
+            "asteroid_belts": [
+                40289961
+            ],
+            "moons": [
+                40289962
+            ],
+            "planet_id": 40289960
+        },
+        {
+            "asteroid_belts": [
+                40289964
+            ],
+            "moons": [
+                40289965
+            ],
+            "planet_id": 40289963
+        },
+        {
+            "moons": [
+                40289967,
+                40289968
+            ],
+            "planet_id": 40289966
+        },
+        {
+            "asteroid_belts": [
+                40289970
+            ],
+            "moons": [
+                40289971,
+                40289972,
+                40289973
+            ],
+            "planet_id": 40289969
+        },
+        {
+            "planet_id": 40289974
+        }
+    ],
+    "position": {
+        "x": -432294019419972740,
+        "y": 47120025825598420,
+        "z": 50593517524916650
+    },
+    "security_class": "J",
+    "security_status": -0.09251948446035385,
+    "star_id": 40289950,
+    "stargates": [
+        50011569,
+        50011570
+    ],
+    "system_id": 30004587
+}

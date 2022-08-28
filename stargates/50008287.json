@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008131,
+        "system_id": 30003278
+    },
+    "name": "Stargate (X-M2LR)",
+    "position": {
+        "x": 1437209763840,
+        "y": -604811550720,
+        "z": -3976640471040
+    },
+    "stargate_id": 50008287,
+    "system_id": 30003327,
+    "type_id": 3874
+}

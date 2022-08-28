@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002016,
+        "system_id": 30000243
+    },
+    "name": "Stargate (PM-DWE)",
+    "position": {
+        "x": 3525834055680,
+        "y": 693444403200,
+        "z": -854464880640
+    },
+    "stargate_id": 50001398,
+    "system_id": 30000240,
+    "type_id": 16
+}

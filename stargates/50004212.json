@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003415,
+        "system_id": 30004810
+    },
+    "name": "Stargate (6-IAFR)",
+    "position": {
+        "x": 1903018352640,
+        "y": 1018722508800,
+        "z": 6425608888320
+    },
+    "stargate_id": 50004212,
+    "system_id": 30004817,
+    "type_id": 3877
+}

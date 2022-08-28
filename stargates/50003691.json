@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003604,
+        "system_id": 30000826
+    },
+    "name": "Stargate (D-P1EH)",
+    "position": {
+        "x": 203247575040,
+        "y": 37756968960,
+        "z": 601338470400
+    },
+    "stargate_id": 50003691,
+    "system_id": 30000827,
+    "type_id": 29633
+}

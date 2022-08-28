@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008741,
+        "system_id": 30004494
+    },
+    "name": "Stargate (RL-KT0)",
+    "position": {
+        "x": 1122285527040,
+        "y": 110331617280,
+        "z": 744340807680
+    },
+    "stargate_id": 50008807,
+    "system_id": 30004496,
+    "type_id": 3875
+}

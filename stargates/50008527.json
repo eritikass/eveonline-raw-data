@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009567,
+        "system_id": 30002500
+    },
+    "name": "Stargate (JE1-36)",
+    "position": {
+        "x": -205826580480,
+        "y": -39159521280,
+        "z": -1527748730880
+    },
+    "stargate_id": 50008527,
+    "system_id": 30002499,
+    "type_id": 16
+}

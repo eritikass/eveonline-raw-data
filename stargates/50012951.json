@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013032,
+        "system_id": 30004861
+    },
+    "name": "Stargate (MS1-KJ)",
+    "position": {
+        "x": 4012453109760,
+        "y": 104980684800,
+        "z": -727456849920
+    },
+    "stargate_id": 50012951,
+    "system_id": 30004860,
+    "type_id": 29633
+}

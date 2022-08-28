@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013415,
+        "system_id": 30004265
+    },
+    "name": "Stargate (Yekh)",
+    "position": {
+        "x": -2728089231360,
+        "y": 141281402880,
+        "z": -308280975360
+    },
+    "stargate_id": 50013285,
+    "system_id": 30004262,
+    "type_id": 29624
+}

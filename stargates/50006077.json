@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008003,
+        "system_id": 30003543
+    },
+    "name": "Stargate (Zanka)",
+    "position": {
+        "x": 896399400960,
+        "y": -42486374400,
+        "z": -1815043399680
+    },
+    "stargate_id": 50006077,
+    "system_id": 30003542,
+    "type_id": 29624
+}

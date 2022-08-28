@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007420,
+        "system_id": 30001340
+    },
+    "name": "Stargate (430-BE)",
+    "position": {
+        "x": 3337875578880,
+        "y": -51922821120,
+        "z": -1016570142720
+    },
+    "stargate_id": 50006777,
+    "system_id": 30001337,
+    "type_id": 16
+}

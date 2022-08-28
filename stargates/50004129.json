@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003599,
+        "system_id": 30001972
+    },
+    "name": "Stargate (5-9WNU)",
+    "position": {
+        "x": 189936230400,
+        "y": -7501209600,
+        "z": -3374927585280
+    },
+    "stargate_id": 50004129,
+    "system_id": 30001975,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004028,
+        "system_id": 30002316
+    },
+    "name": "Stargate (FKR-SR)",
+    "position": {
+        "x": -1157122007040,
+        "y": 27690393600,
+        "z": -619128053760
+    },
+    "stargate_id": 50003463,
+    "system_id": 30002315,
+    "type_id": 3875
+}

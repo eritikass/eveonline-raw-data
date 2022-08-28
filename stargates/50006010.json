@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005864,
+        "system_id": 30001324
+    },
+    "name": "Stargate (PF-QHK)",
+    "position": {
+        "x": 1530623385600,
+        "y": 131228590080,
+        "z": 1581596467200
+    },
+    "stargate_id": 50006010,
+    "system_id": 30001326,
+    "type_id": 16
+}

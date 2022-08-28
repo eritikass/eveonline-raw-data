@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002543,
+        "system_id": 30003517
+    },
+    "name": "Stargate (Etav)",
+    "position": {
+        "x": -3013412413440,
+        "y": 88394833920,
+        "z": 646977822720
+    },
+    "stargate_id": 50001943,
+    "system_id": 30003515,
+    "type_id": 29624
+}

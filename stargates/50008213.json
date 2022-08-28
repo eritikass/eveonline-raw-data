@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008061,
+        "system_id": 30003912
+    },
+    "name": "Stargate (Danera)",
+    "position": {
+        "x": 1260570009600,
+        "y": 121610526720,
+        "z": 2014313717760
+    },
+    "stargate_id": 50008213,
+    "system_id": 30003914,
+    "type_id": 29624
+}

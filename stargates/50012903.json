@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012069,
+        "system_id": 30001793
+    },
+    "name": "Stargate (JX-SOA)",
+    "position": {
+        "x": 729596928000,
+        "y": -139862138880,
+        "z": 2088519229440
+    },
+    "stargate_id": 50012903,
+    "system_id": 30001794,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002971,
+        "system_id": 30000122
+    },
+    "name": "Stargate (Mahtista)",
+    "position": {
+        "x": 8182010880000,
+        "y": 1415263887360,
+        "z": 1681277460480
+    },
+    "stargate_id": 50000454,
+    "system_id": 30000120,
+    "type_id": 16
+}

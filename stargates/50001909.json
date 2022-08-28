@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001318,
+        "system_id": 30001158
+    },
+    "name": "Stargate (SV5-8N)",
+    "position": {
+        "x": 306273853440,
+        "y": 15623331840,
+        "z": 1873405501440
+    },
+    "stargate_id": 50001909,
+    "system_id": 30001160,
+    "type_id": 29624
+}

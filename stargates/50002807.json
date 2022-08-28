@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000561,
+        "system_id": 30000228
+    },
+    "name": "Stargate (3HX-DL)",
+    "position": {
+        "x": 1584525926400,
+        "y": -318960721920,
+        "z": -4413995950080
+    },
+    "stargate_id": 50002807,
+    "system_id": 30000233,
+    "type_id": 16
+}

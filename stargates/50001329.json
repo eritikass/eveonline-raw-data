@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003793,
+        "system_id": 30000851
+    },
+    "name": "Stargate (MJI3-8)",
+    "position": {
+        "x": 161108828160,
+        "y": 32342384640,
+        "z": -2304675225600
+    },
+    "stargate_id": 50001329,
+    "system_id": 30000849,
+    "type_id": 16
+}

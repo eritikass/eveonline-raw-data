@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006606,
+        "system_id": 30001553
+    },
+    "name": "Stargate (3ET-G8)",
+    "position": {
+        "x": -1129410600960,
+        "y": 64761569280,
+        "z": 7877783592960
+    },
+    "stargate_id": 50003419,
+    "system_id": 30001550,
+    "type_id": 3875
+}

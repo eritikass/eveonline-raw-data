@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001500,
+        "system_id": 30004805
+    },
+    "name": "Stargate (S4-9DN)",
+    "position": {
+        "x": -1458252718080,
+        "y": -28229099520,
+        "z": -3311594987520
+    },
+    "stargate_id": 50000694,
+    "system_id": 30004804,
+    "type_id": 29633
+}

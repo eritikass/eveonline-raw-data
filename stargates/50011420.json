@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012162,
+        "system_id": 30002100
+    },
+    "name": "Stargate (Taff)",
+    "position": {
+        "x": 1600193617920,
+        "y": -2309283840,
+        "z": -2773084200960
+    },
+    "stargate_id": 50011420,
+    "system_id": 30002099,
+    "type_id": 29633
+}

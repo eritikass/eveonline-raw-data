@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013956,
+        "system_id": 30003031
+    },
+    "name": "Stargate (Athinard)",
+    "position": {
+        "x": 316846448640,
+        "y": -3922041200640,
+        "z": -553775308800
+    },
+    "stargate_id": 50013955,
+    "system_id": 30002659,
+    "type_id": 29632
+}

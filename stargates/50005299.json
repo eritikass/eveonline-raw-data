@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005880,
+        "system_id": 30002012
+    },
+    "name": "Stargate (B8EN-S)",
+    "position": {
+        "x": 1081584721920,
+        "y": -131091701760,
+        "z": 402518138880
+    },
+    "stargate_id": 50005299,
+    "system_id": 30002011,
+    "type_id": 16
+}

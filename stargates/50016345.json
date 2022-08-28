@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016346,
+        "system_id": 30045330
+    },
+    "name": "Stargate (Okkamon)",
+    "position": {
+        "x": -256130211840,
+        "y": -9642762240,
+        "z": -229539225600
+    },
+    "stargate_id": 50016345,
+    "system_id": 30045334,
+    "type_id": 16
+}

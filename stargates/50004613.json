@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003769,
+        "system_id": 30002051
+    },
+    "name": "Stargate (Anher)",
+    "position": {
+        "x": -1804698624000,
+        "y": 6217672826880,
+        "z": 1376491806720
+    },
+    "stargate_id": 50004613,
+    "system_id": 30002060,
+    "type_id": 3877
+}

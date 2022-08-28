@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011208,
+        "system_id": 30003583
+    },
+    "name": "Stargate (Weraroix)",
+    "position": {
+        "x": 2804474142720,
+        "y": -123381473280,
+        "z": -1338595368960
+    },
+    "stargate_id": 50011372,
+    "system_id": 30003584,
+    "type_id": 3875
+}

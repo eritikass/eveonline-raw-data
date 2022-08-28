@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009000,
+        "system_id": 30003339
+    },
+    "name": "Stargate (VLGD-R)",
+    "position": {
+        "x": 348744867840,
+        "y": 22983352320,
+        "z": -1353738117120
+    },
+    "stargate_id": 50009041,
+    "system_id": 30003340,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001558,
+        "system_id": 30002130
+    },
+    "name": "Stargate (ZJA-6U)",
+    "position": {
+        "x": -1559127367680,
+        "y": -231347527680,
+        "z": -1253097676800
+    },
+    "stargate_id": 50001563,
+    "system_id": 30002131,
+    "type_id": 29633
+}

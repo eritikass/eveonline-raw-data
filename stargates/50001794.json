@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000721,
+        "system_id": 30000784
+    },
+    "name": "Stargate (YPW-M4)",
+    "position": {
+        "x": 146269839360,
+        "y": 16657981440,
+        "z": -41025085440
+    },
+    "stargate_id": 50001794,
+    "system_id": 30000787,
+    "type_id": 29633
+}

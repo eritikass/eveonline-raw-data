@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001834,
+        "system_id": 30002776
+    },
+    "name": "Stargate (Annaro)",
+    "position": {
+        "x": 1724113674240,
+        "y": 256280125440,
+        "z": -61113262080
+    },
+    "stargate_id": 50006752,
+    "system_id": 30002780,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008245,
+        "system_id": 30003757
+    },
+    "name": "Stargate (BK4-YC)",
+    "position": {
+        "x": -1583520276480,
+        "y": -43678801920,
+        "z": -2405794652160
+    },
+    "stargate_id": 50006043,
+    "system_id": 30003755,
+    "type_id": 29624
+}

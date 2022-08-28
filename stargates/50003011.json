@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000838,
+        "system_id": 30000912
+    },
+    "name": "Stargate (504Z-V)",
+    "position": {
+        "x": -5012559667200,
+        "y": -476232376320,
+        "z": 948895457280
+    },
+    "stargate_id": 50003011,
+    "system_id": 30000914,
+    "type_id": 29633
+}

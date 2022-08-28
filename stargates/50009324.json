@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008752,
+        "system_id": 30003625
+    },
+    "name": "Stargate (KMV-CQ)",
+    "position": {
+        "x": -3447583334400,
+        "y": -344783462400,
+        "z": -170757611520
+    },
+    "stargate_id": 50009324,
+    "system_id": 30003627,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008140,
+        "system_id": 30005254
+    },
+    "name": "Stargate (Abhan)",
+    "position": {
+        "x": 835280855040,
+        "y": 4233576161280,
+        "z": 3371125432320
+    },
+    "stargate_id": 50007523,
+    "system_id": 30005256,
+    "type_id": 17
+}

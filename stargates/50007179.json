@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003214,
+        "system_id": 30001110
+    },
+    "name": "Stargate (I8-AJY)",
+    "position": {
+        "x": -181113200640,
+        "y": -34705367040,
+        "z": 29519093760
+    },
+    "stargate_id": 50007179,
+    "system_id": 30001112,
+    "type_id": 3875
+}

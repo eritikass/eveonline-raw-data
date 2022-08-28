@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000182,
+        "system_id": 30003381
+    },
+    "name": "Stargate (Eust)",
+    "position": {
+        "x": -839071457280,
+        "y": 136064901120,
+        "z": 2085540618240
+    },
+    "stargate_id": 50001105,
+    "system_id": 30003382,
+    "type_id": 29633
+}

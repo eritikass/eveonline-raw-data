@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005621,
+        "system_id": 30002362
+    },
+    "name": "Stargate (CL-IRS)",
+    "position": {
+        "x": -656941178880,
+        "y": -88020541440,
+        "z": -76786851840
+    },
+    "stargate_id": 50005364,
+    "system_id": 30002360,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012619,
+        "system_id": 30001908
+    },
+    "name": "Stargate (TL-T9Z)",
+    "position": {
+        "x": -295092264960,
+        "y": 54679756800,
+        "z": 2288689274880
+    },
+    "stargate_id": 50012679,
+    "system_id": 30001909,
+    "type_id": 29624
+}

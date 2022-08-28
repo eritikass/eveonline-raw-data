@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003786,
+        "system_id": 30000696
+    },
+    "name": "Stargate (NSBE-L)",
+    "position": {
+        "x": 125842513920,
+        "y": 20705157120,
+        "z": -108919480320
+    },
+    "stargate_id": 50001060,
+    "system_id": 30000693,
+    "type_id": 29633
+}

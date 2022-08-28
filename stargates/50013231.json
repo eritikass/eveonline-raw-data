@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013259,
+        "system_id": 30004963
+    },
+    "name": "Stargate (RYQC-I)",
+    "position": {
+        "x": 1648074055680,
+        "y": -92717260800,
+        "z": 2490532945920
+    },
+    "stargate_id": 50013231,
+    "system_id": 30004961,
+    "type_id": 29624
+}

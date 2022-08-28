@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006624,
+        "system_id": 30005245
+    },
+    "name": "Stargate (Tahli)",
+    "position": {
+        "x": 1205113282560,
+        "y": 93600030720,
+        "z": -3017367183360
+    },
+    "stargate_id": 50006600,
+    "system_id": 30005244,
+    "type_id": 29624
+}

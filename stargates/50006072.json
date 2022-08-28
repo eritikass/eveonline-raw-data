@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005341,
+        "system_id": 30002844
+    },
+    "name": "Stargate (Q-GICU)",
+    "position": {
+        "x": 2819990937600,
+        "y": -3493323202560,
+        "z": -49880064000
+    },
+    "stargate_id": 50006072,
+    "system_id": 30002861,
+    "type_id": 3874
+}

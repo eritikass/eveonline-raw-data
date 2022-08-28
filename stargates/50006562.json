@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005043,
+        "system_id": 30001228
+    },
+    "name": "Stargate (TA3T-3)",
+    "position": {
+        "x": -35145768960,
+        "y": 1962024960,
+        "z": 18773975040
+    },
+    "stargate_id": 50006562,
+    "system_id": 30001230,
+    "type_id": 29624
+}

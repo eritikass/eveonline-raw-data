@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011832,
+        "system_id": 30004781
+    },
+    "name": "Stargate (8F-TK3)",
+    "position": {
+        "x": 101548400640,
+        "y": 8064983040,
+        "z": -134033694720
+    },
+    "stargate_id": 50011813,
+    "system_id": 30004780,
+    "type_id": 29624
+}

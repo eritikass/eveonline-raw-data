@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011275,
+        "system_id": 30002604
+    },
+    "name": "Stargate (LJK-T0)",
+    "position": {
+        "x": 5366328483840,
+        "y": -331012300800,
+        "z": 1212049612800
+    },
+    "stargate_id": 50008461,
+    "system_id": 30002602,
+    "type_id": 29633
+}

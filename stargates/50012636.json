@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012518,
+        "system_id": 30004289
+    },
+    "name": "Stargate (Vaini)",
+    "position": {
+        "x": 1473439703040,
+        "y": -223075983360,
+        "z": -2662020096000
+    },
+    "stargate_id": 50012636,
+    "system_id": 30004291,
+    "type_id": 29624
+}

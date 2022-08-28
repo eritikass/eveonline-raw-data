@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003195,
+        "system_id": 30002690
+    },
+    "name": "Stargate (Bamiette)",
+    "position": {
+        "x": -3786592542720,
+        "y": -227185336320,
+        "z": 1272470200320
+    },
+    "stargate_id": 50001090,
+    "system_id": 30002687,
+    "type_id": 3875
+}

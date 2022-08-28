@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013526,
+        "system_id": 30004266
+    },
+    "name": "Stargate (Gesh)",
+    "position": {
+        "x": -746451640320,
+        "y": -137054576640,
+        "z": -1501310115840
+    },
+    "stargate_id": 50013329,
+    "system_id": 30004264,
+    "type_id": 29624
+}

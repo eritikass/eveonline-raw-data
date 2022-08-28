@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005687,
+        "system_id": 30000538
+    },
+    "name": "Stargate (J7-BDX)",
+    "position": {
+        "x": 1372309217280,
+        "y": -127468462080,
+        "z": -2456205189120
+    },
+    "stargate_id": 50005061,
+    "system_id": 30000534,
+    "type_id": 29633
+}

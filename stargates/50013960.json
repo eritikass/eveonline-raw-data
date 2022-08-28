@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013959,
+        "system_id": 30003034
+    },
+    "name": "Stargate (Mattere)",
+    "position": {
+        "x": 829272514560,
+        "y": -4576986439680,
+        "z": -353435443200
+    },
+    "stargate_id": 50013960,
+    "system_id": 30002639,
+    "type_id": 29632
+}

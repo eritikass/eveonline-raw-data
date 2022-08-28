@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008706,
+        "system_id": 30002443
+    },
+    "name": "Stargate (RLSI-V)",
+    "position": {
+        "x": -1628012666880,
+        "y": 55370096640,
+        "z": -3865612247040
+    },
+    "stargate_id": 50005904,
+    "system_id": 30002440,
+    "type_id": 16
+}

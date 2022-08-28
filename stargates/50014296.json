@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014295,
+        "system_id": 30002798
+    },
+    "name": "Stargate (Venilen)",
+    "position": {
+        "x": -1533128663040,
+        "y": -3718498836480,
+        "z": 2507878932480
+    },
+    "stargate_id": 50014296,
+    "system_id": 30002773,
+    "type_id": 29627
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009273,
+        "system_id": 30004348
+    },
+    "name": "Stargate (KV-8SN)",
+    "position": {
+        "x": -1277925089280,
+        "y": -17775452160,
+        "z": 2371428311040
+    },
+    "stargate_id": 50008380,
+    "system_id": 30004343,
+    "type_id": 16
+}

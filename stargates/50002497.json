@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004794,
+        "system_id": 30003038
+    },
+    "name": "Stargate (Atlanins)",
+    "position": {
+        "x": -4272977633280,
+        "y": -1700111278080,
+        "z": 767661465600
+    },
+    "stargate_id": 50002497,
+    "system_id": 30003018,
+    "type_id": 3874
+}

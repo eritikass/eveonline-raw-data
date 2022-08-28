@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009214,
+        "system_id": 30002097
+    },
+    "name": "Stargate (Klogori)",
+    "position": {
+        "x": 317708574720,
+        "y": -4706159861760,
+        "z": -1853748387840
+    },
+    "stargate_id": 50006851,
+    "system_id": 30002057,
+    "type_id": 3877
+}

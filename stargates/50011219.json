@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011017,
+        "system_id": 30004242
+    },
+    "name": "Stargate (Sadana)",
+    "position": {
+        "x": -752427540480,
+        "y": -44503572480,
+        "z": -301387161600
+    },
+    "stargate_id": 50011219,
+    "system_id": 30004243,
+    "type_id": 29624
+}

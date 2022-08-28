@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013556,
+        "system_id": 30004112
+    },
+    "name": "Stargate (Mandoo)",
+    "position": {
+        "x": 6308942192640,
+        "y": 371954442240,
+        "z": 2326859243520
+    },
+    "stargate_id": 50013555,
+    "system_id": 30004107,
+    "type_id": 17
+}

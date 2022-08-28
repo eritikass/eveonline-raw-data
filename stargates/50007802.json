@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011894,
+        "system_id": 30000117
+    },
+    "name": "Stargate (Khabi)",
+    "position": {
+        "x": 2936008089600,
+        "y": -246879068160,
+        "z": 792439726080
+    },
+    "stargate_id": 50007802,
+    "system_id": 30000113,
+    "type_id": 29624
+}

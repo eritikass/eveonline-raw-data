@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009830,
+        "system_id": 30005273
+    },
+    "name": "Stargate (Galnafsad)",
+    "position": {
+        "x": 4177375272960,
+        "y": 371884646400,
+        "z": -729696952320
+    },
+    "stargate_id": 50009997,
+    "system_id": 30005274,
+    "type_id": 29624
+}

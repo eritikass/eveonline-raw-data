@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013659,
+        "system_id": 30002980
+    },
+    "name": "Stargate (Sosan)",
+    "position": {
+        "x": 392805703680,
+        "y": 2862036049920,
+        "z": 583791452160
+    },
+    "stargate_id": 50013660,
+    "system_id": 30003088,
+    "type_id": 29626
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013520,
+        "system_id": 30004705
+    },
+    "name": "Stargate (LX5K-W)",
+    "position": {
+        "x": 1931656519680,
+        "y": -255487795200,
+        "z": -1633183211520
+    },
+    "stargate_id": 50013448,
+    "system_id": 30004703,
+    "type_id": 29624
+}

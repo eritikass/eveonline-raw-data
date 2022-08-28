@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010340,
+        "system_id": 30003659
+    },
+    "name": "Stargate (MZPH-W)",
+    "position": {
+        "x": 6502549217280,
+        "y": -1200965591040,
+        "z": 6274261524480
+    },
+    "stargate_id": 50010496,
+    "system_id": 30003661,
+    "type_id": 16
+}

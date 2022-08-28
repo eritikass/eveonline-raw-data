@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003041,
+        "system_id": 30004976
+    },
+    "name": "Stargate (Charmerout)",
+    "position": {
+        "x": 622391009280,
+        "y": -69345484800,
+        "z": -91416207360
+    },
+    "stargate_id": 50003057,
+    "system_id": 30004977,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009243,
+        "system_id": 30003980
+    },
+    "name": "Stargate (NDII-Q)",
+    "position": {
+        "x": -482841845760,
+        "y": -32674160640,
+        "z": -289578147840
+    },
+    "stargate_id": 50009103,
+    "system_id": 30003979,
+    "type_id": 29624
+}

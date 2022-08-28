@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012072,
+        "system_id": 30004564
+    },
+    "name": "Stargate (C-C99Z)",
+    "position": {
+        "x": 1935561646080,
+        "y": 12890726400,
+        "z": 425965608960
+    },
+    "stargate_id": 50011798,
+    "system_id": 30004562,
+    "type_id": 3875
+}

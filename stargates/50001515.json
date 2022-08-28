@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002717,
+        "system_id": 30000824
+    },
+    "name": "Stargate (N-O53U)",
+    "position": {
+        "x": -552092590080,
+        "y": -1991518986240,
+        "z": -2043308236800
+    },
+    "stargate_id": 50001515,
+    "system_id": 30000753,
+    "type_id": 3877
+}

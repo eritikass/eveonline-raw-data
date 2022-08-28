@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010177,
+        "system_id": 30002027
+    },
+    "name": "Stargate (KDV-DE)",
+    "position": {
+        "x": 1915499274240,
+        "y": 251937054720,
+        "z": 2125700014080
+    },
+    "stargate_id": 50011773,
+    "system_id": 30002028,
+    "type_id": 16
+}

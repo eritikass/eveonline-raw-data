@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008986,
+        "system_id": 30003058
+    },
+    "name": "Stargate (Olide)",
+    "position": {
+        "x": -2827361525760,
+        "y": -95594127360,
+        "z": -5278614282240
+    },
+    "stargate_id": 50007902,
+    "system_id": 30003057,
+    "type_id": 3875
+}

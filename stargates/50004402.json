@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003553,
+        "system_id": 30000436
+    },
+    "name": "Stargate (SK42-F)",
+    "position": {
+        "x": 657867202560,
+        "y": 48425164800,
+        "z": -59229511680
+    },
+    "stargate_id": 50004402,
+    "system_id": 30000437,
+    "type_id": 29633
+}

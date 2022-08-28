@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002062,
+        "system_id": 30002838
+    },
+    "name": "Stargate (D-6PKO)",
+    "position": {
+        "x": 3979004436480,
+        "y": -348871434240,
+        "z": 1661056327680
+    },
+    "stargate_id": 50000796,
+    "system_id": 30002834,
+    "type_id": 3875
+}

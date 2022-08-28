@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010357,
+        "system_id": 30004174
+    },
+    "name": "Stargate (YVSL-2)",
+    "position": {
+        "x": 6256603422720,
+        "y": -280794439680,
+        "z": 14120521113600
+    },
+    "stargate_id": 50010103,
+    "system_id": 30004169,
+    "type_id": 3875
+}

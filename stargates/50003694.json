@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003919,
+        "system_id": 30001287
+    },
+    "name": "Stargate (0-BFTQ)",
+    "position": {
+        "x": -1081363292160,
+        "y": 67205652480,
+        "z": 608114073600
+    },
+    "stargate_id": 50003694,
+    "system_id": 30001286,
+    "type_id": 16
+}

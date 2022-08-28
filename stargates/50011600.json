@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010447,
+        "system_id": 30004378
+    },
+    "name": "Stargate (C-4ZOS)",
+    "position": {
+        "x": -847892029440,
+        "y": 1841420820480,
+        "z": 102267002880
+    },
+    "stargate_id": 50011600,
+    "system_id": 30004390,
+    "type_id": 29627
+}

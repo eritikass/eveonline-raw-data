@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012549,
+        "system_id": 30004692
+    },
+    "name": "Stargate (O-97ZG)",
+    "position": {
+        "x": -3209113067520,
+        "y": 3701621022720,
+        "z": -2520062238720
+    },
+    "stargate_id": 50012201,
+    "system_id": 30004691,
+    "type_id": 17
+}

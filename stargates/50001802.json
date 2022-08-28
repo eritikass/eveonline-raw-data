@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002419,
+        "system_id": 30002757
+    },
+    "name": "Stargate (Nikkishina)",
+    "position": {
+        "x": 3544106557440,
+        "y": 458293370880,
+        "z": 82907750400
+    },
+    "stargate_id": 50001802,
+    "system_id": 30002756,
+    "type_id": 16
+}

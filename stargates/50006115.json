@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005893,
+        "system_id": 30001224
+    },
+    "name": "Stargate (CX65-5)",
+    "position": {
+        "x": 3767873740800,
+        "y": -758303662080,
+        "z": 3609382379520
+    },
+    "stargate_id": 50006115,
+    "system_id": 30001225,
+    "type_id": 29624
+}

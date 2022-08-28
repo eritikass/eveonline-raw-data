@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009441,
+        "system_id": 30002630
+    },
+    "name": "Stargate (FR-B1H)",
+    "position": {
+        "x": 268781936640,
+        "y": 14596792320,
+        "z": 1675424686080
+    },
+    "stargate_id": 50009789,
+    "system_id": 30002631,
+    "type_id": 29633
+}

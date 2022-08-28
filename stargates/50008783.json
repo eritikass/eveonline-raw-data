@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009584,
+        "system_id": 30002816
+    },
+    "name": "Stargate (Saila)",
+    "position": {
+        "x": -2017352785920,
+        "y": 8830771200,
+        "z": -2835514859520
+    },
+    "stargate_id": 50008783,
+    "system_id": 30002815,
+    "type_id": 16
+}

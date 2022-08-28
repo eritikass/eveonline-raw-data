@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007284,
+        "system_id": 30003085
+    },
+    "name": "Stargate (Hakodan)",
+    "position": {
+        "x": 3028672880640,
+        "y": -141719347200,
+        "z": 7555236618240
+    },
+    "stargate_id": 50006588,
+    "system_id": 30003081,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000102,
+        "system_id": 30000245
+    },
+    "name": "Stargate (X445-5)",
+    "position": {
+        "x": -312262287360,
+        "y": 256204800,
+        "z": 184739635200
+    },
+    "stargate_id": 50000082,
+    "system_id": 30000244,
+    "type_id": 16
+}

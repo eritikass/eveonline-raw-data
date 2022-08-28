@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006446,
+        "system_id": 30005211
+    },
+    "name": "Stargate (Zarer)",
+    "position": {
+        "x": 907388559360,
+        "y": 177947811840,
+        "z": 3196829982720
+    },
+    "stargate_id": 50005187,
+    "system_id": 30005210,
+    "type_id": 29624
+}

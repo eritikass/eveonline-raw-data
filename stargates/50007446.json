@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008221,
+        "system_id": 30002033
+    },
+    "name": "Stargate (RORZ-H)",
+    "position": {
+        "x": -333078650880,
+        "y": -29717422080,
+        "z": 61515325440
+    },
+    "stargate_id": 50007446,
+    "system_id": 30002030,
+    "type_id": 16
+}

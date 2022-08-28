@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009602,
+        "system_id": 30002277
+    },
+    "name": "Stargate (Ebtesham)",
+    "position": {
+        "x": 4032662937600,
+        "y": -175661260800,
+        "z": 414722088960
+    },
+    "stargate_id": 50010836,
+    "system_id": 30002278,
+    "type_id": 29624
+}

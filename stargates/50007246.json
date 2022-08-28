@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007307,
+        "system_id": 30003406
+    },
+    "name": "Stargate (Situner)",
+    "position": {
+        "x": 2676367564800,
+        "y": 292000849920,
+        "z": 2932823285760
+    },
+    "stargate_id": 50007246,
+    "system_id": 30003405,
+    "type_id": 29633
+}

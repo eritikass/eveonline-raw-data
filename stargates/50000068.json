@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002029,
+        "system_id": 30002973
+    },
+    "name": "Stargate (Lisudeh)",
+    "position": {
+        "x": -734193623040,
+        "y": 959674982400,
+        "z": -1223116431360
+    },
+    "stargate_id": 50000068,
+    "system_id": 30000002,
+    "type_id": 29626
+}

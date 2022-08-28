@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002633,
+        "system_id": 30001657
+    },
+    "name": "Stargate (Seil)",
+    "position": {
+        "x": -55557857280,
+        "y": -490659840,
+        "z": 652773826560
+    },
+    "stargate_id": 50002865,
+    "system_id": 30001658,
+    "type_id": 29624
+}

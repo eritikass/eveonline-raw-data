@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011427,
+        "system_id": 30004895
+    },
+    "name": "Stargate (KR8-27)",
+    "position": {
+        "x": 6137884139520,
+        "y": 912055787520,
+        "z": -2980971601920
+    },
+    "stargate_id": 50011400,
+    "system_id": 30004894,
+    "type_id": 29633
+}

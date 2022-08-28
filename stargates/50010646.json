@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011465,
+        "system_id": 30003234
+    },
+    "name": "Stargate (FJ-GUR)",
+    "position": {
+        "x": -761895690240,
+        "y": -29031260160,
+        "z": 1099197358080
+    },
+    "stargate_id": 50010646,
+    "system_id": 30003232,
+    "type_id": 3875
+}

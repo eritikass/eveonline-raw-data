@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002160,
+        "system_id": 30002325
+    },
+    "name": "Stargate (3H58-R)",
+    "position": {
+        "x": -1047523123200,
+        "y": -101280030720,
+        "z": 344938291200
+    },
+    "stargate_id": 50000767,
+    "system_id": 30002323,
+    "type_id": 3875
+}

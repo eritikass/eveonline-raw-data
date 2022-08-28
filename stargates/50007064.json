@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008286,
+        "system_id": 30003287
+    },
+    "name": "Stargate (T22-QI)",
+    "position": {
+        "x": 162375720960,
+        "y": 23332331520,
+        "z": -2473655869440
+    },
+    "stargate_id": 50007064,
+    "system_id": 30003286,
+    "type_id": 3875
+}

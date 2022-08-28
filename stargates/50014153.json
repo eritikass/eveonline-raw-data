@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014154,
+        "system_id": 30015305
+    },
+    "name": "Stargate (Adallier)",
+    "position": {
+        "x": 2668830720,
+        "y": -105062400,
+        "z": -2476662743040
+    },
+    "stargate_id": 50014153,
+    "system_id": 30005304,
+    "type_id": 3875
+}

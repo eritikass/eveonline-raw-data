@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002736,
+        "system_id": 30002514
+    },
+    "name": "Stargate (Bosboger)",
+    "position": {
+        "x": 550381363200,
+        "y": 75320647680,
+        "z": 3503721553920
+    },
+    "stargate_id": 50002597,
+    "system_id": 30002513,
+    "type_id": 29633
+}

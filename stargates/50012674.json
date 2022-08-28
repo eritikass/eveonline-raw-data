@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012727,
+        "system_id": 30001828
+    },
+    "name": "Stargate (4O-ZRI)",
+    "position": {
+        "x": -1040100925440,
+        "y": -47053578240,
+        "z": -2144514662400
+    },
+    "stargate_id": 50012674,
+    "system_id": 30001826,
+    "type_id": 3875
+}

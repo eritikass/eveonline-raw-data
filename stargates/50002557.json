@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002861,
+        "system_id": 30000724
+    },
+    "name": "Stargate (9BC-EB)",
+    "position": {
+        "x": -4556242575360,
+        "y": -472209776640,
+        "z": 1854853816320
+    },
+    "stargate_id": 50002557,
+    "system_id": 30000722,
+    "type_id": 29633
+}

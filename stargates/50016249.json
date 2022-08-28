@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016250,
+        "system_id": 30045315
+    },
+    "name": "Stargate (Raihbaka)",
+    "position": {
+        "x": 1199211110400,
+        "y": 39808081920,
+        "z": -3363950714880
+    },
+    "stargate_id": 50016249,
+    "system_id": 30045317,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008682,
+        "system_id": 30005268
+    },
+    "name": "Stargate (Gonditsa)",
+    "position": {
+        "x": -4671463464960,
+        "y": 580924661760,
+        "z": -1559742996480
+    },
+    "stargate_id": 50008586,
+    "system_id": 30005267,
+    "type_id": 29624
+}

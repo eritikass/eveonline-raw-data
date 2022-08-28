@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001445,
+        "system_id": 30000013
+    },
+    "name": "Stargate (Onsooh)",
+    "position": {
+        "x": -417364746240,
+        "y": 25512714240,
+        "z": 2519043072000
+    },
+    "stargate_id": 50001596,
+    "system_id": 30000015,
+    "type_id": 29624
+}

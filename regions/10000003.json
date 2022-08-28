@@ -1,0 +1,24 @@
+{
+    "constellations": [
+        20000030,
+        20000031,
+        20000032,
+        20000033,
+        20000034,
+        20000035,
+        20000036,
+        20000037,
+        20000038,
+        20000039,
+        20000040,
+        20000041,
+        20000042,
+        20000043,
+        20000044,
+        20000045,
+        20000046
+    ],
+    "description": "A sprawling region in the galactic \"north,\" the Vale of the Silent has a reputation as one of the most foreboding regions in the cluster. The Guristas pirates who prowl the area, scavenging for resources, do little to dispel the notion that the Vale is a haunted relic of times past. Rumors of secret Jovian experiments in the area abound, though no one has ever given proof of such things. The region is one of the closest areas to Jovian space, despite no longer having any functioning stargates leading there. Many of the other Empires have made attempts to set up spying stations in an attempt to probe out Jovian secrets, but none have lasted long in the harsh area. Now, the area is left totally to capsuleer control and they have proven hardier than those who came before them.",
+    "name": "Vale of the Silent",
+    "region_id": 10000003
+}

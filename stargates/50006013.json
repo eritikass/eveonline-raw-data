@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004660,
+        "system_id": 30004997
+    },
+    "name": "Stargate (Vifrevaert)",
+    "position": {
+        "x": 1360312442880,
+        "y": 125243351040,
+        "z": -1551615221760
+    },
+    "stargate_id": 50006013,
+    "system_id": 30004999,
+    "type_id": 3875
+}

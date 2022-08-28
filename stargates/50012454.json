@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012391,
+        "system_id": 30005186
+    },
+    "name": "Stargate (01B-88)",
+    "position": {
+        "x": 5540164608000,
+        "y": 739542343680,
+        "z": 4013457776640
+    },
+    "stargate_id": 50012454,
+    "system_id": 30005187,
+    "type_id": 3875
+}

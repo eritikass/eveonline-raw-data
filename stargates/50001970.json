@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002284,
+        "system_id": 30001555
+    },
+    "name": "Stargate (B6-XE8)",
+    "position": {
+        "x": 1666207457280,
+        "y": -332316794880,
+        "z": -1226885406720
+    },
+    "stargate_id": 50001970,
+    "system_id": 30001554,
+    "type_id": 3875
+}

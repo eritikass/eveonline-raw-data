@@ -1,0 +1,84 @@
+{
+    "constellation_id": 20000528,
+    "name": "RKE-CP",
+    "planets": [
+        {
+            "planet_id": 40229965
+        },
+        {
+            "asteroid_belts": [
+                40229967
+            ],
+            "moons": [
+                40229968
+            ],
+            "planet_id": 40229966
+        },
+        {
+            "asteroid_belts": [
+                40229970
+            ],
+            "planet_id": 40229969
+        },
+        {
+            "asteroid_belts": [
+                40229972
+            ],
+            "planet_id": 40229971
+        },
+        {
+            "asteroid_belts": [
+                40229974
+            ],
+            "moons": [
+                40229975
+            ],
+            "planet_id": 40229973
+        },
+        {
+            "asteroid_belts": [
+                40229977
+            ],
+            "moons": [
+                40229978,
+                40229979
+            ],
+            "planet_id": 40229976
+        },
+        {
+            "asteroid_belts": [
+                40229981
+            ],
+            "moons": [
+                40229982,
+                40229983
+            ],
+            "planet_id": 40229980
+        },
+        {
+            "asteroid_belts": [
+                40229985
+            ],
+            "moons": [
+                40229986,
+                40229987
+            ],
+            "planet_id": 40229984
+        }
+    ],
+    "position": {
+        "x": -44831138031239980,
+        "y": 89933680416279940,
+        "z": 415471983322394000
+    },
+    "security_class": "H",
+    "security_status": -0.20666775107383728,
+    "star_id": 40229964,
+    "stargates": [
+        50008799,
+        50008800,
+        50008801,
+        50008802
+    ],
+    "system_id": 30003626
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004126,
+        "system_id": 30001581
+    },
+    "name": "Stargate (DVN6-0)",
+    "position": {
+        "x": -362649722880,
+        "y": 48961904640,
+        "z": 263720263680
+    },
+    "stargate_id": 50005416,
+    "system_id": 30001585,
+    "type_id": 3875
+}

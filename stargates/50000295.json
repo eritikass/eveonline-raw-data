@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000709,
+        "system_id": 30000760
+    },
+    "name": "Stargate (AGCP-I)",
+    "position": {
+        "x": -4040061542400,
+        "y": 431135416320,
+        "z": 854776504320
+    },
+    "stargate_id": 50000295,
+    "system_id": 30000759,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016260,
+        "system_id": 30045314
+    },
+    "name": "Stargate (Kinakka)",
+    "position": {
+        "x": 13170056355840,
+        "y": 984006942720,
+        "z": -9462611681280
+    },
+    "stargate_id": 50016259,
+    "system_id": 30045316,
+    "type_id": 16
+}

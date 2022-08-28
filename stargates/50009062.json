@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008669,
+        "system_id": 30004119
+    },
+    "name": "Stargate (Gasavak)",
+    "position": {
+        "x": -3056779960320,
+        "y": -134306734080,
+        "z": -5495771258880
+    },
+    "stargate_id": 50009062,
+    "system_id": 30004121,
+    "type_id": 29624
+}

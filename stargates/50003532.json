@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002929,
+        "system_id": 30000154
+    },
+    "name": "Stargate (Liekuri)",
+    "position": {
+        "x": -2386103623680,
+        "y": -328112087040,
+        "z": 1859577077760
+    },
+    "stargate_id": 50003532,
+    "system_id": 30000155,
+    "type_id": 16
+}

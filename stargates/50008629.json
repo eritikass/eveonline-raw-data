@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008444,
+        "system_id": 30005264
+    },
+    "name": "Stargate (Angur)",
+    "position": {
+        "x": -73515540480,
+        "y": 783360000,
+        "z": 716237905920
+    },
+    "stargate_id": 50008629,
+    "system_id": 30005265,
+    "type_id": 29624
+}

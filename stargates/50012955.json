@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012912,
+        "system_id": 30004543
+    },
+    "name": "Stargate (O-RIDF)",
+    "position": {
+        "x": 1591483883520,
+        "y": 446981775360,
+        "z": -736040509440
+    },
+    "stargate_id": 50012955,
+    "system_id": 30004544,
+    "type_id": 3874
+}

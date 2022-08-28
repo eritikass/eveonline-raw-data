@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010568,
+        "system_id": 30003581
+    },
+    "name": "Stargate (Postouvin)",
+    "position": {
+        "x": 1962541178880,
+        "y": 30460600320,
+        "z": 199562895360
+    },
+    "stargate_id": 50010838,
+    "system_id": 30003582,
+    "type_id": 3875
+}

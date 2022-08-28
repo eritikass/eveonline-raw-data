@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006043,
+        "system_id": 30003755
+    },
+    "name": "Stargate (MVCJ-E)",
+    "position": {
+        "x": -1046402457600,
+        "y": 53486346240,
+        "z": 2184854200320
+    },
+    "stargate_id": 50008245,
+    "system_id": 30003757,
+    "type_id": 29624
+}

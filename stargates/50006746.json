@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006268,
+        "system_id": 30002352
+    },
+    "name": "Stargate (ZS-PNI)",
+    "position": {
+        "x": 3603392471040,
+        "y": -268779479040,
+        "z": -3572482007040
+    },
+    "stargate_id": 50006746,
+    "system_id": 30002354,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009813,
+        "system_id": 30003227
+    },
+    "name": "Stargate (U9SE-N)",
+    "position": {
+        "x": 6446121246720,
+        "y": 488758026240,
+        "z": -5328658882560
+    },
+    "stargate_id": 50009279,
+    "system_id": 30003225,
+    "type_id": 3875
+}

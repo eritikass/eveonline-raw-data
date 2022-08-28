@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001577,
+        "system_id": 30000014
+    },
+    "name": "Stargate (Shamahi)",
+    "position": {
+        "x": 3579701452800,
+        "y": -157332234240,
+        "z": -92960563200
+    },
+    "stargate_id": 50001444,
+    "system_id": 30000013,
+    "type_id": 29624
+}

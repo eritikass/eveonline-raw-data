@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009057,
+        "system_id": 30000189
+    },
+    "name": "Stargate (Kiainti)",
+    "position": {
+        "x": -2636983787520,
+        "y": 224284631040,
+        "z": 6740003266560
+    },
+    "stargate_id": 50008924,
+    "system_id": 30000188,
+    "type_id": 16
+}

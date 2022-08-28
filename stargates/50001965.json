@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001261,
+        "system_id": 30000854
+    },
+    "name": "Stargate (B-S42H)",
+    "position": {
+        "x": -231120936960,
+        "y": -28993658880,
+        "z": 1362378055680
+    },
+    "stargate_id": 50001965,
+    "system_id": 30000859,
+    "type_id": 16
+}

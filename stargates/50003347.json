@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004263,
+        "system_id": 30002987
+    },
+    "name": "Stargate (Ussad)",
+    "position": {
+        "x": 505535815680,
+        "y": -18954117120,
+        "z": -179004825600
+    },
+    "stargate_id": 50003347,
+    "system_id": 30002984,
+    "type_id": 29624
+}

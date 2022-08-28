@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014166,
+        "system_id": 30034971
+    },
+    "name": "Stargate (Henebene)",
+    "position": {
+        "x": -111521095680,
+        "y": 383262720,
+        "z": 94028144640
+    },
+    "stargate_id": 50014165,
+    "system_id": 30005015,
+    "type_id": 3875
+}

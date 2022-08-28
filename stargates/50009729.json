@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009696,
+        "system_id": 30004887
+    },
+    "name": "Stargate (CO-7BI)",
+    "position": {
+        "x": -3971997573120,
+        "y": -689411235840,
+        "z": 2438569205760
+    },
+    "stargate_id": 50009729,
+    "system_id": 30004888,
+    "type_id": 29633
+}

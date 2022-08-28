@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011585,
+        "system_id": 30004059
+    },
+    "name": "Stargate (9-4RP2)",
+    "position": {
+        "x": 1469356646400,
+        "y": -155741921280,
+        "z": -1308106137600
+    },
+    "stargate_id": 50011811,
+    "system_id": 30004062,
+    "type_id": 3875
+}

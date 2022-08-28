@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010360,
+        "system_id": 30004356
+    },
+    "name": "Stargate (M-HU4V)",
+    "position": {
+        "x": 7574902579200,
+        "y": 2615044300800,
+        "z": -270503239680
+    },
+    "stargate_id": 50010444,
+    "system_id": 30004378,
+    "type_id": 29627
+}

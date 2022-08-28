@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008171,
+        "system_id": 30003767
+    },
+    "name": "Stargate (N8XA-L)",
+    "position": {
+        "x": -600589148160,
+        "y": 18671247360,
+        "z": -3765474140160
+    },
+    "stargate_id": 50009177,
+    "system_id": 30003769,
+    "type_id": 29624
+}

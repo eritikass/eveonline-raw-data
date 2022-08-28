@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012864,
+        "system_id": 30005291
+    },
+    "name": "Stargate (Ebasez)",
+    "position": {
+        "x": -685454008320,
+        "y": -111685017600,
+        "z": -301419110400
+    },
+    "stargate_id": 50012744,
+    "system_id": 30005290,
+    "type_id": 29624
+}

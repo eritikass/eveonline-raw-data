@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008406,
+        "system_id": 30002814
+    },
+    "name": "Stargate (Uotila)",
+    "position": {
+        "x": -2017326243840,
+        "y": 8848465920,
+        "z": -2835550248960
+    },
+    "stargate_id": 50008782,
+    "system_id": 30002815,
+    "type_id": 16
+}

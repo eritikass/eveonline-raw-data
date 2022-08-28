@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006303,
+        "system_id": 30000109
+    },
+    "name": "Stargate (Berta)",
+    "position": {
+        "x": -1956964392960,
+        "y": -5224787681280,
+        "z": -3596342599680
+    },
+    "stargate_id": 50000681,
+    "system_id": 30000051,
+    "type_id": 17
+}

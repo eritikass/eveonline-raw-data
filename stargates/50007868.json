@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006993,
+        "system_id": 30004833
+    },
+    "name": "Stargate (KW-OAM)",
+    "position": {
+        "x": 282973102080,
+        "y": -22075023360,
+        "z": 675391365120
+    },
+    "stargate_id": 50007868,
+    "system_id": 30004836,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001382,
+        "system_id": 30000211
+    },
+    "name": "Stargate (B-588R)",
+    "position": {
+        "x": -5844512563200,
+        "y": 892703907840,
+        "z": 1613547724800
+    },
+    "stargate_id": 50000188,
+    "system_id": 30000208,
+    "type_id": 16
+}

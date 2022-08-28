@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005174,
+        "system_id": 30001578
+    },
+    "name": "Stargate (4DH-ST)",
+    "position": {
+        "x": 1714929623040,
+        "y": 9272156160,
+        "z": 1689653698560
+    },
+    "stargate_id": 50004811,
+    "system_id": 30001576,
+    "type_id": 3875
+}

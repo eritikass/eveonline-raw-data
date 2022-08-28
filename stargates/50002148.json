@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000873,
+        "system_id": 30000785
+    },
+    "name": "Stargate (Q7-FZ8)",
+    "position": {
+        "x": 1806163107840,
+        "y": 59285053440,
+        "z": -3060252549120
+    },
+    "stargate_id": 50002148,
+    "system_id": 30000788,
+    "type_id": 29633
+}

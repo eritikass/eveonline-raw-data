@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009081,
+        "system_id": 30002368
+    },
+    "name": "Stargate (Z-FET0)",
+    "position": {
+        "x": -1324042690560,
+        "y": -51876372480,
+        "z": -1302855966720
+    },
+    "stargate_id": 50005276,
+    "system_id": 30002364,
+    "type_id": 3875
+}

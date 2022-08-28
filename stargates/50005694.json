@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006203,
+        "system_id": 30003191
+    },
+    "name": "Stargate (3VL6-I)",
+    "position": {
+        "x": 871639080960,
+        "y": 2814118010880,
+        "z": 837758607360
+    },
+    "stargate_id": 50005694,
+    "system_id": 30003190,
+    "type_id": 3874
+}

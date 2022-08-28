@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003899,
+        "system_id": 30000917
+    },
+    "name": "Stargate (NE-3GR)",
+    "position": {
+        "x": -1036545024000,
+        "y": 163479429120,
+        "z": -1741696327680
+    },
+    "stargate_id": 50000839,
+    "system_id": 30000912,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010585,
+        "system_id": 30004552
+    },
+    "name": "Stargate (XF-TQL)",
+    "position": {
+        "x": -3588823326720,
+        "y": 1886012006400,
+        "z": -8964906147840
+    },
+    "stargate_id": 50010573,
+    "system_id": 30004525,
+    "type_id": 29632
+}

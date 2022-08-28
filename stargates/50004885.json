@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004837,
+        "system_id": 30000829
+    },
+    "name": "Stargate (38NZ-1)",
+    "position": {
+        "x": 1901983948800,
+        "y": -9629491200,
+        "z": -398348083200
+    },
+    "stargate_id": 50004885,
+    "system_id": 30000830,
+    "type_id": 29633
+}

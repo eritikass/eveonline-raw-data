@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006029,
+        "system_id": 30000427
+    },
+    "name": "Stargate (U8MM-3)",
+    "position": {
+        "x": 3637698109440,
+        "y": -589973544960,
+        "z": -911431311360
+    },
+    "stargate_id": 50006139,
+    "system_id": 30000429,
+    "type_id": 3876
+}

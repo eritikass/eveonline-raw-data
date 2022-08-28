@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009930,
+        "system_id": 30004350
+    },
+    "name": "Stargate (YG-82V)",
+    "position": {
+        "x": -2553421701120,
+        "y": 133718138880,
+        "z": -3496785469440
+    },
+    "stargate_id": 50009860,
+    "system_id": 30004349,
+    "type_id": 16
+}

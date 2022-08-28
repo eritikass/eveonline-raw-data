@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009847,
+        "system_id": 30001894
+    },
+    "name": "Stargate (42-UOW)",
+    "position": {
+        "x": 3403970764800,
+        "y": -146087731200,
+        "z": -1142903070720
+    },
+    "stargate_id": 50010196,
+    "system_id": 30001896,
+    "type_id": 29624
+}

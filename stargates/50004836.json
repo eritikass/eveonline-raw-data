@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004158,
+        "system_id": 30000828
+    },
+    "name": "Stargate (HL-VZX)",
+    "position": {
+        "x": -6129195294720,
+        "y": 1142402457600,
+        "z": -7673794437120
+    },
+    "stargate_id": 50004836,
+    "system_id": 30000829,
+    "type_id": 29633
+}

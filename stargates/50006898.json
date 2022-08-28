@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006313,
+        "system_id": 30003801
+    },
+    "name": "Stargate (Aunsou)",
+    "position": {
+        "x": 1442190336000,
+        "y": -125301104640,
+        "z": 3616111779840
+    },
+    "stargate_id": 50006898,
+    "system_id": 30003805,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013502,
+        "system_id": 30001921
+    },
+    "name": "Stargate (DABV-N)",
+    "position": {
+        "x": 2475264368640,
+        "y": -129197137920,
+        "z": 3789508239360
+    },
+    "stargate_id": 50013516,
+    "system_id": 30001922,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000345,
+        "system_id": 30000003
+    },
+    "name": "Stargate (Akpivem)",
+    "position": {
+        "x": 281620930560,
+        "y": 33762631680,
+        "z": -206279024640
+    },
+    "stargate_id": 50002085,
+    "system_id": 30000007,
+    "type_id": 29624
+}

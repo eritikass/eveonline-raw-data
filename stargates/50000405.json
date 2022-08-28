@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013474,
+        "system_id": 30002736
+    },
+    "name": "Stargate (Ainaille)",
+    "position": {
+        "x": 2218591150080,
+        "y": -4704006512640,
+        "z": -3143400775680
+    },
+    "stargate_id": 50000405,
+    "system_id": 30002655,
+    "type_id": 3874
+}

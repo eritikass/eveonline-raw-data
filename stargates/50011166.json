@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011834,
+        "system_id": 30003450
+    },
+    "name": "Stargate (Oraekja)",
+    "position": {
+        "x": -441061416960,
+        "y": -23558676480,
+        "z": -12800778240
+    },
+    "stargate_id": 50011166,
+    "system_id": 30003449,
+    "type_id": 29633
+}

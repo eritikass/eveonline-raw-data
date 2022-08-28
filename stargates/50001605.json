@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002417,
+        "system_id": 30002294
+    },
+    "name": "Stargate (LPVL-5)",
+    "position": {
+        "x": -4839320494080,
+        "y": 104477614080,
+        "z": -2977935974400
+    },
+    "stargate_id": 50001605,
+    "system_id": 30002291,
+    "type_id": 3875
+}

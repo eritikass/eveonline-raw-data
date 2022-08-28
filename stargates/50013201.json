@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013404,
+        "system_id": 30004306
+    },
+    "name": "Stargate (Karan)",
+    "position": {
+        "x": -36736819200,
+        "y": 1588715520,
+        "z": -4652851200
+    },
+    "stargate_id": 50013201,
+    "system_id": 30004303,
+    "type_id": 29624
+}

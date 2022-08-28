@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004748,
+        "system_id": 30002978
+    },
+    "name": "Stargate (Asghed)",
+    "position": {
+        "x": 138038108160,
+        "y": 15974768640,
+        "z": 9452269117440
+    },
+    "stargate_id": 50002570,
+    "system_id": 30002976,
+    "type_id": 29624
+}

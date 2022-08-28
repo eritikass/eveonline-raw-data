@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007828,
+        "system_id": 30001878
+    },
+    "name": "Stargate (WEQT-K)",
+    "position": {
+        "x": 2541134438400,
+        "y": -1644425502720,
+        "z": -555375697920
+    },
+    "stargate_id": 50008371,
+    "system_id": 30001880,
+    "type_id": 17
+}

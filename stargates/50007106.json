@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007326,
+        "system_id": 30004411
+    },
+    "name": "Stargate (PMV-G6)",
+    "position": {
+        "x": 480398008320,
+        "y": -16365527040,
+        "z": -2002150072320
+    },
+    "stargate_id": 50007106,
+    "system_id": 30004410,
+    "type_id": 29633
+}

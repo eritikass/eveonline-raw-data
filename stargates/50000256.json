@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000616,
+        "system_id": 30002744
+    },
+    "name": "Stargate (Auviken)",
+    "position": {
+        "x": 7584850452480,
+        "y": -810656686080,
+        "z": 139706818560
+    },
+    "stargate_id": 50000256,
+    "system_id": 30002743,
+    "type_id": 16
+}

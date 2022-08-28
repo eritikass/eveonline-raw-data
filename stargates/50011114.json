@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011191,
+        "system_id": 30004679
+    },
+    "name": "Stargate (YV-FDG)",
+    "position": {
+        "x": -1930636861440,
+        "y": 1689485107200,
+        "z": 2043484446720
+    },
+    "stargate_id": 50011114,
+    "system_id": 30004678,
+    "type_id": 17
+}

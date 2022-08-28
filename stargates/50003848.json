@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004532,
+        "system_id": 30000974
+    },
+    "name": "Stargate (H-8F5Q)",
+    "position": {
+        "x": 998305505280,
+        "y": 24801730560,
+        "z": -1418076856320
+    },
+    "stargate_id": 50003848,
+    "system_id": 30000972,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007214,
+        "system_id": 30002865
+    },
+    "name": "Stargate (LEM-I1)",
+    "position": {
+        "x": -76739665920,
+        "y": 6729768960,
+        "z": -4562078146560
+    },
+    "stargate_id": 50007118,
+    "system_id": 30002864,
+    "type_id": 3875
+}

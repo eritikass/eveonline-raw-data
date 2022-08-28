@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010225,
+        "system_id": 30003467
+    },
+    "name": "Stargate (Frulegur)",
+    "position": {
+        "x": -420333281280,
+        "y": 57896509440,
+        "z": -1559688437760
+    },
+    "stargate_id": 50010229,
+    "system_id": 30003468,
+    "type_id": 29633
+}

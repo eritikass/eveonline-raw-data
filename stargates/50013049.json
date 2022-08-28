@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012986,
+        "system_id": 30002947
+    },
+    "name": "Stargate (GY5-26)",
+    "position": {
+        "x": 254794752000,
+        "y": -14380277760,
+        "z": -4768604160
+    },
+    "stargate_id": 50013049,
+    "system_id": 30002948,
+    "type_id": 16
+}

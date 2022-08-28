@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007624,
+        "system_id": 30002241
+    },
+    "name": "Stargate (Rimbah)",
+    "position": {
+        "x": -2564548239360,
+        "y": 191514009600,
+        "z": -1105774387200
+    },
+    "stargate_id": 50005802,
+    "system_id": 30002238,
+    "type_id": 29624
+}

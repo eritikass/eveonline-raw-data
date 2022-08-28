@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007500,
+        "system_id": 30001874
+    },
+    "name": "Stargate (NZG-LF)",
+    "position": {
+        "x": 175629803520,
+        "y": 725114880,
+        "z": 870431907840
+    },
+    "stargate_id": 50007549,
+    "system_id": 30001875,
+    "type_id": 29624
+}

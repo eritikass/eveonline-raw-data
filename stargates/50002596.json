@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002483,
+        "system_id": 30002512
+    },
+    "name": "Stargate (Alakgur)",
+    "position": {
+        "x": 189270958080,
+        "y": 25762406400,
+        "z": -1332278353920
+    },
+    "stargate_id": 50002596,
+    "system_id": 30002513,
+    "type_id": 29633
+}

@@ -1,0 +1,69 @@
+{
+    "constellation_id": 20000720,
+    "name": "OKEO-X",
+    "planets": [
+        {
+            "planet_id": 40312006
+        },
+        {
+            "planet_id": 40312007
+        },
+        {
+            "planet_id": 40312008
+        },
+        {
+            "planet_id": 40312009
+        },
+        {
+            "planet_id": 40312010
+        },
+        {
+            "moons": [
+                40312012,
+                40312013
+            ],
+            "planet_id": 40312011
+        },
+        {
+            "asteroid_belts": [
+                40312015
+            ],
+            "planet_id": 40312014
+        },
+        {
+            "moons": [
+                40312017,
+                40312018
+            ],
+            "planet_id": 40312016
+        },
+        {
+            "asteroid_belts": [
+                40312020
+            ],
+            "moons": [
+                40312021
+            ],
+            "planet_id": 40312019
+        },
+        {
+            "asteroid_belts": [
+                40312023
+            ],
+            "planet_id": 40312022
+        }
+    ],
+    "position": {
+        "x": 161813990436048130,
+        "y": -62595193748438460,
+        "z": -418258544023388300
+    },
+    "security_class": "F7",
+    "security_status": -0.9044983386993408,
+    "star_id": 40312005,
+    "stargates": [
+        50013434,
+        50013794
+    ],
+    "system_id": 30004924
+}

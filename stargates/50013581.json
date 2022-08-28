@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013582,
+        "system_id": 30004064
+    },
+    "name": "Stargate (MJYW-3)",
+    "position": {
+        "x": 374800097280,
+        "y": 190052474880,
+        "z": 2203370987520
+    },
+    "stargate_id": 50013581,
+    "system_id": 30004041,
+    "type_id": 3874
+}

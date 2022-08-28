@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000263,
+        "system_id": 30000918
+    },
+    "name": "Stargate (Y4-GQV)",
+    "position": {
+        "x": 137489571840,
+        "y": 21256151040,
+        "z": 51915694080
+    },
+    "stargate_id": 50001597,
+    "system_id": 30000924,
+    "type_id": 29633
+}

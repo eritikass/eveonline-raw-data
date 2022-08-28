@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013799,
+        "system_id": 30004871
+    },
+    "name": "Stargate (R1-IMO)",
+    "position": {
+        "x": 2832559104000,
+        "y": -1424345702400,
+        "z": -3959299645440
+    },
+    "stargate_id": 50013800,
+    "system_id": 30002183,
+    "type_id": 12292
+}

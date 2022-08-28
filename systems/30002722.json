@@ -1,0 +1,66 @@
+{
+    "constellation_id": 20000398,
+    "name": "Lamadent",
+    "planets": [
+        {
+            "planet_id": 40172963
+        },
+        {
+            "asteroid_belts": [
+                40172965
+            ],
+            "planet_id": 40172964
+        },
+        {
+            "moons": [
+                40172967
+            ],
+            "planet_id": 40172966
+        },
+        {
+            "asteroid_belts": [
+                40172969,
+                40172970
+            ],
+            "moons": [
+                40172971
+            ],
+            "planet_id": 40172968
+        },
+        {
+            "asteroid_belts": [
+                40172973
+            ],
+            "moons": [
+                40172974
+            ],
+            "planet_id": 40172972
+        },
+        {
+            "asteroid_belts": [
+                40172976
+            ],
+            "moons": [
+                40172977,
+                40172978
+            ],
+            "planet_id": 40172975
+        }
+    ],
+    "position": {
+        "x": -144290775002054940,
+        "y": 25886950387178120,
+        "z": 73540271639390140
+    },
+    "security_class": "D2",
+    "security_status": 0.3411732316017151,
+    "star_id": 40172962,
+    "stargates": [
+        50010455,
+        50010456
+    ],
+    "stations": [
+        60012115
+    ],
+    "system_id": 30002722
+}

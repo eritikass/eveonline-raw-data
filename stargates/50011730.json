@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011618,
+        "system_id": 30004778
+    },
+    "name": "Stargate (GY6A-L)",
+    "position": {
+        "x": 302066196480,
+        "y": 6600253440,
+        "z": 179404185600
+    },
+    "stargate_id": 50011730,
+    "system_id": 30004779,
+    "type_id": 29624
+}

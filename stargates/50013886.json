@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013885,
+        "system_id": 30005044
+    },
+    "name": "Stargate (Danyana)",
+    "position": {
+        "x": 1905875312640,
+        "y": 565418680320,
+        "z": 1069827563520
+    },
+    "stargate_id": 50013886,
+    "system_id": 30005042,
+    "type_id": 17
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014142,
+        "system_id": 30031407
+    },
+    "name": "Stargate (Hitanishio)",
+    "position": {
+        "x": 5694643200000,
+        "y": 431196364800,
+        "z": -256610426880
+    },
+    "stargate_id": 50014141,
+    "system_id": 30001377,
+    "type_id": 16
+}

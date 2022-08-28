@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008035,
+        "system_id": 30004332
+    },
+    "name": "Stargate (S-B7IT)",
+    "position": {
+        "x": -283314954240,
+        "y": -57402040320,
+        "z": 2059893350400
+    },
+    "stargate_id": 50007981,
+    "system_id": 30004330,
+    "type_id": 16
+}

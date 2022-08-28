@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010871,
+        "system_id": 30000170
+    },
+    "name": "Stargate (Vahunomi)",
+    "position": {
+        "x": 24584724480,
+        "y": -2352783360,
+        "z": 157415055360
+    },
+    "stargate_id": 50006951,
+    "system_id": 30000167,
+    "type_id": 16
+}

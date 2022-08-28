@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005875,
+        "system_id": 30002435
+    },
+    "name": "Stargate (L4X-FH)",
+    "position": {
+        "x": 1431404666880,
+        "y": 115162767360,
+        "z": 692165222400
+    },
+    "stargate_id": 50005877,
+    "system_id": 30002436,
+    "type_id": 16
+}

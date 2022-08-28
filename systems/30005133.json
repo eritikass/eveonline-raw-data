@@ -1,0 +1,69 @@
+{
+    "constellation_id": 20000751,
+    "name": "MJ-5F9",
+    "planets": [
+        {
+            "moons": [
+                40324943
+            ],
+            "planet_id": 40324942
+        },
+        {
+            "planet_id": 40324944
+        },
+        {
+            "planet_id": 40324945
+        },
+        {
+            "asteroid_belts": [
+                40324947
+            ],
+            "planet_id": 40324946
+        },
+        {
+            "asteroid_belts": [
+                40324949
+            ],
+            "moons": [
+                40324950
+            ],
+            "planet_id": 40324948
+        },
+        {
+            "asteroid_belts": [
+                40324952
+            ],
+            "moons": [
+                40324953,
+                40324954
+            ],
+            "planet_id": 40324951
+        },
+        {
+            "moons": [
+                40324956,
+                40324957
+            ],
+            "planet_id": 40324955
+        },
+        {
+            "asteroid_belts": [
+                40324959
+            ],
+            "planet_id": 40324958
+        }
+    ],
+    "position": {
+        "x": 179066106734804960,
+        "y": 49894994470905270,
+        "z": 103722095205410980
+    },
+    "security_class": "K6",
+    "security_status": -0.6195030212402344,
+    "star_id": 40324941,
+    "stargates": [
+        50008241,
+        50008242
+    ],
+    "system_id": 30005133
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011975,
+        "system_id": 30003368
+    },
+    "name": "Stargate (S-U8A4)",
+    "position": {
+        "x": 2116676198400,
+        "y": 303548866560,
+        "z": -799480504320
+    },
+    "stargate_id": 50012856,
+    "system_id": 30003369,
+    "type_id": 3875
+}

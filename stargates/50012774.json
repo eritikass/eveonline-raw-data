@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012719,
+        "system_id": 30004693
+    },
+    "name": "Stargate (2I-520)",
+    "position": {
+        "x": 4460956262400,
+        "y": -753624391680,
+        "z": 1529268019200
+    },
+    "stargate_id": 50012774,
+    "system_id": 30004694,
+    "type_id": 29624
+}

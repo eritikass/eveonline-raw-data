@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006706,
+        "system_id": 30005331
+    },
+    "name": "Stargate (Chantrousse)",
+    "position": {
+        "x": 2185109299200,
+        "y": -221425213440,
+        "z": -1007153602560
+    },
+    "stargate_id": 50006200,
+    "system_id": 30005330,
+    "type_id": 3875
+}

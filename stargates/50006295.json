@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004917,
+        "system_id": 30002796
+    },
+    "name": "Stargate (Hysera)",
+    "position": {
+        "x": -1640852889600,
+        "y": 47016714240,
+        "z": 1887429058560
+    },
+    "stargate_id": 50006295,
+    "system_id": 30002799,
+    "type_id": 16
+}

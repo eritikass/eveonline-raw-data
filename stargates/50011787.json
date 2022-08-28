@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011555,
+        "system_id": 30004772
+    },
+    "name": "Stargate (KEE-N6)",
+    "position": {
+        "x": 2927071764480,
+        "y": 417286594560,
+        "z": -76926197760
+    },
+    "stargate_id": 50011787,
+    "system_id": 30004774,
+    "type_id": 29624
+}

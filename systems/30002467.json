@@ -1,0 +1,76 @@
+{
+    "constellation_id": 20000362,
+    "name": "P-E9GN",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40156873
+            ],
+            "planet_id": 40156872
+        },
+        {
+            "moons": [
+                40156875
+            ],
+            "planet_id": 40156874
+        },
+        {
+            "moons": [
+                40156877
+            ],
+            "planet_id": 40156876
+        },
+        {
+            "asteroid_belts": [
+                40156879
+            ],
+            "moons": [
+                40156880
+            ],
+            "planet_id": 40156878
+        },
+        {
+            "moons": [
+                40156882
+            ],
+            "planet_id": 40156881
+        },
+        {
+            "asteroid_belts": [
+                40156884
+            ],
+            "planet_id": 40156883
+        },
+        {
+            "asteroid_belts": [
+                40156886
+            ],
+            "moons": [
+                40156887,
+                40156888
+            ],
+            "planet_id": 40156885
+        },
+        {
+            "asteroid_belts": [
+                40156890,
+                40156891
+            ],
+            "planet_id": 40156889
+        }
+    ],
+    "position": {
+        "x": 6340139295123326,
+        "y": 86659117146922100,
+        "z": 125800372019773600
+    },
+    "security_class": "H2",
+    "security_status": -0.39229652285575867,
+    "star_id": 40156871,
+    "stargates": [
+        50005916,
+        50005917,
+        50005918
+    ],
+    "system_id": 30002467
+}

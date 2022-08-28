@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003207,
+        "system_id": 30003710
+    },
+    "name": "Stargate (FSW-3C)",
+    "position": {
+        "x": 1285797519360,
+        "y": -36528660480,
+        "z": -3470051696640
+    },
+    "stargate_id": 50003579,
+    "system_id": 30003713,
+    "type_id": 29624
+}

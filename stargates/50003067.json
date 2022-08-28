@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003439,
+        "system_id": 30001573
+    },
+    "name": "Stargate (GTB-O4)",
+    "position": {
+        "x": 299958804480,
+        "y": -32223191040,
+        "z": 4180998266880
+    },
+    "stargate_id": 50003067,
+    "system_id": 30001571,
+    "type_id": 3875
+}

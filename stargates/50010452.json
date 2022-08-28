@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010541,
+        "system_id": 30003165
+    },
+    "name": "Stargate (7P-J38)",
+    "position": {
+        "x": 2571660288000,
+        "y": -12111667200,
+        "z": -4455901962240
+    },
+    "stargate_id": 50010452,
+    "system_id": 30003164,
+    "type_id": 29624
+}

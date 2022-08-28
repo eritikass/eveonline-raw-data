@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003678,
+        "system_id": 30001061
+    },
+    "name": "Stargate (NSI-MW)",
+    "position": {
+        "x": 52915691520,
+        "y": 7527505920,
+        "z": 6783836160
+    },
+    "stargate_id": 50002133,
+    "system_id": 30001058,
+    "type_id": 3875
+}

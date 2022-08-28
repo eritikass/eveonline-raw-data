@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006428,
+        "system_id": 30002069
+    },
+    "name": "Stargate (Traun)",
+    "position": {
+        "x": 3462202613760,
+        "y": 207197429760,
+        "z": -1761780326400
+    },
+    "stargate_id": 50004695,
+    "system_id": 30002068,
+    "type_id": 29633
+}

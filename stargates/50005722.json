@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003526,
+        "system_id": 30003712
+    },
+    "name": "Stargate (MH9C-S)",
+    "position": {
+        "x": 1666336972800,
+        "y": -1230459494400,
+        "z": -1931202355200
+    },
+    "stargate_id": 50005722,
+    "system_id": 30003754,
+    "type_id": 17
+}

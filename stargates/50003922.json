@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004632,
+        "system_id": 30001435
+    },
+    "name": "Stargate (Ohbochi)",
+    "position": {
+        "x": -4085465210880,
+        "y": -577075814400,
+        "z": 4657287536640
+    },
+    "stargate_id": 50003922,
+    "system_id": 30001434,
+    "type_id": 16
+}

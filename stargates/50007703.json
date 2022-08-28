@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011273,
+        "system_id": 30002624
+    },
+    "name": "Stargate (LHGA-W)",
+    "position": {
+        "x": 3733649448960,
+        "y": -747796439040,
+        "z": -3439413043200
+    },
+    "stargate_id": 50007703,
+    "system_id": 30002621,
+    "type_id": 29633
+}

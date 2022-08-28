@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003594,
+        "system_id": 30003525
+    },
+    "name": "Stargate (Bagodan)",
+    "position": {
+        "x": -2646932889600,
+        "y": 2662283796480,
+        "z": -1916186173440
+    },
+    "stargate_id": 50006548,
+    "system_id": 30003548,
+    "type_id": 17
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009614,
+        "system_id": 30003636
+    },
+    "name": "Stargate (G06-8Y)",
+    "position": {
+        "x": -3614136852480,
+        "y": -448710696960,
+        "z": -2394078289920
+    },
+    "stargate_id": 50009852,
+    "system_id": 30003639,
+    "type_id": 16
+}

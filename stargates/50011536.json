@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012244,
+        "system_id": 30004276
+    },
+    "name": "Stargate (Fageras)",
+    "position": {
+        "x": 4140007219200,
+        "y": -413073285120,
+        "z": 1542479093760
+    },
+    "stargate_id": 50011536,
+    "system_id": 30004273,
+    "type_id": 29624
+}

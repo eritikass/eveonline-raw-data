@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002315,
+        "system_id": 30003477
+    },
+    "name": "Stargate (Shajarleg)",
+    "position": {
+        "x": 824832122880,
+        "y": 74043187200,
+        "z": 654250844160
+    },
+    "stargate_id": 50002385,
+    "system_id": 30003478,
+    "type_id": 29624
+}

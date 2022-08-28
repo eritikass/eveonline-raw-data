@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010110,
+        "system_id": 30003995
+    },
+    "name": "Stargate (C-7SBM)",
+    "position": {
+        "x": 177996963840,
+        "y": -25017016320,
+        "z": 2057234472960
+    },
+    "stargate_id": 50009838,
+    "system_id": 30003992,
+    "type_id": 29624
+}

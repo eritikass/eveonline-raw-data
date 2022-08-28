@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008106,
+        "system_id": 30003889
+    },
+    "name": "Stargate (Talidal)",
+    "position": {
+        "x": 1784767979520,
+        "y": -156998000640,
+        "z": -661753159680
+    },
+    "stargate_id": 50012070,
+    "system_id": 30003895,
+    "type_id": 29624
+}

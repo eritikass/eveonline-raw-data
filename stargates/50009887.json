@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007041,
+        "system_id": 30000182
+    },
+    "name": "Stargate (Inaya)",
+    "position": {
+        "x": -1165202104320,
+        "y": 149719818240,
+        "z": 484170915840
+    },
+    "stargate_id": 50009887,
+    "system_id": 30000184,
+    "type_id": 16
+}

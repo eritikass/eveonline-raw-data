@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011883,
+        "system_id": 30004563
+    },
+    "name": "Stargate (AC2E-3)",
+    "position": {
+        "x": 1935592366080,
+        "y": 12930539520,
+        "z": 425945456640
+    },
+    "stargate_id": 50011797,
+    "system_id": 30004562,
+    "type_id": 3875
+}

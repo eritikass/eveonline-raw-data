@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006206,
+        "system_id": 30000992
+    },
+    "name": "Stargate (5FCV-A)",
+    "position": {
+        "x": -1128665702400,
+        "y": -15596544000,
+        "z": -1710434181120
+    },
+    "stargate_id": 50004426,
+    "system_id": 30000989,
+    "type_id": 29633
+}

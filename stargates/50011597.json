@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010956,
+        "system_id": 30001924
+    },
+    "name": "Stargate (RPS-0K)",
+    "position": {
+        "x": 342238863360,
+        "y": -10203340800,
+        "z": -262684385280
+    },
+    "stargate_id": 50011597,
+    "system_id": 30001927,
+    "type_id": 29624
+}

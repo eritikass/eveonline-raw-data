@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012217,
+        "system_id": 30002936
+    },
+    "name": "Stargate (OWXT-5)",
+    "position": {
+        "x": -1833878691840,
+        "y": -244249927680,
+        "z": 1410792038400
+    },
+    "stargate_id": 50011681,
+    "system_id": 30002932,
+    "type_id": 16
+}

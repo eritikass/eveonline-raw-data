@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007819,
+        "system_id": 30002558
+    },
+    "name": "Stargate (Endrulf)",
+    "position": {
+        "x": 3027430072320,
+        "y": -442247946240,
+        "z": 246207897600
+    },
+    "stargate_id": 50005914,
+    "system_id": 30002555,
+    "type_id": 29633
+}

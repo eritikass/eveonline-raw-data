@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012979,
+        "system_id": 30003856
+    },
+    "name": "Stargate (Athounon)",
+    "position": {
+        "x": -489032294400,
+        "y": -21695569920,
+        "z": 1297038090240
+    },
+    "stargate_id": 50011117,
+    "system_id": 30003853,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005510,
+        "system_id": 30002993
+    },
+    "name": "Stargate (Riavayed)",
+    "position": {
+        "x": -2583002357760,
+        "y": 446738227200,
+        "z": -1338961797120
+    },
+    "stargate_id": 50004469,
+    "system_id": 30002988,
+    "type_id": 29624
+}

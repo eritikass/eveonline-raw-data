@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009066,
+        "system_id": 30003556
+    },
+    "name": "Stargate (Arton)",
+    "position": {
+        "x": 6315139276800,
+        "y": 136566743040,
+        "z": 362758840320
+    },
+    "stargate_id": 50008702,
+    "system_id": 30003555,
+    "type_id": 29624
+}

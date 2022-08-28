@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002809,
+        "system_id": 30000233
+    },
+    "name": "Stargate (FA-DMO)",
+    "position": {
+        "x": -2715314135040,
+        "y": 254251622400,
+        "z": 2981143633920
+    },
+    "stargate_id": 50008880,
+    "system_id": 30000236,
+    "type_id": 16
+}

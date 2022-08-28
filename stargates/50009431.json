@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009565,
+        "system_id": 30001251
+    },
+    "name": "Stargate (4NBN-9)",
+    "position": {
+        "x": -2139150458880,
+        "y": 105398722560,
+        "z": -541594460160
+    },
+    "stargate_id": 50009431,
+    "system_id": 30001250,
+    "type_id": 29624
+}

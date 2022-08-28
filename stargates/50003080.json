@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000339,
+        "system_id": 30002289
+    },
+    "name": "Stargate (AID-9T)",
+    "position": {
+        "x": 1504526376960,
+        "y": 249172254720,
+        "z": 43027783680
+    },
+    "stargate_id": 50003080,
+    "system_id": 30002295,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000195,
+        "system_id": 30001188
+    },
+    "name": "Stargate (I-8D0G)",
+    "position": {
+        "x": 2579829104640,
+        "y": 322051153920,
+        "z": 3781536276480
+    },
+    "stargate_id": 50002254,
+    "system_id": 30001194,
+    "type_id": 29624
+}

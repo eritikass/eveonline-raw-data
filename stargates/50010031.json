@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010181,
+        "system_id": 30005177
+    },
+    "name": "Stargate (W-CSFY)",
+    "position": {
+        "x": -287735930880,
+        "y": -38233743360,
+        "z": -65169285120
+    },
+    "stargate_id": 50010031,
+    "system_id": 30005176,
+    "type_id": 3875
+}

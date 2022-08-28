@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007753,
+        "system_id": 30001247
+    },
+    "name": "Stargate (WFC-MY)",
+    "position": {
+        "x": -2048190259200,
+        "y": -19082895360,
+        "z": 295477616640
+    },
+    "stargate_id": 50007418,
+    "system_id": 30001246,
+    "type_id": 29624
+}

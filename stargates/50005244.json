@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005203,
+        "system_id": 30001544
+    },
+    "name": "Stargate (FO1U-K)",
+    "position": {
+        "x": 1565617889280,
+        "y": 241167360000,
+        "z": 1052601507840
+    },
+    "stargate_id": 50005244,
+    "system_id": 30001545,
+    "type_id": 3875
+}

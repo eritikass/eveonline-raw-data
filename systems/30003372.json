@@ -1,0 +1,92 @@
+{
+    "constellation_id": 20000491,
+    "name": "U4-Q2V",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40213814
+            ],
+            "planet_id": 40213813
+        },
+        {
+            "planet_id": 40213815
+        },
+        {
+            "moons": [
+                40213817
+            ],
+            "planet_id": 40213816
+        },
+        {
+            "planet_id": 40213818
+        },
+        {
+            "asteroid_belts": [
+                40213820
+            ],
+            "moons": [
+                40213821
+            ],
+            "planet_id": 40213819
+        },
+        {
+            "asteroid_belts": [
+                40213823
+            ],
+            "moons": [
+                40213824
+            ],
+            "planet_id": 40213822
+        },
+        {
+            "asteroid_belts": [
+                40213827
+            ],
+            "moons": [
+                40213826
+            ],
+            "planet_id": 40213825
+        },
+        {
+            "moons": [
+                40213829
+            ],
+            "planet_id": 40213828
+        },
+        {
+            "asteroid_belts": [
+                40213831
+            ],
+            "moons": [
+                40213832,
+                40213833
+            ],
+            "planet_id": 40213830
+        },
+        {
+            "asteroid_belts": [
+                40213835,
+                40213836
+            ],
+            "moons": [
+                40213837
+            ],
+            "planet_id": 40213834
+        }
+    ],
+    "position": {
+        "x": -321363725578706700,
+        "y": -363729325629081,
+        "z": 41478965953784930
+    },
+    "security_class": "J2",
+    "security_status": -0.3769656717777252,
+    "star_id": 40213812,
+    "stargates": [
+        50013233
+    ],
+    "stations": [
+        60002521
+    ],
+    "system_id": 30003372
+}

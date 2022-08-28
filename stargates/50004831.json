@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004050,
+        "system_id": 30003479
+    },
+    "name": "Stargate (Akila)",
+    "position": {
+        "x": 5059345735680,
+        "y": 161522196480,
+        "z": 6332537118720
+    },
+    "stargate_id": 50004831,
+    "system_id": 30003480,
+    "type_id": 29624
+}

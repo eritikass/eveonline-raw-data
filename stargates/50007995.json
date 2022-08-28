@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008588,
+        "system_id": 30002476
+    },
+    "name": "Stargate (G-73MR)",
+    "position": {
+        "x": 12558704640,
+        "y": 985128960,
+        "z": -1136552632320
+    },
+    "stargate_id": 50007995,
+    "system_id": 30002474,
+    "type_id": 16
+}

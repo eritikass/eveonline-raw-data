@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009448,
+        "system_id": 30003497
+    },
+    "name": "Stargate (Zaimeth)",
+    "position": {
+        "x": -1597198540800,
+        "y": -212664852480,
+        "z": -3195860951040
+    },
+    "stargate_id": 50010472,
+    "system_id": 30003498,
+    "type_id": 29624
+}

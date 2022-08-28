@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008497,
+        "system_id": 30003332
+    },
+    "name": "Stargate (2P-4LS)",
+    "position": {
+        "x": -196866908160,
+        "y": -32875683840,
+        "z": -68856422400
+    },
+    "stargate_id": 50008433,
+    "system_id": 30003330,
+    "type_id": 3875
+}

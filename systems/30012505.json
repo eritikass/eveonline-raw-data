@@ -1,0 +1,70 @@
+{
+    "constellation_id": 20000367,
+    "name": "Malukker",
+    "planets": [
+        {
+            "planet_id": 40347002
+        },
+        {
+            "asteroid_belts": [
+                40347004
+            ],
+            "planet_id": 40347003
+        },
+        {
+            "planet_id": 40347005
+        },
+        {
+            "asteroid_belts": [
+                40347007
+            ],
+            "planet_id": 40347006
+        },
+        {
+            "asteroid_belts": [
+                40347010
+            ],
+            "moons": [
+                40347009
+            ],
+            "planet_id": 40347008
+        },
+        {
+            "moons": [
+                40347012
+            ],
+            "planet_id": 40347011
+        },
+        {
+            "moons": [
+                40347014
+            ],
+            "planet_id": 40347013
+        },
+        {
+            "asteroid_belts": [
+                40347016
+            ],
+            "moons": [
+                40347017,
+                40347018
+            ],
+            "planet_id": 40347015
+        }
+    ],
+    "position": {
+        "x": -82687572823700000,
+        "y": 35890999178300000,
+        "z": 4477632828430000
+    },
+    "security_class": "A",
+    "security_status": 0.9880116581916809,
+    "star_id": 40347001,
+    "stargates": [
+        50014194
+    ],
+    "stations": [
+        60015041
+    ],
+    "system_id": 30012505
+}

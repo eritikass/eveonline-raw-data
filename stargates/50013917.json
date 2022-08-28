@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013918,
+        "system_id": 30001377
+    },
+    "name": "Stargate (Sarekuwa)",
+    "position": {
+        "x": -1825287168000,
+        "y": -41993625600,
+        "z": -1181774438400
+    },
+    "stargate_id": 50013917,
+    "system_id": 30001379,
+    "type_id": 16
+}

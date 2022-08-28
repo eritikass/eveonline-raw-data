@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011300,
+        "system_id": 30005151
+    },
+    "name": "Stargate (5-U12M)",
+    "position": {
+        "x": 6195261235200,
+        "y": -966835200000,
+        "z": 4936020664320
+    },
+    "stargate_id": 50009232,
+    "system_id": 30005146,
+    "type_id": 3875
+}

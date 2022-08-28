@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007220,
+        "system_id": 30000162
+    },
+    "name": "Stargate (Maila)",
+    "position": {
+        "x": 1642515456000,
+        "y": 164548730880,
+        "z": 2490698588160
+    },
+    "stargate_id": 50004744,
+    "system_id": 30000161,
+    "type_id": 16
+}

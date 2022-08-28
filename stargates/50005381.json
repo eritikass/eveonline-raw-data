@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001760,
+        "system_id": 30002699
+    },
+    "name": "Stargate (Brapelille)",
+    "position": {
+        "x": 191843328000,
+        "y": 2319605760,
+        "z": 1034244218880
+    },
+    "stargate_id": 50005381,
+    "system_id": 30002700,
+    "type_id": 3875
+}

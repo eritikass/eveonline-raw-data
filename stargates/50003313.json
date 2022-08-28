@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006806,
+        "system_id": 30004982
+    },
+    "name": "Stargate (Indregulle)",
+    "position": {
+        "x": -2935560806400,
+        "y": -592073809920,
+        "z": 5774876221440
+    },
+    "stargate_id": 50003313,
+    "system_id": 30004979,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002671,
+        "system_id": 30000815
+    },
+    "name": "Stargate (ROJ-B0)",
+    "position": {
+        "x": -52446044160,
+        "y": -4539064320,
+        "z": 6383560089600
+    },
+    "stargate_id": 50003299,
+    "system_id": 30000816,
+    "type_id": 29633
+}

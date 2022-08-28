@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000957,
+        "system_id": 30000691
+    },
+    "name": "Stargate (AH8-Q7)",
+    "position": {
+        "x": 1000565760000,
+        "y": -162658590720,
+        "z": 247678525440
+    },
+    "stargate_id": 50001726,
+    "system_id": 30000695,
+    "type_id": 29633
+}

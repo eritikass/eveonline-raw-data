@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004996,
+        "system_id": 30002859
+    },
+    "name": "Stargate (GSO-SR)",
+    "position": {
+        "x": -91437834240,
+        "y": -9348096000,
+        "z": -1290398146560
+    },
+    "stargate_id": 50002852,
+    "system_id": 30002854,
+    "type_id": 3875
+}

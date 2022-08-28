@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005847,
+        "system_id": 30001693
+    },
+    "name": "Stargate (Perdan)",
+    "position": {
+        "x": -3954027847680,
+        "y": -169174425600,
+        "z": -3716771880960
+    },
+    "stargate_id": 50005562,
+    "system_id": 30001691,
+    "type_id": 29624
+}

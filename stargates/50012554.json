@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011431,
+        "system_id": 30005288
+    },
+    "name": "Stargate (Girani-Fa)",
+    "position": {
+        "x": 3000491335680,
+        "y": 60226314240,
+        "z": 3768994897920
+    },
+    "stargate_id": 50012554,
+    "system_id": 30005289,
+    "type_id": 29624
+}

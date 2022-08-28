@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008384,
+        "system_id": 30004421
+    },
+    "name": "Stargate (K-X5AX)",
+    "position": {
+        "x": 756583342080,
+        "y": -44852305920,
+        "z": -43196866560
+    },
+    "stargate_id": 50008394,
+    "system_id": 30004422,
+    "type_id": 29633
+}

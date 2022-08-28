@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011825,
+        "system_id": 30004532
+    },
+    "name": "Stargate (B0C-LD)",
+    "position": {
+        "x": -1150524825600,
+        "y": -3102693089280,
+        "z": 3106393006080
+    },
+    "stargate_id": 50010887,
+    "system_id": 30004528,
+    "type_id": 3874
+}

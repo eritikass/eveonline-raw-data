@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011649,
+        "system_id": 30004061
+    },
+    "name": "Stargate (G8AD-C)",
+    "position": {
+        "x": -3182517657600,
+        "y": -637180846080,
+        "z": -1881687367680
+    },
+    "stargate_id": 50011584,
+    "system_id": 30004059,
+    "type_id": 3875
+}

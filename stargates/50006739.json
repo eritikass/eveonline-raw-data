@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006441,
+        "system_id": 30002599
+    },
+    "name": "Stargate (DY-40Z)",
+    "position": {
+        "x": -532277452800,
+        "y": -56828436480,
+        "z": 10804975411200
+    },
+    "stargate_id": 50006739,
+    "system_id": 30002600,
+    "type_id": 29633
+}

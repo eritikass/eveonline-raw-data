@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012767,
+        "system_id": 30002045
+    },
+    "name": "Stargate (OGV-AS)",
+    "position": {
+        "x": -6591342551040,
+        "y": 554275184640,
+        "z": 323620331520
+    },
+    "stargate_id": 50012706,
+    "system_id": 30002044,
+    "type_id": 16
+}

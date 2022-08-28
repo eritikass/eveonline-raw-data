@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005503,
+        "system_id": 30003727
+    },
+    "name": "Stargate (D-6WS1)",
+    "position": {
+        "x": -263414784000,
+        "y": 10876723200,
+        "z": 1739516682240
+    },
+    "stargate_id": 50006437,
+    "system_id": 30003728,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001089,
+        "system_id": 30002687
+    },
+    "name": "Stargate (Artisine)",
+    "position": {
+        "x": 172393144320,
+        "y": -6966927360,
+        "z": 1634865438720
+    },
+    "stargate_id": 50000780,
+    "system_id": 30002686,
+    "type_id": 3875
+}

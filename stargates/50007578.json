@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008004,
+        "system_id": 30004123
+    },
+    "name": "Stargate (Garisas)",
+    "position": {
+        "x": -2059383398400,
+        "y": 308125655040,
+        "z": -2337814487040
+    },
+    "stargate_id": 50007578,
+    "system_id": 30004122,
+    "type_id": 29624
+}

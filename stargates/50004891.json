@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006280,
+        "system_id": 30001848
+    },
+    "name": "Stargate (G-ME2K)",
+    "position": {
+        "x": -1414201712640,
+        "y": -18023669760,
+        "z": 2133004001280
+    },
+    "stargate_id": 50004891,
+    "system_id": 30001847,
+    "type_id": 29624
+}

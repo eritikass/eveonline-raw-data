@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000273,
+        "system_id": 30001644
+    },
+    "name": "Stargate (Tividu)",
+    "position": {
+        "x": -1182897561600,
+        "y": 214414172160,
+        "z": 3018316800000
+    },
+    "stargate_id": 50000875,
+    "system_id": 30001645,
+    "type_id": 29624
+}

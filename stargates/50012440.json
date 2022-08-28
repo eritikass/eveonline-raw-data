@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012462,
+        "system_id": 30002940
+    },
+    "name": "Stargate (MZ1E-P)",
+    "position": {
+        "x": -830283079680,
+        "y": 104588943360,
+        "z": 616027545600
+    },
+    "stargate_id": 50012440,
+    "system_id": 30002938,
+    "type_id": 16
+}

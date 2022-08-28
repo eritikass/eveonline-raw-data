@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003224,
+        "system_id": 30001671
+    },
+    "name": "Stargate (Tash-Murkon Prime)",
+    "position": {
+        "x": 1018635018240,
+        "y": -191994961920,
+        "z": 4738973245440
+    },
+    "stargate_id": 50002619,
+    "system_id": 30001669,
+    "type_id": 29624
+}

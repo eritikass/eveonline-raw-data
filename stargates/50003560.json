@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003701,
+        "system_id": 30002333
+    },
+    "name": "Stargate (IRD-HU)",
+    "position": {
+        "x": 1023927705600,
+        "y": 153516318720,
+        "z": -692287610880
+    },
+    "stargate_id": 50003560,
+    "system_id": 30002332,
+    "type_id": 3875
+}

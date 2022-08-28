@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013065,
+        "system_id": 30004222
+    },
+    "name": "Stargate (D9Z-VY)",
+    "position": {
+        "x": 1299706552320,
+        "y": -165256519680,
+        "z": -569357967360
+    },
+    "stargate_id": 50013088,
+    "system_id": 30004223,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008980,
+        "system_id": 30003338
+    },
+    "name": "Stargate (9GYL-O)",
+    "position": {
+        "x": 348762071040,
+        "y": 23000309760,
+        "z": -1353739100160
+    },
+    "stargate_id": 50009040,
+    "system_id": 30003340,
+    "type_id": 3875
+}

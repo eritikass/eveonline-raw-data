@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003309,
+        "system_id": 30000596
+    },
+    "name": "Stargate (07-SLO)",
+    "position": {
+        "x": -3319302512640,
+        "y": -902289039360,
+        "z": -1886770176000
+    },
+    "stargate_id": 50005467,
+    "system_id": 30000537,
+    "type_id": 3877
+}

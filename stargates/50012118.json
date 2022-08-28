@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012429,
+        "system_id": 30004075
+    },
+    "name": "Stargate (X-M9ON)",
+    "position": {
+        "x": 643476971520,
+        "y": 120091975680,
+        "z": -658615296000
+    },
+    "stargate_id": 50012118,
+    "system_id": 30004073,
+    "type_id": 3875
+}

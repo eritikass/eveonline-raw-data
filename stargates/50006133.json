@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006346,
+        "system_id": 30000431
+    },
+    "name": "Stargate (4-IPWK)",
+    "position": {
+        "x": -1527167262720,
+        "y": -128193208320,
+        "z": 390619668480
+    },
+    "stargate_id": 50006133,
+    "system_id": 30000428,
+    "type_id": 3876
+}

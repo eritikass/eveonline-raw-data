@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010196,
+        "system_id": 30001896
+    },
+    "name": "Stargate (A4UG-O)",
+    "position": {
+        "x": -710759178240,
+        "y": 135748362240,
+        "z": -1153357209600
+    },
+    "stargate_id": 50009847,
+    "system_id": 30001894,
+    "type_id": 29624
+}

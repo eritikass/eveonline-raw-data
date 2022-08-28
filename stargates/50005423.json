@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003588,
+        "system_id": 30001280
+    },
+    "name": "Stargate (N6G-H3)",
+    "position": {
+        "x": -700161269760,
+        "y": 104824135680,
+        "z": -688771768320
+    },
+    "stargate_id": 50005423,
+    "system_id": 30001282,
+    "type_id": 16
+}

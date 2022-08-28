@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012472,
+        "system_id": 30004288
+    },
+    "name": "Stargate (Ghekon)",
+    "position": {
+        "x": -304130334720,
+        "y": 11323023360,
+        "z": 529135656960
+    },
+    "stargate_id": 50012517,
+    "system_id": 30004289,
+    "type_id": 29624
+}

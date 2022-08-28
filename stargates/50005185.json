@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004500,
+        "system_id": 30005209
+    },
+    "name": "Stargate (Sibe)",
+    "position": {
+        "x": -225417338880,
+        "y": -44205711360,
+        "z": -2114960302080
+    },
+    "stargate_id": 50005185,
+    "system_id": 30005210,
+    "type_id": 29624
+}

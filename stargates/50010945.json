@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011466,
+        "system_id": 30004896
+    },
+    "name": "Stargate (LQ-AHE)",
+    "position": {
+        "x": 9284463452160,
+        "y": -1215693250560,
+        "z": 4355947929600
+    },
+    "stargate_id": 50010945,
+    "system_id": 30004891,
+    "type_id": 29633
+}

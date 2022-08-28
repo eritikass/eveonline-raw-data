@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010301,
+        "system_id": 30001899
+    },
+    "name": "Stargate (UKYS-5)",
+    "position": {
+        "x": 251921817600,
+        "y": -41004687360,
+        "z": 1154869370880
+    },
+    "stargate_id": 50010549,
+    "system_id": 30001902,
+    "type_id": 29624
+}

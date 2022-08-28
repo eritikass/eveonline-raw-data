@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005593,
+        "system_id": 30002996
+    },
+    "name": "Stargate (Lower Debyl)",
+    "position": {
+        "x": 2671343738880,
+        "y": -527364464640,
+        "z": -368908001280
+    },
+    "stargate_id": 50004857,
+    "system_id": 30002989,
+    "type_id": 17
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007417,
+        "system_id": 30001246
+    },
+    "name": "Stargate (QETZ-W)",
+    "position": {
+        "x": 3439733268480,
+        "y": -1670056058880,
+        "z": -3536498073600
+    },
+    "stargate_id": 50007171,
+    "system_id": 30001245,
+    "type_id": 17
+}

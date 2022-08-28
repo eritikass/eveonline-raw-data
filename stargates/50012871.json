@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012745,
+        "system_id": 30005290
+    },
+    "name": "Stargate (Heorah)",
+    "position": {
+        "x": -1518717296640,
+        "y": 123781816320,
+        "z": 5090032312320
+    },
+    "stargate_id": 50012871,
+    "system_id": 30005292,
+    "type_id": 29624
+}

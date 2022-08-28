@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001589,
+        "system_id": 30002132
+    },
+    "name": "Stargate (Q-HJ97)",
+    "position": {
+        "x": 4473493217280,
+        "y": -355510640640,
+        "z": 2699141160960
+    },
+    "stargate_id": 50001772,
+    "system_id": 30002133,
+    "type_id": 29633
+}

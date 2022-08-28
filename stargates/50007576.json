@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008386,
+        "system_id": 30002483
+    },
+    "name": "Stargate (CFYY-J)",
+    "position": {
+        "x": -1942819184640,
+        "y": -60536463360,
+        "z": -3044356792320
+    },
+    "stargate_id": 50007576,
+    "system_id": 30002482,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009574,
+        "system_id": 30003778
+    },
+    "name": "Stargate (7YWV-S)",
+    "position": {
+        "x": -2591259893760,
+        "y": -308306534400,
+        "z": -152136376320
+    },
+    "stargate_id": 50008725,
+    "system_id": 30003776,
+    "type_id": 29624
+}

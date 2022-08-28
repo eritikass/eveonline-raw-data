@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008671,
+        "system_id": 30004344
+    },
+    "name": "Stargate (52G-NZ)",
+    "position": {
+        "x": 1957366210560,
+        "y": -295849943040,
+        "z": -1352445665280
+    },
+    "stargate_id": 50008749,
+    "system_id": 30004345,
+    "type_id": 16
+}

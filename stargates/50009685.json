@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009213,
+        "system_id": 30003120
+    },
+    "name": "Stargate (WX-6UX)",
+    "position": {
+        "x": 80602275840,
+        "y": 1729044480,
+        "z": 204426977280
+    },
+    "stargate_id": 50009685,
+    "system_id": 30003122,
+    "type_id": 29624
+}

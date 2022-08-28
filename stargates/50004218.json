@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005302,
+        "system_id": 30001299
+    },
+    "name": "Stargate (D-SKWC)",
+    "position": {
+        "x": -72439357440,
+        "y": 4444200960,
+        "z": 54462750720
+    },
+    "stargate_id": 50004218,
+    "system_id": 30001292,
+    "type_id": 16
+}

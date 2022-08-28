@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003583,
+        "system_id": 30002516
+    },
+    "name": "Stargate (Lulm)",
+    "position": {
+        "x": 156311347200,
+        "y": -31522775040,
+        "z": -215600455680
+    },
+    "stargate_id": 50003718,
+    "system_id": 30002517,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008633,
+        "system_id": 30003113
+    },
+    "name": "Stargate (C-VZAK)",
+    "position": {
+        "x": -1748106731520,
+        "y": 4866989137920,
+        "z": -4129310760960
+    },
+    "stargate_id": 50008278,
+    "system_id": 30003104,
+    "type_id": 17
+}

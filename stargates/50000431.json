@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001385,
+        "system_id": 30000910
+    },
+    "name": "Stargate (8DL-CP)",
+    "position": {
+        "x": -1707773337600,
+        "y": 69523660800,
+        "z": 157931888640
+    },
+    "stargate_id": 50000431,
+    "system_id": 30000907,
+    "type_id": 29633
+}

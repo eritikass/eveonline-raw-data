@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006851,
+        "system_id": 30002057
+    },
+    "name": "Stargate (Hadozeko)",
+    "position": {
+        "x": -87497072640,
+        "y": 1296077660160,
+        "z": 510522777600
+    },
+    "stargate_id": 50009214,
+    "system_id": 30002097,
+    "type_id": 3877
+}

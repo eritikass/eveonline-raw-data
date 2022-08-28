@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005067,
+        "system_id": 30000293
+    },
+    "name": "Stargate (XF-PWO)",
+    "position": {
+        "x": 1605446492160,
+        "y": 236625960960,
+        "z": 1881872916480
+    },
+    "stargate_id": 50003332,
+    "system_id": 30000291,
+    "type_id": 16
+}

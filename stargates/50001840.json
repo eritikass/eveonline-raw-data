@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002238,
+        "system_id": 30000684
+    },
+    "name": "Stargate (2-KPW6)",
+    "position": {
+        "x": -1370157096960,
+        "y": -822321684480,
+        "z": -1401530572800
+    },
+    "stargate_id": 50001840,
+    "system_id": 30000710,
+    "type_id": 3877
+}

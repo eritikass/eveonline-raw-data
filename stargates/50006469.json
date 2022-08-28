@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006492,
+        "system_id": 30003795
+    },
+    "name": "Stargate (Covryn)",
+    "position": {
+        "x": 3372836904960,
+        "y": 1342108508160,
+        "z": -6014500085760
+    },
+    "stargate_id": 50006469,
+    "system_id": 30003802,
+    "type_id": 3874
+}

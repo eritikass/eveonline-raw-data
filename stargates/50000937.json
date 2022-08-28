@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005211,
+        "system_id": 30003510
+    },
+    "name": "Stargate (Sorzielang)",
+    "position": {
+        "x": 2477477683200,
+        "y": -501519605760,
+        "z": -4289896488960
+    },
+    "stargate_id": 50000937,
+    "system_id": 30003507,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006604,
+        "system_id": 30000110
+    },
+    "name": "Stargate (Bekirdod)",
+    "position": {
+        "x": -1263251742720,
+        "y": 27899043840,
+        "z": -562858598400
+    },
+    "stargate_id": 50003730,
+    "system_id": 30000107,
+    "type_id": 29624
+}

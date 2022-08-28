@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003679,
+        "system_id": 30002892
+    },
+    "name": "Stargate (AD-CBT)",
+    "position": {
+        "x": -760495841280,
+        "y": -32637050880,
+        "z": -2073831383040
+    },
+    "stargate_id": 50002996,
+    "system_id": 30002889,
+    "type_id": 16
+}

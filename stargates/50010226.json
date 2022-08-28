@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005490,
+        "system_id": 30005322
+    },
+    "name": "Stargate (Scolluzer)",
+    "position": {
+        "x": -3283659694080,
+        "y": 4185790341120,
+        "z": -4400526581760
+    },
+    "stargate_id": 50010226,
+    "system_id": 30005312,
+    "type_id": 3874
+}

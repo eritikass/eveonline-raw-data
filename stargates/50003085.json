@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003584,
+        "system_id": 30002789
+    },
+    "name": "Stargate (Kaaputenen)",
+    "position": {
+        "x": -1674740736000,
+        "y": -317977681920,
+        "z": -2212440760320
+    },
+    "stargate_id": 50003085,
+    "system_id": 30002788,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000865,
+        "system_id": 30000084
+    },
+    "name": "Stargate (Asghatil)",
+    "position": {
+        "x": -3053212508160,
+        "y": -407504855040,
+        "z": -3430348431360
+    },
+    "stargate_id": 50000343,
+    "system_id": 30000003,
+    "type_id": 17
+}

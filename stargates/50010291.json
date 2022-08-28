@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011066,
+        "system_id": 30001354
+    },
+    "name": "Stargate (ZD4-G9)",
+    "position": {
+        "x": 5595957288960,
+        "y": 61535969280,
+        "z": -2999123435520
+    },
+    "stargate_id": 50010291,
+    "system_id": 30001353,
+    "type_id": 16
+}

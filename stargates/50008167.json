@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006725,
+        "system_id": 30003430
+    },
+    "name": "Stargate (Oppold)",
+    "position": {
+        "x": -2095216189440,
+        "y": 328991907840,
+        "z": 8274647654400
+    },
+    "stargate_id": 50008167,
+    "system_id": 30003433,
+    "type_id": 29633
+}

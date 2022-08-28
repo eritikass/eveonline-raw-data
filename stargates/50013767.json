@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013768,
+        "system_id": 30004960
+    },
+    "name": "Stargate (TN25-J)",
+    "position": {
+        "x": -310872514560,
+        "y": 1568057548800,
+        "z": -1729420124160
+    },
+    "stargate_id": 50013767,
+    "system_id": 30004800,
+    "type_id": 12292
+}

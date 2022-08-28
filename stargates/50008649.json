@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009370,
+        "system_id": 30003984
+    },
+    "name": "Stargate (OGY-6D)",
+    "position": {
+        "x": 3128536719360,
+        "y": 2818548572160,
+        "z": 1715951247360
+    },
+    "stargate_id": 50008649,
+    "system_id": 30003950,
+    "type_id": 17
+}

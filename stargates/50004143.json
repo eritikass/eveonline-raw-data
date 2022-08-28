@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004838,
+        "system_id": 30003733
+    },
+    "name": "Stargate (TU-O0T)",
+    "position": {
+        "x": -1791044935680,
+        "y": -93673021440,
+        "z": 377464135680
+    },
+    "stargate_id": 50004143,
+    "system_id": 30003730,
+    "type_id": 29624
+}

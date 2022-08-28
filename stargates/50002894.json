@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000979,
+        "system_id": 30001541
+    },
+    "name": "Stargate (VX1-HV)",
+    "position": {
+        "x": 837408645120,
+        "y": -120541716480,
+        "z": -3036280872960
+    },
+    "stargate_id": 50002894,
+    "system_id": 30001543,
+    "type_id": 3875
+}

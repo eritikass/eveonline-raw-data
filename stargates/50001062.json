@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000210,
+        "system_id": 30000095
+    },
+    "name": "Stargate (Asilem)",
+    "position": {
+        "x": -1479367188480,
+        "y": 206024908800,
+        "z": -2501998632960
+    },
+    "stargate_id": 50001062,
+    "system_id": 30000097,
+    "type_id": 29624
+}

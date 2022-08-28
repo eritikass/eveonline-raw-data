@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000318,
+        "system_id": 30000246
+    },
+    "name": "Stargate (KRUN-N)",
+    "position": {
+        "x": -1077711052800,
+        "y": -169717555200,
+        "z": -113089290240
+    },
+    "stargate_id": 50001647,
+    "system_id": 30000249,
+    "type_id": 16
+}

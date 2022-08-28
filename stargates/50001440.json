@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002501,
+        "system_id": 30002306
+    },
+    "name": "Stargate (GN-TNT)",
+    "position": {
+        "x": 31548334080,
+        "y": -1639096320,
+        "z": -294094479360
+    },
+    "stargate_id": 50001440,
+    "system_id": 30002304,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004895,
+        "system_id": 30000027
+    },
+    "name": "Stargate (Psasa)",
+    "position": {
+        "x": 6550773719040,
+        "y": -1290308198400,
+        "z": -588895395840
+    },
+    "stargate_id": 50004932,
+    "system_id": 30000028,
+    "type_id": 29624
+}

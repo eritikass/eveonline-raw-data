@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008908,
+        "system_id": 30005160
+    },
+    "name": "Stargate (B-7LYC)",
+    "position": {
+        "x": 2028845260800,
+        "y": 107454996480,
+        "z": 2819640729600
+    },
+    "stargate_id": 50008281,
+    "system_id": 30005158,
+    "type_id": 3875
+}

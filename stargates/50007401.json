@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007269,
+        "system_id": 30000511
+    },
+    "name": "Stargate (RT-9WL)",
+    "position": {
+        "x": 167204904960,
+        "y": -33375805440,
+        "z": 1486385848320
+    },
+    "stargate_id": 50007401,
+    "system_id": 30000512,
+    "type_id": 29633
+}

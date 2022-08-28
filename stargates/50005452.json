@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009443,
+        "system_id": 30003797
+    },
+    "name": "Stargate (Dastryns)",
+    "position": {
+        "x": -1121166581760,
+        "y": -129960714240,
+        "z": 1536330178560
+    },
+    "stargate_id": 50005452,
+    "system_id": 30003794,
+    "type_id": 3875
+}

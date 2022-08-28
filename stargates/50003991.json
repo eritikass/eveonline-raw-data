@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007321,
+        "system_id": 30001186
+    },
+    "name": "Stargate (FZ-6A5)",
+    "position": {
+        "x": 1090901975040,
+        "y": 159153070080,
+        "z": 2230628720640
+    },
+    "stargate_id": 50003991,
+    "system_id": 30001185,
+    "type_id": 29624
+}

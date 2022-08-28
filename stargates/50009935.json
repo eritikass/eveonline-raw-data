@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010509,
+        "system_id": 30003594
+    },
+    "name": "Stargate (Heluene)",
+    "position": {
+        "x": -2554987683840,
+        "y": -1152946544640,
+        "z": -1350303621120
+    },
+    "stargate_id": 50009935,
+    "system_id": 30003571,
+    "type_id": 3874
+}

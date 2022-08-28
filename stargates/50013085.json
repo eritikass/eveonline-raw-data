@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013104,
+        "system_id": 30004943
+    },
+    "name": "Stargate (VQE-CN)",
+    "position": {
+        "x": -4052594073600,
+        "y": 792035450880,
+        "z": -3956612014080
+    },
+    "stargate_id": 50013085,
+    "system_id": 30004942,
+    "type_id": 29624
+}

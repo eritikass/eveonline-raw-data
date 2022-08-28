@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003912,
+        "system_id": 30000869
+    },
+    "name": "Stargate (TRKN-L)",
+    "position": {
+        "x": 595284172800,
+        "y": 63676293120,
+        "z": -931193118720
+    },
+    "stargate_id": 50005054,
+    "system_id": 30000870,
+    "type_id": 16
+}

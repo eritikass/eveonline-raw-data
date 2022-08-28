@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003108,
+        "system_id": 30000041
+    },
+    "name": "Stargate (Bairshir)",
+    "position": {
+        "x": 159433236480,
+        "y": 21594071040,
+        "z": 77834280960
+    },
+    "stargate_id": 50003544,
+    "system_id": 30000042,
+    "type_id": 29624
+}

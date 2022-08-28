@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016494,
+        "system_id": 30002411
+    },
+    "name": "Stargate (Skarkon)",
+    "position": {
+        "x": -154357198385.6363,
+        "y": 7606890531.773061,
+        "z": 22636705969.45626
+    },
+    "stargate_id": 50016495,
+    "system_id": 30003495,
+    "type_id": 56317
+}

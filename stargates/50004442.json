@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002942,
+        "system_id": 30003377
+    },
+    "name": "Stargate (Illuin)",
+    "position": {
+        "x": 833999216640,
+        "y": 3453146357760,
+        "z": -3929037250560
+    },
+    "stargate_id": 50004442,
+    "system_id": 30003400,
+    "type_id": 3877
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005681,
+        "system_id": 30002211
+    },
+    "name": "Stargate (Pelkia)",
+    "position": {
+        "x": 412047237120,
+        "y": 8200642560,
+        "z": -4547059507200
+    },
+    "stargate_id": 50004878,
+    "system_id": 30002210,
+    "type_id": 29624
+}

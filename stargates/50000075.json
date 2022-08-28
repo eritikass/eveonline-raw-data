@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000944,
+        "system_id": 30000555
+    },
+    "name": "Stargate (U104-3)",
+    "position": {
+        "x": -1189642690560,
+        "y": -157639925760,
+        "z": -3300617379840
+    },
+    "stargate_id": 50000075,
+    "system_id": 30000552,
+    "type_id": 29633
+}

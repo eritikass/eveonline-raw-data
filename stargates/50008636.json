@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009442,
+        "system_id": 30003834
+    },
+    "name": "Stargate (Chardalane)",
+    "position": {
+        "x": -5361856634880,
+        "y": 741818818560,
+        "z": 1707323596800
+    },
+    "stargate_id": 50008636,
+    "system_id": 30003832,
+    "type_id": 3875
+}

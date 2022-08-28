@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004147,
+        "system_id": 30002651
+    },
+    "name": "Stargate (Fasse)",
+    "position": {
+        "x": -463018352640,
+        "y": -4123484160,
+        "z": -262859857920
+    },
+    "stargate_id": 50003354,
+    "system_id": 30002650,
+    "type_id": 3875
+}

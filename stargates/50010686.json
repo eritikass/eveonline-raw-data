@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009730,
+        "system_id": 30004888
+    },
+    "name": "Stargate (ZJG-7D)",
+    "position": {
+        "x": -5574068183040,
+        "y": -462452613120,
+        "z": 514723307520
+    },
+    "stargate_id": 50010686,
+    "system_id": 30004890,
+    "type_id": 3877
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005701,
+        "system_id": 30004831
+    },
+    "name": "Stargate (ABE-M2)",
+    "position": {
+        "x": -4725769543680,
+        "y": -4132599767040,
+        "z": -5167908741120
+    },
+    "stargate_id": 50004936,
+    "system_id": 30004822,
+    "type_id": 3877
+}

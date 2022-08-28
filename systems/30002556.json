@@ -1,0 +1,83 @@
+{
+    "constellation_id": 20000375,
+    "name": "Gusandall",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40162607
+            ],
+            "moons": [
+                40162608
+            ],
+            "planet_id": 40162606
+        },
+        {
+            "planet_id": 40162609
+        },
+        {
+            "planet_id": 40162610
+        },
+        {
+            "asteroid_belts": [
+                40162612
+            ],
+            "moons": [
+                40162613
+            ],
+            "planet_id": 40162611
+        },
+        {
+            "asteroid_belts": [
+                40162615
+            ],
+            "moons": [
+                40162616
+            ],
+            "planet_id": 40162614
+        },
+        {
+            "asteroid_belts": [
+                40162618
+            ],
+            "moons": [
+                40162619
+            ],
+            "planet_id": 40162617
+        },
+        {
+            "moons": [
+                40162621
+            ],
+            "planet_id": 40162620
+        },
+        {
+            "asteroid_belts": [
+                40162623
+            ],
+            "moons": [
+                40162624,
+                40162625
+            ],
+            "planet_id": 40162622
+        }
+    ],
+    "position": {
+        "x": -78639495563769700,
+        "y": 3968876630675163,
+        "z": 41445087757778140
+    },
+    "security_class": "E",
+    "security_status": 0.37658458948135376,
+    "star_id": 40162605,
+    "stargates": [
+        50006144,
+        50006145,
+        50006146,
+        50006147,
+        50006148
+    ],
+    "stations": [
+        60004960
+    ],
+    "system_id": 30002556
+}

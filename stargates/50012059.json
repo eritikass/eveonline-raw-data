@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012497,
+        "system_id": 30004475
+    },
+    "name": "Stargate (K-J50B)",
+    "position": {
+        "x": -542034616320,
+        "y": 11432632320,
+        "z": -1406641889280
+    },
+    "stargate_id": 50012059,
+    "system_id": 30004472,
+    "type_id": 29633
+}

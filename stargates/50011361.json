@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011271,
+        "system_id": 30003351
+    },
+    "name": "Stargate (4L-E5P)",
+    "position": {
+        "x": 1110972456960,
+        "y": 86708428800,
+        "z": 340703109120
+    },
+    "stargate_id": 50011361,
+    "system_id": 30003352,
+    "type_id": 3875
+}

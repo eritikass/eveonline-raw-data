@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003440,
+        "system_id": 30000220
+    },
+    "name": "Stargate (Y0-BVN)",
+    "position": {
+        "x": 1329814855680,
+        "y": 229998059520,
+        "z": 1239676968960
+    },
+    "stargate_id": 50001002,
+    "system_id": 30000217,
+    "type_id": 16
+}

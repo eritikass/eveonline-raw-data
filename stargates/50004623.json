@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005970,
+        "system_id": 30001759
+    },
+    "name": "Stargate (6-GRN7)",
+    "position": {
+        "x": -6766797496320,
+        "y": -473237790720,
+        "z": 5289561169920
+    },
+    "stargate_id": 50004623,
+    "system_id": 30001757,
+    "type_id": 3875
+}

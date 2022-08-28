@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001226,
+        "system_id": 30001166
+    },
+    "name": "Stargate (9-8GBA)",
+    "position": {
+        "x": 858565877760,
+        "y": 93482065920,
+        "z": 40676106240
+    },
+    "stargate_id": 50000849,
+    "system_id": 30001164,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013249,
+        "system_id": 30002498
+    },
+    "name": "Stargate (BE-UUN)",
+    "position": {
+        "x": -821181112320,
+        "y": -57299312640,
+        "z": 257345003520
+    },
+    "stargate_id": 50012386,
+    "system_id": 30002497,
+    "type_id": 16
+}

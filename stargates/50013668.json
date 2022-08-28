@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013667,
+        "system_id": 30003062
+    },
+    "name": "Stargate (Angatalie)",
+    "position": {
+        "x": 752242483200,
+        "y": -8593381662720,
+        "z": -129272094720
+    },
+    "stargate_id": 50013668,
+    "system_id": 30002728,
+    "type_id": 29632
+}

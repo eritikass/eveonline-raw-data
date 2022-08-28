@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013100,
+        "system_id": 30004300
+    },
+    "name": "Stargate (Naga)",
+    "position": {
+        "x": -5642220871680,
+        "y": 866607144960,
+        "z": -6813500743680
+    },
+    "stargate_id": 50013273,
+    "system_id": 30004302,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007145,
+        "system_id": 30000523
+    },
+    "name": "Stargate (H-93YV)",
+    "position": {
+        "x": -1273297182720,
+        "y": 28542197760,
+        "z": -820873666560
+    },
+    "stargate_id": 50007771,
+    "system_id": 30000526,
+    "type_id": 29633
+}

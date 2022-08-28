@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012120,
+        "system_id": 30003169
+    },
+    "name": "Stargate (C-PEWN)",
+    "position": {
+        "x": 877085614080,
+        "y": 37047459840,
+        "z": -124529664000
+    },
+    "stargate_id": 50011934,
+    "system_id": 30003166,
+    "type_id": 29624
+}

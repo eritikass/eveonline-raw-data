@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001603,
+        "system_id": 30000690
+    },
+    "name": "Stargate (G15Z-W)",
+    "position": {
+        "x": 8720520192000,
+        "y": -425698222080,
+        "z": -514256855040
+    },
+    "stargate_id": 50000792,
+    "system_id": 30000688,
+    "type_id": 29633
+}

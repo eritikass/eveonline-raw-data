@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004161,
+        "system_id": 30002896
+    },
+    "name": "Stargate (CU9-T0)",
+    "position": {
+        "x": 1628060098560,
+        "y": 101295759360,
+        "z": 2999585464320
+    },
+    "stargate_id": 50004711,
+    "system_id": 30002897,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010062,
+        "system_id": 30005275
+    },
+    "name": "Stargate (Azedi)",
+    "position": {
+        "x": -5504901120,
+        "y": -547921920,
+        "z": 163507200000
+    },
+    "stargate_id": 50010344,
+    "system_id": 30005276,
+    "type_id": 29624
+}

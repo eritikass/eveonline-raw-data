@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007909,
+        "system_id": 30001350
+    },
+    "name": "Stargate (L-IE41)",
+    "position": {
+        "x": -2747583406080,
+        "y": -219696046080,
+        "z": -271917834240
+    },
+    "stargate_id": 50008107,
+    "system_id": 30001351,
+    "type_id": 16
+}

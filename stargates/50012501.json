@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012538,
+        "system_id": 30004477
+    },
+    "name": "Stargate (5P-AIP)",
+    "position": {
+        "x": 820681236480,
+        "y": -35629424640,
+        "z": -4327097671680
+    },
+    "stargate_id": 50012501,
+    "system_id": 30004476,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000844,
+        "system_id": 30002827
+    },
+    "name": "Stargate (FBH-JN)",
+    "position": {
+        "x": -556835758080,
+        "y": 2191447695360,
+        "z": -1637270691840
+    },
+    "stargate_id": 50000655,
+    "system_id": 30002850,
+    "type_id": 3874
+}

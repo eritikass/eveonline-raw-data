@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012266,
+        "system_id": 30004625
+    },
+    "name": "Stargate (L-A5XP)",
+    "position": {
+        "x": 1367658455040,
+        "y": 127424962560,
+        "z": 223681290240
+    },
+    "stargate_id": 50012207,
+    "system_id": 30004624,
+    "type_id": 3875
+}

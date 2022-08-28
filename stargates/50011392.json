@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011727,
+        "system_id": 30004561
+    },
+    "name": "Stargate (YVBE-E)",
+    "position": {
+        "x": 520992153600,
+        "y": -30795079680,
+        "z": -2349379215360
+    },
+    "stargate_id": 50011392,
+    "system_id": 30004560,
+    "type_id": 3875
+}

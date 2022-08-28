@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009221,
+        "system_id": 30002720
+    },
+    "name": "Stargate (Thelan)",
+    "position": {
+        "x": 1886565703680,
+        "y": -243539435520,
+        "z": -2231918960640
+    },
+    "stargate_id": 50008874,
+    "system_id": 30002719,
+    "type_id": 3875
+}

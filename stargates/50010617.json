@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007332,
+        "system_id": 30005140
+    },
+    "name": "Stargate (M-SG47)",
+    "position": {
+        "x": 5976400650240,
+        "y": 403880632320,
+        "z": -3823585566720
+    },
+    "stargate_id": 50010617,
+    "system_id": 30005141,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012571,
+        "system_id": 30004145
+    },
+    "name": "Stargate (Hapala)",
+    "position": {
+        "x": 2240474603520,
+        "y": 95271690240,
+        "z": 5946019553280
+    },
+    "stargate_id": 50012676,
+    "system_id": 30004146,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001713,
+        "system_id": 30001019
+    },
+    "name": "Stargate (VOL-MI)",
+    "position": {
+        "x": -2750611415040,
+        "y": 2091845345280,
+        "z": -2988024176640
+    },
+    "stargate_id": 50000120,
+    "system_id": 30000656,
+    "type_id": 29635
+}

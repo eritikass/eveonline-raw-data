@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006688,
+        "system_id": 30003863
+    },
+    "name": "Stargate (Khanid Prime)",
+    "position": {
+        "x": 1101653237760,
+        "y": -34854543360,
+        "z": -2358734315520
+    },
+    "stargate_id": 50006529,
+    "system_id": 30003860,
+    "type_id": 29624
+}

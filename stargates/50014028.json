@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014027,
+        "system_id": 30003345
+    },
+    "name": "Stargate (D85-VD)",
+    "position": {
+        "x": -687942082560,
+        "y": -1625025208320,
+        "z": 3772597002240
+    },
+    "stargate_id": 50014028,
+    "system_id": 30003599,
+    "type_id": 3876
+}

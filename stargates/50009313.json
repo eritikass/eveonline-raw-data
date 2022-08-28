@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009454,
+        "system_id": 30003931
+    },
+    "name": "Stargate (Sassecho)",
+    "position": {
+        "x": -384499998720,
+        "y": -37479751680,
+        "z": -212582031360
+    },
+    "stargate_id": 50009313,
+    "system_id": 30003930,
+    "type_id": 29624
+}

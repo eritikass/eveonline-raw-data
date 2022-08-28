@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005820,
+        "system_id": 30001223
+    },
+    "name": "Stargate (L-B55M)",
+    "position": {
+        "x": -11605543034880,
+        "y": -993568727040,
+        "z": -7797662883840
+    },
+    "stargate_id": 50005686,
+    "system_id": 30001222,
+    "type_id": 29624
+}

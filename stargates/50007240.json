@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007353,
+        "system_id": 30003879
+    },
+    "name": "Stargate (Safshela)",
+    "position": {
+        "x": 2845540392960,
+        "y": 85652889600,
+        "z": -3124487331840
+    },
+    "stargate_id": 50007240,
+    "system_id": 30003878,
+    "type_id": 29624
+}

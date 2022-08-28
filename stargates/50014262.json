@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014261,
+        "system_id": 30002363
+    },
+    "name": "Stargate (QBZO-R)",
+    "position": {
+        "x": -766950727680,
+        "y": -66075893760,
+        "z": 74181304320
+    },
+    "stargate_id": 50014262,
+    "system_id": 30002358,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009113,
+        "system_id": 30002999
+    },
+    "name": "Stargate (Shastal)",
+    "position": {
+        "x": -37153382400,
+        "y": 1899110400,
+        "z": -189577175040
+    },
+    "stargate_id": 50004771,
+    "system_id": 30002995,
+    "type_id": 29624
+}

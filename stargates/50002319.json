@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000476,
+        "system_id": 30002505
+    },
+    "name": "Stargate (Hulm)",
+    "position": {
+        "x": 85506170880,
+        "y": 9398968320,
+        "z": -207393546240
+    },
+    "stargate_id": 50002319,
+    "system_id": 30002511,
+    "type_id": 29633
+}

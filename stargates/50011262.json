@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011593,
+        "system_id": 30004255
+    },
+    "name": "Stargate (Parouz)",
+    "position": {
+        "x": 1882907074560,
+        "y": 112119275520,
+        "z": 3285788221440
+    },
+    "stargate_id": 50011262,
+    "system_id": 30004254,
+    "type_id": 29624
+}

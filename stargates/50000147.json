@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000161,
+        "system_id": 30000751
+    },
+    "name": "Stargate (W-6GBI)",
+    "position": {
+        "x": 1424905297920,
+        "y": 236141813760,
+        "z": -466975088640
+    },
+    "stargate_id": 50000147,
+    "system_id": 30000750,
+    "type_id": 29633
+}

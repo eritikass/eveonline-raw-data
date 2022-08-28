@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004101,
+        "system_id": 30000486
+    },
+    "name": "Stargate (EDQG-L)",
+    "position": {
+        "x": -617440419840,
+        "y": 66876334080,
+        "z": -1216370073600
+    },
+    "stargate_id": 50003596,
+    "system_id": 30000485,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012699,
+        "system_id": 30004856
+    },
+    "name": "Stargate (XUDX-A)",
+    "position": {
+        "x": 2594802769920,
+        "y": -270427791360,
+        "z": -370969927680
+    },
+    "stargate_id": 50012628,
+    "system_id": 30004854,
+    "type_id": 29633
+}

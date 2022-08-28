@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004802,
+        "system_id": 30003724
+    },
+    "name": "Stargate (D61A-G)",
+    "position": {
+        "x": 2453960908800,
+        "y": 37871001600,
+        "z": 1170958295040
+    },
+    "stargate_id": 50005297,
+    "system_id": 30003726,
+    "type_id": 29624
+}

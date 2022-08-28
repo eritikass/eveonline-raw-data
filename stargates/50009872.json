@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011051,
+        "system_id": 30003139
+    },
+    "name": "Stargate (6EK-BV)",
+    "position": {
+        "x": 1594154557440,
+        "y": -296059330560,
+        "z": 720396410880
+    },
+    "stargate_id": 50009872,
+    "system_id": 30003135,
+    "type_id": 29624
+}

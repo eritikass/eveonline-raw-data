@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009955,
+        "system_id": 30002923
+    },
+    "name": "Stargate (ZOYW-O)",
+    "position": {
+        "x": -4580994539520,
+        "y": 468918067200,
+        "z": -88461434880
+    },
+    "stargate_id": 50009801,
+    "system_id": 30002921,
+    "type_id": 16
+}

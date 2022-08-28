@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013059,
+        "system_id": 30002949
+    },
+    "name": "Stargate (9CK-KZ)",
+    "position": {
+        "x": -8047295324160,
+        "y": 455659069440,
+        "z": -66930155520
+    },
+    "stargate_id": 50013050,
+    "system_id": 30002948,
+    "type_id": 16
+}

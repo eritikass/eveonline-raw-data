@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002260,
+        "system_id": 30000545
+    },
+    "name": "Stargate (G9L-LP)",
+    "position": {
+        "x": -3870043545600,
+        "y": 455821516800,
+        "z": -1859488849920
+    },
+    "stargate_id": 50000635,
+    "system_id": 30000541,
+    "type_id": 29633
+}

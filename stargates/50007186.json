@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007552,
+        "system_id": 30002073
+    },
+    "name": "Stargate (Tvink)",
+    "position": {
+        "x": 121573171200,
+        "y": 2447646720,
+        "z": 4207143444480
+    },
+    "stargate_id": 50007186,
+    "system_id": 30002071,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009402,
+        "system_id": 30002623
+    },
+    "name": "Stargate (6B-GKA)",
+    "position": {
+        "x": 3733753896960,
+        "y": -747830845440,
+        "z": -3439393382400
+    },
+    "stargate_id": 50007702,
+    "system_id": 30002621,
+    "type_id": 29633
+}

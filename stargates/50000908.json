@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000259,
+        "system_id": 30000558
+    },
+    "name": "Stargate (UM-SCG)",
+    "position": {
+        "x": 402543206400,
+        "y": -76274442240,
+        "z": -243853516800
+    },
+    "stargate_id": 50000908,
+    "system_id": 30000560,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007433,
+        "system_id": 30005311
+    },
+    "name": "Stargate (Amygnon)",
+    "position": {
+        "x": 132116275200,
+        "y": 20865146880,
+        "z": -1175216087040
+    },
+    "stargate_id": 50004366,
+    "system_id": 30005308,
+    "type_id": 3875
+}

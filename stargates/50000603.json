@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001050,
+        "system_id": 30003483
+    },
+    "name": "Stargate (Valmu)",
+    "position": {
+        "x": -220963184640,
+        "y": -13635624960,
+        "z": -372149084160
+    },
+    "stargate_id": 50000603,
+    "system_id": 30003481,
+    "type_id": 29624
+}

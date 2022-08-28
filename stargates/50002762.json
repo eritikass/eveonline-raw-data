@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003700,
+        "system_id": 30001004
+    },
+    "name": "Stargate (ZZ-ZWC)",
+    "position": {
+        "x": 1903975587840,
+        "y": -115417866240,
+        "z": 2470592962560
+    },
+    "stargate_id": 50002762,
+    "system_id": 30001002,
+    "type_id": 29633
+}

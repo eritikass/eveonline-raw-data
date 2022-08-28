@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009841,
+        "system_id": 30003149
+    },
+    "name": "Stargate (02V-BK)",
+    "position": {
+        "x": 4080230400,
+        "y": -2855929159680,
+        "z": -439463239680
+    },
+    "stargate_id": 50010506,
+    "system_id": 30003170,
+    "type_id": 17
+}

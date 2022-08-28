@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006329,
+        "system_id": 30003678
+    },
+    "name": "Stargate (CR-IFM)",
+    "position": {
+        "x": 8962440929280,
+        "y": 259220889600,
+        "z": 2882838159360
+    },
+    "stargate_id": 50006960,
+    "system_id": 30003680,
+    "type_id": 3875
+}

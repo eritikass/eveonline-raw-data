@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011567,
+        "system_id": 30004190
+    },
+    "name": "Stargate (87-1PM)",
+    "position": {
+        "x": -627854499840,
+        "y": 62293647360,
+        "z": -680957091840
+    },
+    "stargate_id": 50011780,
+    "system_id": 30004191,
+    "type_id": 3875
+}

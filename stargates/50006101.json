@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005581,
+        "system_id": 30005108
+    },
+    "name": "Stargate (EH2I-P)",
+    "position": {
+        "x": 113571717120,
+        "y": 22285393920,
+        "z": -13842800640
+    },
+    "stargate_id": 50006101,
+    "system_id": 30005114,
+    "type_id": 3875
+}

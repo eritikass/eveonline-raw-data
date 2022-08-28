@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013305,
+        "system_id": 30001823
+    },
+    "name": "Stargate (P-8PDJ)",
+    "position": {
+        "x": -4680584355840,
+        "y": -78848532480,
+        "z": -609600184320
+    },
+    "stargate_id": 50013267,
+    "system_id": 30001822,
+    "type_id": 3875
+}

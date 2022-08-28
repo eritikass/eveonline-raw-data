@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009231,
+        "system_id": 30005146
+    },
+    "name": "Stargate (7MMJ-3)",
+    "position": {
+        "x": -2855088660480,
+        "y": 545499832320,
+        "z": 1235300474880
+    },
+    "stargate_id": 50009963,
+    "system_id": 30005148,
+    "type_id": 3875
+}

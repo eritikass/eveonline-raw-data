@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012261,
+        "system_id": 30004283
+    },
+    "name": "Stargate (Shafrak)",
+    "position": {
+        "x": 3809990860800,
+        "y": -659577200640,
+        "z": -18791178240
+    },
+    "stargate_id": 50012330,
+    "system_id": 30004284,
+    "type_id": 29624
+}

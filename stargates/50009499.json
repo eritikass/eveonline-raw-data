@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008949,
+        "system_id": 30002577
+    },
+    "name": "Stargate (Bundindus)",
+    "position": {
+        "x": 2375264133120,
+        "y": -245284085760,
+        "z": -2997056593920
+    },
+    "stargate_id": 50009499,
+    "system_id": 30002578,
+    "type_id": 29633
+}

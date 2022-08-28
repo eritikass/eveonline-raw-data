@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007104,
+        "system_id": 30001323
+    },
+    "name": "Stargate (Q61Y-F)",
+    "position": {
+        "x": 316598231040,
+        "y": 5565644267520,
+        "z": -3510815416320
+    },
+    "stargate_id": 50007908,
+    "system_id": 30001350,
+    "type_id": 29627
+}

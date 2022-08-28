@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010574,
+        "system_id": 30002793
+    },
+    "name": "Stargate (Inari)",
+    "position": {
+        "x": 159576268800,
+        "y": 11139686400,
+        "z": 51313090560
+    },
+    "stargate_id": 50009590,
+    "system_id": 30002792,
+    "type_id": 16
+}

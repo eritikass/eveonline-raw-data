@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006479,
+        "system_id": 30003080
+    },
+    "name": "Stargate (Jarkkolen)",
+    "position": {
+        "x": -330405027840,
+        "y": -63389736960,
+        "z": -272266567680
+    },
+    "stargate_id": 50006937,
+    "system_id": 30003083,
+    "type_id": 29624
+}

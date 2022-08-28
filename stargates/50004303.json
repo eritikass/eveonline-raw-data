@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004054,
+        "system_id": 30002339
+    },
+    "name": "Stargate (9QS5-C)",
+    "position": {
+        "x": 11209095782400,
+        "y": -2167398359040,
+        "z": 4551469178880
+    },
+    "stargate_id": 50004303,
+    "system_id": 30002340,
+    "type_id": 3875
+}

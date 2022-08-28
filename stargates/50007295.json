@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007010,
+        "system_id": 30002656
+    },
+    "name": "Stargate (Auvergne)",
+    "position": {
+        "x": 565706219520,
+        "y": -20695326720,
+        "z": 238561320960
+    },
+    "stargate_id": 50007295,
+    "system_id": 30002658,
+    "type_id": 3875
+}

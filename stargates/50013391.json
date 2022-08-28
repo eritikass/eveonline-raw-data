@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013322,
+        "system_id": 30003599
+    },
+    "name": "Stargate (Faurulle)",
+    "position": {
+        "x": 2221651107840,
+        "y": 357958410240,
+        "z": -2566475980800
+    },
+    "stargate_id": 50013391,
+    "system_id": 30003601,
+    "type_id": 3875
+}

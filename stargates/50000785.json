@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000040,
+        "system_id": 30004078
+    },
+    "name": "Stargate (Dresi)",
+    "position": {
+        "x": 3257273425920,
+        "y": -337853030400,
+        "z": 516720844800
+    },
+    "stargate_id": 50000785,
+    "system_id": 30004081,
+    "type_id": 29624
+}

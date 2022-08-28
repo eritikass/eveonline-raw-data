@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005156,
+        "system_id": 30002236
+    },
+    "name": "Stargate (Milal)",
+    "position": {
+        "x": -1796301987840,
+        "y": -4715148042240,
+        "z": -2204799590400
+    },
+    "stargate_id": 50003365,
+    "system_id": 30002201,
+    "type_id": 17
+}

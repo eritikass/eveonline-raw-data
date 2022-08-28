@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009062,
+        "system_id": 30004121
+    },
+    "name": "Stargate (Menri)",
+    "position": {
+        "x": 3041947361280,
+        "y": 191112192000,
+        "z": 3527788584960
+    },
+    "stargate_id": 50008669,
+    "system_id": 30004119,
+    "type_id": 29624
+}

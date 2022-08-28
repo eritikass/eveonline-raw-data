@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008297,
+        "system_id": 30002610
+    },
+    "name": "Stargate (UK-SHL)",
+    "position": {
+        "x": 787714252800,
+        "y": -133360312320,
+        "z": -3849493831680
+    },
+    "stargate_id": 50008234,
+    "system_id": 30002609,
+    "type_id": 29633
+}

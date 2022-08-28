@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010616,
+        "system_id": 30005141
+    },
+    "name": "Stargate (SR-10Z)",
+    "position": {
+        "x": 5327764561920,
+        "y": 1020739952640,
+        "z": 917810995200
+    },
+    "stargate_id": 50006743,
+    "system_id": 30005139,
+    "type_id": 3875
+}

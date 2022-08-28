@@ -1,0 +1,71 @@
+{
+    "constellation_id": 20000658,
+    "name": "0-WVQS",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40285320
+            ],
+            "planet_id": 40285319
+        },
+        {
+            "asteroid_belts": [
+                40285322
+            ],
+            "planet_id": 40285321
+        },
+        {
+            "asteroid_belts": [
+                40285324
+            ],
+            "planet_id": 40285323
+        },
+        {
+            "asteroid_belts": [
+                40285326
+            ],
+            "moons": [
+                40285327
+            ],
+            "planet_id": 40285325
+        },
+        {
+            "moons": [
+                40285329
+            ],
+            "planet_id": 40285328
+        },
+        {
+            "asteroid_belts": [
+                40285331,
+                40285332,
+                40285334
+            ],
+            "moons": [
+                40285333
+            ],
+            "planet_id": 40285330
+        },
+        {
+            "moons": [
+                40285336,
+                40285337,
+                40285338
+            ],
+            "planet_id": 40285335
+        }
+    ],
+    "position": {
+        "x": -373376033257968060,
+        "y": 18598546668457612,
+        "z": 99703199496793010
+    },
+    "security_class": "J",
+    "security_status": -0.0735853835940361,
+    "star_id": 40285318,
+    "stargates": [
+        50010018,
+        50010019
+    ],
+    "system_id": 30004509
+}

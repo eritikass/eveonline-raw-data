@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006587,
+        "system_id": 30003081
+    },
+    "name": "Stargate (Ronne)",
+    "position": {
+        "x": -1701113733120,
+        "y": 146845655040,
+        "z": 829032898560
+    },
+    "stargate_id": 50006874,
+    "system_id": 30003082,
+    "type_id": 29624
+}

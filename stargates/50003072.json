@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002075,
+        "system_id": 30001182
+    },
+    "name": "Stargate (MB-NKE)",
+    "position": {
+        "x": 1463095173120,
+        "y": 20772986880,
+        "z": 229282652160
+    },
+    "stargate_id": 50003072,
+    "system_id": 30001183,
+    "type_id": 29624
+}

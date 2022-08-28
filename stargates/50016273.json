@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016274,
+        "system_id": 30045340
+    },
+    "name": "Stargate (Aivonen)",
+    "position": {
+        "x": -821907578880,
+        "y": 2549443829760,
+        "z": -4384582656000
+    },
+    "stargate_id": 50016273,
+    "system_id": 30045320,
+    "type_id": 29627
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008246,
+        "system_id": 30004419
+    },
+    "name": "Stargate (3L-Y9M)",
+    "position": {
+        "x": 3391734374400,
+        "y": 610253168640,
+        "z": 1861815951360
+    },
+    "stargate_id": 50008150,
+    "system_id": 30004418,
+    "type_id": 29633
+}

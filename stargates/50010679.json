@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010953,
+        "system_id": 30004456
+    },
+    "name": "Stargate (Y2-I3W)",
+    "position": {
+        "x": -985763635200,
+        "y": -148565729280,
+        "z": -5379209994240
+    },
+    "stargate_id": 50010679,
+    "system_id": 30004455,
+    "type_id": 29633
+}

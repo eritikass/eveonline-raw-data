@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009032,
+        "system_id": 30003841
+    },
+    "name": "Stargate (Alsavoinon)",
+    "position": {
+        "x": -1010443837440,
+        "y": -197938913280,
+        "z": 486015590400
+    },
+    "stargate_id": 50008693,
+    "system_id": 30003836,
+    "type_id": 3875
+}

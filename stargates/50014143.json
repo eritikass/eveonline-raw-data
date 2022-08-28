@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014144,
+        "system_id": 30041407
+    },
+    "name": "Stargate (Ichinumi)",
+    "position": {
+        "x": -1825303142400,
+        "y": -41968803840,
+        "z": -1181795328000
+    },
+    "stargate_id": 50014143,
+    "system_id": 30001379,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009311,
+        "system_id": 30003635
+    },
+    "name": "Stargate (KW-1MV)",
+    "position": {
+        "x": -4427368243200,
+        "y": 600599224320,
+        "z": -3878793830400
+    },
+    "stargate_id": 50009141,
+    "system_id": 30003630,
+    "type_id": 16
+}

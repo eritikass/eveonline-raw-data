@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007173,
+        "system_id": 30002785
+    },
+    "name": "Stargate (Santola)",
+    "position": {
+        "x": 970425753600,
+        "y": -159191162880,
+        "z": 1319465902080
+    },
+    "stargate_id": 50007370,
+    "system_id": 30002786,
+    "type_id": 16
+}

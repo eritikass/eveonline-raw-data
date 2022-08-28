@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011962,
+        "system_id": 30003457
+    },
+    "name": "Stargate (Ridoner)",
+    "position": {
+        "x": 18455962214400,
+        "y": 1961894092800,
+        "z": 5003327447040
+    },
+    "stargate_id": 50009029,
+    "system_id": 30003454,
+    "type_id": 29633
+}

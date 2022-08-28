@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005878,
+        "system_id": 30002436
+    },
+    "name": "Stargate (B6-52M)",
+    "position": {
+        "x": 484214415360,
+        "y": 89708666880,
+        "z": -67379650560
+    },
+    "stargate_id": 50006188,
+    "system_id": 30002437,
+    "type_id": 16
+}

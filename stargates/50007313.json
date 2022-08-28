@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007201,
+        "system_id": 30001865
+    },
+    "name": "Stargate (U-WLT9)",
+    "position": {
+        "x": -2354773893120,
+        "y": -1644217098240,
+        "z": 3731793223680
+    },
+    "stargate_id": 50007313,
+    "system_id": 30003098,
+    "type_id": 29626
+}

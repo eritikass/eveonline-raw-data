@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011477,
+        "system_id": 30004457
+    },
+    "name": "Stargate (VVO-R6)",
+    "position": {
+        "x": -3443588505600,
+        "y": 419587645440,
+        "z": 3213175726080
+    },
+    "stargate_id": 50011742,
+    "system_id": 30004459,
+    "type_id": 3877
+}

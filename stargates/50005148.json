@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011395,
+        "system_id": 30001668
+    },
+    "name": "Stargate (Yong)",
+    "position": {
+        "x": -1098862878720,
+        "y": -174959370240,
+        "z": -3138643845120
+    },
+    "stargate_id": 50005148,
+    "system_id": 30001663,
+    "type_id": 29624
+}

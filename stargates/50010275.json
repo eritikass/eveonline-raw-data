@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010294,
+        "system_id": 30004231
+    },
+    "name": "Stargate (Shakasi)",
+    "position": {
+        "x": -341500600320,
+        "y": 20588421120,
+        "z": -132868300800
+    },
+    "stargate_id": 50010275,
+    "system_id": 30004230,
+    "type_id": 29624
+}

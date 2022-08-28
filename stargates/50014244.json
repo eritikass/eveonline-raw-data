@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014243,
+        "system_id": 30002353
+    },
+    "name": "Stargate (TZ-74M)",
+    "position": {
+        "x": -1479887953920,
+        "y": 2429967114240,
+        "z": -2352220200960
+    },
+    "stargate_id": 50014244,
+    "system_id": 30002878,
+    "type_id": 29632
+}

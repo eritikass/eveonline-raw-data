@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011924,
+        "system_id": 30003702
+    },
+    "name": "Stargate (8QMO-E)",
+    "position": {
+        "x": -1142020300800,
+        "y": -192234332160,
+        "z": 70839214080
+    },
+    "stargate_id": 50011344,
+    "system_id": 30003698,
+    "type_id": 3875
+}

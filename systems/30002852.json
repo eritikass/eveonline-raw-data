@@ -1,0 +1,51 @@
+{
+    "constellation_id": 20000418,
+    "name": "M3-H2Y",
+    "planets": [
+        {
+            "planet_id": 40180758
+        },
+        {
+            "asteroid_belts": [
+                40180761
+            ],
+            "moons": [
+                40180762
+            ],
+            "planet_id": 40180759
+        },
+        {
+            "asteroid_belts": [
+                40180764
+            ],
+            "moons": [
+                40180765,
+                40180766,
+                40180767
+            ],
+            "planet_id": 40180763
+        },
+        {
+            "asteroid_belts": [
+                40180769,
+                40180771
+            ],
+            "moons": [
+                40180770
+            ],
+            "planet_id": 40180768
+        }
+    ],
+    "position": {
+        "x": 135129051445322860,
+        "y": 58600790639870690,
+        "z": 97297663666522000
+    },
+    "security_class": "K4",
+    "security_status": -0.2999049723148346,
+    "star_id": 40180757,
+    "stargates": [
+        50001008
+    ],
+    "system_id": 30002852
+}

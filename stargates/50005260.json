@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005325,
+        "system_id": 30003539
+    },
+    "name": "Stargate (Miakie)",
+    "position": {
+        "x": -212110909440,
+        "y": -36316078080,
+        "z": 74234388480
+    },
+    "stargate_id": 50005260,
+    "system_id": 30003538,
+    "type_id": 29624
+}

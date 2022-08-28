@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007977,
+        "system_id": 30003210
+    },
+    "name": "Stargate (6U-MFQ)",
+    "position": {
+        "x": -1356818964480,
+        "y": 237234708480,
+        "z": 1340481085440
+    },
+    "stargate_id": 50008422,
+    "system_id": 30003213,
+    "type_id": 3875
+}

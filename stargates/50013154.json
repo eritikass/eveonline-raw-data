@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012707,
+        "system_id": 30002044
+    },
+    "name": "Stargate (Y-C3EQ)",
+    "position": {
+        "x": -1136263618560,
+        "y": -141809541120,
+        "z": 2275429785600
+    },
+    "stargate_id": 50013154,
+    "system_id": 30002046,
+    "type_id": 16
+}

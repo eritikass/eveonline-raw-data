@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009932,
+        "system_id": 30003136
+    },
+    "name": "Stargate (E1UU-3)",
+    "position": {
+        "x": 509503119360,
+        "y": 89100165120,
+        "z": -1412256768000
+    },
+    "stargate_id": 50010670,
+    "system_id": 30003138,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016225,
+        "system_id": 30045307
+    },
+    "name": "Stargate (Okagaiken)",
+    "position": {
+        "x": -5687669514240,
+        "y": -80392151040,
+        "z": -5866987806720
+    },
+    "stargate_id": 50016226,
+    "system_id": 30045309,
+    "type_id": 16
+}

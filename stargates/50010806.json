@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011268,
+        "system_id": 30004530
+    },
+    "name": "Stargate (CT7-5V)",
+    "position": {
+        "x": 259069255680,
+        "y": -33068605440,
+        "z": 3618369085440
+    },
+    "stargate_id": 50010806,
+    "system_id": 30004527,
+    "type_id": 3875
+}

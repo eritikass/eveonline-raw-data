@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016376,
+        "system_id": 30045350
+    },
+    "name": "Stargate (Teimo)",
+    "position": {
+        "x": -6247475896320,
+        "y": -24735129600,
+        "z": -6500996997120
+    },
+    "stargate_id": 50016375,
+    "system_id": 30045346,
+    "type_id": 16
+}

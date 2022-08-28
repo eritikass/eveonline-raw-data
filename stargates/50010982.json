@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011009,
+        "system_id": 30004054
+    },
+    "name": "Stargate (Q-UA3C)",
+    "position": {
+        "x": -151271792640,
+        "y": -25632645120,
+        "z": 1126423879680
+    },
+    "stargate_id": 50010982,
+    "system_id": 30004052,
+    "type_id": 3875
+}

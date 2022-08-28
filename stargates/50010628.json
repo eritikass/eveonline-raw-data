@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011783,
+        "system_id": 30003008
+    },
+    "name": "Stargate (Palpis)",
+    "position": {
+        "x": 81341276160,
+        "y": 13885071360,
+        "z": 77284515840
+    },
+    "stargate_id": 50010628,
+    "system_id": 30003006,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003789,
+        "system_id": 30000597
+    },
+    "name": "Stargate (Z-A8FS)",
+    "position": {
+        "x": -2665356779520,
+        "y": 357306408960,
+        "z": -3137664983040
+    },
+    "stargate_id": 50003307,
+    "system_id": 30000596,
+    "type_id": 29633
+}

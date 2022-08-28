@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007806,
+        "system_id": 30000513
+    },
+    "name": "Stargate (62O-UE)",
+    "position": {
+        "x": -3257643786240,
+        "y": 648617779200,
+        "z": -70344007680
+    },
+    "stargate_id": 50007402,
+    "system_id": 30000512,
+    "type_id": 29633
+}

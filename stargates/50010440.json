@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010424,
+        "system_id": 30004232
+    },
+    "name": "Stargate (Zayi)",
+    "position": {
+        "x": 360091607040,
+        "y": 29473628160,
+        "z": -41195151360
+    },
+    "stargate_id": 50010440,
+    "system_id": 30004233,
+    "type_id": 29624
+}

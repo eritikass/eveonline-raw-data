@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004176,
+        "system_id": 30002691
+    },
+    "name": "Stargate (Crielere)",
+    "position": {
+        "x": -2990919720960,
+        "y": 5521776353280,
+        "z": 648081039360
+    },
+    "stargate_id": 50006983,
+    "system_id": 30002718,
+    "type_id": 3874
+}

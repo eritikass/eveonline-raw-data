@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008312,
+        "system_id": 30003908
+    },
+    "name": "Stargate (Bashyam)",
+    "position": {
+        "x": -411352965120,
+        "y": -57369108480,
+        "z": -1358544691200
+    },
+    "stargate_id": 50008488,
+    "system_id": 30003909,
+    "type_id": 29624
+}

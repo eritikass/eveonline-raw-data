@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009670,
+        "system_id": 30003361
+    },
+    "name": "Stargate (VSIG-K)",
+    "position": {
+        "x": -5027570442240,
+        "y": -3182453514240,
+        "z": -5906179399680
+    },
+    "stargate_id": 50008985,
+    "system_id": 30004499,
+    "type_id": 29632
+}

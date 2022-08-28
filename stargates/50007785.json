@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008127,
+        "system_id": 30001734
+    },
+    "name": "Stargate (Zehru)",
+    "position": {
+        "x": -696015544320,
+        "y": 100523827200,
+        "z": -1692194611200
+    },
+    "stargate_id": 50007785,
+    "system_id": 30001733,
+    "type_id": 29624
+}

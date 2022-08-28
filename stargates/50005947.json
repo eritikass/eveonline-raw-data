@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005286,
+        "system_id": 30003741
+    },
+    "name": "Stargate (S9X-AX)",
+    "position": {
+        "x": 135295180800,
+        "y": -17926840320,
+        "z": 4273152000
+    },
+    "stargate_id": 50005947,
+    "system_id": 30003743,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005454,
+        "system_id": 30005229
+    },
+    "name": "Stargate (Diaderi)",
+    "position": {
+        "x": -3239235379200,
+        "y": -1174304317440,
+        "z": -1746388377600
+    },
+    "stargate_id": 50003808,
+    "system_id": 30005301,
+    "type_id": 3876
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006693,
+        "system_id": 30000309
+    },
+    "name": "Stargate (O-LR1H)",
+    "position": {
+        "x": -398416158720,
+        "y": 23245578240,
+        "z": -546418237440
+    },
+    "stargate_id": 50006916,
+    "system_id": 30000310,
+    "type_id": 16
+}

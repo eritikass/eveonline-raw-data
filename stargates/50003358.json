@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003837,
+        "system_id": 30000481
+    },
+    "name": "Stargate (QRFJ-Q)",
+    "position": {
+        "x": 3561191546880,
+        "y": 4316160000,
+        "z": 2638730158080
+    },
+    "stargate_id": 50003358,
+    "system_id": 30000479,
+    "type_id": 29633
+}

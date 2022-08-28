@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004052,
+        "system_id": 30001048
+    },
+    "name": "Stargate (Litom)",
+    "position": {
+        "x": 282148577280,
+        "y": -31289057280,
+        "z": 532257546240
+    },
+    "stargate_id": 50006150,
+    "system_id": 30001050,
+    "type_id": 29633
+}

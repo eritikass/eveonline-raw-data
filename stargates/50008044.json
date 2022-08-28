@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008758,
+        "system_id": 30002728
+    },
+    "name": "Stargate (Lermireve)",
+    "position": {
+        "x": -4310533201920,
+        "y": 104865914880,
+        "z": 1671057039360
+    },
+    "stargate_id": 50008044,
+    "system_id": 30002726,
+    "type_id": 3875
+}

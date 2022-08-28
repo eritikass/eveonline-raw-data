@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013941,
+        "system_id": 30002545
+    },
+    "name": "Stargate (Lustrevik)",
+    "position": {
+        "x": 272316702720,
+        "y": -2268730122240,
+        "z": 1952887480320
+    },
+    "stargate_id": 50013942,
+    "system_id": 30002568,
+    "type_id": 3877
+}

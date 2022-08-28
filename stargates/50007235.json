@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008119,
+        "system_id": 30004837
+    },
+    "name": "Stargate (QI9-42)",
+    "position": {
+        "x": 314615685120,
+        "y": 39859691520,
+        "z": -226679316480
+    },
+    "stargate_id": 50007235,
+    "system_id": 30004834,
+    "type_id": 29633
+}

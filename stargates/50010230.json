@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010693,
+        "system_id": 30003469
+    },
+    "name": "Stargate (Hodrold)",
+    "position": {
+        "x": 2301782384640,
+        "y": -317183877120,
+        "z": 2416757514240
+    },
+    "stargate_id": 50010230,
+    "system_id": 30003468,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010714,
+        "system_id": 30003846
+    },
+    "name": "Stargate (Hedoubel)",
+    "position": {
+        "x": 718085038080,
+        "y": 138911539200,
+        "z": -1294463508480
+    },
+    "stargate_id": 50011953,
+    "system_id": 30003849,
+    "type_id": 3875
+}

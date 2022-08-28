@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006732,
+        "system_id": 30000094
+    },
+    "name": "Stargate (Hahyil)",
+    "position": {
+        "x": -4720905707520,
+        "y": -296428462080,
+        "z": -1126215720960
+    },
+    "stargate_id": 50002984,
+    "system_id": 30000092,
+    "type_id": 29624
+}

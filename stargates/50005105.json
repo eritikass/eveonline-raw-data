@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005417,
+        "system_id": 30002361
+    },
+    "name": "Stargate (UAV-1E)",
+    "position": {
+        "x": -1453363814400,
+        "y": -270674780160,
+        "z": -2623499182080
+    },
+    "stargate_id": 50005105,
+    "system_id": 30002356,
+    "type_id": 3875
+}

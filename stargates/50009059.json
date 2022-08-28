@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009664,
+        "system_id": 30000191
+    },
+    "name": "Stargate (Walvalin)",
+    "position": {
+        "x": -976557711360,
+        "y": 5508341760,
+        "z": 1613153034240
+    },
+    "stargate_id": 50009059,
+    "system_id": 30000189,
+    "type_id": 16
+}

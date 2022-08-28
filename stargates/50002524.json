@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004350,
+        "system_id": 30003074
+    },
+    "name": "Stargate (Sasiekko)",
+    "position": {
+        "x": -1088166174720,
+        "y": 109026877440,
+        "z": 586307297280
+    },
+    "stargate_id": 50002524,
+    "system_id": 30003070,
+    "type_id": 29624
+}

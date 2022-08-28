@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003077,
+        "system_id": 30000102
+    },
+    "name": "Stargate (Dysa)",
+    "position": {
+        "x": -476203868160,
+        "y": 67713392640,
+        "z": -2023022469120
+    },
+    "stargate_id": 50001878,
+    "system_id": 30000098,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008695,
+        "system_id": 30003209
+    },
+    "name": "Stargate (R8WV-7)",
+    "position": {
+        "x": -3683617628160,
+        "y": 1103333253120,
+        "z": -5028898775040
+    },
+    "stargate_id": 50008754,
+    "system_id": 30003223,
+    "type_id": 3874
+}

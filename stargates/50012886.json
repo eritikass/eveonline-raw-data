@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012677,
+        "system_id": 30004146
+    },
+    "name": "Stargate (Salah)",
+    "position": {
+        "x": 4175614156800,
+        "y": -780628500480,
+        "z": 895014297600
+    },
+    "stargate_id": 50012886,
+    "system_id": 30004147,
+    "type_id": 29624
+}

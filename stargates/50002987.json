@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005406,
+        "system_id": 30000592
+    },
+    "name": "Stargate (HPBE-D)",
+    "position": {
+        "x": -1499508940800,
+        "y": -143730155520,
+        "z": 483683573760
+    },
+    "stargate_id": 50002987,
+    "system_id": 30000589,
+    "type_id": 29633
+}

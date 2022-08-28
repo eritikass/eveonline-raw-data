@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003273,
+        "system_id": 30001572
+    },
+    "name": "Stargate (K-YL9T)",
+    "position": {
+        "x": 900577075200,
+        "y": -375398400,
+        "z": 1349613772800
+    },
+    "stargate_id": 50002755,
+    "system_id": 30001570,
+    "type_id": 3875
+}

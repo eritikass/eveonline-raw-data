@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007018,
+        "system_id": 30003814
+    },
+    "name": "Stargate (Mollin)",
+    "position": {
+        "x": -2603578368000,
+        "y": -6159360000,
+        "z": 677351301120
+    },
+    "stargate_id": 50007249,
+    "system_id": 30003815,
+    "type_id": 3875
+}

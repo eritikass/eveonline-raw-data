@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010427,
+        "system_id": 30002164
+    },
+    "name": "Stargate (U79-JF)",
+    "position": {
+        "x": -591143854080,
+        "y": 726552698880,
+        "z": 2452868997120
+    },
+    "stargate_id": 50010637,
+    "system_id": 30002172,
+    "type_id": 3877
+}

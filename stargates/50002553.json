@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003101,
+        "system_id": 30002421
+    },
+    "name": "Stargate (MR4-MY)",
+    "position": {
+        "x": 3600303267840,
+        "y": -3801263431680,
+        "z": -3966802206720
+    },
+    "stargate_id": 50002553,
+    "system_id": 30000225,
+    "type_id": 29629
+}

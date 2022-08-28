@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009795,
+        "system_id": 30003650
+    },
+    "name": "Stargate (A-1IJ9)",
+    "position": {
+        "x": -2497871093760,
+        "y": 406637813760,
+        "z": -144982056960
+    },
+    "stargate_id": 50010183,
+    "system_id": 30003651,
+    "type_id": 16
+}

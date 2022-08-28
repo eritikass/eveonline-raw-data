@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002221,
+        "system_id": 30001410
+    },
+    "name": "Stargate (Kirras)",
+    "position": {
+        "x": -645692743680,
+        "y": -309877432320,
+        "z": 4744480727040
+    },
+    "stargate_id": 50000463,
+    "system_id": 30001374,
+    "type_id": 29627
+}

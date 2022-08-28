@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006546,
+        "system_id": 30002061
+    },
+    "name": "Stargate (Ofstold)",
+    "position": {
+        "x": -5382046556160,
+        "y": -918300794880,
+        "z": 2529414144000
+    },
+    "stargate_id": 50004614,
+    "system_id": 30002060,
+    "type_id": 29633
+}

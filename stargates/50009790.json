@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009168,
+        "system_id": 30005062
+    },
+    "name": "Stargate (Abath)",
+    "position": {
+        "x": -450521210880,
+        "y": -85533941760,
+        "z": -3766425231360
+    },
+    "stargate_id": 50009790,
+    "system_id": 30005063,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003719,
+        "system_id": 30000818
+    },
+    "name": "Stargate (4LB-EL)",
+    "position": {
+        "x": -1075171368960,
+        "y": -93149306880,
+        "z": -3408670433280
+    },
+    "stargate_id": 50003300,
+    "system_id": 30000816,
+    "type_id": 29633
+}

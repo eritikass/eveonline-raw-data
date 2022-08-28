@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010808,
+        "system_id": 30002927
+    },
+    "name": "Stargate (5W3-DG)",
+    "position": {
+        "x": 1608643338240,
+        "y": -84346429440,
+        "z": 2812390563840
+    },
+    "stargate_id": 50010949,
+    "system_id": 30002928,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001025,
+        "system_id": 30001650
+    },
+    "name": "Stargate (Riramia)",
+    "position": {
+        "x": 217611018240,
+        "y": 960484515840,
+        "z": 4924753797120
+    },
+    "stargate_id": 50004877,
+    "system_id": 30002210,
+    "type_id": 29626
+}

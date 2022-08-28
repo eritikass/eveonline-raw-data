@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011616,
+        "system_id": 30005182
+    },
+    "name": "Stargate (2AUL-X)",
+    "position": {
+        "x": 2250834124800,
+        "y": -387710361600,
+        "z": 2708531159040
+    },
+    "stargate_id": 50012125,
+    "system_id": 30005185,
+    "type_id": 3875
+}

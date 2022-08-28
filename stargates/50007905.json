@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004392,
+        "system_id": 30001370
+    },
+    "name": "Stargate (Ouranienen)",
+    "position": {
+        "x": 150804111360,
+        "y": -5771041873920,
+        "z": 2786280284160
+    },
+    "stargate_id": 50007905,
+    "system_id": 30001412,
+    "type_id": 29627
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002916,
+        "system_id": 30000812
+    },
+    "name": "Stargate (TTP-2B)",
+    "position": {
+        "x": 1397836062720,
+        "y": -116734402560,
+        "z": 4020721950720
+    },
+    "stargate_id": 50001583,
+    "system_id": 30000809,
+    "type_id": 29633
+}

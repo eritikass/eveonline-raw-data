@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004456,
+        "system_id": 30003391
+    },
+    "name": "Stargate (Reset)",
+    "position": {
+        "x": 798834155520,
+        "y": 22168412160,
+        "z": 790545653760
+    },
+    "stargate_id": 50004488,
+    "system_id": 30003392,
+    "type_id": 29633
+}

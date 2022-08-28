@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011721,
+        "system_id": 30003265
+    },
+    "name": "Stargate (Y-BIPM)",
+    "position": {
+        "x": 211478568960,
+        "y": 3573255905280,
+        "z": 1315932364800
+    },
+    "stargate_id": 50009506,
+    "system_id": 30003243,
+    "type_id": 3874
+}

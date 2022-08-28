@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012541,
+        "system_id": 30004684
+    },
+    "name": "Stargate (JK-GLL)",
+    "position": {
+        "x": -1141507891200,
+        "y": -21409505280,
+        "z": -1356496773120
+    },
+    "stargate_id": 50012371,
+    "system_id": 30004683,
+    "type_id": 29624
+}

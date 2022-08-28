@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009369,
+        "system_id": 30003346
+    },
+    "name": "Stargate (5-VKCN)",
+    "position": {
+        "x": 1849418833920,
+        "y": -185636904960,
+        "z": -9084505251840
+    },
+    "stargate_id": 50009172,
+    "system_id": 30003344,
+    "type_id": 3875
+}

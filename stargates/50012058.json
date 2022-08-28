@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012335,
+        "system_id": 30004474
+    },
+    "name": "Stargate (GHZ-SJ)",
+    "position": {
+        "x": -382768373760,
+        "y": 7959306240,
+        "z": 3801910272000
+    },
+    "stargate_id": 50012058,
+    "system_id": 30004472,
+    "type_id": 29633
+}

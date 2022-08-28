@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005088,
+        "system_id": 30000608
+    },
+    "name": "Stargate (JEQG-7)",
+    "position": {
+        "x": 639908290560,
+        "y": -121022914560,
+        "z": -2748455854080
+    },
+    "stargate_id": 50007237,
+    "system_id": 30000610,
+    "type_id": 29633
+}

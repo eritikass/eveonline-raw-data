@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007036,
+        "system_id": 30005045
+    },
+    "name": "Stargate (Nahyeen)",
+    "position": {
+        "x": 2362506977280,
+        "y": -1485496320,
+        "z": -2749663272960
+    },
+    "stargate_id": 50006370,
+    "system_id": 30005044,
+    "type_id": 29624
+}

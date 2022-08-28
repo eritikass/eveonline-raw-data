@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005031,
+        "system_id": 30001678
+    },
+    "name": "Stargate (Atoosh)",
+    "position": {
+        "x": -1661540229120,
+        "y": -101700771840,
+        "z": 120246312960
+    },
+    "stargate_id": 50004448,
+    "system_id": 30001677,
+    "type_id": 29624
+}

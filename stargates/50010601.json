@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012341,
+        "system_id": 30003118
+    },
+    "name": "Stargate (FN-GFQ)",
+    "position": {
+        "x": -1584649297920,
+        "y": -15202590720,
+        "z": 1976924774400
+    },
+    "stargate_id": 50010601,
+    "system_id": 30003117,
+    "type_id": 29624
+}

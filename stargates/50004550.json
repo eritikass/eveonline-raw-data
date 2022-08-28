@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007503,
+        "system_id": 30002539
+    },
+    "name": "Stargate (Siseide)",
+    "position": {
+        "x": -442645585920,
+        "y": -58822041600,
+        "z": 1018747330560
+    },
+    "stargate_id": 50004550,
+    "system_id": 30002537,
+    "type_id": 29633
+}

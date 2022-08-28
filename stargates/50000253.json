@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001220,
+        "system_id": 30003030
+    },
+    "name": "Stargate (Ardallabier)",
+    "position": {
+        "x": 51576053760,
+        "y": -10409779200,
+        "z": -3989738741760
+    },
+    "stargate_id": 50000253,
+    "system_id": 30003025,
+    "type_id": 3875
+}

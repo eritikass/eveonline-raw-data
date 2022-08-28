@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002519,
+        "system_id": 30001199
+    },
+    "name": "Stargate (3-OKDA)",
+    "position": {
+        "x": 2884526530560,
+        "y": -8992972800,
+        "z": 2848010772480
+    },
+    "stargate_id": 50002575,
+    "system_id": 30001200,
+    "type_id": 29624
+}

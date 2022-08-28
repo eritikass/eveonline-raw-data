@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011760,
+        "system_id": 30002179
+    },
+    "name": "Stargate (O7-VJ5)",
+    "position": {
+        "x": -1393548288000,
+        "y": -279774535680,
+        "z": -722371092480
+    },
+    "stargate_id": 50012791,
+    "system_id": 30002180,
+    "type_id": 29633
+}

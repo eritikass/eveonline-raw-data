@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016373,
+        "system_id": 30045346
+    },
+    "name": "Stargate (Kedama)",
+    "position": {
+        "x": 13653073920,
+        "y": 94248960,
+        "z": 610795315200
+    },
+    "stargate_id": 50016374,
+    "system_id": 30045345,
+    "type_id": 16
+}

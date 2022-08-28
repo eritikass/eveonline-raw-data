@@ -1,0 +1,96 @@
+{
+    "constellation_id": 20000563,
+    "name": "Odamia",
+    "planets": [
+        {
+            "planet_id": 40244046
+        },
+        {
+            "planet_id": 40244047
+        },
+        {
+            "asteroid_belts": [
+                40244049
+            ],
+            "moons": [
+                40244050
+            ],
+            "planet_id": 40244048
+        },
+        {
+            "moons": [
+                40244052,
+                40244053
+            ],
+            "planet_id": 40244051
+        },
+        {
+            "asteroid_belts": [
+                40244055
+            ],
+            "planet_id": 40244054
+        },
+        {
+            "planet_id": 40244056
+        },
+        {
+            "asteroid_belts": [
+                40244058
+            ],
+            "moons": [
+                40244059
+            ],
+            "planet_id": 40244057
+        },
+        {
+            "asteroid_belts": [
+                40244061
+            ],
+            "moons": [
+                40244062,
+                40244063
+            ],
+            "planet_id": 40244060
+        },
+        {
+            "asteroid_belts": [
+                40244065
+            ],
+            "moons": [
+                40244066
+            ],
+            "planet_id": 40244064
+        },
+        {
+            "asteroid_belts": [
+                40244068
+            ],
+            "moons": [
+                40244069,
+                40244070
+            ],
+            "planet_id": 40244067
+        },
+        {
+            "moons": [
+                40244072,
+                40244073
+            ],
+            "planet_id": 40244071
+        }
+    ],
+    "position": {
+        "x": -263453301240833540,
+        "y": 66148397732021250,
+        "z": 133433361297578460
+    },
+    "security_class": "D3",
+    "security_status": 0.2204286754131317,
+    "star_id": 40244045,
+    "stargates": [
+        50013024,
+        50013025,
+        50016399
+    ],
+    "system_id": 30003857
+}

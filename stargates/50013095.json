@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013002,
+        "system_id": 30001940
+    },
+    "name": "Stargate (4XW2-D)",
+    "position": {
+        "x": -1022695464960,
+        "y": 84908482560,
+        "z": 1738011893760
+    },
+    "stargate_id": 50013095,
+    "system_id": 30001942,
+    "type_id": 29624
+}

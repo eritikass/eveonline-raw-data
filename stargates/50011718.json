@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008471,
+        "system_id": 30005334
+    },
+    "name": "Stargate (Tierijev)",
+    "position": {
+        "x": -5962735411200,
+        "y": 2457172992000,
+        "z": 1247154954240
+    },
+    "stargate_id": 50011718,
+    "system_id": 30005025,
+    "type_id": 29632
+}

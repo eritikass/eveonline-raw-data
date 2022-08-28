@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012254,
+        "system_id": 30004469
+    },
+    "name": "Stargate (ZS-2LT)",
+    "position": {
+        "x": 2899945021440,
+        "y": -247229767680,
+        "z": -3339285749760
+    },
+    "stargate_id": 50012485,
+    "system_id": 30004470,
+    "type_id": 29633
+}

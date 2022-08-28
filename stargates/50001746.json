@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000133,
+        "system_id": 30000529
+    },
+    "name": "Stargate (MKIG-5)",
+    "position": {
+        "x": -1741657743360,
+        "y": -3081252003840,
+        "z": -122182164480
+    },
+    "stargate_id": 50001746,
+    "system_id": 30000544,
+    "type_id": 3877
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002514,
+        "system_id": 30001086
+    },
+    "name": "Stargate (X1W-AL)",
+    "position": {
+        "x": 333453926400,
+        "y": -8196956160,
+        "z": 2345135185920
+    },
+    "stargate_id": 50000747,
+    "system_id": 30001083,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008784,
+        "system_id": 30002815
+    },
+    "name": "Stargate (Isenairos)",
+    "position": {
+        "x": -2625727242240,
+        "y": 496535347200,
+        "z": -7865790013440
+    },
+    "stargate_id": 50010137,
+    "system_id": 30002818,
+    "type_id": 16
+}

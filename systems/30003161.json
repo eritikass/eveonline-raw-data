@@ -1,0 +1,66 @@
+{
+    "constellation_id": 20000461,
+    "name": "G-4H4C",
+    "planets": [
+        {
+            "moons": [
+                40200755
+            ],
+            "planet_id": 40200754
+        },
+        {
+            "moons": [
+                40200757
+            ],
+            "planet_id": 40200756
+        },
+        {
+            "planet_id": 40200758
+        },
+        {
+            "asteroid_belts": [
+                40200760,
+                40200761
+            ],
+            "planet_id": 40200759
+        },
+        {
+            "planet_id": 40200762
+        },
+        {
+            "asteroid_belts": [
+                40200764
+            ],
+            "moons": [
+                40200765
+            ],
+            "planet_id": 40200763
+        },
+        {
+            "asteroid_belts": [
+                40200767
+            ],
+            "planet_id": 40200766
+        },
+        {
+            "moons": [
+                40200769,
+                40200770,
+                40200771
+            ],
+            "planet_id": 40200768
+        }
+    ],
+    "position": {
+        "x": -66432927768008750,
+        "y": -3238468738587917,
+        "z": -452671581373846600
+    },
+    "security_class": "G",
+    "security_status": -0.06356460601091385,
+    "star_id": 40200753,
+    "stargates": [
+        50012205
+    ],
+    "system_id": 30003161
+}

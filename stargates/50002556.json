@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002707,
+        "system_id": 30000723
+    },
+    "name": "Stargate (9M-M0P)",
+    "position": {
+        "x": -4556232499200,
+        "y": -472228208640,
+        "z": 1854868807680
+    },
+    "stargate_id": 50002556,
+    "system_id": 30000722,
+    "type_id": 29633
+}

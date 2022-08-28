@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008307,
+        "system_id": 30003105
+    },
+    "name": "Stargate (4-OUKF)",
+    "position": {
+        "x": -2596507361280,
+        "y": -358677504000,
+        "z": 2292557537280
+    },
+    "stargate_id": 50008321,
+    "system_id": 30003106,
+    "type_id": 29624
+}

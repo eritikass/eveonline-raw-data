@@ -1,0 +1,72 @@
+{
+    "constellation_id": 20000034,
+    "name": "PM-DWE",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40015531
+            ],
+            "planet_id": 40015530
+        },
+        {
+            "planet_id": 40015532
+        },
+        {
+            "planet_id": 40015533
+        },
+        {
+            "planet_id": 40015534
+        },
+        {
+            "asteroid_belts": [
+                40015536
+            ],
+            "moons": [
+                40015537
+            ],
+            "planet_id": 40015535
+        },
+        {
+            "asteroid_belts": [
+                40015539
+            ],
+            "moons": [
+                40015540
+            ],
+            "planet_id": 40015538
+        },
+        {
+            "asteroid_belts": [
+                40015542
+            ],
+            "moons": [
+                40015543,
+                40015544
+            ],
+            "planet_id": 40015541
+        },
+        {
+            "asteroid_belts": [
+                40015548
+            ],
+            "moons": [
+                40015546,
+                40015547
+            ],
+            "planet_id": 40015545
+        }
+    ],
+    "position": {
+        "x": -73328696604297780,
+        "y": 100276047037121070,
+        "z": 186873879547469700
+    },
+    "security_class": "H2",
+    "security_status": -0.42365285754203796,
+    "star_id": 40015529,
+    "stargates": [
+        50002015,
+        50002016
+    ],
+    "system_id": 30000243
+}

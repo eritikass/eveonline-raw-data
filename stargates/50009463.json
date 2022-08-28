@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009252,
+        "system_id": 30003574
+    },
+    "name": "Stargate (Boystin)",
+    "position": {
+        "x": -5338488053760,
+        "y": 29835878400,
+        "z": 5581941350400
+    },
+    "stargate_id": 50009463,
+    "system_id": 30003577,
+    "type_id": 3875
+}

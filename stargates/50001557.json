@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002258,
+        "system_id": 30000459
+    },
+    "name": "Stargate (U-OVFR)",
+    "position": {
+        "x": 4001921064960,
+        "y": -740328284160,
+        "z": 2866680176640
+    },
+    "stargate_id": 50001557,
+    "system_id": 30000456,
+    "type_id": 29633
+}

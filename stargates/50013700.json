@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013699,
+        "system_id": 30000100
+    },
+    "name": "Stargate (Timeor)",
+    "position": {
+        "x": 3275309506560,
+        "y": 1601221386240,
+        "z": -173782425600
+    },
+    "stargate_id": 50013700,
+    "system_id": 30000043,
+    "type_id": 17
+}

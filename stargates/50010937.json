@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011990,
+        "system_id": 30003037
+    },
+    "name": "Stargate (Quier)",
+    "position": {
+        "x": 3559314432000,
+        "y": 518749347840,
+        "z": 4471396392960
+    },
+    "stargate_id": 50010937,
+    "system_id": 30003036,
+    "type_id": 3875
+}

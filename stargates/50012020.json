@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011921,
+        "system_id": 30004467
+    },
+    "name": "Stargate (23M-PX)",
+    "position": {
+        "x": -3665642250240,
+        "y": -734776320000,
+        "z": -3596489809920
+    },
+    "stargate_id": 50012020,
+    "system_id": 30004468,
+    "type_id": 29633
+}

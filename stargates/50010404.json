@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010524,
+        "system_id": 30004017
+    },
+    "name": "Stargate (K4-RFZ)",
+    "position": {
+        "x": -106750894080,
+        "y": 16721879040,
+        "z": -470005309440
+    },
+    "stargate_id": 50010404,
+    "system_id": 30004016,
+    "type_id": 29624
+}

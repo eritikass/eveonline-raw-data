@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013846,
+        "system_id": 30004363
+    },
+    "name": "Stargate (ZIU-EP)",
+    "position": {
+        "x": 3400935137280,
+        "y": -1382831677440,
+        "z": -11598373478400
+    },
+    "stargate_id": 50013845,
+    "system_id": 30003668,
+    "type_id": 12292
+}

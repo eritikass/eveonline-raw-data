@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012553,
+        "system_id": 30005289
+    },
+    "name": "Stargate (Nasreri)",
+    "position": {
+        "x": -566386974720,
+        "y": -1596491735040,
+        "z": 689893908480
+    },
+    "stargate_id": 50005184,
+    "system_id": 30005221,
+    "type_id": 17
+}

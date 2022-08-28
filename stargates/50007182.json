@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006511,
+        "system_id": 30005009
+    },
+    "name": "Stargate (Allebin)",
+    "position": {
+        "x": -3411854008320,
+        "y": -413024870400,
+        "z": -3352746024960
+    },
+    "stargate_id": 50007182,
+    "system_id": 30005013,
+    "type_id": 3875
+}

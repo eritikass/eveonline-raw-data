@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001013,
+        "system_id": 30000863
+    },
+    "name": "Stargate (C2X-M5)",
+    "position": {
+        "x": 212587683840,
+        "y": 14336286720,
+        "z": -336413859840
+    },
+    "stargate_id": 50000613,
+    "system_id": 30000861,
+    "type_id": 16
+}

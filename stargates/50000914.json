@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002251,
+        "system_id": 30000742
+    },
+    "name": "Stargate (TK-DLH)",
+    "position": {
+        "x": -3221384355840,
+        "y": 277092311040,
+        "z": 823836549120
+    },
+    "stargate_id": 50000914,
+    "system_id": 30000738,
+    "type_id": 29633
+}

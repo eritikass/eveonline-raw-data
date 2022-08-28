@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011479,
+        "system_id": 30003937
+    },
+    "name": "Stargate (Hezere)",
+    "position": {
+        "x": -1595444797440,
+        "y": -281128427520,
+        "z": -624690339840
+    },
+    "stargate_id": 50011930,
+    "system_id": 30003938,
+    "type_id": 29624
+}

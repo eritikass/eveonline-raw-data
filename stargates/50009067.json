@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010059,
+        "system_id": 30003557
+    },
+    "name": "Stargate (Sieh)",
+    "position": {
+        "x": 2238922629120,
+        "y": -301854351360,
+        "z": -4568040284160
+    },
+    "stargate_id": 50009067,
+    "system_id": 30003556,
+    "type_id": 29624
+}

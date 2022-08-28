@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011648,
+        "system_id": 30004386
+    },
+    "name": "Stargate (D4R-H7)",
+    "position": {
+        "x": -826090905600,
+        "y": 143094128640,
+        "z": -4680019845120
+    },
+    "stargate_id": 50012271,
+    "system_id": 30004388,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000371,
+        "system_id": 30000790
+    },
+    "name": "Stargate (RQN-OO)",
+    "position": {
+        "x": 423390535680,
+        "y": 19131310080,
+        "z": 252204195840
+    },
+    "stargate_id": 50001333,
+    "system_id": 30000792,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006930,
+        "system_id": 30001366
+    },
+    "name": "Stargate (Uosusuokko)",
+    "position": {
+        "x": -2217173360640,
+        "y": -224671457280,
+        "z": 1692286525440
+    },
+    "stargate_id": 50006893,
+    "system_id": 30001365,
+    "type_id": 16
+}

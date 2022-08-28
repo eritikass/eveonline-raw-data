@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004822,
+        "system_id": 30001297
+    },
+    "name": "Stargate (O-TVTD)",
+    "position": {
+        "x": 696836136960,
+        "y": -5676687360,
+        "z": -1253944074240
+    },
+    "stargate_id": 50005027,
+    "system_id": 30001298,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008409,
+        "system_id": 30002565
+    },
+    "name": "Stargate (Appen)",
+    "position": {
+        "x": 1231705497600,
+        "y": -154007347200,
+        "z": 6083943997440
+    },
+    "stargate_id": 50006670,
+    "system_id": 30002564,
+    "type_id": 29633
+}

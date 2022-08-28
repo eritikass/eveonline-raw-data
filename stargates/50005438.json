@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005513,
+        "system_id": 30000439
+    },
+    "name": "Stargate (OEG-K9)",
+    "position": {
+        "x": -5153559306240,
+        "y": 422758195200,
+        "z": -2915834880000
+    },
+    "stargate_id": 50005438,
+    "system_id": 30000438,
+    "type_id": 29633
+}

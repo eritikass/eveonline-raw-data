@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011369,
+        "system_id": 30004058
+    },
+    "name": "Stargate (FQ9W-C)",
+    "position": {
+        "x": 679807426560,
+        "y": 136094883840,
+        "z": -8089335521280
+    },
+    "stargate_id": 50011582,
+    "system_id": 30004059,
+    "type_id": 3875
+}

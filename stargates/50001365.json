@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006751,
+        "system_id": 30002780
+    },
+    "name": "Stargate (Muvolailen)",
+    "position": {
+        "x": 28383191040,
+        "y": 1321574400,
+        "z": -149301043200
+    },
+    "stargate_id": 50001365,
+    "system_id": 30002775,
+    "type_id": 16
+}

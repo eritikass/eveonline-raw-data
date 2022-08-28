@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012304,
+        "system_id": 30004480
+    },
+    "name": "Stargate (D6SK-L)",
+    "position": {
+        "x": 469701795840,
+        "y": -41375047680,
+        "z": 1797402009600
+    },
+    "stargate_id": 50012476,
+    "system_id": 30004483,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004271,
+        "system_id": 30003020
+    },
+    "name": "Stargate (Torvi)",
+    "position": {
+        "x": -14836899840,
+        "y": -542515200,
+        "z": 138289029120
+    },
+    "stargate_id": 50007469,
+    "system_id": 30003022,
+    "type_id": 3875
+}

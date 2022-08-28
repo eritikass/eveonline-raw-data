@@ -1,0 +1,34 @@
+{
+    "constellation_id": 20000168,
+    "name": "UW-6MW",
+    "planets": [
+        {
+            "planet_id": 40073361
+        },
+        {
+            "planet_id": 40073362
+        },
+        {
+            "planet_id": 40073363
+        },
+        {
+            "moons": [
+                40073365,
+                40073366
+            ],
+            "planet_id": 40073364
+        }
+    ],
+    "position": {
+        "x": 209912553557235940,
+        "y": 59121942317873620,
+        "z": 82610667525053460
+    },
+    "security_class": "K3",
+    "security_status": -0.1831742376089096,
+    "star_id": 40073360,
+    "stargates": [
+        50013535
+    ],
+    "system_id": 30001152
+}

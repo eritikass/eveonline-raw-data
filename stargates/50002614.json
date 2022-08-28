@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002747,
+        "system_id": 30005202
+    },
+    "name": "Stargate (Emsar)",
+    "position": {
+        "x": 99636633600,
+        "y": 12785295360,
+        "z": -1886667939840
+    },
+    "stargate_id": 50002614,
+    "system_id": 30005201,
+    "type_id": 29624
+}

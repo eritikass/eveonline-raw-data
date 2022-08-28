@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005469,
+        "system_id": 30003189
+    },
+    "name": "Stargate (83-YGI)",
+    "position": {
+        "x": 482315919360,
+        "y": -58347724800,
+        "z": -6962749440
+    },
+    "stargate_id": 50004650,
+    "system_id": 30003187,
+    "type_id": 3875
+}

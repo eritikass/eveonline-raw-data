@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007743,
+        "system_id": 30003897
+    },
+    "name": "Stargate (Gehi)",
+    "position": {
+        "x": -509920174080,
+        "y": 47674122240,
+        "z": 633583656960
+    },
+    "stargate_id": 50007739,
+    "system_id": 30003896,
+    "type_id": 29624
+}

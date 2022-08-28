@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014048,
+        "system_id": 30004642
+    },
+    "name": "Stargate (KVN-36)",
+    "position": {
+        "x": -2582281543680,
+        "y": -1259484241920,
+        "z": -4495681413120
+    },
+    "stargate_id": 50014047,
+    "system_id": 30004600,
+    "type_id": 3874
+}

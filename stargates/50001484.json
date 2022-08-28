@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000491,
+        "system_id": 30005192
+    },
+    "name": "Stargate (Shera)",
+    "position": {
+        "x": 865486970880,
+        "y": 99938426880,
+        "z": -127444869120
+    },
+    "stargate_id": 50001484,
+    "system_id": 30005193,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000404,
+        "system_id": 30002655
+    },
+    "name": "Stargate (Vylade)",
+    "position": {
+        "x": 2761791037440,
+        "y": 119006208000,
+        "z": -1436280053760
+    },
+    "stargate_id": 50009201,
+    "system_id": 30002660,
+    "type_id": 3875
+}

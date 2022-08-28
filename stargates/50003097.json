@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003259,
+        "system_id": 30000953
+    },
+    "name": "Stargate (M-YWAL)",
+    "position": {
+        "x": 2262059212800,
+        "y": -293537832960,
+        "z": 623253872640
+    },
+    "stargate_id": 50003097,
+    "system_id": 30000952,
+    "type_id": 29633
+}

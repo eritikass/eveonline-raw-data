@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011399,
+        "system_id": 30004894
+    },
+    "name": "Stargate (XPUM-L)",
+    "position": {
+        "x": -13027123200,
+        "y": -2072371200,
+        "z": -41916948480
+    },
+    "stargate_id": 50010960,
+    "system_id": 30004892,
+    "type_id": 29633
+}

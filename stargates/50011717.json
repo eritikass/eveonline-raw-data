@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012453,
+        "system_id": 30001415
+    },
+    "name": "Stargate (Kuoka)",
+    "position": {
+        "x": -298926612480,
+        "y": -11445166080,
+        "z": 215259586560
+    },
+    "stargate_id": 50011717,
+    "system_id": 30001414,
+    "type_id": 16
+}

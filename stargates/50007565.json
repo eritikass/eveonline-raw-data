@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007348,
+        "system_id": 30005130
+    },
+    "name": "Stargate (972C-1)",
+    "position": {
+        "x": -1205510184960,
+        "y": 223530639360,
+        "z": -3642839654400
+    },
+    "stargate_id": 50007565,
+    "system_id": 30005131,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014046,
+        "system_id": 30004738
+    },
+    "name": "Stargate (1-SMEB)",
+    "position": {
+        "x": -500486184960,
+        "y": 1082502389760,
+        "z": -2798900797440
+    },
+    "stargate_id": 50014045,
+    "system_id": 30004299,
+    "type_id": 29625
+}

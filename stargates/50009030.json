@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005662,
+        "system_id": 30003530
+    },
+    "name": "Stargate (Raravath)",
+    "position": {
+        "x": 3129320448000,
+        "y": -339850076160,
+        "z": -5104830996480
+    },
+    "stargate_id": 50009030,
+    "system_id": 30003537,
+    "type_id": 29624
+}

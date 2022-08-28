@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003848,
+        "system_id": 30000972
+    },
+    "name": "Stargate (WE3-BX)",
+    "position": {
+        "x": -344813936640,
+        "y": 55782727680,
+        "z": 93984153600
+    },
+    "stargate_id": 50004532,
+    "system_id": 30000974,
+    "type_id": 29633
+}

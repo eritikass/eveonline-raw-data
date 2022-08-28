@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010606,
+        "system_id": 30003558
+    },
+    "name": "Stargate (Madimal)",
+    "position": {
+        "x": 2266920345600,
+        "y": 1221620490240,
+        "z": -2439493754880
+    },
+    "stargate_id": 50008041,
+    "system_id": 30002223,
+    "type_id": 17
+}

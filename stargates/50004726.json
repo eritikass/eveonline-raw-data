@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005169,
+        "system_id": 30005096
+    },
+    "name": "Stargate (2V-ZHM)",
+    "position": {
+        "x": -1239945584640,
+        "y": -21672222720,
+        "z": 7371809218560
+    },
+    "stargate_id": 50004726,
+    "system_id": 30005095,
+    "type_id": 3875
+}

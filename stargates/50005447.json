@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007078,
+        "system_id": 30002784
+    },
+    "name": "Stargate (Tintoh)",
+    "position": {
+        "x": 569755607040,
+        "y": -111648399360,
+        "z": 3045976350720
+    },
+    "stargate_id": 50005447,
+    "system_id": 30002783,
+    "type_id": 16
+}

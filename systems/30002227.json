@@ -1,0 +1,92 @@
+{
+    "constellation_id": 20000327,
+    "name": "Rasile",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40142002
+            ],
+            "planet_id": 40142001
+        },
+        {
+            "asteroid_belts": [
+                40142004
+            ],
+            "planet_id": 40142003
+        },
+        {
+            "moons": [
+                40142006
+            ],
+            "planet_id": 40142005
+        },
+        {
+            "planet_id": 40142007
+        },
+        {
+            "asteroid_belts": [
+                40142009
+            ],
+            "planet_id": 40142008
+        },
+        {
+            "moons": [
+                40142011
+            ],
+            "planet_id": 40142010
+        },
+        {
+            "asteroid_belts": [
+                40142013
+            ],
+            "moons": [
+                40142014
+            ],
+            "planet_id": 40142012
+        },
+        {
+            "asteroid_belts": [
+                40142016
+            ],
+            "moons": [
+                40142017,
+                40142018
+            ],
+            "planet_id": 40142015
+        },
+        {
+            "asteroid_belts": [
+                40142020
+            ],
+            "moons": [
+                40142021,
+                40142022,
+                40142023,
+                40142024,
+                40142025
+            ],
+            "planet_id": 40142019
+        },
+        {
+            "asteroid_belts": [
+                40142027
+            ],
+            "planet_id": 40142026
+        }
+    ],
+    "position": {
+        "x": -175387324571226780,
+        "y": 72914400157403250,
+        "z": -82797987095960580
+    },
+    "security_class": "B",
+    "security_status": 0.8694861531257629,
+    "star_id": 40142000,
+    "stargates": [
+        50005293,
+        50005294,
+        50005295,
+        50005296
+    ],
+    "system_id": 30002227
+}

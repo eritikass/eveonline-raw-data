@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010161,
+        "system_id": 30004520
+    },
+    "name": "Stargate (3HQC-6)",
+    "position": {
+        "x": -35252674560,
+        "y": 6449602560,
+        "z": 439490273280
+    },
+    "stargate_id": 50010503,
+    "system_id": 30004522,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003713,
+        "system_id": 30001746
+    },
+    "name": "Stargate (2EV-BA)",
+    "position": {
+        "x": 2821732638720,
+        "y": -169314508800,
+        "z": -3689729679360
+    },
+    "stargate_id": 50003647,
+    "system_id": 30001744,
+    "type_id": 3875
+}

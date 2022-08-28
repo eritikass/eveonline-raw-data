@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013329,
+        "system_id": 30004264
+    },
+    "name": "Stargate (Hoseen)",
+    "position": {
+        "x": -240606044160,
+        "y": -29133004800,
+        "z": 650044661760
+    },
+    "stargate_id": 50013526,
+    "system_id": 30004266,
+    "type_id": 29624
+}

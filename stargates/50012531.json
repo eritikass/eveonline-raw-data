@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012946,
+        "system_id": 30004035
+    },
+    "name": "Stargate (NU4-2G)",
+    "position": {
+        "x": 9321286901760,
+        "y": -43997552640,
+        "z": -9210590453760
+    },
+    "stargate_id": 50012531,
+    "system_id": 30004032,
+    "type_id": 29624
+}

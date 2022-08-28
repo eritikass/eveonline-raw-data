@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004589,
+        "system_id": 30002535
+    },
+    "name": "Stargate (Ebasgerdur)",
+    "position": {
+        "x": 2203252285440,
+        "y": 401302855680,
+        "z": -2183579934720
+    },
+    "stargate_id": 50004518,
+    "system_id": 30002534,
+    "type_id": 29633
+}

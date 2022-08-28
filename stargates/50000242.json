@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000928,
+        "system_id": 30005089
+    },
+    "name": "Stargate (TDP-T3)",
+    "position": {
+        "x": 5351510138880,
+        "y": -1038159912960,
+        "z": 1885548011520
+    },
+    "stargate_id": 50000242,
+    "system_id": 30005088,
+    "type_id": 3875
+}

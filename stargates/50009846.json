@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009884,
+        "system_id": 30001895
+    },
+    "name": "Stargate (CBGG-0)",
+    "position": {
+        "x": -710746398720,
+        "y": 135788421120,
+        "z": -1153352294400
+    },
+    "stargate_id": 50009846,
+    "system_id": 30001894,
+    "type_id": 29624
+}

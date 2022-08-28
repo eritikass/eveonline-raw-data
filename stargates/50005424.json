@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005480,
+        "system_id": 30001283
+    },
+    "name": "Stargate (A-AFGR)",
+    "position": {
+        "x": 3716055736320,
+        "y": -558363402240,
+        "z": 6296837775360
+    },
+    "stargate_id": 50005424,
+    "system_id": 30001282,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006793,
+        "system_id": 30000503
+    },
+    "name": "Stargate (E-ACV6)",
+    "position": {
+        "x": 2610339840,
+        "y": -488693760,
+        "z": -2476638904320
+    },
+    "stargate_id": 50007412,
+    "system_id": 30000504,
+    "type_id": 29633
+}

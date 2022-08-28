@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014071,
+        "system_id": 30004246
+    },
+    "name": "Stargate (Vehan)",
+    "position": {
+        "x": -984706621440,
+        "y": 860358942720,
+        "z": 419144294400
+    },
+    "stargate_id": 50014072,
+    "system_id": 30005055,
+    "type_id": 29626
+}

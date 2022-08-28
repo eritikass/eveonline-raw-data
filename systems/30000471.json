@@ -1,0 +1,80 @@
+{
+    "constellation_id": 20000068,
+    "name": "M-XUZZ",
+    "planets": [
+        {
+            "planet_id": 40029350
+        },
+        {
+            "asteroid_belts": [
+                40029352
+            ],
+            "planet_id": 40029351
+        },
+        {
+            "moons": [
+                40029354,
+                40029355
+            ],
+            "planet_id": 40029353
+        },
+        {
+            "moons": [
+                40029357,
+                40029358
+            ],
+            "planet_id": 40029356
+        },
+        {
+            "asteroid_belts": [
+                40029360
+            ],
+            "planet_id": 40029359
+        },
+        {
+            "asteroid_belts": [
+                40029362,
+                40029363
+            ],
+            "moons": [
+                40029364
+            ],
+            "planet_id": 40029361
+        },
+        {
+            "moons": [
+                40029366,
+                40029367
+            ],
+            "planet_id": 40029365
+        },
+        {
+            "asteroid_belts": [
+                40029369
+            ],
+            "planet_id": 40029368
+        },
+        {
+            "asteroid_belts": [
+                40029371
+            ],
+            "moons": [
+                40029372
+            ],
+            "planet_id": 40029370
+        }
+    ],
+    "position": {
+        "x": 156151924979494300,
+        "y": -14093765389360308,
+        "z": -219917134258069730
+    },
+    "security_class": "F3",
+    "security_status": -0.4594491422176361,
+    "star_id": 40029349,
+    "stargates": [
+        50003341,
+        50003342
+    ],
+    "system_id": 30000471
+}

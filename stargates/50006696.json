@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006883,
+        "system_id": 30004313
+    },
+    "name": "Stargate (PKG4-7)",
+    "position": {
+        "x": 952809922560,
+        "y": 35208683520,
+        "z": 538628874240
+    },
+    "stargate_id": 50006696,
+    "system_id": 30004312,
+    "type_id": 16
+}

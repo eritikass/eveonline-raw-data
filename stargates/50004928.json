@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005647,
+        "system_id": 30000969
+    },
+    "name": "Stargate (9SNK-O)",
+    "position": {
+        "x": -857544499200,
+        "y": -4257914880,
+        "z": 2204452085760
+    },
+    "stargate_id": 50004928,
+    "system_id": 30000967,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002085,
+        "system_id": 30000007
+    },
+    "name": "Stargate (Yuzier)",
+    "position": {
+        "x": -101104558080,
+        "y": 5378088960,
+        "z": 1550485708800
+    },
+    "stargate_id": 50000345,
+    "system_id": 30000003,
+    "type_id": 29624
+}

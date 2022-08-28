@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003628,
+        "system_id": 30003526
+    },
+    "name": "Stargate (Murzi)",
+    "position": {
+        "x": -1684667719680,
+        "y": 6629666611200,
+        "z": -3736430960640
+    },
+    "stargate_id": 50005014,
+    "system_id": 30002220,
+    "type_id": 17
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011663,
+        "system_id": 30003656
+    },
+    "name": "Stargate (AR-5SY)",
+    "position": {
+        "x": 3120476282880,
+        "y": -111164006400,
+        "z": 1814432931840
+    },
+    "stargate_id": 50011197,
+    "system_id": 30003655,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011039,
+        "system_id": 30004055
+    },
+    "name": "Stargate (W-4NUU)",
+    "position": {
+        "x": -152553431040,
+        "y": 27696783360,
+        "z": 4162116280320
+    },
+    "stargate_id": 50011004,
+    "system_id": 30004053,
+    "type_id": 3875
+}

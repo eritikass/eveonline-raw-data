@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007658,
+        "system_id": 30002059
+    },
+    "name": "Stargate (Auner)",
+    "position": {
+        "x": -3297187799040,
+        "y": -381966458880,
+        "z": -1951146024960
+    },
+    "stargate_id": 50005129,
+    "system_id": 30002055,
+    "type_id": 29633
+}

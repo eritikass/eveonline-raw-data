@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001018,
+        "system_id": 30000662
+    },
+    "name": "Stargate (JMH-PT)",
+    "position": {
+        "x": 3933027164160,
+        "y": -738811699200,
+        "z": 1626680401920
+    },
+    "stargate_id": 50000094,
+    "system_id": 30000655,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009409,
+        "system_id": 30002914
+    },
+    "name": "Stargate (ZZZR-5)",
+    "position": {
+        "x": -2642640691200,
+        "y": 466146877440,
+        "z": 139752284160
+    },
+    "stargate_id": 50009400,
+    "system_id": 30002913,
+    "type_id": 16
+}

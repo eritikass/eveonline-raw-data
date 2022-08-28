@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008924,
+        "system_id": 30000188
+    },
+    "name": "Stargate (Hentogaira)",
+    "position": {
+        "x": 1989923512320,
+        "y": -11143618560,
+        "z": -3354413260800
+    },
+    "stargate_id": 50009057,
+    "system_id": 30000189,
+    "type_id": 16
+}

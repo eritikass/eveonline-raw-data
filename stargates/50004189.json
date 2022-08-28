@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004168,
+        "system_id": 30003527
+    },
+    "name": "Stargate (Chesoh)",
+    "position": {
+        "x": -521568952320,
+        "y": 2673273200640,
+        "z": -4977595146240
+    },
+    "stargate_id": 50004189,
+    "system_id": 30003528,
+    "type_id": 17
+}

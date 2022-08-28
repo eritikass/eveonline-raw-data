@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012459,
+        "system_id": 30001818
+    },
+    "name": "Stargate (MC4C-H)",
+    "position": {
+        "x": 5563143413760,
+        "y": -916521492480,
+        "z": 5468643778560
+    },
+    "stargate_id": 50012615,
+    "system_id": 30001820,
+    "type_id": 3875
+}

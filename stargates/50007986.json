@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010810,
+        "system_id": 30002092
+    },
+    "name": "Stargate (Sirekur)",
+    "position": {
+        "x": -967460904960,
+        "y": 100026900480,
+        "z": 187022745600
+    },
+    "stargate_id": 50007986,
+    "system_id": 30002090,
+    "type_id": 29633
+}

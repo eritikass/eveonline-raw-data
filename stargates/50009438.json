@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009354,
+        "system_id": 30004164
+    },
+    "name": "Stargate (SK7-G6)",
+    "position": {
+        "x": -1633609113600,
+        "y": 248189706240,
+        "z": -1614980259840
+    },
+    "stargate_id": 50009438,
+    "system_id": 30004165,
+    "type_id": 3875
+}

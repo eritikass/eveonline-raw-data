@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007811,
+        "system_id": 30001345
+    },
+    "name": "Stargate (Z3U-GI)",
+    "position": {
+        "x": -234825031680,
+        "y": -9414696960,
+        "z": -184095498240
+    },
+    "stargate_id": 50008929,
+    "system_id": 30001349,
+    "type_id": 16
+}

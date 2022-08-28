@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011659,
+        "system_id": 30003590
+    },
+    "name": "Stargate (Arasare)",
+    "position": {
+        "x": 2628171325440,
+        "y": -428362997760,
+        "z": 2971776737280
+    },
+    "stargate_id": 50012551,
+    "system_id": 30003592,
+    "type_id": 3875
+}

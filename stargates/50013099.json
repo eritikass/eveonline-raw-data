@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013167,
+        "system_id": 30004301
+    },
+    "name": "Stargate (Anath)",
+    "position": {
+        "x": -121528688640,
+        "y": 16613253120,
+        "z": -2450508718080
+    },
+    "stargate_id": 50013099,
+    "system_id": 30004300,
+    "type_id": 29624
+}

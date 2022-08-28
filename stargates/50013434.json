@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013410,
+        "system_id": 30004923
+    },
+    "name": "Stargate (66-PMM)",
+    "position": {
+        "x": -159625420800,
+        "y": -16124436480,
+        "z": 1349456732160
+    },
+    "stargate_id": 50013434,
+    "system_id": 30004924,
+    "type_id": 29633
+}

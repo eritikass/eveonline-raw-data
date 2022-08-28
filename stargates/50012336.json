@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012499,
+        "system_id": 30004476
+    },
+    "name": "Stargate (NLO-3Z)",
+    "position": {
+        "x": 1892956200960,
+        "y": 167551426560,
+        "z": -1787227054080
+    },
+    "stargate_id": 50012336,
+    "system_id": 30004474,
+    "type_id": 29633
+}

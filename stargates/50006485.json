@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006420,
+        "system_id": 30002143
+    },
+    "name": "Stargate (B-KDOZ)",
+    "position": {
+        "x": -3643915591680,
+        "y": -1644591636480,
+        "z": 1393117962240
+    },
+    "stargate_id": 50006485,
+    "system_id": 30002159,
+    "type_id": 3877
+}

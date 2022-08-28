@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013352,
+        "system_id": 30002952
+    },
+    "name": "Stargate (A4L-A2)",
+    "position": {
+        "x": 2334881587200,
+        "y": 322313379840,
+        "z": -932749762560
+    },
+    "stargate_id": 50013366,
+    "system_id": 30002953,
+    "type_id": 16
+}

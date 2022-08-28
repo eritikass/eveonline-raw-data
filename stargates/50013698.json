@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013697,
+        "system_id": 30000205
+    },
+    "name": "Stargate (Obe)",
+    "position": {
+        "x": -102861742080,
+        "y": -1947766333440,
+        "z": -1690970480640
+    },
+    "stargate_id": 50013698,
+    "system_id": 30000250,
+    "type_id": 3873
+}

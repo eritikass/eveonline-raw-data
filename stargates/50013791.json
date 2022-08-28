@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013792,
+        "system_id": 30004452
+    },
+    "name": "Stargate (TR07-S)",
+    "position": {
+        "x": 1925029355520,
+        "y": -1013580226560,
+        "z": 813400350720
+    },
+    "stargate_id": 50013791,
+    "system_id": 30003110,
+    "type_id": 12292
+}

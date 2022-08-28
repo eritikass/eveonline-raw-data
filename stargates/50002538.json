@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005528,
+        "system_id": 30002860
+    },
+    "name": "Stargate (B3ZU-H)",
+    "position": {
+        "x": -3105523752960,
+        "y": -63387770880,
+        "z": -3721497600000
+    },
+    "stargate_id": 50002538,
+    "system_id": 30002853,
+    "type_id": 3875
+}

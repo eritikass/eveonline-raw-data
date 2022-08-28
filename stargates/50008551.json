@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008585,
+        "system_id": 30005267
+    },
+    "name": "Stargate (Bherdasopt)",
+    "position": {
+        "x": -1939181690880,
+        "y": -859383521280,
+        "z": -2011764449280
+    },
+    "stargate_id": 50008551,
+    "system_id": 30005235,
+    "type_id": 17
+}

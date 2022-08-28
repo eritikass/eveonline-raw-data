@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011620,
+        "system_id": 30001808
+    },
+    "name": "Stargate (SN-Q1T)",
+    "position": {
+        "x": -102218833920,
+        "y": -2868142080,
+        "z": -1593438904320
+    },
+    "stargate_id": 50011233,
+    "system_id": 30001806,
+    "type_id": 3875
+}

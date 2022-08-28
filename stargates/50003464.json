@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000024,
+        "system_id": 30001356
+    },
+    "name": "Stargate (Dantumi)",
+    "position": {
+        "x": -4285401538560,
+        "y": 229406515200,
+        "z": 988502630400
+    },
+    "stargate_id": 50003464,
+    "system_id": 30001361,
+    "type_id": 16
+}

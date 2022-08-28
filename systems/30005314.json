@@ -1,0 +1,68 @@
+{
+    "constellation_id": 20000777,
+    "name": "Theruesse",
+    "planets": [
+        {
+            "planet_id": 40336163
+        },
+        {
+            "planet_id": 40336164
+        },
+        {
+            "asteroid_belts": [
+                40336166
+            ],
+            "planet_id": 40336165
+        },
+        {
+            "asteroid_belts": [
+                40336168
+            ],
+            "moons": [
+                40336169
+            ],
+            "planet_id": 40336167
+        },
+        {
+            "asteroid_belts": [
+                40336171,
+                40336172
+            ],
+            "moons": [
+                40336173,
+                40336174
+            ],
+            "planet_id": 40336170
+        },
+        {
+            "asteroid_belts": [
+                40336176
+            ],
+            "moons": [
+                40336177
+            ],
+            "planet_id": 40336175
+        },
+        {
+            "asteroid_belts": [
+                40336179
+            ],
+            "moons": [
+                40336180
+            ],
+            "planet_id": 40336178
+        }
+    ],
+    "position": {
+        "x": -241161654325291170,
+        "y": 28659183788826920,
+        "z": 43376446554531140
+    },
+    "security_class": "B",
+    "security_status": 0.8792213201522827,
+    "star_id": 40336162,
+    "stargates": [
+        50013507
+    ],
+    "system_id": 30005314
+}

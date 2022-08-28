@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005028,
+        "system_id": 30002546
+    },
+    "name": "Stargate (Isendeldik)",
+    "position": {
+        "x": 2554633789440,
+        "y": 90483793920,
+        "z": -697995386880
+    },
+    "stargate_id": 50004970,
+    "system_id": 30002545,
+    "type_id": 29633
+}

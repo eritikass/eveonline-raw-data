@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008762,
+        "system_id": 30003089
+    },
+    "name": "Stargate (Kurniainen)",
+    "position": {
+        "x": 101147320320,
+        "y": -15966658560,
+        "z": 104752619520
+    },
+    "stargate_id": 50008209,
+    "system_id": 30003088,
+    "type_id": 29624
+}

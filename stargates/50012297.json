@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013392,
+        "system_id": 30002268
+    },
+    "name": "Stargate (Adia)",
+    "position": {
+        "x": 1259353743360,
+        "y": -207802245120,
+        "z": -3999917629440
+    },
+    "stargate_id": 50012297,
+    "system_id": 30002267,
+    "type_id": 29624
+}

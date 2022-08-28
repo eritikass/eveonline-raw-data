@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003244,
+        "system_id": 30002206
+    },
+    "name": "Stargate (Murema)",
+    "position": {
+        "x": -977966407680,
+        "y": -2288093798400,
+        "z": -7386454548480
+    },
+    "stargate_id": 50005013,
+    "system_id": 30002220,
+    "type_id": 17
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003160,
+        "system_id": 30002331
+    },
+    "name": "Stargate (IS-OBW)",
+    "position": {
+        "x": -127763374080,
+        "y": -9384222720,
+        "z": -444586106880
+    },
+    "stargate_id": 50003781,
+    "system_id": 30002335,
+    "type_id": 3875
+}

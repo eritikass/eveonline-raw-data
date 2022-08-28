@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005432,
+        "system_id": 30000894
+    },
+    "name": "Stargate (W6VP-Y)",
+    "position": {
+        "x": 5862665134080,
+        "y": 1894245457920,
+        "z": 938076610560
+    },
+    "stargate_id": 50005123,
+    "system_id": 30000871,
+    "type_id": 29627
+}

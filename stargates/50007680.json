@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007610,
+        "system_id": 30003870
+    },
+    "name": "Stargate (Osis)",
+    "position": {
+        "x": -6158767104000,
+        "y": 392686264320,
+        "z": -603328634880
+    },
+    "stargate_id": 50007680,
+    "system_id": 30003872,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006937,
+        "system_id": 30003083
+    },
+    "name": "Stargate (Junsen)",
+    "position": {
+        "x": -604993658880,
+        "y": -5874524160,
+        "z": 1909729812480
+    },
+    "stargate_id": 50006479,
+    "system_id": 30003080,
+    "type_id": 29624
+}

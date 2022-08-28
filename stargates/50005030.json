@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003572,
+        "system_id": 30001675
+    },
+    "name": "Stargate (Sacalan)",
+    "position": {
+        "x": 351412592640,
+        "y": 65351147520,
+        "z": 1221624176640
+    },
+    "stargate_id": 50005030,
+    "system_id": 30001678,
+    "type_id": 29624
+}

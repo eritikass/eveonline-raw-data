@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001101,
+        "system_id": 30002763
+    },
+    "name": "Stargate (Tennen)",
+    "position": {
+        "x": -195571261440,
+        "y": 32887726080,
+        "z": -353244979200
+    },
+    "stargate_id": 50001522,
+    "system_id": 30002766,
+    "type_id": 16
+}

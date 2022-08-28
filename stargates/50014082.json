@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014081,
+        "system_id": 30002507
+    },
+    "name": "Stargate (Abudban)",
+    "position": {
+        "x": -626208645120,
+        "y": 2037508546560,
+        "z": -5860372684800
+    },
+    "stargate_id": 50014082,
+    "system_id": 30002530,
+    "type_id": 3877
+}

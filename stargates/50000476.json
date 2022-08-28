@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002319,
+        "system_id": 30002511
+    },
+    "name": "Stargate (Ameinaka)",
+    "position": {
+        "x": 107103805440,
+        "y": 8538316800,
+        "z": 262113239040
+    },
+    "stargate_id": 50000476,
+    "system_id": 30002505,
+    "type_id": 29633
+}

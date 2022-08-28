@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004306,
+        "system_id": 30002340
+    },
+    "name": "Stargate (NWX-LI)",
+    "position": {
+        "x": -6840515174400,
+        "y": -250335436800,
+        "z": 7850313768960
+    },
+    "stargate_id": 50004681,
+    "system_id": 30002343,
+    "type_id": 3875
+}

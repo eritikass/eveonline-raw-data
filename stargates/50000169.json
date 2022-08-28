@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000281,
+        "system_id": 30000659
+    },
+    "name": "Stargate (K7-LDX)",
+    "position": {
+        "x": 126417100800,
+        "y": 22609059840,
+        "z": -123394007040
+    },
+    "stargate_id": 50000169,
+    "system_id": 30000657,
+    "type_id": 29633
+}

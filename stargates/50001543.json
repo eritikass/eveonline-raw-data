@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003285,
+        "system_id": 30001088
+    },
+    "name": "Stargate (S-R9J2)",
+    "position": {
+        "x": -268510863360,
+        "y": 50826977280,
+        "z": 266137067520
+    },
+    "stargate_id": 50001543,
+    "system_id": 30001084,
+    "type_id": 3875
+}

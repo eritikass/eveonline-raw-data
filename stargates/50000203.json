@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003315,
+        "system_id": 30004086
+    },
+    "name": "Stargate (Joamma)",
+    "position": {
+        "x": 3070458470400,
+        "y": 97998397440,
+        "z": -1075313418240
+    },
+    "stargate_id": 50000203,
+    "system_id": 30004084,
+    "type_id": 29624
+}

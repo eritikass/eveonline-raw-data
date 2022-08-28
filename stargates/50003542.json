@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003841,
+        "system_id": 30003395
+    },
+    "name": "Stargate (Roleinn)",
+    "position": {
+        "x": 814628167680,
+        "y": -38946693120,
+        "z": -661730549760
+    },
+    "stargate_id": 50003542,
+    "system_id": 30003394,
+    "type_id": 29633
+}

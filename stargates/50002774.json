@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003736,
+        "system_id": 30000156
+    },
+    "name": "Stargate (Josameto)",
+    "position": {
+        "x": -514281185280,
+        "y": 93036994560,
+        "z": 5764318126080
+    },
+    "stargate_id": 50002774,
+    "system_id": 30000153,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012323,
+        "system_id": 30004256
+    },
+    "name": "Stargate (Edilkam)",
+    "position": {
+        "x": -1026960138240,
+        "y": -61086965760,
+        "z": -2196852203520
+    },
+    "stargate_id": 50011263,
+    "system_id": 30004254,
+    "type_id": 29624
+}

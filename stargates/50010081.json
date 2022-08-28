@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013450,
+        "system_id": 30001742
+    },
+    "name": "Stargate (Kari)",
+    "position": {
+        "x": 2797234053120,
+        "y": 28542443520,
+        "z": -269805281280
+    },
+    "stargate_id": 50010081,
+    "system_id": 30001736,
+    "type_id": 29624
+}

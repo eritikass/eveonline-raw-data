@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001908,
+        "system_id": 30001160
+    },
+    "name": "Stargate (WD-VTV)",
+    "position": {
+        "x": -2887065600,
+        "y": -365076480,
+        "z": 260710932480
+    },
+    "stargate_id": 50000501,
+    "system_id": 30001154,
+    "type_id": 29624
+}

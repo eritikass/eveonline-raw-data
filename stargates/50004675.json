@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005161,
+        "system_id": 30001135
+    },
+    "name": "Stargate (HG-YEQ)",
+    "position": {
+        "x": 1391112560640,
+        "y": -208990248960,
+        "z": -2542728192000
+    },
+    "stargate_id": 50004675,
+    "system_id": 30001133,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001564,
+        "system_id": 30002131
+    },
+    "name": "Stargate (94FR-S)",
+    "position": {
+        "x": -273445232640,
+        "y": -3193036800,
+        "z": 573308067840
+    },
+    "stargate_id": 50002166,
+    "system_id": 30002134,
+    "type_id": 29633
+}

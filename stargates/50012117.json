@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012142,
+        "system_id": 30004074
+    },
+    "name": "Stargate (U65-CN)",
+    "position": {
+        "x": 643319930880,
+        "y": 120196915200,
+        "z": -658637414400
+    },
+    "stargate_id": 50012117,
+    "system_id": 30004073,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005448,
+        "system_id": 30002783
+    },
+    "name": "Stargate (Sankkasen)",
+    "position": {
+        "x": 1609892044800,
+        "y": -245616107520,
+        "z": -4064583475200
+    },
+    "stargate_id": 50007691,
+    "system_id": 30002787,
+    "type_id": 16
+}

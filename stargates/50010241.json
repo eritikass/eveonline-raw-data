@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012616,
+        "system_id": 30003939
+    },
+    "name": "Stargate (Zirsem)",
+    "position": {
+        "x": 20164976640,
+        "y": 154214400,
+        "z": -171907031040
+    },
+    "stargate_id": 50010241,
+    "system_id": 30003936,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003564,
+        "system_id": 30005214
+    },
+    "name": "Stargate (Ashokon)",
+    "position": {
+        "x": 8440995840,
+        "y": 1079992320,
+        "z": 83488727040
+    },
+    "stargate_id": 50004737,
+    "system_id": 30005215,
+    "type_id": 29624
+}

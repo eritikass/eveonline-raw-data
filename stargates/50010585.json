@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010573,
+        "system_id": 30004525
+    },
+    "name": "Stargate (7-692B)",
+    "position": {
+        "x": 1026241290240,
+        "y": -539314298880,
+        "z": 2563558072320
+    },
+    "stargate_id": 50010585,
+    "system_id": 30004552,
+    "type_id": 29632
+}

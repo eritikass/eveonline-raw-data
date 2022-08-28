@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002102,
+        "system_id": 30002711
+    },
+    "name": "Stargate (Stetille)",
+    "position": {
+        "x": 942377656320,
+        "y": 7287889920,
+        "z": 47138119680
+    },
+    "stargate_id": 50000418,
+    "system_id": 30002708,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009547,
+        "system_id": 30004360
+    },
+    "name": "Stargate (4-BE0M)",
+    "position": {
+        "x": -169893027840,
+        "y": 34148474880,
+        "z": -1484444098560
+    },
+    "stargate_id": 50009486,
+    "system_id": 30004359,
+    "type_id": 16
+}

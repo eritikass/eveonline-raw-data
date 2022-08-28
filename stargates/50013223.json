@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013227,
+        "system_id": 30004213
+    },
+    "name": "Stargate (M-VACR)",
+    "position": {
+        "x": -3984161710080,
+        "y": 469348884480,
+        "z": 1540968161280
+    },
+    "stargate_id": 50013223,
+    "system_id": 30004212,
+    "type_id": 3875
+}

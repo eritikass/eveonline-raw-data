@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002935,
+        "system_id": 30002314
+    },
+    "name": "Stargate (89JS-J)",
+    "position": {
+        "x": -375648460800,
+        "y": -29712506880,
+        "z": 351460761600
+    },
+    "stargate_id": 50001782,
+    "system_id": 30002312,
+    "type_id": 3875
+}

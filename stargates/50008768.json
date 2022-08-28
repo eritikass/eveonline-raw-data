@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008691,
+        "system_id": 30003836
+    },
+    "name": "Stargate (Vlillirier)",
+    "position": {
+        "x": -503082393600,
+        "y": -25493053440,
+        "z": -944038010880
+    },
+    "stargate_id": 50008768,
+    "system_id": 30003837,
+    "type_id": 3875
+}

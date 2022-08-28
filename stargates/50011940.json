@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011967,
+        "system_id": 30004604
+    },
+    "name": "Stargate (671-ST)",
+    "position": {
+        "x": 217365504000,
+        "y": -5515714560,
+        "z": 558043176960
+    },
+    "stargate_id": 50011940,
+    "system_id": 30004603,
+    "type_id": 3875
+}

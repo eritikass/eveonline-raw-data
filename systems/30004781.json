@@ -1,0 +1,74 @@
+{
+    "constellation_id": 20000699,
+    "name": "8F-TK3",
+    "planets": [
+        {
+            "planet_id": 40302724
+        },
+        {
+            "planet_id": 40302725
+        },
+        {
+            "asteroid_belts": [
+                40302727
+            ],
+            "planet_id": 40302726
+        },
+        {
+            "asteroid_belts": [
+                40302729
+            ],
+            "planet_id": 40302728
+        },
+        {
+            "asteroid_belts": [
+                40302731,
+                40302733
+            ],
+            "moons": [
+                40302732
+            ],
+            "planet_id": 40302730
+        },
+        {
+            "asteroid_belts": [
+                40302735
+            ],
+            "moons": [
+                40302736
+            ],
+            "planet_id": 40302734
+        },
+        {
+            "asteroid_belts": [
+                40302739
+            ],
+            "moons": [
+                40302738,
+                40302740,
+                40302741,
+                40302742
+            ],
+            "planet_id": 40302737
+        },
+        {
+            "asteroid_belts": [
+                40302744
+            ],
+            "planet_id": 40302743
+        }
+    ],
+    "position": {
+        "x": -402666540249315500,
+        "y": 64965370902061840,
+        "z": -299401061327396700
+    },
+    "security_class": "G4",
+    "security_status": -0.6304378509521484,
+    "star_id": 40302723,
+    "stargates": [
+        50011832,
+        50011833
+    ],
+    "system_id": 30004781
+}

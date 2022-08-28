@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003791,
+        "system_id": 30003506
+    },
+    "name": "Stargate (Saana)",
+    "position": {
+        "x": 1086194442240,
+        "y": 10852147200,
+        "z": 3856947732480
+    },
+    "stargate_id": 50002716,
+    "system_id": 30003503,
+    "type_id": 29624
+}

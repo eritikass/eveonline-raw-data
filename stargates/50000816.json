@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002675,
+        "system_id": 30003375
+    },
+    "name": "Stargate (Brundakur)",
+    "position": {
+        "x": -376079769600,
+        "y": -36475822080,
+        "z": -4432287375360
+    },
+    "stargate_id": 50000816,
+    "system_id": 30003374,
+    "type_id": 29633
+}

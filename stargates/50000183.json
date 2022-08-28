@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001685,
+        "system_id": 30003383
+    },
+    "name": "Stargate (Todrir)",
+    "position": {
+        "x": -101698560000,
+        "y": -743792640,
+        "z": -29017006080
+    },
+    "stargate_id": 50000183,
+    "system_id": 30003381,
+    "type_id": 29633
+}

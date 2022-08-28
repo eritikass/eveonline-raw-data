@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010734,
+        "system_id": 30000196
+    },
+    "name": "Stargate (Otosela)",
+    "position": {
+        "x": -830689566720,
+        "y": 92956876800,
+        "z": 429026795520
+    },
+    "stargate_id": 50011021,
+    "system_id": 30000197,
+    "type_id": 16
+}

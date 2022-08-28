@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012756,
+        "system_id": 30004542
+    },
+    "name": "Stargate (Z-40CG)",
+    "position": {
+        "x": 247578501120,
+        "y": -8564367360,
+        "z": 2465890590720
+    },
+    "stargate_id": 50012483,
+    "system_id": 30004541,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008631,
+        "system_id": 30003334
+    },
+    "name": "Stargate (LSC4-P)",
+    "position": {
+        "x": 619505541120,
+        "y": 103460904960,
+        "z": 540323635200
+    },
+    "stargate_id": 50008434,
+    "system_id": 30003330,
+    "type_id": 3875
+}

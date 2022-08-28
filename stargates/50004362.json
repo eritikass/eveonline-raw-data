@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006323,
+        "system_id": 30002441
+    },
+    "name": "Stargate (4-CUM5)",
+    "position": {
+        "x": 620289269760,
+        "y": 125192478720,
+        "z": 51129999360
+    },
+    "stargate_id": 50004362,
+    "system_id": 30002438,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003051,
+        "system_id": 30000034
+    },
+    "name": "Stargate (Alkez)",
+    "position": {
+        "x": 1580819619840,
+        "y": -17178255360,
+        "z": -375976796160
+    },
+    "stargate_id": 50000665,
+    "system_id": 30000032,
+    "type_id": 29624
+}

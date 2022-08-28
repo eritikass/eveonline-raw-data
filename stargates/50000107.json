@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000251,
+        "system_id": 30003025
+    },
+    "name": "Stargate (Lirsautton)",
+    "position": {
+        "x": -2079971696640,
+        "y": -108668067840,
+        "z": 2652199772160
+    },
+    "stargate_id": 50000107,
+    "system_id": 30003024,
+    "type_id": 3875
+}

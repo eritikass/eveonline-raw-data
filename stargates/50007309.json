@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007439,
+        "system_id": 30003753
+    },
+    "name": "Stargate (YQB-22)",
+    "position": {
+        "x": -407268433920,
+        "y": -11886551040,
+        "z": 341701386240
+    },
+    "stargate_id": 50007309,
+    "system_id": 30003752,
+    "type_id": 29624
+}

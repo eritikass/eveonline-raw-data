@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007614,
+        "system_id": 30004106
+    },
+    "name": "Stargate (Bordan)",
+    "position": {
+        "x": 53473320960,
+        "y": 1232855040,
+        "z": -246900695040
+    },
+    "stargate_id": 50006810,
+    "system_id": 30004104,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002344,
+        "system_id": 30000099
+    },
+    "name": "Stargate (Arena)",
+    "position": {
+        "x": 2172289474560,
+        "y": -69287485440,
+        "z": -1285792849920
+    },
+    "stargate_id": 50004761,
+    "system_id": 30000103,
+    "type_id": 29624
+}

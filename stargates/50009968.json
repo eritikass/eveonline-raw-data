@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010627,
+        "system_id": 30003006
+    },
+    "name": "Stargate (Nidebora)",
+    "position": {
+        "x": 406204538880,
+        "y": -15671746560,
+        "z": 42139852800
+    },
+    "stargate_id": 50009968,
+    "system_id": 30003004,
+    "type_id": 29624
+}

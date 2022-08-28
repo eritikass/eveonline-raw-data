@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012441,
+        "system_id": 30002938
+    },
+    "name": "Stargate (3T7-M8)",
+    "position": {
+        "x": 117751603200,
+        "y": 23699496960,
+        "z": 651525611520
+    },
+    "stargate_id": 50012889,
+    "system_id": 30002945,
+    "type_id": 16
+}

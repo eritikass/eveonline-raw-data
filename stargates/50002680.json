@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002801,
+        "system_id": 30002772
+    },
+    "name": "Stargate (Rairomon)",
+    "position": {
+        "x": 7781725839360,
+        "y": -943805767680,
+        "z": -4332344156160
+    },
+    "stargate_id": 50002680,
+    "system_id": 30002769,
+    "type_id": 16
+}

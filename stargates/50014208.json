@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014207,
+        "system_id": 30000319
+    },
+    "name": "Stargate (LS-JEP)",
+    "position": {
+        "x": -3818223083520,
+        "y": 2185311805440,
+        "z": 910126571520
+    },
+    "stargate_id": 50014208,
+    "system_id": 30002825,
+    "type_id": 29632
+}

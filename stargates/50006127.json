@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006014,
+        "system_id": 30004999
+    },
+    "name": "Stargate (Ladistier)",
+    "position": {
+        "x": -491149762560,
+        "y": 7637114880,
+        "z": -427918663680
+    },
+    "stargate_id": 50006127,
+    "system_id": 30005000,
+    "type_id": 3875
+}

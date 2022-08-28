@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009771,
+        "system_id": 30003928
+    },
+    "name": "Stargate (Zephan)",
+    "position": {
+        "x": 793501655040,
+        "y": 2399908454400,
+        "z": 142174494720
+    },
+    "stargate_id": 50010239,
+    "system_id": 30003936,
+    "type_id": 17
+}

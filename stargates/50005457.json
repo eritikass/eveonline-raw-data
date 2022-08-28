@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006367,
+        "system_id": 30003429
+    },
+    "name": "Stargate (Geffur)",
+    "position": {
+        "x": -358888611840,
+        "y": 61685145600,
+        "z": -1292884500480
+    },
+    "stargate_id": 50005457,
+    "system_id": 30003428,
+    "type_id": 29633
+}

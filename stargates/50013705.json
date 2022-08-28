@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013706,
+        "system_id": 30002517
+    },
+    "name": "Stargate (Gulmorogod)",
+    "position": {
+        "x": 227808829440,
+        "y": 1196651520000,
+        "z": 114573189120
+    },
+    "stargate_id": 50013705,
+    "system_id": 30002537,
+    "type_id": 3877
+}

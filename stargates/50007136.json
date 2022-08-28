@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009962,
+        "system_id": 30005148
+    },
+    "name": "Stargate (9-EXU9)",
+    "position": {
+        "x": 58544824320,
+        "y": 3494092800,
+        "z": 262568140800
+    },
+    "stargate_id": 50007136,
+    "system_id": 30005145,
+    "type_id": 3875
+}

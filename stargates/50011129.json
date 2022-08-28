@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011407,
+        "system_id": 30001792
+    },
+    "name": "Stargate (XME-SW)",
+    "position": {
+        "x": 2577449410560,
+        "y": 156935086080,
+        "z": -1109699911680
+    },
+    "stargate_id": 50011129,
+    "system_id": 30001790,
+    "type_id": 3875
+}

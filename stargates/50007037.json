@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008334,
+        "system_id": 30005046
+    },
+    "name": "Stargate (Jinkah)",
+    "position": {
+        "x": -651600322560,
+        "y": 78894735360,
+        "z": -170155253760
+    },
+    "stargate_id": 50007037,
+    "system_id": 30005045,
+    "type_id": 29624
+}

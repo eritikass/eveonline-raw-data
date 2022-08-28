@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011785,
+        "system_id": 30004784
+    },
+    "name": "Stargate (F-9PXR)",
+    "position": {
+        "x": -1479183851520,
+        "y": -2654328791040,
+        "z": 2162542387200
+    },
+    "stargate_id": 50011124,
+    "system_id": 30004749,
+    "type_id": 17
+}

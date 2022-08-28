@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014118,
+        "system_id": 30025042
+    },
+    "name": "Stargate (Annad)",
+    "position": {
+        "x": -603097620480,
+        "y": 48702873600,
+        "z": 1076130570240
+    },
+    "stargate_id": 50014117,
+    "system_id": 30005046,
+    "type_id": 29624
+}

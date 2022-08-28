@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009187,
+        "system_id": 30003242
+    },
+    "name": "Stargate (E6Q-LE)",
+    "position": {
+        "x": 6056642519040,
+        "y": 1150760509440,
+        "z": 886052659200
+    },
+    "stargate_id": 50008240,
+    "system_id": 30003212,
+    "type_id": 3874
+}

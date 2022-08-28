@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008187,
+        "system_id": 30003426
+    },
+    "name": "Stargate (Anstard)",
+    "position": {
+        "x": 190302412800,
+        "y": 36885258240,
+        "z": 5895002234880
+    },
+    "stargate_id": 50010464,
+    "system_id": 30003427,
+    "type_id": 29633
+}

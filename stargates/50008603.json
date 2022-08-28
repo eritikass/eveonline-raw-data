@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012894,
+        "system_id": 30002698
+    },
+    "name": "Stargate (Aliette)",
+    "position": {
+        "x": -1344275619840,
+        "y": -270575738880,
+        "z": -2659832586240
+    },
+    "stargate_id": 50008603,
+    "system_id": 30002693,
+    "type_id": 3875
+}

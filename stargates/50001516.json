@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001287,
+        "system_id": 30002970
+    },
+    "name": "Stargate (Ohide)",
+    "position": {
+        "x": -2130108948480,
+        "y": 9272401920,
+        "z": 1180197396480
+    },
+    "stargate_id": 50001516,
+    "system_id": 30002963,
+    "type_id": 17
+}

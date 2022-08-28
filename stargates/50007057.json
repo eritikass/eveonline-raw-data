@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007336,
+        "system_id": 30001997
+    },
+    "name": "Stargate (U-INPD)",
+    "position": {
+        "x": 415448309760,
+        "y": 32153149440,
+        "z": 2437426421760
+    },
+    "stargate_id": 50007057,
+    "system_id": 30001994,
+    "type_id": 16
+}

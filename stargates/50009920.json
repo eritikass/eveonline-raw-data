@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010526,
+        "system_id": 30002918
+    },
+    "name": "Stargate (N-TFXK)",
+    "position": {
+        "x": -2144214097920,
+        "y": -53481185280,
+        "z": 1864678318080
+    },
+    "stargate_id": 50009920,
+    "system_id": 30002917,
+    "type_id": 16
+}

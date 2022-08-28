@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009661,
+        "system_id": 30003291
+    },
+    "name": "Stargate (AK-QBU)",
+    "position": {
+        "x": -566243942400,
+        "y": -12148039680,
+        "z": 1208950579200
+    },
+    "stargate_id": 50008982,
+    "system_id": 30003290,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004563,
+        "system_id": 30001583
+    },
+    "name": "Stargate (HPMN-V)",
+    "position": {
+        "x": -1860640727040,
+        "y": -22952140800,
+        "z": 1457698037760
+    },
+    "stargate_id": 50004637,
+    "system_id": 30001584,
+    "type_id": 3875
+}

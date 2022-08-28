@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012620,
+        "system_id": 30000203
+    },
+    "name": "Stargate (Eruka)",
+    "position": {
+        "x": 1460266967040,
+        "y": -48714670080,
+        "z": -662939197440
+    },
+    "stargate_id": 50011917,
+    "system_id": 30000202,
+    "type_id": 16
+}

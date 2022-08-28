@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001023,
+        "system_id": 30001565
+    },
+    "name": "Stargate (QQGH-G)",
+    "position": {
+        "x": 813627187200,
+        "y": -154814668800,
+        "z": 4847054069760
+    },
+    "stargate_id": 50001574,
+    "system_id": 30001566,
+    "type_id": 3875
+}

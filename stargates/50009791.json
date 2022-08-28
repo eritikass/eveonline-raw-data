@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009877,
+        "system_id": 30005064
+    },
+    "name": "Stargate (Mafra)",
+    "position": {
+        "x": -450558320640,
+        "y": -85535662080,
+        "z": -3766409256960
+    },
+    "stargate_id": 50009791,
+    "system_id": 30005063,
+    "type_id": 29624
+}

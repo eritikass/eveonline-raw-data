@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005360,
+        "system_id": 30002900
+    },
+    "name": "Stargate (K5F-Z2)",
+    "position": {
+        "x": -1680246988800,
+        "y": -77280829440,
+        "z": -904188026880
+    },
+    "stargate_id": 50005251,
+    "system_id": 30002899,
+    "type_id": 16
+}

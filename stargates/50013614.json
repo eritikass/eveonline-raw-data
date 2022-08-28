@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013613,
+        "system_id": 30002812
+    },
+    "name": "Stargate (Tannolen)",
+    "position": {
+        "x": 1450099630080,
+        "y": 958812610560,
+        "z": 2564387266560
+    },
+    "stargate_id": 50013614,
+    "system_id": 30005334,
+    "type_id": 3876
+}

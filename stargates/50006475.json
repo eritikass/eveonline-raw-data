@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006867,
+        "system_id": 30004407
+    },
+    "name": "Stargate (CFLF-P)",
+    "position": {
+        "x": -1201471119360,
+        "y": 223497707520,
+        "z": -773772042240
+    },
+    "stargate_id": 50006475,
+    "system_id": 30004405,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009593,
+        "system_id": 30004506
+    },
+    "name": "Stargate (BF-SDP)",
+    "position": {
+        "x": 226527436800,
+        "y": -734050836480,
+        "z": -1315932364800
+    },
+    "stargate_id": 50010621,
+    "system_id": 30004526,
+    "type_id": 3874
+}

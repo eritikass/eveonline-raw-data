@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002350,
+        "system_id": 30001549
+    },
+    "name": "Stargate (N-PS2Y)",
+    "position": {
+        "x": 4084512153600,
+        "y": -234232504320,
+        "z": -783941099520
+    },
+    "stargate_id": 50003416,
+    "system_id": 30001550,
+    "type_id": 3875
+}

@@ -1,0 +1,56 @@
+{
+    "constellation_id": 20000582,
+    "name": "Z-XX2J",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40252528
+            ],
+            "planet_id": 40252527
+        },
+        {
+            "moons": [
+                40252530
+            ],
+            "planet_id": 40252529
+        },
+        {
+            "moons": [
+                40252532
+            ],
+            "planet_id": 40252531
+        },
+        {
+            "asteroid_belts": [
+                40252534
+            ],
+            "moons": [
+                40252535
+            ],
+            "planet_id": 40252533
+        },
+        {
+            "asteroid_belts": [
+                40252537
+            ],
+            "moons": [
+                40252538
+            ],
+            "planet_id": 40252536
+        }
+    ],
+    "position": {
+        "x": -316205382179084400,
+        "y": 75193420041873740,
+        "z": -202687779987331420
+    },
+    "security_class": "G",
+    "security_status": -0.08306151628494263,
+    "star_id": 40252526,
+    "stargates": [
+        50011221,
+        50011222,
+        50011223
+    ],
+    "system_id": 30003989
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010081,
+        "system_id": 30001736
+    },
+    "name": "Stargate (Esa)",
+    "position": {
+        "x": -2042849402880,
+        "y": 341524684800,
+        "z": 488230871040
+    },
+    "stargate_id": 50013450,
+    "system_id": 30001742,
+    "type_id": 29624
+}

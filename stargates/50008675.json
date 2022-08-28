@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009208,
+        "system_id": 30003459
+    },
+    "name": "Stargate (Lirerim)",
+    "position": {
+        "x": 1807985909760,
+        "y": -4660963368960,
+        "z": -3641641082880
+    },
+    "stargate_id": 50008675,
+    "system_id": 30003414,
+    "type_id": 3877
+}

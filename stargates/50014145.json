@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014146,
+        "system_id": 30011392
+    },
+    "name": "Stargate (Jouvulen)",
+    "position": {
+        "x": 82482831360,
+        "y": 2238013440,
+        "z": -42894336000
+    },
+    "stargate_id": 50014145,
+    "system_id": 30001378,
+    "type_id": 16
+}

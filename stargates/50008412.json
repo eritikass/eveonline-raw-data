@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008466,
+        "system_id": 30004337
+    },
+    "name": "Stargate (Q-NJZ4)",
+    "position": {
+        "x": -2825302056960,
+        "y": -318750842880,
+        "z": 3821030891520
+    },
+    "stargate_id": 50008412,
+    "system_id": 30004336,
+    "type_id": 16
+}

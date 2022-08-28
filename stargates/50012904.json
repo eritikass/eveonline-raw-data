@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012935,
+        "system_id": 30001795
+    },
+    "name": "Stargate (P-T9VC)",
+    "position": {
+        "x": 729663528960,
+        "y": -139820851200,
+        "z": 2088519475200
+    },
+    "stargate_id": 50012904,
+    "system_id": 30001794,
+    "type_id": 3875
+}

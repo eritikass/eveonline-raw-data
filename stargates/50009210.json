@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009550,
+        "system_id": 30003461
+    },
+    "name": "Stargate (Diromitur)",
+    "position": {
+        "x": 2189256007680,
+        "y": 366756372480,
+        "z": 80363888640
+    },
+    "stargate_id": 50009210,
+    "system_id": 30003459,
+    "type_id": 29633
+}

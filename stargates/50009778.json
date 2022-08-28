@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013332,
+        "system_id": 30002683
+    },
+    "name": "Stargate (Barmalie)",
+    "position": {
+        "x": 95637135360,
+        "y": 3527024640,
+        "z": 94433157120
+    },
+    "stargate_id": 50009778,
+    "system_id": 30002679,
+    "type_id": 3875
+}

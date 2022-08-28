@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002573,
+        "system_id": 30005196
+    },
+    "name": "Stargate (Ahbazon)",
+    "position": {
+        "x": 1951528673280,
+        "y": 289990778880,
+        "z": 2630978887680
+    },
+    "stargate_id": 50000493,
+    "system_id": 30005192,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003633,
+        "system_id": 30001275
+    },
+    "name": "Stargate (CSOA-B)",
+    "position": {
+        "x": 369505689600,
+        "y": 33777131520,
+        "z": -199097671680
+    },
+    "stargate_id": 50003960,
+    "system_id": 30001276,
+    "type_id": 16
+}

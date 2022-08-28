@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002921,
+        "system_id": 30001073
+    },
+    "name": "Stargate (VVB-QH)",
+    "position": {
+        "x": -1128171479040,
+        "y": -12530688000,
+        "z": -3990861619200
+    },
+    "stargate_id": 50002512,
+    "system_id": 30001071,
+    "type_id": 3875
+}

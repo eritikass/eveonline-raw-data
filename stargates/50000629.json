@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001137,
+        "system_id": 30003029
+    },
+    "name": "Stargate (Jaschercis)",
+    "position": {
+        "x": -3466670530560,
+        "y": -263909990400,
+        "z": -822115983360
+    },
+    "stargate_id": 50000629,
+    "system_id": 30002662,
+    "type_id": 29632
+}

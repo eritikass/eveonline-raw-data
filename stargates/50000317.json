@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000083,
+        "system_id": 30000244
+    },
+    "name": "Stargate (K8X-6B)",
+    "position": {
+        "x": -594470707200,
+        "y": -113200128000,
+        "z": 1076126638080
+    },
+    "stargate_id": 50000317,
+    "system_id": 30000246,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003373,
+        "system_id": 30001969
+    },
+    "name": "Stargate (KI-TL0)",
+    "position": {
+        "x": 4483914670080,
+        "y": -365712384000,
+        "z": -648599592960
+    },
+    "stargate_id": 50003379,
+    "system_id": 30001970,
+    "type_id": 16
+}

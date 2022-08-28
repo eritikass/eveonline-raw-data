@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013849,
+        "system_id": 30004369
+    },
+    "name": "Stargate (MA-VDX)",
+    "position": {
+        "x": -1485032202240,
+        "y": -5189709127680,
+        "z": 2022121021440
+    },
+    "stargate_id": 50013850,
+    "system_id": 30001312,
+    "type_id": 12292
+}

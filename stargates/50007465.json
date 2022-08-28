@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005382,
+        "system_id": 30002700
+    },
+    "name": "Stargate (Bawilan)",
+    "position": {
+        "x": 566330204160,
+        "y": -48807567360,
+        "z": -322861178880
+    },
+    "stargate_id": 50007465,
+    "system_id": 30002701,
+    "type_id": 3875
+}

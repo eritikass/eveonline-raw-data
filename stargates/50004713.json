@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001944,
+        "system_id": 30003515
+    },
+    "name": "Stargate (Anila)",
+    "position": {
+        "x": 850279342080,
+        "y": 104177049600,
+        "z": -172808478720
+    },
+    "stargate_id": 50004713,
+    "system_id": 30003518,
+    "type_id": 29624
+}

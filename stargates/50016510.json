@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016511,
+        "system_id": 30002079
+    },
+    "name": "Stargate (Krirald)",
+    "position": {
+        "x": -3044484958639.2925,
+        "y": 173981469885.49747,
+        "z": 4202630042781.551
+    },
+    "stargate_id": 50016510,
+    "system_id": 30000192,
+    "type_id": 56317
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006291,
+        "system_id": 30002594
+    },
+    "name": "Stargate (IV-UNR)",
+    "position": {
+        "x": 2457741434880,
+        "y": -109986816000,
+        "z": 845114695680
+    },
+    "stargate_id": 50006112,
+    "system_id": 30002592,
+    "type_id": 29633
+}

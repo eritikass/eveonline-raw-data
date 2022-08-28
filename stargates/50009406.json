@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008189,
+        "system_id": 30002494
+    },
+    "name": "Stargate (TZL-WT)",
+    "position": {
+        "x": 174803066880,
+        "y": -27489361920,
+        "z": 2123385937920
+    },
+    "stargate_id": 50009406,
+    "system_id": 30002495,
+    "type_id": 16
+}

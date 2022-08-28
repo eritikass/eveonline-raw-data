@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009342,
+        "system_id": 30003958
+    },
+    "name": "Stargate (TV8-HS)",
+    "position": {
+        "x": 2207135047680,
+        "y": -420700200960,
+        "z": -2392904540160
+    },
+    "stargate_id": 50008953,
+    "system_id": 30003954,
+    "type_id": 29624
+}

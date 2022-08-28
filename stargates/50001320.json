@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000330,
+        "system_id": 30002848
+    },
+    "name": "Stargate (74-DRC)",
+    "position": {
+        "x": 1067112652800,
+        "y": 2478097735680,
+        "z": -3005013811200
+    },
+    "stargate_id": 50001320,
+    "system_id": 30002840,
+    "type_id": 3874
+}

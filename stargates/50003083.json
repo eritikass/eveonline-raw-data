@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007856,
+        "system_id": 30000527
+    },
+    "name": "Stargate (U69-YC)",
+    "position": {
+        "x": 1209260974080,
+        "y": 2997840814080,
+        "z": -7192302182400
+    },
+    "stargate_id": 50003083,
+    "system_id": 30000839,
+    "type_id": 29635
+}

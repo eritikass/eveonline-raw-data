@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000006,
+        "system_id": 30000756
+    },
+    "name": "Stargate (2-Q4YG)",
+    "position": {
+        "x": -625388544000,
+        "y": 1492567449600,
+        "z": 411180195840
+    },
+    "stargate_id": 50000146,
+    "system_id": 30000750,
+    "type_id": 3877
+}

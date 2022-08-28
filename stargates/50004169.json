@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004119,
+        "system_id": 30000983
+    },
+    "name": "Stargate (OJOS-T)",
+    "position": {
+        "x": -3234957189120,
+        "y": 431120424960,
+        "z": -1092027310080
+    },
+    "stargate_id": 50004169,
+    "system_id": 30000984,
+    "type_id": 29633
+}

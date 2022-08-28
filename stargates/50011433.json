@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011250,
+        "system_id": 30001720
+    },
+    "name": "Stargate (Modun)",
+    "position": {
+        "x": 623178178560,
+        "y": -80272957440,
+        "z": 576469032960
+    },
+    "stargate_id": 50011433,
+    "system_id": 30001721,
+    "type_id": 29624
+}

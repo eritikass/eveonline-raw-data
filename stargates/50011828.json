@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011725,
+        "system_id": 30002414
+    },
+    "name": "Stargate (Klingt)",
+    "position": {
+        "x": -959844802560,
+        "y": 13282222080,
+        "z": 1557216092160
+    },
+    "stargate_id": 50011828,
+    "system_id": 30002415,
+    "type_id": 29633
+}

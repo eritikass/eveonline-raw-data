@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009047,
+        "system_id": 30003963
+    },
+    "name": "Stargate (GOP-GE)",
+    "position": {
+        "x": 1370200104960,
+        "y": -26683023360,
+        "z": -383071150080
+    },
+    "stargate_id": 50009219,
+    "system_id": 30003964,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012099,
+        "system_id": 30004768
+    },
+    "name": "Stargate (7G-QIG)",
+    "position": {
+        "x": -68127252480,
+        "y": -540303360,
+        "z": -105230131200
+    },
+    "stargate_id": 50011162,
+    "system_id": 30004766,
+    "type_id": 29624
+}

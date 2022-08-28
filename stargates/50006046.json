@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003451,
+        "system_id": 30001394
+    },
+    "name": "Stargate (Korama)",
+    "position": {
+        "x": -5704122654720,
+        "y": 334564024320,
+        "z": 5371790745600
+    },
+    "stargate_id": 50006046,
+    "system_id": 30001395,
+    "type_id": 16
+}

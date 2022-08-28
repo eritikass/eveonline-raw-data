@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008086,
+        "system_id": 30003826
+    },
+    "name": "Stargate (Frarie)",
+    "position": {
+        "x": 1977483386880,
+        "y": -368592691200,
+        "z": -3526330736640
+    },
+    "stargate_id": 50008205,
+    "system_id": 30003828,
+    "type_id": 3875
+}

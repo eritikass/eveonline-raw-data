@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010673,
+        "system_id": 30003158
+    },
+    "name": "Stargate (YAP-TN)",
+    "position": {
+        "x": 188223774720,
+        "y": -34460590080,
+        "z": 1438341980160
+    },
+    "stargate_id": 50012242,
+    "system_id": 30003162,
+    "type_id": 29624
+}

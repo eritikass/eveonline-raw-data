@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013537,
+        "system_id": 30001962
+    },
+    "name": "Stargate (NRT4-U)",
+    "position": {
+        "x": -790085345280,
+        "y": -113198407680,
+        "z": 506679336960
+    },
+    "stargate_id": 50013471,
+    "system_id": 30001957,
+    "type_id": 29624
+}

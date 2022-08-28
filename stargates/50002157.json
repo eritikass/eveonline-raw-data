@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001088,
+        "system_id": 30002762
+    },
+    "name": "Stargate (Yashunen)",
+    "position": {
+        "x": 2083003637760,
+        "y": -513390796800,
+        "z": -2808908881920
+    },
+    "stargate_id": 50002157,
+    "system_id": 30004974,
+    "type_id": 3876
+}

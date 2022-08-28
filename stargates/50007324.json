@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007471,
+        "system_id": 30005251
+    },
+    "name": "Stargate (Asanot)",
+    "position": {
+        "x": -5750244433920,
+        "y": 355191889920,
+        "z": 2258981314560
+    },
+    "stargate_id": 50007324,
+    "system_id": 30005249,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010636,
+        "system_id": 30002888
+    },
+    "name": "Stargate (S-LHPJ)",
+    "position": {
+        "x": -3263674490880,
+        "y": 374172917760,
+        "z": 6079035678720
+    },
+    "stargate_id": 50009716,
+    "system_id": 30002886,
+    "type_id": 3875
+}

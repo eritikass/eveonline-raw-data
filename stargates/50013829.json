@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013830,
+        "system_id": 30000290
+    },
+    "name": "Stargate (0R-F2F)",
+    "position": {
+        "x": -4194004869120,
+        "y": 1708684615680,
+        "z": 113571717120
+    },
+    "stargate_id": 50013829,
+    "system_id": 30000299,
+    "type_id": 12292
+}

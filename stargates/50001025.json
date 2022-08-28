@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004877,
+        "system_id": 30002210
+    },
+    "name": "Stargate (Joppaya)",
+    "position": {
+        "x": -159808266240,
+        "y": -705356144640,
+        "z": -3616617553920
+    },
+    "stargate_id": 50001025,
+    "system_id": 30001650,
+    "type_id": 29626
+}

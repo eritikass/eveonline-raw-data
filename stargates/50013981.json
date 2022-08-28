@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013982,
+        "system_id": 30000898
+    },
+    "name": "Stargate (2CG-5V)",
+    "position": {
+        "x": -1050214440960,
+        "y": -36056555520,
+        "z": 1272389836800
+    },
+    "stargate_id": 50013981,
+    "system_id": 30000308,
+    "type_id": 29629
+}

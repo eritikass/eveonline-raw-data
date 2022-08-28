@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016344,
+        "system_id": 30045331
+    },
+    "name": "Stargate (Vaaralen)",
+    "position": {
+        "x": 1672488591360,
+        "y": 4388167680,
+        "z": 694936166400
+    },
+    "stargate_id": 50016343,
+    "system_id": 30045334,
+    "type_id": 16
+}

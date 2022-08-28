@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004489,
+        "system_id": 30003392
+    },
+    "name": "Stargate (Eygfe)",
+    "position": {
+        "x": -39028285440,
+        "y": -2997651087360,
+        "z": 1044843110400
+    },
+    "stargate_id": 50004661,
+    "system_id": 30003416,
+    "type_id": 3877
+}

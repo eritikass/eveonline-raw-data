@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007203,
+        "system_id": 30002881
+    },
+    "name": "Stargate (FB5U-I)",
+    "position": {
+        "x": 2697447383040,
+        "y": -146526412800,
+        "z": -790203555840
+    },
+    "stargate_id": 50004173,
+    "system_id": 30002826,
+    "type_id": 3874
+}

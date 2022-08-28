@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013506,
+        "system_id": 30004492
+    },
+    "name": "Stargate (2-RSC7)",
+    "position": {
+        "x": -988636815360,
+        "y": 166549463040,
+        "z": -1973371084800
+    },
+    "stargate_id": 50013383,
+    "system_id": 30004489,
+    "type_id": 29633
+}

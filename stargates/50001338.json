@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002218,
+        "system_id": 30000443
+    },
+    "name": "Stargate (MD-0AW)",
+    "position": {
+        "x": -600938864640,
+        "y": 65401036800,
+        "z": 136569446400
+    },
+    "stargate_id": 50001338,
+    "system_id": 30000440,
+    "type_id": 29633
+}

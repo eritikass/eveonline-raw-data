@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003016,
+        "system_id": 30002520
+    },
+    "name": "Stargate (Dumkirinur)",
+    "position": {
+        "x": 182084935680,
+        "y": 28057559040,
+        "z": 1577833390080
+    },
+    "stargate_id": 50002966,
+    "system_id": 30002519,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012819,
+        "system_id": 30005084
+    },
+    "name": "Stargate (Miroona)",
+    "position": {
+        "x": 3390796308480,
+        "y": -33761402880,
+        "z": 105806684160
+    },
+    "stargate_id": 50012967,
+    "system_id": 30005085,
+    "type_id": 29624
+}

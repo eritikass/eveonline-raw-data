@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000450,
+        "system_id": 30000667
+    },
+    "name": "Stargate (S1-XTL)",
+    "position": {
+        "x": -319182151680,
+        "y": -19529441280,
+        "z": 4073941278720
+    },
+    "stargate_id": 50000078,
+    "system_id": 30000666,
+    "type_id": 29633
+}

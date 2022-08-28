@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007305,
+        "system_id": 30002620
+    },
+    "name": "Stargate (GBT4-J)",
+    "position": {
+        "x": 1764800962560,
+        "y": -202524057600,
+        "z": 2668628828160
+    },
+    "stargate_id": 50011516,
+    "system_id": 30002625,
+    "type_id": 29633
+}

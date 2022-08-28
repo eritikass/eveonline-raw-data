@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013262,
+        "system_id": 30002472
+    },
+    "name": "Stargate (9P4O-F)",
+    "position": {
+        "x": -1858088263680,
+        "y": -152331755520,
+        "z": 777020497920
+    },
+    "stargate_id": 50012009,
+    "system_id": 30002471,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009802,
+        "system_id": 30004440
+    },
+    "name": "Stargate (NX5W-U)",
+    "position": {
+        "x": 2904801730560,
+        "y": -88305377280,
+        "z": -1972507484160
+    },
+    "stargate_id": 50008885,
+    "system_id": 30004436,
+    "type_id": 29633
+}

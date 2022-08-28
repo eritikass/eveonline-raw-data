@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007485,
+        "system_id": 30003203
+    },
+    "name": "Stargate (IG-4OF)",
+    "position": {
+        "x": 5257953976320,
+        "y": -439019397120,
+        "z": 2729170821120
+    },
+    "stargate_id": 50007229,
+    "system_id": 30003202,
+    "type_id": 3875
+}

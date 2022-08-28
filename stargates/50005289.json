@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004300,
+        "system_id": 30001749
+    },
+    "name": "Stargate (QHH-13)",
+    "position": {
+        "x": -871455989760,
+        "y": 27441684480,
+        "z": 986539253760
+    },
+    "stargate_id": 50005289,
+    "system_id": 30001750,
+    "type_id": 3875
+}

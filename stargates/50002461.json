@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003514,
+        "system_id": 30000961
+    },
+    "name": "Stargate (B-ROFP)",
+    "position": {
+        "x": 87919534080,
+        "y": -15333089280,
+        "z": -59504025600
+    },
+    "stargate_id": 50002461,
+    "system_id": 30000958,
+    "type_id": 29633
+}

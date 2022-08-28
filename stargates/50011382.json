@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011228,
+        "system_id": 30002280
+    },
+    "name": "Stargate (Zatsyaki)",
+    "position": {
+        "x": -3972424212480,
+        "y": -780786032640,
+        "z": -2293397299200
+    },
+    "stargate_id": 50011382,
+    "system_id": 30002281,
+    "type_id": 29624
+}

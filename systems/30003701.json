@@ -1,0 +1,53 @@
+{
+    "constellation_id": 20000539,
+    "name": "I-UUI5",
+    "planets": [
+        {
+            "planet_id": 40234355
+        },
+        {
+            "planet_id": 40234356
+        },
+        {
+            "moons": [
+                40234358
+            ],
+            "planet_id": 40234357
+        },
+        {
+            "asteroid_belts": [
+                40234360
+            ],
+            "moons": [
+                40234361
+            ],
+            "planet_id": 40234359
+        },
+        {
+            "moons": [
+                40234363,
+                40234364,
+                40234365
+            ],
+            "planet_id": 40234362
+        },
+        {
+            "asteroid_belts": [
+                40234367
+            ],
+            "planet_id": 40234366
+        }
+    ],
+    "position": {
+        "x": -335159662635730400,
+        "y": 49261860406405300,
+        "z": 265824230549041340
+    },
+    "security_class": "J4",
+    "security_status": -0.6354250311851501,
+    "star_id": 40234354,
+    "stargates": [
+        50011836
+    ],
+    "system_id": 30003701
+}

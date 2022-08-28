@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002710,
+        "system_id": 30000594
+    },
+    "name": "Stargate (J-RXYN)",
+    "position": {
+        "x": -2002373222400,
+        "y": -181248368640,
+        "z": 419009126400
+    },
+    "stargate_id": 50003256,
+    "system_id": 30000595,
+    "type_id": 29633
+}

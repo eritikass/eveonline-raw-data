@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006158,
+        "system_id": 30003808
+    },
+    "name": "Stargate (Grispire)",
+    "position": {
+        "x": 978810101760,
+        "y": -99080724480,
+        "z": 2731465973760
+    },
+    "stargate_id": 50005943,
+    "system_id": 30003806,
+    "type_id": 3875
+}

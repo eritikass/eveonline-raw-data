@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000907,
+        "system_id": 30000052
+    },
+    "name": "Stargate (Maspah)",
+    "position": {
+        "x": -232210391040,
+        "y": -33441669120,
+        "z": 64939008000
+    },
+    "stargate_id": 50005361,
+    "system_id": 30000055,
+    "type_id": 29624
+}

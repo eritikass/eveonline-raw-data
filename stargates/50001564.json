@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002166,
+        "system_id": 30002134
+    },
+    "name": "Stargate (I-NGI8)",
+    "position": {
+        "x": -1559094435840,
+        "y": -231242096640,
+        "z": -1253175582720
+    },
+    "stargate_id": 50001564,
+    "system_id": 30002131,
+    "type_id": 29633
+}

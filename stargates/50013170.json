@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013466,
+        "system_id": 30004919
+    },
+    "name": "Stargate (NQH-MR)",
+    "position": {
+        "x": 2942987182080,
+        "y": -141030973440,
+        "z": 792461844480
+    },
+    "stargate_id": 50013170,
+    "system_id": 30004913,
+    "type_id": 29633
+}

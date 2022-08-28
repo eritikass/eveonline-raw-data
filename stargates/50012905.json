@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012841,
+        "system_id": 30004909
+    },
+    "name": "Stargate (QSF-EJ)",
+    "position": {
+        "x": -331189002240,
+        "y": 35270860800,
+        "z": 919546060800
+    },
+    "stargate_id": 50012905,
+    "system_id": 30004910,
+    "type_id": 29633
+}

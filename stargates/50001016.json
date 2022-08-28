@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001886,
+        "system_id": 30001040
+    },
+    "name": "Stargate (K88X-J)",
+    "position": {
+        "x": -65034854400,
+        "y": -100392960,
+        "z": -64071966720
+    },
+    "stargate_id": 50001016,
+    "system_id": 30001039,
+    "type_id": 29633
+}

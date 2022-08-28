@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000407,
+        "system_id": 30001170
+    },
+    "name": "Stargate (1P-WGB)",
+    "position": {
+        "x": 2121704448000,
+        "y": 380454789120,
+        "z": -177400012800
+    },
+    "stargate_id": 50000727,
+    "system_id": 30001172,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001824,
+        "system_id": 30002510
+    },
+    "name": "Stargate (Rens)",
+    "position": {
+        "x": 399759974400,
+        "y": -19031777280,
+        "z": 2941646561280
+    },
+    "stargate_id": 50001326,
+    "system_id": 30002509,
+    "type_id": 29633
+}

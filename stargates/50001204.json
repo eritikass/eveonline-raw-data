@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000229,
+        "system_id": 30000261
+    },
+    "name": "Stargate (T-GCGL)",
+    "position": {
+        "x": -2812191989760,
+        "y": 270877777920,
+        "z": 2694411755520
+    },
+    "stargate_id": 50001204,
+    "system_id": 30000262,
+    "type_id": 16
+}

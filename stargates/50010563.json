@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012157,
+        "system_id": 30004844
+    },
+    "name": "Stargate (TY2X-C)",
+    "position": {
+        "x": 2938540154880,
+        "y": 311478067200,
+        "z": 1302345031680
+    },
+    "stargate_id": 50010563,
+    "system_id": 30004840,
+    "type_id": 29633
+}

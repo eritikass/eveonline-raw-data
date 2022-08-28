@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008112,
+        "system_id": 30002262
+    },
+    "name": "Stargate (Nalu)",
+    "position": {
+        "x": 747489976320,
+        "y": -84302929920,
+        "z": -1548710338560
+    },
+    "stargate_id": 50007884,
+    "system_id": 30002261,
+    "type_id": 29624
+}

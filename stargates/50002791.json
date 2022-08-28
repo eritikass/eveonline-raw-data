@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001781,
+        "system_id": 30002312
+    },
+    "name": "Stargate (CYB-BZ)",
+    "position": {
+        "x": 2078609448960,
+        "y": -25269411840,
+        "z": 3234283560960
+    },
+    "stargate_id": 50002791,
+    "system_id": 30002313,
+    "type_id": 3875
+}

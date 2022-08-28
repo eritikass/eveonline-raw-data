@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004762,
+        "system_id": 30000103
+    },
+    "name": "Stargate (Serad)",
+    "position": {
+        "x": 110300897280,
+        "y": 13515694080,
+        "z": 41725747200
+    },
+    "stargate_id": 50002926,
+    "system_id": 30000101,
+    "type_id": 29624
+}

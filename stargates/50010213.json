@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009237,
+        "system_id": 30004353
+    },
+    "name": "Stargate (LRWD-B)",
+    "position": {
+        "x": 1612255518720,
+        "y": -133090959360,
+        "z": 3575400161280
+    },
+    "stargate_id": 50010213,
+    "system_id": 30004354,
+    "type_id": 16
+}

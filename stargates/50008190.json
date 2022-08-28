@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007628,
+        "system_id": 30003824
+    },
+    "name": "Stargate (Archavoinet)",
+    "position": {
+        "x": 1235802808320,
+        "y": -222295941120,
+        "z": -1063361617920
+    },
+    "stargate_id": 50008190,
+    "system_id": 30003827,
+    "type_id": 3875
+}

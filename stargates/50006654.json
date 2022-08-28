@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004944,
+        "system_id": 30003422
+    },
+    "name": "Stargate (Wirdalen)",
+    "position": {
+        "x": -2403624345600,
+        "y": -15534612480,
+        "z": -4357943255040
+    },
+    "stargate_id": 50006654,
+    "system_id": 30003424,
+    "type_id": 29633
+}

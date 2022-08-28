@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006438,
+        "system_id": 30001859
+    },
+    "name": "Stargate (R8-5XF)",
+    "position": {
+        "x": -729405480960,
+        "y": -87998423040,
+        "z": 294992486400
+    },
+    "stargate_id": 50006270,
+    "system_id": 30001858,
+    "type_id": 29624
+}

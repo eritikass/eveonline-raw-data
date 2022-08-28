@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002804,
+        "system_id": 30002190
+    },
+    "name": "Stargate (Mabnen)",
+    "position": {
+        "x": 3016150671360,
+        "y": 426110853120,
+        "z": 5331993354240
+    },
+    "stargate_id": 50004828,
+    "system_id": 30002194,
+    "type_id": 29624
+}

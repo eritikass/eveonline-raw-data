@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005277,
+        "system_id": 30003040
+    },
+    "name": "Stargate (Bille)",
+    "position": {
+        "x": -629177671680,
+        "y": -49413611520,
+        "z": -68194590720
+    },
+    "stargate_id": 50004796,
+    "system_id": 30003038,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013026,
+        "system_id": 30004486
+    },
+    "name": "Stargate (6-ELQP)",
+    "position": {
+        "x": 1357211197440,
+        "y": -217152675840,
+        "z": -2737956003840
+    },
+    "stargate_id": 50012930,
+    "system_id": 30004485,
+    "type_id": 29633
+}

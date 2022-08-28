@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003032,
+        "system_id": 30001419
+    },
+    "name": "Stargate (Atai)",
+    "position": {
+        "x": -699539742720,
+        "y": 66182553600,
+        "z": -902458859520
+    },
+    "stargate_id": 50003389,
+    "system_id": 30001423,
+    "type_id": 16
+}

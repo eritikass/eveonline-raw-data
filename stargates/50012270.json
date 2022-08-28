@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010599,
+        "system_id": 30004384
+    },
+    "name": "Stargate (4DTQ-K)",
+    "position": {
+        "x": -826066575360,
+        "y": 143082332160,
+        "z": -4680052039680
+    },
+    "stargate_id": 50012270,
+    "system_id": 30004388,
+    "type_id": 16
+}

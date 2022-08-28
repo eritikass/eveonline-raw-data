@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010862,
+        "system_id": 30001911
+    },
+    "name": "Stargate (T-8UOF)",
+    "position": {
+        "x": 225220976640,
+        "y": -19280240640,
+        "z": 1753028567040
+    },
+    "stargate_id": 50012252,
+    "system_id": 30001914,
+    "type_id": 29624
+}

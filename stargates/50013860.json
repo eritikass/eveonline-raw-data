@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013859,
+        "system_id": 30002046
+    },
+    "name": "Stargate (7D-0SQ)",
+    "position": {
+        "x": 324891402240,
+        "y": -541111541760,
+        "z": 2281302712320
+    },
+    "stargate_id": 50013860,
+    "system_id": 30004063,
+    "type_id": 12292
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008325,
+        "system_id": 30003048
+    },
+    "name": "Stargate (Carirgnottin)",
+    "position": {
+        "x": -6201079603200,
+        "y": -983183400960,
+        "z": -2031925616640
+    },
+    "stargate_id": 50010578,
+    "system_id": 30003054,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005304,
+        "system_id": 30000644
+    },
+    "name": "Stargate (U93O-A)",
+    "position": {
+        "x": 2164499865600,
+        "y": 368096501760,
+        "z": -1346815549440
+    },
+    "stargate_id": 50004981,
+    "system_id": 30000643,
+    "type_id": 29633
+}

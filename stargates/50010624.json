@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010014,
+        "system_id": 30003987
+    },
+    "name": "Stargate (IGE-NE)",
+    "position": {
+        "x": -3090952642560,
+        "y": -121392783360,
+        "z": -5758302904320
+    },
+    "stargate_id": 50010624,
+    "system_id": 30003988,
+    "type_id": 29624
+}

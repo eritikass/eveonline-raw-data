@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009073,
+        "system_id": 30003842
+    },
+    "name": "Stargate (Esesier)",
+    "position": {
+        "x": -5024787210240,
+        "y": 288345415680,
+        "z": 4200224317440
+    },
+    "stargate_id": 50008935,
+    "system_id": 30003840,
+    "type_id": 3875
+}

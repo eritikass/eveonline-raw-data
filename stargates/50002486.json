@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005996,
+        "system_id": 30001659
+    },
+    "name": "Stargate (Sehmosh)",
+    "position": {
+        "x": -6654852833280,
+        "y": -502668533760,
+        "z": 1536579870720
+    },
+    "stargate_id": 50002486,
+    "system_id": 30001656,
+    "type_id": 29624
+}

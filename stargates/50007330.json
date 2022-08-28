@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007825,
+        "system_id": 30003874
+    },
+    "name": "Stargate (Saloti)",
+    "position": {
+        "x": -2142390312960,
+        "y": -161864785920,
+        "z": -358862807040
+    },
+    "stargate_id": 50007330,
+    "system_id": 30003868,
+    "type_id": 29624
+}

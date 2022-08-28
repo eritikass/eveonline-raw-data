@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001497,
+        "system_id": 30000057
+    },
+    "name": "Stargate (Nikh)",
+    "position": {
+        "x": 655569346560,
+        "y": -34509987840,
+        "z": 586134773760
+    },
+    "stargate_id": 50007289,
+    "system_id": 30000061,
+    "type_id": 29624
+}

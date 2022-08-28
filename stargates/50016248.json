@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016247,
+        "system_id": 30045308
+    },
+    "name": "Stargate (Kehjari)",
+    "position": {
+        "x": -2294135808000,
+        "y": -5286816030720,
+        "z": 1782038077440
+    },
+    "stargate_id": 50016248,
+    "system_id": 30045318,
+    "type_id": 29627
+}

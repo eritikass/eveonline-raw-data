@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008520,
+        "system_id": 30003107
+    },
+    "name": "Stargate (JAUD-V)",
+    "position": {
+        "x": -1330385018880,
+        "y": -6723133440,
+        "z": 2110513274880
+    },
+    "stargate_id": 50008558,
+    "system_id": 30003108,
+    "type_id": 29624
+}

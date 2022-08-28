@@ -1,0 +1,13 @@
+{
+    "constellations": [
+        20000590,
+        20000591,
+        20000592,
+        20000593,
+        20000594,
+        20000595
+    ],
+    "description": "Named by noted Intaki astronomer Alnadil Jouber, Cloud Ring is notable for its central constellations, which are encompassed by a massive ring of dust and gas expelled from an ancient stellar catastrophe of colossal proportions. The first scientist to observe and detail this phenomenon from observatories in the Placid region, Jouber went on to theorize that analysis of the ring's extent, density, and rate of expansion could give insight as to what monumental event could have caused such a disturbance and when it might have occurred. \r\n\r\nHe further theorized that such an explosion might have had far-reaching gravitic effects that could destabilize wormholes, and might have been a contributing factor in the collapse of the EVE Gate. While later researchers have discounted many of his ideas, the validity of his theories has yet to be categorically disproven. It is noteworthy that the Sisters of EVE maintain several bases in Placid, from which scientific expeditions to study the Cloud Ring are coordinated.",
+    "name": "Cloud Ring",
+    "region_id": 10000051
+}

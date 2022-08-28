@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004647,
+        "system_id": 30000641
+    },
+    "name": "Stargate (TPG-DD)",
+    "position": {
+        "x": -144489308160,
+        "y": -26685972480,
+        "z": -244087971840
+    },
+    "stargate_id": 50004297,
+    "system_id": 30000639,
+    "type_id": 29633
+}

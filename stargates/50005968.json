@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005999,
+        "system_id": 30005226
+    },
+    "name": "Stargate (Dom-Aphis)",
+    "position": {
+        "x": 119354204160,
+        "y": 3421593600,
+        "z": -79904808960
+    },
+    "stargate_id": 50005968,
+    "system_id": 30005225,
+    "type_id": 29624
+}

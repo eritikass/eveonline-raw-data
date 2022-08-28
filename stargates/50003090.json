@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001708,
+        "system_id": 30000212
+    },
+    "name": "Stargate (NCGR-Q)",
+    "position": {
+        "x": -3211711733760,
+        "y": 354593464320,
+        "z": -841419202560
+    },
+    "stargate_id": 50003090,
+    "system_id": 30000289,
+    "type_id": 29627
+}

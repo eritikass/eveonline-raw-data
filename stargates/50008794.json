@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009326,
+        "system_id": 30003341
+    },
+    "name": "Stargate (9U-TTJ)",
+    "position": {
+        "x": 306139668480,
+        "y": 42882539520,
+        "z": 866895912960
+    },
+    "stargate_id": 50008794,
+    "system_id": 30003336,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008008,
+        "system_id": 30001712
+    },
+    "name": "Stargate (Lari)",
+    "position": {
+        "x": -2197329469440,
+        "y": -98332385280,
+        "z": 5425822801920
+    },
+    "stargate_id": 50007262,
+    "system_id": 30001711,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006165,
+        "system_id": 30001710
+    },
+    "name": "Stargate (Yeder)",
+    "position": {
+        "x": -946537635840,
+        "y": -136853544960,
+        "z": 1037377413120
+    },
+    "stargate_id": 50008727,
+    "system_id": 30001714,
+    "type_id": 29624
+}

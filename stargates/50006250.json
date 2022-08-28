@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006463,
+        "system_id": 30001763
+    },
+    "name": "Stargate (Q7E-DU)",
+    "position": {
+        "x": 2494355742720,
+        "y": 135655464960,
+        "z": -429640212480
+    },
+    "stargate_id": 50006250,
+    "system_id": 30001762,
+    "type_id": 3875
+}

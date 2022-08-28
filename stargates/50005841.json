@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007830,
+        "system_id": 30003536
+    },
+    "name": "Stargate (Uzigh)",
+    "position": {
+        "x": -575616245760,
+        "y": -94207303680,
+        "z": 3846508830720
+    },
+    "stargate_id": 50005841,
+    "system_id": 30003531,
+    "type_id": 29624
+}

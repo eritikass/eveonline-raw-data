@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008583,
+        "system_id": 30002629
+    },
+    "name": "Stargate (WFYM-0)",
+    "position": {
+        "x": 2102437109760,
+        "y": 235298856960,
+        "z": 2204774768640
+    },
+    "stargate_id": 50007560,
+    "system_id": 30002628,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002369,
+        "system_id": 30000676
+    },
+    "name": "Stargate (ER2O-Y)",
+    "position": {
+        "x": -1232322846720,
+        "y": -98896650240,
+        "z": 5561472245760
+    },
+    "stargate_id": 50000290,
+    "system_id": 30000672,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007093,
+        "system_id": 30005012
+    },
+    "name": "Stargate (Haine)",
+    "position": {
+        "x": -127373107200,
+        "y": -22092963840,
+        "z": 3473138688000
+    },
+    "stargate_id": 50006510,
+    "system_id": 30005009,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012815,
+        "system_id": 30004599
+    },
+    "name": "Stargate (B32-14)",
+    "position": {
+        "x": -2695031562240,
+        "y": -450140282880,
+        "z": -1576712970240
+    },
+    "stargate_id": 50012108,
+    "system_id": 30004597,
+    "type_id": 3875
+}

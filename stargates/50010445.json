@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010514,
+        "system_id": 30004379
+    },
+    "name": "Stargate (K-8SQS)",
+    "position": {
+        "x": 1330176000,
+        "y": 45096960,
+        "z": 68061634560
+    },
+    "stargate_id": 50010445,
+    "system_id": 30004378,
+    "type_id": 16
+}

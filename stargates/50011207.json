@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009624,
+        "system_id": 30003579
+    },
+    "name": "Stargate (Larryn)",
+    "position": {
+        "x": 9223656038400,
+        "y": -702180679680,
+        "z": -117506334720
+    },
+    "stargate_id": 50011207,
+    "system_id": 30003583,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008018,
+        "system_id": 30005132
+    },
+    "name": "Stargate (Z-ENUD)",
+    "position": {
+        "x": -1335670824960,
+        "y": -256527605760,
+        "z": -3156106321920
+    },
+    "stargate_id": 50008429,
+    "system_id": 30005134,
+    "type_id": 3875
+}

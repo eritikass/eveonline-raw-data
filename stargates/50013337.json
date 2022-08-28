@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013339,
+        "system_id": 30004880
+    },
+    "name": "Stargate (EMIG-F)",
+    "position": {
+        "x": -828247941120,
+        "y": -127266693120,
+        "z": -2464959160320
+    },
+    "stargate_id": 50013337,
+    "system_id": 30004879,
+    "type_id": 29633
+}

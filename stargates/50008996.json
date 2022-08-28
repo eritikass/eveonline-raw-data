@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009027,
+        "system_id": 30003454
+    },
+    "name": "Stargate (Engosi)",
+    "position": {
+        "x": -27132026880,
+        "y": 2532925440,
+        "z": 4407780679680
+    },
+    "stargate_id": 50008996,
+    "system_id": 30003453,
+    "type_id": 29633
+}

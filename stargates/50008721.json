@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009077,
+        "system_id": 30004885
+    },
+    "name": "Stargate (LS-QLX)",
+    "position": {
+        "x": 351726182400,
+        "y": 71181803520,
+        "z": 353865768960
+    },
+    "stargate_id": 50008721,
+    "system_id": 30004884,
+    "type_id": 29633
+}

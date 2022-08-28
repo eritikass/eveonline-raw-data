@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006471,
+        "system_id": 30005309
+    },
+    "name": "Stargate (Ansalle)",
+    "position": {
+        "x": 6262973030400,
+        "y": 367573770240,
+        "z": -187313971200
+    },
+    "stargate_id": 50010227,
+    "system_id": 30005312,
+    "type_id": 3875
+}

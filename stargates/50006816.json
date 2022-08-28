@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006532,
+        "system_id": 30000059
+    },
+    "name": "Stargate (Salashayama)",
+    "position": {
+        "x": -1073318830080,
+        "y": 98092769280,
+        "z": -1187875921920
+    },
+    "stargate_id": 50006816,
+    "system_id": 30000060,
+    "type_id": 29624
+}

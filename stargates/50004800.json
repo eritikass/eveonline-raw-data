@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005109,
+        "system_id": 30001278
+    },
+    "name": "Stargate (MQFX-Q)",
+    "position": {
+        "x": 1090886983680,
+        "y": 213197168640,
+        "z": 2752318955520
+    },
+    "stargate_id": 50004800,
+    "system_id": 30001277,
+    "type_id": 16
+}

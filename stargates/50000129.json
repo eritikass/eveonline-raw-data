@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001622,
+        "system_id": 30000941
+    },
+    "name": "Stargate (QM-20X)",
+    "position": {
+        "x": -6003853762560,
+        "y": -952503705600,
+        "z": 696374353920
+    },
+    "stargate_id": 50000129,
+    "system_id": 30000936,
+    "type_id": 29633
+}

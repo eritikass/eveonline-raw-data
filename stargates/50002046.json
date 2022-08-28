@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002377,
+        "system_id": 30001568
+    },
+    "name": "Stargate (P65-TA)",
+    "position": {
+        "x": 2930104934400,
+        "y": -2741045698560,
+        "z": 1813491425280
+    },
+    "stargate_id": 50002046,
+    "system_id": 30001540,
+    "type_id": 3874
+}

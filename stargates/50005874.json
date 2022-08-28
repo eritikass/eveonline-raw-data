@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005609,
+        "system_id": 30002433
+    },
+    "name": "Stargate (NBPH-N)",
+    "position": {
+        "x": 259809730560,
+        "y": 4914339840,
+        "z": -368861061120
+    },
+    "stargate_id": 50005874,
+    "system_id": 30002435,
+    "type_id": 16
+}

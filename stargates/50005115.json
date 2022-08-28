@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005081,
+        "system_id": 30005316
+    },
+    "name": "Stargate (Luse)",
+    "position": {
+        "x": -5815035617280,
+        "y": 412214599680,
+        "z": 2059520286720
+    },
+    "stargate_id": 50005115,
+    "system_id": 30005317,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007800,
+        "system_id": 30000113
+    },
+    "name": "Stargate (Astabih)",
+    "position": {
+        "x": -2222216355840,
+        "y": -49969029120,
+        "z": 2650682695680
+    },
+    "stargate_id": 50011131,
+    "system_id": 30000115,
+    "type_id": 29624
+}

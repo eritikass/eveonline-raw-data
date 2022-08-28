@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010129,
+        "system_id": 30003999
+    },
+    "name": "Stargate (KEJY-U)",
+    "position": {
+        "x": -1101793075200,
+        "y": -182342737920,
+        "z": 2554847354880
+    },
+    "stargate_id": 50009900,
+    "system_id": 30003998,
+    "type_id": 29624
+}

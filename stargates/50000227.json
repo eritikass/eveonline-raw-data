@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002334,
+        "system_id": 30000671
+    },
+    "name": "Stargate (GN-PDU)",
+    "position": {
+        "x": 5931025735680,
+        "y": -801536778240,
+        "z": 2035531898880
+    },
+    "stargate_id": 50000227,
+    "system_id": 30000658,
+    "type_id": 3877
+}

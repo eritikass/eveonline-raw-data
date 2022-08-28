@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001202,
+        "system_id": 30002204
+    },
+    "name": "Stargate (Gaha)",
+    "position": {
+        "x": -542204928000,
+        "y": 106247577600,
+        "z": -73194823680
+    },
+    "stargate_id": 50001447,
+    "system_id": 30002205,
+    "type_id": 29624
+}

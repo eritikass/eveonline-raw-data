@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008744,
+        "system_id": 30004130
+    },
+    "name": "Stargate (Hostakoh)",
+    "position": {
+        "x": -184363622400,
+        "y": -12440494080,
+        "z": 257490493440
+    },
+    "stargate_id": 50009011,
+    "system_id": 30004131,
+    "type_id": 29624
+}

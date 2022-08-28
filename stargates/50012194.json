@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012375,
+        "system_id": 30004623
+    },
+    "name": "Stargate (Serpentis Prime)",
+    "position": {
+        "x": -2471357767680,
+        "y": 207016550400,
+        "z": -192026419200
+    },
+    "stargate_id": 50012194,
+    "system_id": 30004617,
+    "type_id": 3875
+}

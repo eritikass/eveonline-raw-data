@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006858,
+        "system_id": 30003867
+    },
+    "name": "Stargate (Ervekam)",
+    "position": {
+        "x": -3376738590720,
+        "y": 215275560960,
+        "z": 3124717117440
+    },
+    "stargate_id": 50007678,
+    "system_id": 30003872,
+    "type_id": 29624
+}

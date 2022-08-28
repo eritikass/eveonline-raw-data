@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003745,
+        "system_id": 30000727
+    },
+    "name": "Stargate (PU-UMM)",
+    "position": {
+        "x": -4556247244800,
+        "y": -472199208960,
+        "z": 1854877655040
+    },
+    "stargate_id": 50002558,
+    "system_id": 30000722,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006112,
+        "system_id": 30002592
+    },
+    "name": "Stargate (YALR-F)",
+    "position": {
+        "x": -820086497280,
+        "y": 20108943360,
+        "z": 713258311680
+    },
+    "stargate_id": 50006291,
+    "system_id": 30002594,
+    "type_id": 29633
+}

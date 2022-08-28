@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004099,
+        "system_id": 30001747
+    },
+    "name": "Stargate (M1-PX9)",
+    "position": {
+        "x": 9331444408320,
+        "y": 1534807941120,
+        "z": 2434427166720
+    },
+    "stargate_id": 50003657,
+    "system_id": 30001745,
+    "type_id": 3875
+}

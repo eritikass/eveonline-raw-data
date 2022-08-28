@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007314,
+        "system_id": 30003098
+    },
+    "name": "Stargate (VYJ-DA)",
+    "position": {
+        "x": -397895147520,
+        "y": -56494202880,
+        "z": 791488880640
+    },
+    "stargate_id": 50007356,
+    "system_id": 30003099,
+    "type_id": 29624
+}

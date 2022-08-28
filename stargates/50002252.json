@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001691,
+        "system_id": 30000740
+    },
+    "name": "Stargate (EKPB-3)",
+    "position": {
+        "x": -867786055680,
+        "y": 52541890560,
+        "z": -4537520578560
+    },
+    "stargate_id": 50002252,
+    "system_id": 30000742,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011815,
+        "system_id": 30004471
+    },
+    "name": "Stargate (P8-BKO)",
+    "position": {
+        "x": -382881914880,
+        "y": 8092753920,
+        "z": 3801972695040
+    },
+    "stargate_id": 50012056,
+    "system_id": 30004472,
+    "type_id": 29633
+}

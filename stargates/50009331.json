@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010989,
+        "system_id": 30001335
+    },
+    "name": "Stargate (4S-PVC)",
+    "position": {
+        "x": -2335985541120,
+        "y": 81778728960,
+        "z": 126454702080
+    },
+    "stargate_id": 50009331,
+    "system_id": 30001334,
+    "type_id": 16
+}

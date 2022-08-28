@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006902,
+        "system_id": 30002259
+    },
+    "name": "Stargate (Sahdil)",
+    "position": {
+        "x": -2803450060800,
+        "y": 483114639360,
+        "z": 2366497136640
+    },
+    "stargate_id": 50005241,
+    "system_id": 30002208,
+    "type_id": 17
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011389,
+        "system_id": 30002502
+    },
+    "name": "Stargate (TDE4-H)",
+    "position": {
+        "x": -193036738560,
+        "y": 14106746880,
+        "z": -1985329274880
+    },
+    "stargate_id": 50010844,
+    "system_id": 30002501,
+    "type_id": 16
+}

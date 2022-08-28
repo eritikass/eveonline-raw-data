@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005838,
+        "system_id": 30003531
+    },
+    "name": "Stargate (Hisoufad)",
+    "position": {
+        "x": 3091555246080,
+        "y": 876982640640,
+        "z": 1084695797760
+    },
+    "stargate_id": 50001945,
+    "system_id": 30003515,
+    "type_id": 17
+}

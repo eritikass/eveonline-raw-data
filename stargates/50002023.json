@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000729,
+        "system_id": 30001172
+    },
+    "name": "Stargate (K0CN-3)",
+    "position": {
+        "x": -786526248960,
+        "y": -33100308480,
+        "z": 3911213260800
+    },
+    "stargate_id": 50002023,
+    "system_id": 30001175,
+    "type_id": 29624
+}

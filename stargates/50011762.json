@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013036,
+        "system_id": 30002182
+    },
+    "name": "Stargate (R-ORB7)",
+    "position": {
+        "x": 520737054720,
+        "y": 25370664960,
+        "z": -378533928960
+    },
+    "stargate_id": 50011762,
+    "system_id": 30002179,
+    "type_id": 29633
+}

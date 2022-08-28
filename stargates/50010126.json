@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003821,
+        "system_id": 30000292
+    },
+    "name": "Stargate (2DWM-2)",
+    "position": {
+        "x": -1469529415680,
+        "y": -229212856320,
+        "z": -1194661355520
+    },
+    "stargate_id": 50010126,
+    "system_id": 30000294,
+    "type_id": 16
+}

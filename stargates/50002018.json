@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001474,
+        "system_id": 30000669
+    },
+    "name": "Stargate (N3-JBX)",
+    "position": {
+        "x": -1928610078720,
+        "y": -168228986880,
+        "z": -3664423526400
+    },
+    "stargate_id": 50002018,
+    "system_id": 30000670,
+    "type_id": 29633
+}

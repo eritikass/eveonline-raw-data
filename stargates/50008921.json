@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013499,
+        "system_id": 30003451
+    },
+    "name": "Stargate (Dantbeinn)",
+    "position": {
+        "x": -327275765760,
+        "y": -61867499520,
+        "z": -909584670720
+    },
+    "stargate_id": 50008921,
+    "system_id": 30003447,
+    "type_id": 29633
+}

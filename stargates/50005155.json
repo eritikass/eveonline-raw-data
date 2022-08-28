@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004791,
+        "system_id": 30002551
+    },
+    "name": "Stargate (Aralgrund)",
+    "position": {
+        "x": -5665683824640,
+        "y": 291349340160,
+        "z": 1145739141120
+    },
+    "stargate_id": 50005155,
+    "system_id": 30002554,
+    "type_id": 29633
+}

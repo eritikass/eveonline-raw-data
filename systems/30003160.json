@@ -1,0 +1,63 @@
+{
+    "constellation_id": 20000461,
+    "name": "H-YHYM",
+    "planets": [
+        {
+            "planet_id": 40200738
+        },
+        {
+            "moons": [
+                40200740
+            ],
+            "planet_id": 40200739
+        },
+        {
+            "moons": [
+                40200742
+            ],
+            "planet_id": 40200741
+        },
+        {
+            "asteroid_belts": [
+                40200744
+            ],
+            "moons": [
+                40200745
+            ],
+            "planet_id": 40200743
+        },
+        {
+            "asteroid_belts": [
+                40200747
+            ],
+            "moons": [
+                40200748
+            ],
+            "planet_id": 40200746
+        },
+        {
+            "asteroid_belts": [
+                40200750
+            ],
+            "moons": [
+                40200751,
+                40200752
+            ],
+            "planet_id": 40200749
+        }
+    ],
+    "position": {
+        "x": -71987598240251800,
+        "y": 6243751108933759,
+        "z": -447761722217657600
+    },
+    "security_class": "G",
+    "security_status": -0.033922869712114334,
+    "star_id": 40200737,
+    "stargates": [
+        50012076,
+        50012077,
+        50012078
+    ],
+    "system_id": 30003160
+}

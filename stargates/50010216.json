@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009934,
+        "system_id": 30003571
+    },
+    "name": "Stargate (Anckee)",
+    "position": {
+        "x": 4044689940480,
+        "y": 559502254080,
+        "z": -368779960320
+    },
+    "stargate_id": 50010216,
+    "system_id": 30003572,
+    "type_id": 3875
+}

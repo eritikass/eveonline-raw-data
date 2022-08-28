@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006840,
+        "system_id": 30001319
+    },
+    "name": "Stargate (2PLH-3)",
+    "position": {
+        "x": -958252769280,
+        "y": 145331773440,
+        "z": -945195294720
+    },
+    "stargate_id": 50006853,
+    "system_id": 30001320,
+    "type_id": 16
+}

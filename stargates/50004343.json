@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005791,
+        "system_id": 30001758
+    },
+    "name": "Stargate (YQM-P1)",
+    "position": {
+        "x": 2120341463040,
+        "y": 154973184000,
+        "z": 246344048640
+    },
+    "stargate_id": 50004343,
+    "system_id": 30001755,
+    "type_id": 3875
+}

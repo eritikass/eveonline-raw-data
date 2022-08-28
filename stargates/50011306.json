@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011085,
+        "system_id": 30003314
+    },
+    "name": "Stargate (DP34-U)",
+    "position": {
+        "x": -498271641600,
+        "y": -71495884800,
+        "z": -1546596311040
+    },
+    "stargate_id": 50011306,
+    "system_id": 30003315,
+    "type_id": 3875
+}

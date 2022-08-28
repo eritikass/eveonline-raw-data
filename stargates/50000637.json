@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002109,
+        "system_id": 30002974
+    },
+    "name": "Stargate (Mehatoor)",
+    "position": {
+        "x": -113065451520,
+        "y": -13807902720,
+        "z": -141361274880
+    },
+    "stargate_id": 50000637,
+    "system_id": 30002969,
+    "type_id": 29624
+}

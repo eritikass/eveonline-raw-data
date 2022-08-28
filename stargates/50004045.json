@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004355,
+        "system_id": 30005003
+    },
+    "name": "Stargate (Adirain)",
+    "position": {
+        "x": 1444449361920,
+        "y": -219652055040,
+        "z": -662985891840
+    },
+    "stargate_id": 50004045,
+    "system_id": 30005002,
+    "type_id": 3875
+}

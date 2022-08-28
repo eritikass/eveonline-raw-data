@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007752,
+        "system_id": 30001732
+    },
+    "name": "Stargate (Zith)",
+    "position": {
+        "x": 300957818880,
+        "y": -43529379840,
+        "z": 758532218880
+    },
+    "stargate_id": 50007784,
+    "system_id": 30001733,
+    "type_id": 29624
+}

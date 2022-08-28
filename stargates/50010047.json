@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010127,
+        "system_id": 30003153
+    },
+    "name": "Stargate (MS2-V8)",
+    "position": {
+        "x": -2365129973760,
+        "y": -123867832320,
+        "z": -3017602621440
+    },
+    "stargate_id": 50010047,
+    "system_id": 30003151,
+    "type_id": 29624
+}

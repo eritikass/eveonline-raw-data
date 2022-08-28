@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012847,
+        "system_id": 30004938
+    },
+    "name": "Stargate (UR-E46)",
+    "position": {
+        "x": -588323758080,
+        "y": 31995863040,
+        "z": -1661737082880
+    },
+    "stargate_id": 50012826,
+    "system_id": 30004937,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003389,
+        "system_id": 30001423
+    },
+    "name": "Stargate (Jotenen)",
+    "position": {
+        "x": -108848209920,
+        "y": 22023168000,
+        "z": -58355834880
+    },
+    "stargate_id": 50003032,
+    "system_id": 30001419,
+    "type_id": 16
+}

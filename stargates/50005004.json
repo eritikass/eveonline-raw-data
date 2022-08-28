@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005496,
+        "system_id": 30001234
+    },
+    "name": "Stargate (UL-7I8)",
+    "position": {
+        "x": 1081306767360,
+        "y": 143655936000,
+        "z": -3585648844800
+    },
+    "stargate_id": 50005004,
+    "system_id": 30001227,
+    "type_id": 17
+}

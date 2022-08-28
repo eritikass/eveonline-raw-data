@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014112,
+        "system_id": 30030141
+    },
+    "name": "Stargate (Uitra)",
+    "position": {
+        "x": 1695431270400,
+        "y": -124503121920,
+        "z": -174301716480
+    },
+    "stargate_id": 50014111,
+    "system_id": 30000129,
+    "type_id": 16
+}

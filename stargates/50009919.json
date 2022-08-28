@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009509,
+        "system_id": 30002916
+    },
+    "name": "Stargate (X-Z4DA)",
+    "position": {
+        "x": -2144228597760,
+        "y": -53517557760,
+        "z": 1864649318400
+    },
+    "stargate_id": 50009919,
+    "system_id": 30002917,
+    "type_id": 16
+}

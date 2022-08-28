@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006737,
+        "system_id": 30000795
+    },
+    "name": "Stargate (4CJ-AC)",
+    "position": {
+        "x": 1175645429760,
+        "y": -222849392640,
+        "z": -1486672404480
+    },
+    "stargate_id": 50000686,
+    "system_id": 30000791,
+    "type_id": 29633
+}

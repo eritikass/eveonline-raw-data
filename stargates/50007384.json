@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008391,
+        "system_id": 30005155
+    },
+    "name": "Stargate (MS-RXH)",
+    "position": {
+        "x": 2155107655680,
+        "y": -334392975360,
+        "z": 5234699919360
+    },
+    "stargate_id": 50007384,
+    "system_id": 30005152,
+    "type_id": 3875
+}

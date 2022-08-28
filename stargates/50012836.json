@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011049,
+        "system_id": 30001931
+    },
+    "name": "Stargate (RRWI-5)",
+    "position": {
+        "x": -6024694702080,
+        "y": 387325501440,
+        "z": 7240595251200
+    },
+    "stargate_id": 50012836,
+    "system_id": 30001934,
+    "type_id": 29624
+}

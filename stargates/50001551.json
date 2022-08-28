@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000045,
+        "system_id": 30000254
+    },
+    "name": "Stargate (IFJ-EL)",
+    "position": {
+        "x": 1274913546240,
+        "y": -186412032000,
+        "z": 813939793920
+    },
+    "stargate_id": 50001551,
+    "system_id": 30000257,
+    "type_id": 16
+}

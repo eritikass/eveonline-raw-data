@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014016,
+        "system_id": 30002420
+    },
+    "name": "Stargate (Egbinger)",
+    "position": {
+        "x": 1573491056640,
+        "y": -621457612800,
+        "z": -714863861760
+    },
+    "stargate_id": 50014015,
+    "system_id": 30002394,
+    "type_id": 3877
+}

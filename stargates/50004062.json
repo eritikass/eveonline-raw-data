@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002523,
+        "system_id": 30003070
+    },
+    "name": "Stargate (Sosala)",
+    "position": {
+        "x": 2227541975040,
+        "y": 369093795840,
+        "z": -2804896112640
+    },
+    "stargate_id": 50004062,
+    "system_id": 30003071,
+    "type_id": 29624
+}

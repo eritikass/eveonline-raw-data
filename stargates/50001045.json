@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000760,
+        "system_id": 30000044
+    },
+    "name": "Stargate (Faspera)",
+    "position": {
+        "x": -2172467159040,
+        "y": 288909189120,
+        "z": -2774879723520
+    },
+    "stargate_id": 50001045,
+    "system_id": 30000046,
+    "type_id": 29624
+}

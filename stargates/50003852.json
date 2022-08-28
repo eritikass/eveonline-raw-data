@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004971,
+        "system_id": 30000279
+    },
+    "name": "Stargate (F-D49D)",
+    "position": {
+        "x": 234837811200,
+        "y": 34019450880,
+        "z": -392843059200
+    },
+    "stargate_id": 50003852,
+    "system_id": 30000277,
+    "type_id": 16
+}

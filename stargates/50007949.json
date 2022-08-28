@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008203,
+        "system_id": 30001347
+    },
+    "name": "Stargate (GVZ-1W)",
+    "position": {
+        "x": 2811677122560,
+        "y": -559377162240,
+        "z": 1185261035520
+    },
+    "stargate_id": 50007949,
+    "system_id": 30001346,
+    "type_id": 16
+}

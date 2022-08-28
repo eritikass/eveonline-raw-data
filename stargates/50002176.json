@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001428,
+        "system_id": 30000129
+    },
+    "name": "Stargate (Unpas)",
+    "position": {
+        "x": -63223111680,
+        "y": -10909163520,
+        "z": 111707381760
+    },
+    "stargate_id": 50002176,
+    "system_id": 30000130,
+    "type_id": 16
+}

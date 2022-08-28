@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011100,
+        "system_id": 30004747
+    },
+    "name": "Stargate (LUA5-L)",
+    "position": {
+        "x": -1216260710400,
+        "y": 35824558080,
+        "z": 2307562168320
+    },
+    "stargate_id": 50010727,
+    "system_id": 30004744,
+    "type_id": 29624
+}

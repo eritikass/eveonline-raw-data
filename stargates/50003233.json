@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003479,
+        "system_id": 30001274
+    },
+    "name": "Stargate (K3JR-J)",
+    "position": {
+        "x": 2566554132480,
+        "y": 3397288304640,
+        "z": 5484539781120
+    },
+    "stargate_id": 50003233,
+    "system_id": 30001272,
+    "type_id": 29627
+}

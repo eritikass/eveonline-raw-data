@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000246,
+        "system_id": 30000789
+    },
+    "name": "Stargate (GK5Z-T)",
+    "position": {
+        "x": -901868544000,
+        "y": -34558894080,
+        "z": -448380395520
+    },
+    "stargate_id": 50000369,
+    "system_id": 30000790,
+    "type_id": 29633
+}

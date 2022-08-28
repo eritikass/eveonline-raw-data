@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004553,
+        "system_id": 30000734
+    },
+    "name": "Stargate (1-7HVI)",
+    "position": {
+        "x": 1491105177600,
+        "y": -115479060480,
+        "z": 3858826321920
+    },
+    "stargate_id": 50002723,
+    "system_id": 30000730,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010465,
+        "system_id": 30003427
+    },
+    "name": "Stargate (Osvestmunnur)",
+    "position": {
+        "x": -1223553392640,
+        "y": 1202262466560,
+        "z": 692666081280
+    },
+    "stargate_id": 50010846,
+    "system_id": 30003443,
+    "type_id": 3877
+}

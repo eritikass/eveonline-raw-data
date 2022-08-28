@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010915,
+        "system_id": 30003241
+    },
+    "name": "Stargate (IAMJ-Q)",
+    "position": {
+        "x": -4834464522240,
+        "y": 850426306560,
+        "z": 7958623641600
+    },
+    "stargate_id": 50010495,
+    "system_id": 30003240,
+    "type_id": 3875
+}

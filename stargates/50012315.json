@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012126,
+        "system_id": 30005185
+    },
+    "name": "Stargate (PA-ALN)",
+    "position": {
+        "x": 882810839040,
+        "y": -1345602478080,
+        "z": 525518807040
+    },
+    "stargate_id": 50012315,
+    "system_id": 30001592,
+    "type_id": 29632
+}

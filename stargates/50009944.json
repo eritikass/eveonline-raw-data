@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009766,
+        "system_id": 30005163
+    },
+    "name": "Stargate (L-POLO)",
+    "position": {
+        "x": -2199155466240,
+        "y": 305745960960,
+        "z": -601916497920
+    },
+    "stargate_id": 50009944,
+    "system_id": 30005164,
+    "type_id": 3875
+}

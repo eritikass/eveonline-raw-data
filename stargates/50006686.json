@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008309,
+        "system_id": 30002571
+    },
+    "name": "Stargate (Oremmulf)",
+    "position": {
+        "x": 2669461463040,
+        "y": -149545574400,
+        "z": -6538014105600
+    },
+    "stargate_id": 50006686,
+    "system_id": 30002569,
+    "type_id": 29633
+}

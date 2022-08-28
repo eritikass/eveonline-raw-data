@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003377,
+        "system_id": 30002669
+    },
+    "name": "Stargate (Ansone)",
+    "position": {
+        "x": 327672913920,
+        "y": 33968578560,
+        "z": -3271840358400
+    },
+    "stargate_id": 50000770,
+    "system_id": 30002668,
+    "type_id": 3875
+}

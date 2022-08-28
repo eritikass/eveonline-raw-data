@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009745,
+        "system_id": 30003148
+    },
+    "name": "Stargate (JD-TYH)",
+    "position": {
+        "x": 339216015360,
+        "y": -66688819200,
+        "z": 454143959040
+    },
+    "stargate_id": 50010084,
+    "system_id": 30003152,
+    "type_id": 29624
+}

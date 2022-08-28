@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002919,
+        "system_id": 30000227
+    },
+    "name": "Stargate (FMBR-8)",
+    "position": {
+        "x": -5030356131840,
+        "y": -5888974233600,
+        "z": -2762619002880
+    },
+    "stargate_id": 50004001,
+    "system_id": 30000295,
+    "type_id": 29627
+}

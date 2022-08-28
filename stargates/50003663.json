@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003137,
+        "system_id": 30000886
+    },
+    "name": "Stargate (S8-NSQ)",
+    "position": {
+        "x": 4501872353280,
+        "y": -371544023040,
+        "z": -357717811200
+    },
+    "stargate_id": 50003663,
+    "system_id": 30000887,
+    "type_id": 16
+}

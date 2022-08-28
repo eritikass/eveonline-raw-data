@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013539,
+        "system_id": 30003833
+    },
+    "name": "Stargate (Oulley)",
+    "position": {
+        "x": -3059735224320,
+        "y": -6315341537280,
+        "z": -190924185600
+    },
+    "stargate_id": 50013540,
+    "system_id": 30003827,
+    "type_id": 3874
+}

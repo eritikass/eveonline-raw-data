@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007795,
+        "system_id": 30003904
+    },
+    "name": "Stargate (Col)",
+    "position": {
+        "x": -1428160634880,
+        "y": 78630789120,
+        "z": 178639134720
+    },
+    "stargate_id": 50007776,
+    "system_id": 30003903,
+    "type_id": 29624
+}

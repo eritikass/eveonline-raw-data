@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012886,
+        "system_id": 30004147
+    },
+    "name": "Stargate (Akhmoh)",
+    "position": {
+        "x": -2188023029760,
+        "y": -93354516480,
+        "z": -433806336000
+    },
+    "stargate_id": 50012677,
+    "system_id": 30004146,
+    "type_id": 29624
+}

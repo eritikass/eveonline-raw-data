@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007167,
+        "system_id": 30002391
+    },
+    "name": "Stargate (Hrokkur)",
+    "position": {
+        "x": 2638855249920,
+        "y": 116342661120,
+        "z": -1481408962560
+    },
+    "stargate_id": 50005435,
+    "system_id": 30002390,
+    "type_id": 29633
+}

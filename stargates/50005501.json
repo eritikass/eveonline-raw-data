@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004340,
+        "system_id": 30000806
+    },
+    "name": "Stargate (VBPT-T)",
+    "position": {
+        "x": 2292516495360,
+        "y": -41806356480,
+        "z": -1441579868160
+    },
+    "stargate_id": 50005501,
+    "system_id": 30000807,
+    "type_id": 29633
+}

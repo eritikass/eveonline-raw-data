@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002591,
+        "system_id": 30001028
+    },
+    "name": "Stargate (RMOC-W)",
+    "position": {
+        "x": 2160457113600,
+        "y": 216444395520,
+        "z": -2887592386560
+    },
+    "stargate_id": 50002704,
+    "system_id": 30001044,
+    "type_id": 3877
+}

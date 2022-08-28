@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000739,
+        "system_id": 30000612
+    },
+    "name": "Stargate (E1W-TB)",
+    "position": {
+        "x": 121880125440,
+        "y": 1450732462080,
+        "z": -2516286627840
+    },
+    "stargate_id": 50001669,
+    "system_id": 30000626,
+    "type_id": 3877
+}

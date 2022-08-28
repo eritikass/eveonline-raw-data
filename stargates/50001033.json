@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001628,
+        "system_id": 30003486
+    },
+    "name": "Stargate (Kheram)",
+    "position": {
+        "x": -1523976806400,
+        "y": 83547463680,
+        "z": -1045338808320
+    },
+    "stargate_id": 50001033,
+    "system_id": 30003482,
+    "type_id": 29624
+}

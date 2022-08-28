@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005822,
+        "system_id": 30001316
+    },
+    "name": "Stargate (MC6-5J)",
+    "position": {
+        "x": 2551676805120,
+        "y": 52265410560,
+        "z": -489105776640
+    },
+    "stargate_id": 50005794,
+    "system_id": 30001315,
+    "type_id": 16
+}

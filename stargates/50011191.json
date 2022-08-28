@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011114,
+        "system_id": 30004678
+    },
+    "name": "Stargate (H8-ZTO)",
+    "position": {
+        "x": 2423886028800,
+        "y": -2121123225600,
+        "z": -2565564211200
+    },
+    "stargate_id": 50011191,
+    "system_id": 30004679,
+    "type_id": 17
+}

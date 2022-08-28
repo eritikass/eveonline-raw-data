@@ -1,0 +1,65 @@
+{
+    "constellation_id": 20000568,
+    "name": "Tzashrah",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40246281,
+                40246282
+            ],
+            "planet_id": 40246280
+        },
+        {
+            "asteroid_belts": [
+                40246284
+            ],
+            "planet_id": 40246283
+        },
+        {
+            "asteroid_belts": [
+                40246286
+            ],
+            "moons": [
+                40246287
+            ],
+            "planet_id": 40246285
+        },
+        {
+            "moons": [
+                40246289,
+                40246290
+            ],
+            "planet_id": 40246288
+        },
+        {
+            "asteroid_belts": [
+                40246292
+            ],
+            "planet_id": 40246291
+        },
+        {
+            "asteroid_belts": [
+                40246294
+            ],
+            "moons": [
+                40246295,
+                40246296
+            ],
+            "planet_id": 40246293
+        }
+    ],
+    "position": {
+        "x": -278194473068546400,
+        "y": 31353253122103420,
+        "z": -172656028368668030
+    },
+    "security_class": "B1",
+    "security_status": 0.534552276134491,
+    "star_id": 40246279,
+    "stargates": [
+        50009223,
+        50009224,
+        50009225
+    ],
+    "system_id": 30003891
+}

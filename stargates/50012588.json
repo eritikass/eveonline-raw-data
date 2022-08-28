@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012426,
+        "system_id": 30004244
+    },
+    "name": "Stargate (Onanam)",
+    "position": {
+        "x": 1878342082560,
+        "y": -342716866560,
+        "z": 4142673469440
+    },
+    "stargate_id": 50012588,
+    "system_id": 30004245,
+    "type_id": 29624
+}

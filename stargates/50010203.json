@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010184,
+        "system_id": 30003651
+    },
+    "name": "Stargate (Y-YHZQ)",
+    "position": {
+        "x": -2474803077120,
+        "y": -435410411520,
+        "z": -500374118400
+    },
+    "stargate_id": 50010203,
+    "system_id": 30003652,
+    "type_id": 16
+}

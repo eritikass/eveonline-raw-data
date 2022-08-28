@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011514,
+        "system_id": 30003696
+    },
+    "name": "Stargate (WQY-IQ)",
+    "position": {
+        "x": 317054115840,
+        "y": -42751057920,
+        "z": 4255916482560
+    },
+    "stargate_id": 50010867,
+    "system_id": 30003694,
+    "type_id": 3875
+}

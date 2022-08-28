@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012535,
+        "system_id": 30004395
+    },
+    "name": "Stargate (PUWL-4)",
+    "position": {
+        "x": 2429849395200,
+        "y": 287819735040,
+        "z": 5199348817920
+    },
+    "stargate_id": 50011865,
+    "system_id": 30004392,
+    "type_id": 16
+}

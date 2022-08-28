@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008458,
+        "system_id": 30003206
+    },
+    "name": "Stargate (J-D5U7)",
+    "position": {
+        "x": -2289045626880,
+        "y": 162181324800,
+        "z": -847955681280
+    },
+    "stargate_id": 50008154,
+    "system_id": 30003205,
+    "type_id": 3875
+}

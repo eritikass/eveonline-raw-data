@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012691,
+        "system_id": 30002081
+    },
+    "name": "Stargate (Ansen)",
+    "position": {
+        "x": -7302611558400,
+        "y": 461957898240,
+        "z": 12240010813440
+    },
+    "stargate_id": 50011097,
+    "system_id": 30002080,
+    "type_id": 29633
+}

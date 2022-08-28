@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002159,
+        "system_id": 30004974
+    },
+    "name": "Stargate (Jolevier)",
+    "position": {
+        "x": 2007034798080,
+        "y": -312207237120,
+        "z": -766401945600
+    },
+    "stargate_id": 50003040,
+    "system_id": 30004976,
+    "type_id": 3875
+}

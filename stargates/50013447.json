@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013492,
+        "system_id": 30004704
+    },
+    "name": "Stargate (ZDYA-G)",
+    "position": {
+        "x": -176950763520,
+        "y": 23445872640,
+        "z": -180781670400
+    },
+    "stargate_id": 50013447,
+    "system_id": 30004703,
+    "type_id": 29624
+}

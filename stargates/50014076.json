@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014075,
+        "system_id": 30002509
+    },
+    "name": "Stargate (Odatrik)",
+    "position": {
+        "x": 1661273088000,
+        "y": -230021160960,
+        "z": 252292177920
+    },
+    "stargate_id": 50014076,
+    "system_id": 30002507,
+    "type_id": 29633
+}

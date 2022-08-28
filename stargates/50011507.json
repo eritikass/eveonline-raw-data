@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011474,
+        "system_id": 30001925
+    },
+    "name": "Stargate (VNPF-7)",
+    "position": {
+        "x": 1060874526720,
+        "y": -169545031680,
+        "z": -1326492426240
+    },
+    "stargate_id": 50011507,
+    "system_id": 30001926,
+    "type_id": 29624
+}

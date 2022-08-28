@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008626,
+        "system_id": 30004423
+    },
+    "name": "Stargate (TSG-NO)",
+    "position": {
+        "x": 539660820480,
+        "y": -50864332800,
+        "z": -401627013120
+    },
+    "stargate_id": 50008385,
+    "system_id": 30004421,
+    "type_id": 29633
+}

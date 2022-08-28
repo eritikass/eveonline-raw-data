@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006341,
+        "system_id": 30003810
+    },
+    "name": "Stargate (Vivanier)",
+    "position": {
+        "x": -5154472550400,
+        "y": 544167321600,
+        "z": 4075307704320
+    },
+    "stargate_id": 50006223,
+    "system_id": 30003809,
+    "type_id": 3875
+}

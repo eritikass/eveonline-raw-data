@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000895,
+        "system_id": 30003028
+    },
+    "name": "Stargate (Aclan)",
+    "position": {
+        "x": -808487116800,
+        "y": 116559667200,
+        "z": -615366942720
+    },
+    "stargate_id": 50001138,
+    "system_id": 30003029,
+    "type_id": 3875
+}

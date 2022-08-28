@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008854,
+        "system_id": 30004346
+    },
+    "name": "Stargate (B8O-KJ)",
+    "position": {
+        "x": 155403509760,
+        "y": -8177786880,
+        "z": 330968555520
+    },
+    "stargate_id": 50009859,
+    "system_id": 30004349,
+    "type_id": 16
+}

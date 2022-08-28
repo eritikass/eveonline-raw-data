@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007728,
+        "system_id": 30002399
+    },
+    "name": "Stargate (Orien)",
+    "position": {
+        "x": 8589211361280,
+        "y": 505136455680,
+        "z": -7475466117120
+    },
+    "stargate_id": 50006170,
+    "system_id": 30002397,
+    "type_id": 29633
+}

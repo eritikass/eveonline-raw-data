@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002447,
+        "system_id": 30003516
+    },
+    "name": "Stargate (Pedel)",
+    "position": {
+        "x": 570879221760,
+        "y": 59246960640,
+        "z": -3293453721600
+    },
+    "stargate_id": 50002544,
+    "system_id": 30003517,
+    "type_id": 29624
+}

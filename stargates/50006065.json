@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005885,
+        "system_id": 30002457
+    },
+    "name": "Stargate (O-VWPB)",
+    "position": {
+        "x": -234777354240,
+        "y": 11246592000,
+        "z": 273778728960
+    },
+    "stargate_id": 50006065,
+    "system_id": 30002459,
+    "type_id": 16
+}

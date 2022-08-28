@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001451,
+        "system_id": 30002205
+    },
+    "name": "Stargate (Armala)",
+    "position": {
+        "x": -1209008578560,
+        "y": -9249054720,
+        "z": 2217074073600
+    },
+    "stargate_id": 50008236,
+    "system_id": 30002209,
+    "type_id": 29624
+}

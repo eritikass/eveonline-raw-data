@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003764,
+        "system_id": 30003011
+    },
+    "name": "Stargate (Mormoen)",
+    "position": {
+        "x": 7249196359680,
+        "y": 857827860480,
+        "z": 1894140272640
+    },
+    "stargate_id": 50000017,
+    "system_id": 30003009,
+    "type_id": 3875
+}

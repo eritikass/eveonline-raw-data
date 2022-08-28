@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008055,
+        "system_id": 30002245
+    },
+    "name": "Stargate (Hizhara)",
+    "position": {
+        "x": 2133711298560,
+        "y": -310949683200,
+        "z": -2127764643840
+    },
+    "stargate_id": 50008613,
+    "system_id": 30002247,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005906,
+        "system_id": 30000934
+    },
+    "name": "Stargate (F-MKH3)",
+    "position": {
+        "x": 2230482739200,
+        "y": 108996157440,
+        "z": -1688711454720
+    },
+    "stargate_id": 50005645,
+    "system_id": 30000933,
+    "type_id": 29633
+}

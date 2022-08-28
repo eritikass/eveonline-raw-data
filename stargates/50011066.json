@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010291,
+        "system_id": 30001353
+    },
+    "name": "Stargate (YJ3-UT)",
+    "position": {
+        "x": -954778705920,
+        "y": -97813831680,
+        "z": -867292569600
+    },
+    "stargate_id": 50011066,
+    "system_id": 30001354,
+    "type_id": 16
+}

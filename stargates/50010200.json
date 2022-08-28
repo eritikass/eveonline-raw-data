@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009843,
+        "system_id": 30003690
+    },
+    "name": "Stargate (YKSC-A)",
+    "position": {
+        "x": 810067107840,
+        "y": -54870220800,
+        "z": 992592568320
+    },
+    "stargate_id": 50010200,
+    "system_id": 30003691,
+    "type_id": 3875
+}

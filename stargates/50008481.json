@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008417,
+        "system_id": 30003329
+    },
+    "name": "Stargate (31-MLU)",
+    "position": {
+        "x": 3982395187200,
+        "y": 774928343040,
+        "z": 1187951370240
+    },
+    "stargate_id": 50008481,
+    "system_id": 30003331,
+    "type_id": 3875
+}

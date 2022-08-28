@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012271,
+        "system_id": 30004388
+    },
+    "name": "Stargate (EQI2-2)",
+    "position": {
+        "x": 812949135360,
+        "y": -161272012800,
+        "z": -1174430883840
+    },
+    "stargate_id": 50011648,
+    "system_id": 30004386,
+    "type_id": 16
+}

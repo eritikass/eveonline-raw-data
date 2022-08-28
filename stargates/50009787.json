@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012502,
+        "system_id": 30003096
+    },
+    "name": "Stargate (Kurmaru)",
+    "position": {
+        "x": -1545370460160,
+        "y": 175736463360,
+        "z": -3374174330880
+    },
+    "stargate_id": 50009787,
+    "system_id": 30003092,
+    "type_id": 29624
+}

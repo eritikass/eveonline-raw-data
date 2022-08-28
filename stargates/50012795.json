@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012755,
+        "system_id": 30001596
+    },
+    "name": "Stargate (QRH-BF)",
+    "position": {
+        "x": 2144922869760,
+        "y": 338071265280,
+        "z": -102184919040
+    },
+    "stargate_id": 50012795,
+    "system_id": 30001597,
+    "type_id": 3875
+}

@@ -1,0 +1,58 @@
+{
+    "constellation_id": 20000526,
+    "name": "EOY-BG",
+    "planets": [
+        {
+            "planet_id": 40229261
+        },
+        {
+            "asteroid_belts": [
+                40229263
+            ],
+            "moons": [
+                40229264
+            ],
+            "planet_id": 40229262
+        },
+        {
+            "asteroid_belts": [
+                40229266,
+                40229267
+            ],
+            "planet_id": 40229265
+        },
+        {
+            "asteroid_belts": [
+                40229269
+            ],
+            "moons": [
+                40229270
+            ],
+            "planet_id": 40229268
+        },
+        {
+            "asteroid_belts": [
+                40229272,
+                40229273
+            ],
+            "moons": [
+                40229274
+            ],
+            "planet_id": 40229271
+        }
+    ],
+    "position": {
+        "x": -71974775288028936,
+        "y": 74972598555135360,
+        "z": 405963105736850000
+    },
+    "security_class": "H",
+    "security_status": -0.06655843555927277,
+    "star_id": 40229260,
+    "stargates": [
+        50008295,
+        50008296,
+        50013842
+    ],
+    "system_id": 30003612
+}

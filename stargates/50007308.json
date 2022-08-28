@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005675,
+        "system_id": 30003749
+    },
+    "name": "Stargate (VKI-T7)",
+    "position": {
+        "x": 1462385909760,
+        "y": 42695270400,
+        "z": 752812400640
+    },
+    "stargate_id": 50007308,
+    "system_id": 30003752,
+    "type_id": 29624
+}

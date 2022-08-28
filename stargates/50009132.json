@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005220,
+        "system_id": 30003045
+    },
+    "name": "Stargate (Enedore)",
+    "position": {
+        "x": 80328990720,
+        "y": -7403397120,
+        "z": -1434948771840
+    },
+    "stargate_id": 50009132,
+    "system_id": 30003049,
+    "type_id": 3875
+}

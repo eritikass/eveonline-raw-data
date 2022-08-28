@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008825,
+        "system_id": 30000895
+    },
+    "name": "Stargate (IMK-K1)",
+    "position": {
+        "x": 4723515678720,
+        "y": 371307110400,
+        "z": -2873215918080
+    },
+    "stargate_id": 50005433,
+    "system_id": 30000894,
+    "type_id": 16
+}

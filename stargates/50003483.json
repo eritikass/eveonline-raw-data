@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005084,
+        "system_id": 30002226
+    },
+    "name": "Stargate (Thebeka)",
+    "position": {
+        "x": 778228162560,
+        "y": -3581213859840,
+        "z": -29356892160
+    },
+    "stargate_id": 50003483,
+    "system_id": 30003524,
+    "type_id": 17
+}

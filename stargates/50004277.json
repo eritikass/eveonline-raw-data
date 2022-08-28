@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004594,
+        "system_id": 30000607
+    },
+    "name": "Stargate (OR-7N5)",
+    "position": {
+        "x": 708886978560,
+        "y": 33955061760,
+        "z": -257266114560
+    },
+    "stargate_id": 50004277,
+    "system_id": 30000606,
+    "type_id": 29633
+}

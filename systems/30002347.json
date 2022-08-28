@@ -1,0 +1,84 @@
+{
+    "constellation_id": 20000344,
+    "name": "D-IZT9",
+    "planets": [
+        {
+            "planet_id": 40149469
+        },
+        {
+            "asteroid_belts": [
+                40149471
+            ],
+            "moons": [
+                40149472
+            ],
+            "planet_id": 40149470
+        },
+        {
+            "asteroid_belts": [
+                40149474
+            ],
+            "moons": [
+                40149475
+            ],
+            "planet_id": 40149473
+        },
+        {
+            "moons": [
+                40149477,
+                40149478,
+                40149479
+            ],
+            "planet_id": 40149476
+        },
+        {
+            "asteroid_belts": [
+                40149481
+            ],
+            "moons": [
+                40149482,
+                40149483
+            ],
+            "planet_id": 40149480
+        },
+        {
+            "asteroid_belts": [
+                40149485
+            ],
+            "moons": [
+                40149486
+            ],
+            "planet_id": 40149484
+        },
+        {
+            "asteroid_belts": [
+                40149488
+            ],
+            "moons": [
+                40149489,
+                40149490,
+                40149491
+            ],
+            "planet_id": 40149487
+        },
+        {
+            "asteroid_belts": [
+                40149493
+            ],
+            "planet_id": 40149492
+        }
+    ],
+    "position": {
+        "x": 183554051767364580,
+        "y": 40313221459334610,
+        "z": 24732925897609852
+    },
+    "security_class": "K6",
+    "security_status": -0.6607640385627747,
+    "star_id": 40149468,
+    "stargates": [
+        50006011,
+        50006012
+    ],
+    "system_id": 30002347
+}

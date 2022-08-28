@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011063,
+        "system_id": 30004746
+    },
+    "name": "Stargate (4O-239)",
+    "position": {
+        "x": 2555889868800,
+        "y": -334023106560,
+        "z": 4053434818560
+    },
+    "stargate_id": 50011160,
+    "system_id": 30004766,
+    "type_id": 17
+}

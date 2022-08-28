@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013774,
+        "system_id": 30004777
+    },
+    "name": "Stargate (ZXB-VC)",
+    "position": {
+        "x": 2042102538240,
+        "y": -682810613760,
+        "z": -6487695237120
+    },
+    "stargate_id": 50013773,
+    "system_id": 30004665,
+    "type_id": 12292
+}

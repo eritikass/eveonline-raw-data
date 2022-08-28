@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009088,
+        "system_id": 30003235
+    },
+    "name": "Stargate (UGR-J2)",
+    "position": {
+        "x": -1542847733760,
+        "y": 2346418790400,
+        "z": 3015236689920
+    },
+    "stargate_id": 50007035,
+    "system_id": 30003200,
+    "type_id": 3874
+}

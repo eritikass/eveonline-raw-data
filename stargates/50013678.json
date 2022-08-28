@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013677,
+        "system_id": 30002580
+    },
+    "name": "Stargate (Katugumur)",
+    "position": {
+        "x": -735857909760,
+        "y": -2755677511680,
+        "z": 1804880240640
+    },
+    "stargate_id": 50013678,
+    "system_id": 30002553,
+    "type_id": 3877
+}

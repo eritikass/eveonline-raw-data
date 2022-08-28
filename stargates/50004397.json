@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004083,
+        "system_id": 30004813
+    },
+    "name": "Stargate (D-9UEV)",
+    "position": {
+        "x": 2452650024960,
+        "y": -46087987200,
+        "z": 2526137425920
+    },
+    "stargate_id": 50004397,
+    "system_id": 30004814,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003843,
+        "system_id": 30000475
+    },
+    "name": "Stargate (QLPX-J)",
+    "position": {
+        "x": -200146083840,
+        "y": -14536089600,
+        "z": -614616145920
+    },
+    "stargate_id": 50003169,
+    "system_id": 30000472,
+    "type_id": 29633
+}

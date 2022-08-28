@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010238,
+        "system_id": 30004172
+    },
+    "name": "Stargate (S-W8CF)",
+    "position": {
+        "x": 89486008320,
+        "y": -2957352960,
+        "z": -304333086720
+    },
+    "stargate_id": 50010132,
+    "system_id": 30004171,
+    "type_id": 3875
+}

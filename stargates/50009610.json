@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010820,
+        "system_id": 30002274
+    },
+    "name": "Stargate (Tastela)",
+    "position": {
+        "x": 15797821440,
+        "y": -903782400,
+        "z": 39082106880
+    },
+    "stargate_id": 50009610,
+    "system_id": 30002270,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010971,
+        "system_id": 30004241
+    },
+    "name": "Stargate (Jasson)",
+    "position": {
+        "x": 658479882240,
+        "y": 1562156113920,
+        "z": 479690465280
+    },
+    "stargate_id": 50011090,
+    "system_id": 30004248,
+    "type_id": 17
+}

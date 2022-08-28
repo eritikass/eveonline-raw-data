@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001071,
+        "system_id": 30001191
+    },
+    "name": "Stargate (OGL8-Q)",
+    "position": {
+        "x": 639228764160,
+        "y": 12415180800,
+        "z": 887175782400
+    },
+    "stargate_id": 50002290,
+    "system_id": 30001195,
+    "type_id": 29624
+}

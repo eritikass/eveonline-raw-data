@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013400,
+        "system_id": 30004189
+    },
+    "name": "Stargate (1M7-RK)",
+    "position": {
+        "x": 2818653511680,
+        "y": -67880017920,
+        "z": -933273477120
+    },
+    "stargate_id": 50012593,
+    "system_id": 30004187,
+    "type_id": 3875
+}

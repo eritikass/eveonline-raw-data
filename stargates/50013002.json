@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013095,
+        "system_id": 30001942
+    },
+    "name": "Stargate (EOT-XL)",
+    "position": {
+        "x": 3354819993600,
+        "y": 4908195840,
+        "z": 2077582417920
+    },
+    "stargate_id": 50013002,
+    "system_id": 30001940,
+    "type_id": 29624
+}

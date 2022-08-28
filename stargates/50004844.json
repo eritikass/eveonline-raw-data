@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001245,
+        "system_id": 30001066
+    },
+    "name": "Stargate (13-49W)",
+    "position": {
+        "x": 2980729036800,
+        "y": 985690152960,
+        "z": -735170764800
+    },
+    "stargate_id": 50004844,
+    "system_id": 30001102,
+    "type_id": 3874
+}

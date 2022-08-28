@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008124,
+        "system_id": 30003796
+    },
+    "name": "Stargate (Iges)",
+    "position": {
+        "x": -1027384811520,
+        "y": -54083543040,
+        "z": 3315771432960
+    },
+    "stargate_id": 50011045,
+    "system_id": 30003798,
+    "type_id": 3875
+}

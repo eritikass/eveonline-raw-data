@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004419,
+        "system_id": 30003529
+    },
+    "name": "Stargate (Chemilip)",
+    "position": {
+        "x": -2281029181440,
+        "y": -253037076480,
+        "z": 25154641920
+    },
+    "stargate_id": 50004190,
+    "system_id": 30003528,
+    "type_id": 29624
+}

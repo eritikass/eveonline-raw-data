@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013629,
+        "system_id": 30004233
+    },
+    "name": "Stargate (Shirshocin)",
+    "position": {
+        "x": 663040696320,
+        "y": -902858956800,
+        "z": -1650518138880
+    },
+    "stargate_id": 50013630,
+    "system_id": 30003600,
+    "type_id": 3876
+}

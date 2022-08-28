@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014026,
+        "system_id": 30003820
+    },
+    "name": "Stargate (Vestouve)",
+    "position": {
+        "x": 1489948139520,
+        "y": -110939873280,
+        "z": -1677925785600
+    },
+    "stargate_id": 50014025,
+    "system_id": 30003323,
+    "type_id": 3876
+}

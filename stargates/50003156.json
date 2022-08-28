@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003091,
+        "system_id": 30000289
+    },
+    "name": "Stargate (669-IX)",
+    "position": {
+        "x": -1421210296320,
+        "y": -7540776960,
+        "z": 749152296960
+    },
+    "stargate_id": 50003156,
+    "system_id": 30000290,
+    "type_id": 16
+}

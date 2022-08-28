@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008994,
+        "system_id": 30003496
+    },
+    "name": "Stargate (Nakri)",
+    "position": {
+        "x": 845961093120,
+        "y": -131894845440,
+        "z": 1632234577920
+    },
+    "stargate_id": 50007721,
+    "system_id": 30003494,
+    "type_id": 29624
+}

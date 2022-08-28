@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000137,
+        "system_id": 30002283
+    },
+    "name": "Stargate (2G-VDP)",
+    "position": {
+        "x": -114920202240,
+        "y": -6626058240,
+        "z": -472557281280
+    },
+    "stargate_id": 50000455,
+    "system_id": 30002284,
+    "type_id": 3875
+}

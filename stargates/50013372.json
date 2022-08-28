@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013370,
+        "system_id": 30002954
+    },
+    "name": "Stargate (RG9-7U)",
+    "position": {
+        "x": 7655916625920,
+        "y": 287310274560,
+        "z": -3030028738560
+    },
+    "stargate_id": 50013372,
+    "system_id": 30002955,
+    "type_id": 16
+}

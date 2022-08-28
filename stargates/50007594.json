@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009295,
+        "system_id": 30003003
+    },
+    "name": "Stargate (Halenan)",
+    "position": {
+        "x": -1849275064320,
+        "y": 242394931200,
+        "z": -359706009600
+    },
+    "stargate_id": 50007594,
+    "system_id": 30003001,
+    "type_id": 29624
+}

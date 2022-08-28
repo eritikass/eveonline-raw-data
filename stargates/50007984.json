@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007426,
+        "system_id": 30002058
+    },
+    "name": "Stargate (Ardar)",
+    "position": {
+        "x": 355965542400,
+        "y": 1138273689600,
+        "z": 2299013406720
+    },
+    "stargate_id": 50007984,
+    "system_id": 30002090,
+    "type_id": 3877
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011667,
+        "system_id": 30004590
+    },
+    "name": "Stargate (B17O-R)",
+    "position": {
+        "x": 1522799616000,
+        "y": -135573872640,
+        "z": 1394360033280
+    },
+    "stargate_id": 50011983,
+    "system_id": 30004608,
+    "type_id": 3874
+}

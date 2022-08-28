@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005944,
+        "system_id": 30005217
+    },
+    "name": "Stargate (Sheroo)",
+    "position": {
+        "x": -751130664960,
+        "y": -96990044160,
+        "z": -2019451576320
+    },
+    "stargate_id": 50004739,
+    "system_id": 30005215,
+    "type_id": 29624
+}

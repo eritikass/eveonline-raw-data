@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010781,
+        "system_id": 30003035
+    },
+    "name": "Stargate (Gicodel)",
+    "position": {
+        "x": -1097403310080,
+        "y": -159966044160,
+        "z": 807573626880
+    },
+    "stargate_id": 50010936,
+    "system_id": 30003036,
+    "type_id": 3875
+}

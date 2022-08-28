@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003715,
+        "system_id": 30002893
+    },
+    "name": "Stargate (QPO-WI)",
+    "position": {
+        "x": -769773281280,
+        "y": -70733045760,
+        "z": 1390819368960
+    },
+    "stargate_id": 50003577,
+    "system_id": 30002891,
+    "type_id": 16
+}

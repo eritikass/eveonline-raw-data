@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016305,
+        "system_id": 30045321
+    },
+    "name": "Stargate (Uchomida)",
+    "position": {
+        "x": 604821626880,
+        "y": 2795397120,
+        "z": -611231784960
+    },
+    "stargate_id": 50016306,
+    "system_id": 30045325,
+    "type_id": 16
+}

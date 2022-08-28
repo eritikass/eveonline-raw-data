@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004095,
+        "system_id": 30001835
+    },
+    "name": "Stargate (X1E-OQ)",
+    "position": {
+        "x": 1439938928640,
+        "y": 92614287360,
+        "z": 4335413207040
+    },
+    "stargate_id": 50004233,
+    "system_id": 30001838,
+    "type_id": 17
+}

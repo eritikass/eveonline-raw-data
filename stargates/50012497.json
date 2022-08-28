@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012059,
+        "system_id": 30004472
+    },
+    "name": "Stargate (RIT-A7)",
+    "position": {
+        "x": 2333102039040,
+        "y": 306400419840,
+        "z": 59191910400
+    },
+    "stargate_id": 50012497,
+    "system_id": 30004475,
+    "type_id": 29633
+}

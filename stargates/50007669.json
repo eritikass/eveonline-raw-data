@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007713,
+        "system_id": 30002001
+    },
+    "name": "Stargate (Q-5211)",
+    "position": {
+        "x": -3948795371520,
+        "y": -761976299520,
+        "z": 2155571650560
+    },
+    "stargate_id": 50007669,
+    "system_id": 30002000,
+    "type_id": 16
+}

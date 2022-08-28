@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008150,
+        "system_id": 30004418
+    },
+    "name": "Stargate (DUU1-K)",
+    "position": {
+        "x": -3443937239040,
+        "y": 267121336320,
+        "z": -1725441515520
+    },
+    "stargate_id": 50008246,
+    "system_id": 30004419,
+    "type_id": 29633
+}

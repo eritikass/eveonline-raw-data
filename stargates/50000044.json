@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001452,
+        "system_id": 30000256
+    },
+    "name": "Stargate (Q-L07F)",
+    "position": {
+        "x": 1412769914880,
+        "y": 134322954240,
+        "z": 386209505280
+    },
+    "stargate_id": 50000044,
+    "system_id": 30000254,
+    "type_id": 16
+}

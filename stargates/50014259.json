@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014260,
+        "system_id": 30002301
+    },
+    "name": "Stargate (G-QTSD)",
+    "position": {
+        "x": 1413060894720,
+        "y": -910316789760,
+        "z": 180458250240
+    },
+    "stargate_id": 50014259,
+    "system_id": 30002360,
+    "type_id": 3874
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005242,
+        "system_id": 30002208
+    },
+    "name": "Stargate (Ilonarav)",
+    "position": {
+        "x": 3058677473280,
+        "y": 3232745103360,
+        "z": -825806807040
+    },
+    "stargate_id": 50007756,
+    "system_id": 30002260,
+    "type_id": 17
+}

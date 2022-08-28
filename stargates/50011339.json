@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011241,
+        "system_id": 30004578
+    },
+    "name": "Stargate (AL8-V4)",
+    "position": {
+        "x": 4790527303680,
+        "y": -904435507200,
+        "z": -170222837760
+    },
+    "stargate_id": 50011339,
+    "system_id": 30004581,
+    "type_id": 3875
+}

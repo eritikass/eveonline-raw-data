@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012442,
+        "system_id": 30002939
+    },
+    "name": "Stargate (WUZ-WM)",
+    "position": {
+        "x": -780927836160,
+        "y": 98247352320,
+        "z": -3741014876160
+    },
+    "stargate_id": 50012439,
+    "system_id": 30002938,
+    "type_id": 16
+}

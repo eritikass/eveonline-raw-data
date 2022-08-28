@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001470,
+        "system_id": 30001400
+    },
+    "name": "Stargate (Litiura)",
+    "position": {
+        "x": -2083354091520,
+        "y": 230197370880,
+        "z": 2696694374400
+    },
+    "stargate_id": 50001940,
+    "system_id": 30001402,
+    "type_id": 16
+}

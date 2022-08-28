@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008235,
+        "system_id": 30002209
+    },
+    "name": "Stargate (Uchat)",
+    "position": {
+        "x": -5099663646720,
+        "y": 209814036480,
+        "z": -2140853329920
+    },
+    "stargate_id": 50001203,
+    "system_id": 30002204,
+    "type_id": 29624
+}

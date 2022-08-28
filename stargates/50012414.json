@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012356,
+        "system_id": 30004798
+    },
+    "name": "Stargate (C3N-3S)",
+    "position": {
+        "x": -80813137920,
+        "y": 721674240,
+        "z": 180777738240
+    },
+    "stargate_id": 50012414,
+    "system_id": 30004799,
+    "type_id": 29624
+}

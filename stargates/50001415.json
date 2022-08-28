@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002393,
+        "system_id": 30001653
+    },
+    "name": "Stargate (Jarzalad)",
+    "position": {
+        "x": 4669844889600,
+        "y": 228783759360,
+        "z": -2677431459840
+    },
+    "stargate_id": 50001415,
+    "system_id": 30001651,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006825,
+        "system_id": 30002874
+    },
+    "name": "Stargate (R1O-GN)",
+    "position": {
+        "x": 3442708930560,
+        "y": -671477637120,
+        "z": 1818495836160
+    },
+    "stargate_id": 50006842,
+    "system_id": 30002875,
+    "type_id": 3875
+}

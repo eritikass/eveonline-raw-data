@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003222,
+        "system_id": 30001060
+    },
+    "name": "Stargate (N-H95C)",
+    "position": {
+        "x": 3060384030720,
+        "y": -83780689920,
+        "z": 367211274240
+    },
+    "stargate_id": 50002427,
+    "system_id": 30001059,
+    "type_id": 3875
+}

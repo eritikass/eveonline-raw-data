@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003871,
+        "system_id": 30003389
+    },
+    "name": "Stargate (Altrinur)",
+    "position": {
+        "x": 798910341120,
+        "y": 22121226240,
+        "z": 790516162560
+    },
+    "stargate_id": 50004487,
+    "system_id": 30003392,
+    "type_id": 29633
+}

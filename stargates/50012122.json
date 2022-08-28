@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012166,
+        "system_id": 30004535
+    },
+    "name": "Stargate (IZ-AOB)",
+    "position": {
+        "x": 171173928960,
+        "y": 25029550080,
+        "z": -54715637760
+    },
+    "stargate_id": 50012122,
+    "system_id": 30004534,
+    "type_id": 3875
+}

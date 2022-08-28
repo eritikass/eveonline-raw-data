@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003122,
+        "system_id": 30003709
+    },
+    "name": "Stargate (D-GTMI)",
+    "position": {
+        "x": -1923691438080,
+        "y": 2239990947840,
+        "z": 2012552601600
+    },
+    "stargate_id": 50000280,
+    "system_id": 30001153,
+    "type_id": 29626
+}

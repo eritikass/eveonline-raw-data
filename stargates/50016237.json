@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016238,
+        "system_id": 30045311
+    },
+    "name": "Stargate (Ashitsu)",
+    "position": {
+        "x": 174969692160,
+        "y": 12481044480,
+        "z": -3348790517760
+    },
+    "stargate_id": 50016237,
+    "system_id": 30045306,
+    "type_id": 16
+}

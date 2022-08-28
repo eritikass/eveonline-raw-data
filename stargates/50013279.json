@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011861,
+        "system_id": 30003603
+    },
+    "name": "Stargate (Ondree)",
+    "position": {
+        "x": -1632780165120,
+        "y": 64813670400,
+        "z": -616898273280
+    },
+    "stargate_id": 50013279,
+    "system_id": 30003607,
+    "type_id": 3875
+}

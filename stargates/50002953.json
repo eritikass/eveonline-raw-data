@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000706,
+        "system_id": 30002663
+    },
+    "name": "Stargate (Foves)",
+    "position": {
+        "x": 371674767360,
+        "y": -22683279360,
+        "z": -4932022149120
+    },
+    "stargate_id": 50002953,
+    "system_id": 30002664,
+    "type_id": 3875
+}

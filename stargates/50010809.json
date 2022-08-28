@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011276,
+        "system_id": 30002929
+    },
+    "name": "Stargate (7T6P-C)",
+    "position": {
+        "x": -738290442240,
+        "y": -30644674560,
+        "z": 2208510566400
+    },
+    "stargate_id": 50010809,
+    "system_id": 30002927,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006062,
+        "system_id": 30000998
+    },
+    "name": "Stargate (M9U-75)",
+    "position": {
+        "x": 595921674240,
+        "y": -108779642880,
+        "z": -524959457280
+    },
+    "stargate_id": 50006795,
+    "system_id": 30001000,
+    "type_id": 29633
+}

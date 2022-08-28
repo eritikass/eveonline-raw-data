@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007170,
+        "system_id": 30001245
+    },
+    "name": "Stargate (BUZ-DB)",
+    "position": {
+        "x": -718100275200,
+        "y": -115713761280,
+        "z": 261110538240
+    },
+    "stargate_id": 50006942,
+    "system_id": 30001244,
+    "type_id": 29624
+}

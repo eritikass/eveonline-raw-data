@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007812,
+        "system_id": 30003276
+    },
+    "name": "Stargate (FD-MLJ)",
+    "position": {
+        "x": -4567053312000,
+        "y": -716659875840,
+        "z": -7422459371520
+    },
+    "stargate_id": 50007736,
+    "system_id": 30003274,
+    "type_id": 3875
+}

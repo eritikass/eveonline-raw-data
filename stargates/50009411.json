@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010831,
+        "system_id": 30003356
+    },
+    "name": "Stargate (3-IN0V)",
+    "position": {
+        "x": 11216117760,
+        "y": -1701027840,
+        "z": -1400675819520
+    },
+    "stargate_id": 50009411,
+    "system_id": 30003355,
+    "type_id": 3875
+}

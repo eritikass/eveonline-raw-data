@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005149,
+        "system_id": 30000794
+    },
+    "name": "Stargate (A24L-V)",
+    "position": {
+        "x": 631265894400,
+        "y": 48966574080,
+        "z": 1452496527360
+    },
+    "stargate_id": 50004252,
+    "system_id": 30000793,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004676,
+        "system_id": 30002387
+    },
+    "name": "Stargate (Bosena)",
+    "position": {
+        "x": 12496696074240,
+        "y": 918984990720,
+        "z": -1738803240960
+    },
+    "stargate_id": 50004387,
+    "system_id": 30002385,
+    "type_id": 29633
+}

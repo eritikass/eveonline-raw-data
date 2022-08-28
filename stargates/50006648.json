@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008075,
+        "system_id": 30001397
+    },
+    "name": "Stargate (Isseras)",
+    "position": {
+        "x": 5970675916800,
+        "y": -53730631680,
+        "z": 759495598080
+    },
+    "stargate_id": 50006648,
+    "system_id": 30001396,
+    "type_id": 16
+}

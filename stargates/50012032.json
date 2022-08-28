@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011840,
+        "system_id": 30004538
+    },
+    "name": "Stargate (W2F-ZH)",
+    "position": {
+        "x": 349075169280,
+        "y": -65751982080,
+        "z": 459856404480
+    },
+    "stargate_id": 50012032,
+    "system_id": 30004539,
+    "type_id": 3875
+}

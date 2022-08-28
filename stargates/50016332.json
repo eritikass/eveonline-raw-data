@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016331,
+        "system_id": 30045333
+    },
+    "name": "Stargate (Prism)",
+    "position": {
+        "x": -1164396011520,
+        "y": -14908170240,
+        "z": -83441786880
+    },
+    "stargate_id": 50016332,
+    "system_id": 30045336,
+    "type_id": 16
+}

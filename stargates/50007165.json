@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007342,
+        "system_id": 30002374
+    },
+    "name": "Stargate (M9-LAN)",
+    "position": {
+        "x": 1585692549120,
+        "y": -125070581760,
+        "z": -834362695680
+    },
+    "stargate_id": 50007165,
+    "system_id": 30002373,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008390,
+        "system_id": 30001341
+    },
+    "name": "Stargate (OJ-CT4)",
+    "position": {
+        "x": 1739448115200,
+        "y": -318640250880,
+        "z": 1842934947840
+    },
+    "stargate_id": 50011991,
+    "system_id": 30001343,
+    "type_id": 16
+}

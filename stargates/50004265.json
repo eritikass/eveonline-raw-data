@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003521,
+        "system_id": 30001099
+    },
+    "name": "Stargate (O7-RFZ)",
+    "position": {
+        "x": 182736936960,
+        "y": 22451527680,
+        "z": -186889297920
+    },
+    "stargate_id": 50004265,
+    "system_id": 30001100,
+    "type_id": 3875
+}

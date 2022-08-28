@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003656,
+        "system_id": 30001745
+    },
+    "name": "Stargate (80G-H5)",
+    "position": {
+        "x": 1850694328320,
+        "y": -111076515840,
+        "z": -1261173104640
+    },
+    "stargate_id": 50003646,
+    "system_id": 30001744,
+    "type_id": 3875
+}

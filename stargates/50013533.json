@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010156,
+        "system_id": 30002809
+    },
+    "name": "Stargate (Sujarento)",
+    "position": {
+        "x": 1400431288320,
+        "y": -26949672960,
+        "z": -196384972800
+    },
+    "stargate_id": 50013533,
+    "system_id": 30002813,
+    "type_id": 16
+}

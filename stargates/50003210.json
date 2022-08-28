@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003752,
+        "system_id": 30000982
+    },
+    "name": "Stargate (O-8SOC)",
+    "position": {
+        "x": -3896810250240,
+        "y": 581095956480,
+        "z": 3551481569280
+    },
+    "stargate_id": 50003210,
+    "system_id": 30000979,
+    "type_id": 29633
+}

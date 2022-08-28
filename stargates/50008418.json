@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008549,
+        "system_id": 30003333
+    },
+    "name": "Stargate (RF-GGF)",
+    "position": {
+        "x": 327986012160,
+        "y": 30102773760,
+        "z": -16054149120
+    },
+    "stargate_id": 50008418,
+    "system_id": 30003329,
+    "type_id": 3875
+}

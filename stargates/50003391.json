@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001902,
+        "system_id": 30001180
+    },
+    "name": "Stargate (KW-I6T)",
+    "position": {
+        "x": 4160720609280,
+        "y": 655702794240,
+        "z": 2151833149440
+    },
+    "stargate_id": 50003391,
+    "system_id": 30001181,
+    "type_id": 29624
+}

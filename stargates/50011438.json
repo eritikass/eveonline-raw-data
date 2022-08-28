@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010701,
+        "system_id": 30003892
+    },
+    "name": "Stargate (Efa)",
+    "position": {
+        "x": -985145794560,
+        "y": -196357939200,
+        "z": -90914365440
+    },
+    "stargate_id": 50011438,
+    "system_id": 30003893,
+    "type_id": 29624
+}

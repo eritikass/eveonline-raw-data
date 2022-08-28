@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009526,
+        "system_id": 30003835
+    },
+    "name": "Stargate (Maut)",
+    "position": {
+        "x": -5361853194240,
+        "y": 741872640000,
+        "z": 1707335393280
+    },
+    "stargate_id": 50008637,
+    "system_id": 30003832,
+    "type_id": 3875
+}

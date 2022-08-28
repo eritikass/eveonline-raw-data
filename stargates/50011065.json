@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011165,
+        "system_id": 30003449
+    },
+    "name": "Stargate (Hakeri)",
+    "position": {
+        "x": 3569863434240,
+        "y": 587363328000,
+        "z": 637986201600
+    },
+    "stargate_id": 50011065,
+    "system_id": 30003448,
+    "type_id": 29633
+}

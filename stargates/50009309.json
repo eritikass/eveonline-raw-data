@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007447,
+        "system_id": 30002030
+    },
+    "name": "Stargate (P-2TTL)",
+    "position": {
+        "x": 817758167040,
+        "y": 45377003520,
+        "z": 1739699281920
+    },
+    "stargate_id": 50009309,
+    "system_id": 30002034,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011750,
+        "system_id": 30004755
+    },
+    "name": "Stargate (J-LPX7)",
+    "position": {
+        "x": -1219598376960,
+        "y": 159460761600,
+        "z": 3369836912640
+    },
+    "stargate_id": 50011872,
+    "system_id": 30004757,
+    "type_id": 29624
+}

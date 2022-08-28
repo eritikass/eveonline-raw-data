@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013524,
+        "system_id": 30002219
+    },
+    "name": "Stargate (Nomash)",
+    "position": {
+        "x": -1285709045760,
+        "y": 177552384000,
+        "z": -854960578560
+    },
+    "stargate_id": 50010070,
+    "system_id": 30002215,
+    "type_id": 29624
+}

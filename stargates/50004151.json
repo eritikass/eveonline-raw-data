@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003806,
+        "system_id": 30005301
+    },
+    "name": "Stargate (Tourier)",
+    "position": {
+        "x": -16918732800,
+        "y": -1020026880,
+        "z": -74405437440
+    },
+    "stargate_id": 50004151,
+    "system_id": 30005302,
+    "type_id": 3875
+}

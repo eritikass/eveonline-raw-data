@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001983,
+        "system_id": 30002739
+    },
+    "name": "Stargate (Isaziwa)",
+    "position": {
+        "x": 57533030400,
+        "y": -11052441600,
+        "z": -4131448627200
+    },
+    "stargate_id": 50001210,
+    "system_id": 30002738,
+    "type_id": 16
+}

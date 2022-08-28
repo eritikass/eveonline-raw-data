@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009876,
+        "system_id": 30003779
+    },
+    "name": "Stargate (TXJ-II)",
+    "position": {
+        "x": -3771673681920,
+        "y": -124033474560,
+        "z": 4536284651520
+    },
+    "stargate_id": 50009335,
+    "system_id": 30003777,
+    "type_id": 29624
+}

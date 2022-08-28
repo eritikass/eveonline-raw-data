@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005308,
+        "system_id": 30001307
+    },
+    "name": "Stargate (EIV-1W)",
+    "position": {
+        "x": 1762929745920,
+        "y": -129130782720,
+        "z": -2457186754560
+    },
+    "stargate_id": 50005327,
+    "system_id": 30001308,
+    "type_id": 16
+}

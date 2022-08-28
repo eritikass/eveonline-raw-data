@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006173,
+        "system_id": 30005220
+    },
+    "name": "Stargate (Keseya)",
+    "position": {
+        "x": -5917408665600,
+        "y": 5807573852160,
+        "z": 6535202365440
+    },
+    "stargate_id": 50006224,
+    "system_id": 30005243,
+    "type_id": 17
+}

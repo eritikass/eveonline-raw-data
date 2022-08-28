@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008717,
+        "system_id": 30002064
+    },
+    "name": "Stargate (Arnstur)",
+    "position": {
+        "x": -1017580707840,
+        "y": -65788600320,
+        "z": -1400259010560
+    },
+    "stargate_id": 50007793,
+    "system_id": 30002062,
+    "type_id": 29633
+}

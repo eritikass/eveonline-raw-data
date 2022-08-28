@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007601,
+        "system_id": 30001731
+    },
+    "name": "Stargate (Ilas)",
+    "position": {
+        "x": 477958840320,
+        "y": -82525839360,
+        "z": 586807173120
+    },
+    "stargate_id": 50007176,
+    "system_id": 30001730,
+    "type_id": 29624
+}

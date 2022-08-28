@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010943,
+        "system_id": 30004891
+    },
+    "name": "Stargate (R2TJ-1)",
+    "position": {
+        "x": -15895633920,
+        "y": 2111938560,
+        "z": 65990123520
+    },
+    "stargate_id": 50010687,
+    "system_id": 30004890,
+    "type_id": 29633
+}

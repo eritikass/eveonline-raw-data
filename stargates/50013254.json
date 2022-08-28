@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013212,
+        "system_id": 30004656
+    },
+    "name": "Stargate (006-L3)",
+    "position": {
+        "x": -125767311360,
+        "y": -6041640960,
+        "z": 271649955840
+    },
+    "stargate_id": 50013254,
+    "system_id": 30004657,
+    "type_id": 3875
+}

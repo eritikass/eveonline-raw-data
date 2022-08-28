@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013402,
+        "system_id": 30004881
+    },
+    "name": "Stargate (M-RPN3)",
+    "position": {
+        "x": 660137041920,
+        "y": 101441249280,
+        "z": -145493483520
+    },
+    "stargate_id": 50013338,
+    "system_id": 30004879,
+    "type_id": 29633
+}

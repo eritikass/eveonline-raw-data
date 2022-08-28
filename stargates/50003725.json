@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003954,
+        "system_id": 30002426
+    },
+    "name": "Stargate (Roua)",
+    "position": {
+        "x": 3150823956480,
+        "y": -591337021440,
+        "z": -741937274880
+    },
+    "stargate_id": 50003725,
+    "system_id": 30002423,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011800,
+        "system_id": 30002811
+    },
+    "name": "Stargate (Onatoh)",
+    "position": {
+        "x": -379173642240,
+        "y": -24012840960,
+        "z": 2726800711680
+    },
+    "stargate_id": 50010155,
+    "system_id": 30002809,
+    "type_id": 16
+}

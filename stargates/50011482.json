@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010765,
+        "system_id": 30003645
+    },
+    "name": "Stargate (O36A-P)",
+    "position": {
+        "x": 1326344970240,
+        "y": -145839759360,
+        "z": -4787161866240
+    },
+    "stargate_id": 50011482,
+    "system_id": 30003646,
+    "type_id": 16
+}

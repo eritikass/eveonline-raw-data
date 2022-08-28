@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001004,
+        "system_id": 30000141
+    },
+    "name": "Stargate (Kisogo)",
+    "position": {
+        "x": 1748867112960,
+        "y": 228169359360,
+        "z": -1726657781760
+    },
+    "stargate_id": 50000547,
+    "system_id": 30000139,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013360,
+        "system_id": 30004158
+    },
+    "name": "Stargate (Telang)",
+    "position": {
+        "x": 1522978037760,
+        "y": -218131783680,
+        "z": -820877352960
+    },
+    "stargate_id": 50012198,
+    "system_id": 30004156,
+    "type_id": 29624
+}

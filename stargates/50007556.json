@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008263,
+        "system_id": 30004118
+    },
+    "name": "Stargate (Ardhis)",
+    "position": {
+        "x": -1766537011200,
+        "y": 273903083520,
+        "z": 252386304000
+    },
+    "stargate_id": 50007556,
+    "system_id": 30004117,
+    "type_id": 29624
+}

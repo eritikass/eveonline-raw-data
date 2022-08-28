@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011259,
+        "system_id": 30004579
+    },
+    "name": "Stargate (KCT-0A)",
+    "position": {
+        "x": -3934648934400,
+        "y": 139445575680,
+        "z": -544686120960
+    },
+    "stargate_id": 50011043,
+    "system_id": 30004574,
+    "type_id": 3875
+}

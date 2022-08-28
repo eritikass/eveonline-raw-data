@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013342,
+        "system_id": 30004658
+    },
+    "name": "Stargate (ZUE-NS)",
+    "position": {
+        "x": -1091352207360,
+        "y": -52043489280,
+        "z": -2072805826560
+    },
+    "stargate_id": 50013255,
+    "system_id": 30004657,
+    "type_id": 3875
+}

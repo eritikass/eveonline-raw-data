@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002925,
+        "system_id": 30000101
+    },
+    "name": "Stargate (Uhtafal)",
+    "position": {
+        "x": -3430262661120,
+        "y": -274452602880,
+        "z": -3756550103040
+    },
+    "stargate_id": 50002342,
+    "system_id": 30000099,
+    "type_id": 29624
+}

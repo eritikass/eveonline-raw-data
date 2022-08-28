@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009618,
+        "system_id": 30003933
+    },
+    "name": "Stargate (Ibani)",
+    "position": {
+        "x": 338697216000,
+        "y": -53377474560,
+        "z": 259417743360
+    },
+    "stargate_id": 50009728,
+    "system_id": 30003935,
+    "type_id": 29624
+}

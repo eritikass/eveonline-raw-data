@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012055,
+        "system_id": 30004463
+    },
+    "name": "Stargate (UB5Z-3)",
+    "position": {
+        "x": -3115951595520,
+        "y": -574182236160,
+        "z": -4243477831680
+    },
+    "stargate_id": 50012026,
+    "system_id": 30004462,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012066,
+        "system_id": 30005080
+    },
+    "name": "Stargate (Rannoze)",
+    "position": {
+        "x": -2004828610560,
+        "y": -160274472960,
+        "z": -105052938240
+    },
+    "stargate_id": 50010770,
+    "system_id": 30005077,
+    "type_id": 29624
+}

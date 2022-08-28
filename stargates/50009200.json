@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012229,
+        "system_id": 30003253
+    },
+    "name": "Stargate (91-KD8)",
+    "position": {
+        "x": 3256478392320,
+        "y": 156071485440,
+        "z": -2184354078720
+    },
+    "stargate_id": 50009200,
+    "system_id": 30003249,
+    "type_id": 3875
+}

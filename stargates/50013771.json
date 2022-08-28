@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013772,
+        "system_id": 30004740
+    },
+    "name": "Stargate (6Q-R50)",
+    "position": {
+        "x": -1162846494720,
+        "y": -811858206720,
+        "z": 1850259824640
+    },
+    "stargate_id": 50013771,
+    "system_id": 30004708,
+    "type_id": 12292
+}

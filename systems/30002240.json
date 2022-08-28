@@ -1,0 +1,77 @@
+{
+    "constellation_id": 20000328,
+    "name": "Arodan",
+    "planets": [
+        {
+            "planet_id": 40142646
+        },
+        {
+            "planet_id": 40142647
+        },
+        {
+            "asteroid_belts": [
+                40142649
+            ],
+            "moons": [
+                40142650
+            ],
+            "planet_id": 40142648
+        },
+        {
+            "asteroid_belts": [
+                40142652
+            ],
+            "planet_id": 40142651
+        },
+        {
+            "asteroid_belts": [
+                40142654
+            ],
+            "moons": [
+                40142655
+            ],
+            "planet_id": 40142653
+        },
+        {
+            "moons": [
+                40142657,
+                40142658
+            ],
+            "planet_id": 40142656
+        },
+        {
+            "asteroid_belts": [
+                40142660
+            ],
+            "moons": [
+                40142661,
+                40142662,
+                40142663
+            ],
+            "planet_id": 40142659
+        },
+        {
+            "asteroid_belts": [
+                40142665
+            ],
+            "moons": [
+                40142666,
+                40142667
+            ],
+            "planet_id": 40142664
+        }
+    ],
+    "position": {
+        "x": -252113338431934940,
+        "y": 8448236388394808,
+        "z": -72227438210967460
+    },
+    "security_class": "B2",
+    "security_status": 0.3210996687412262,
+    "star_id": 40142645,
+    "stargates": [
+        50007114,
+        50007115
+    ],
+    "system_id": 30002240
+}

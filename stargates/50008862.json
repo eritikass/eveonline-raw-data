@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008654,
+        "system_id": 30003618
+    },
+    "name": "Stargate (ZH3-BS)",
+    "position": {
+        "x": 7976755200,
+        "y": 1342955520,
+        "z": -287558246400
+    },
+    "stargate_id": 50008862,
+    "system_id": 30003619,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016239,
+        "system_id": 30045313
+    },
+    "name": "Stargate (Ienakkamon)",
+    "position": {
+        "x": -2478488002560,
+        "y": -30488616960,
+        "z": 530917171200
+    },
+    "stargate_id": 50016240,
+    "system_id": 30045311,
+    "type_id": 16
+}

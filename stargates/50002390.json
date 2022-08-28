@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003100,
+        "system_id": 30002646
+    },
+    "name": "Stargate (Direrie)",
+    "position": {
+        "x": -7187098705920,
+        "y": -863021260800,
+        "z": -4286044938240
+    },
+    "stargate_id": 50002390,
+    "system_id": 30002645,
+    "type_id": 3875
+}

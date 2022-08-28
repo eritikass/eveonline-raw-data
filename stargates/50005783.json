@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006496,
+        "system_id": 30005228
+    },
+    "name": "Stargate (Chamja)",
+    "position": {
+        "x": -6177395712000,
+        "y": -355385303040,
+        "z": 4099645317120
+    },
+    "stargate_id": 50005783,
+    "system_id": 30005224,
+    "type_id": 29624
+}

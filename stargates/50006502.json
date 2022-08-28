@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006603,
+        "system_id": 30005121
+    },
+    "name": "Stargate (4-M1TY)",
+    "position": {
+        "x": 1123541360640,
+        "y": -116232069120,
+        "z": -6364229099520
+    },
+    "stargate_id": 50006502,
+    "system_id": 30005120,
+    "type_id": 3875
+}

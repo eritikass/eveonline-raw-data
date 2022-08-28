@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009154,
+        "system_id": 30003956
+    },
+    "name": "Stargate (60M-TG)",
+    "position": {
+        "x": 2859905310720,
+        "y": 479500001280,
+        "z": 4994151997440
+    },
+    "stargate_id": 50009820,
+    "system_id": 30003960,
+    "type_id": 29624
+}

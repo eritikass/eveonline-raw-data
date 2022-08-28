@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011635,
+        "system_id": 30005022
+    },
+    "name": "Stargate (Ane)",
+    "position": {
+        "x": -1338377625600,
+        "y": 259524894720,
+        "z": -7237287321600
+    },
+    "stargate_id": 50012682,
+    "system_id": 30005023,
+    "type_id": 3875
+}

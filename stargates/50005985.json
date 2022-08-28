@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007054,
+        "system_id": 30001994
+    },
+    "name": "Stargate (DK-FXK)",
+    "position": {
+        "x": -2160645365760,
+        "y": -29524254720,
+        "z": -1567613460480
+    },
+    "stargate_id": 50005985,
+    "system_id": 30001993,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002907,
+        "system_id": 30000468
+    },
+    "name": "Stargate (5OJ-G2)",
+    "position": {
+        "x": -2362220421120,
+        "y": -398568529920,
+        "z": 779756298240
+    },
+    "stargate_id": 50003241,
+    "system_id": 30000470,
+    "type_id": 29633
+}

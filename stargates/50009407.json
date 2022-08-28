@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003263,
+        "system_id": 30005203
+    },
+    "name": "Stargate (Ourapheh)",
+    "position": {
+        "x": -2394025205760,
+        "y": 5357731799040,
+        "z": -3601184808960
+    },
+    "stargate_id": 50009407,
+    "system_id": 30005024,
+    "type_id": 3876
+}

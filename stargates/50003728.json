@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003165,
+        "system_id": 30000106
+    },
+    "name": "Stargate (Shedoo)",
+    "position": {
+        "x": 1091953336320,
+        "y": -24099102720,
+        "z": 39473111040
+    },
+    "stargate_id": 50003728,
+    "system_id": 30000107,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014168,
+        "system_id": 30044971
+    },
+    "name": "Stargate (Mesokel)",
+    "position": {
+        "x": 1806451875840,
+        "y": 311136952320,
+        "z": -2231104020480
+    },
+    "stargate_id": 50014167,
+    "system_id": 30005016,
+    "type_id": 3875
+}

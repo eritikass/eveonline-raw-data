@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010826,
+        "system_id": 30004559
+    },
+    "name": "Stargate (PNQY-Y)",
+    "position": {
+        "x": 2457228779520,
+        "y": -1215496888320,
+        "z": -735203696640
+    },
+    "stargate_id": 50010751,
+    "system_id": 30004557,
+    "type_id": 3874
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007666,
+        "system_id": 30000520
+    },
+    "name": "Stargate (I-9GI1)",
+    "position": {
+        "x": -1774746378240,
+        "y": 268304670720,
+        "z": 2248292474880
+    },
+    "stargate_id": 50007478,
+    "system_id": 30000518,
+    "type_id": 29633
+}

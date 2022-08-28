@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012015,
+        "system_id": 30001811
+    },
+    "name": "Stargate (GA58-7)",
+    "position": {
+        "x": 1998551162880,
+        "y": 31406284800,
+        "z": 5283476398080
+    },
+    "stargate_id": 50012113,
+    "system_id": 30001814,
+    "type_id": 3875
+}

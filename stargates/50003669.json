@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004643,
+        "system_id": 30004816
+    },
+    "name": "Stargate (78R-PI)",
+    "position": {
+        "x": -4336291553280,
+        "y": 277249843200,
+        "z": -4466347008000
+    },
+    "stargate_id": 50003669,
+    "system_id": 30004812,
+    "type_id": 29633
+}

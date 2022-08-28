@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009161,
+        "system_id": 30004438
+    },
+    "name": "Stargate (NW2S-A)",
+    "position": {
+        "x": 2904804188160,
+        "y": -88327249920,
+        "z": -1972522721280
+    },
+    "stargate_id": 50008884,
+    "system_id": 30004436,
+    "type_id": 29633
+}

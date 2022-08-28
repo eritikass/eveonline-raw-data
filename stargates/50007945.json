@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007818,
+        "system_id": 30002724
+    },
+    "name": "Stargate (Assiettes)",
+    "position": {
+        "x": 225627709440,
+        "y": -10077020160,
+        "z": 213381734400
+    },
+    "stargate_id": 50007945,
+    "system_id": 30002725,
+    "type_id": 3875
+}

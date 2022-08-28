@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008897,
+        "system_id": 30004039
+    },
+    "name": "Stargate (5-MLDT)",
+    "position": {
+        "x": 9219796623360,
+        "y": -1288830197760,
+        "z": -155585617920
+    },
+    "stargate_id": 50008961,
+    "system_id": 30004040,
+    "type_id": 3875
+}

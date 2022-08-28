@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013290,
+        "system_id": 30004664
+    },
+    "name": "Stargate (G1CA-Y)",
+    "position": {
+        "x": -161752719360,
+        "y": 22900776960,
+        "z": 180814356480
+    },
+    "stargate_id": 50013136,
+    "system_id": 30004662,
+    "type_id": 3875
+}

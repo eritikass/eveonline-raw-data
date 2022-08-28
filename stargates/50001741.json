@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000663,
+        "system_id": 30000032
+    },
+    "name": "Stargate (Hasiari)",
+    "position": {
+        "x": 4773697904640,
+        "y": -2817020190720,
+        "z": 3532647997440
+    },
+    "stargate_id": 50001741,
+    "system_id": 30000005,
+    "type_id": 17
+}

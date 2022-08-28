@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000424,
+        "system_id": 30000018
+    },
+    "name": "Stargate (Kazna)",
+    "position": {
+        "x": 1615606456320,
+        "y": -3048139530240,
+        "z": -511082373120
+    },
+    "stargate_id": 50001594,
+    "system_id": 30000015,
+    "type_id": 17
+}

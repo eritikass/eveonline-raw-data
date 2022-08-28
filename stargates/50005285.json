@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005343,
+        "system_id": 30003742
+    },
+    "name": "Stargate (TU-RI6)",
+    "position": {
+        "x": -180233379840,
+        "y": -19312680960,
+        "z": -5345904107520
+    },
+    "stargate_id": 50005285,
+    "system_id": 30003741,
+    "type_id": 29624
+}

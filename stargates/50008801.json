@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009581,
+        "system_id": 30003628
+    },
+    "name": "Stargate (S-1LIO)",
+    "position": {
+        "x": -388071383040,
+        "y": 74344243200,
+        "z": 1753687695360
+    },
+    "stargate_id": 50008801,
+    "system_id": 30003626,
+    "type_id": 16
+}

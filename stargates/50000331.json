@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000087,
+        "system_id": 30001534
+    },
+    "name": "Stargate (AL-JSG)",
+    "position": {
+        "x": -6276397424640,
+        "y": 184413265920,
+        "z": -6164493557760
+    },
+    "stargate_id": 50000331,
+    "system_id": 30001535,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011809,
+        "system_id": 30004593
+    },
+    "name": "Stargate (L-1SW8)",
+    "position": {
+        "x": -804798013440,
+        "y": -142435491840,
+        "z": 181478645760
+    },
+    "stargate_id": 50011779,
+    "system_id": 30004592,
+    "type_id": 3875
+}

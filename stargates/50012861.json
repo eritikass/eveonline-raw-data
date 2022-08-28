@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013152,
+        "system_id": 30004696
+    },
+    "name": "Stargate (G-M4GK)",
+    "position": {
+        "x": 1689891840000,
+        "y": -310442434560,
+        "z": 3365738618880
+    },
+    "stargate_id": 50012861,
+    "system_id": 30004695,
+    "type_id": 29624
+}

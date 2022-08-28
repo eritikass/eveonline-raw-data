@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002391,
+        "system_id": 30002645
+    },
+    "name": "Stargate (Carrou)",
+    "position": {
+        "x": 2635351449600,
+        "y": 423991664640,
+        "z": 1560844492800
+    },
+    "stargate_id": 50003196,
+    "system_id": 30002690,
+    "type_id": 3874
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014194,
+        "system_id": 30012505
+    },
+    "name": "Stargate (Malukker)",
+    "position": {
+        "x": 215680819200,
+        "y": 23676149760,
+        "z": -200839864320
+    },
+    "stargate_id": 50014193,
+    "system_id": 30002511,
+    "type_id": 29633
+}

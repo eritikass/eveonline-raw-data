@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006643,
+        "system_id": 30005239
+    },
+    "name": "Stargate (Aring)",
+    "position": {
+        "x": 1207356334080,
+        "y": -243151380480,
+        "z": 69327544320
+    },
+    "stargate_id": 50007030,
+    "system_id": 30005240,
+    "type_id": 29624
+}

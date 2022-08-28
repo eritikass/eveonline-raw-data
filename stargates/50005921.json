@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004121,
+        "system_id": 30004996
+    },
+    "name": "Stargate (Obalyu)",
+    "position": {
+        "x": 324916715520,
+        "y": -58168074240,
+        "z": -679182458880
+    },
+    "stargate_id": 50005921,
+    "system_id": 30004998,
+    "type_id": 3875
+}

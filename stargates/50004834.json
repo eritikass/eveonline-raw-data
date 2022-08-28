@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012931,
+        "system_id": 30003740
+    },
+    "name": "Stargate (INQ-WR)",
+    "position": {
+        "x": 2172152586240,
+        "y": -201707397120,
+        "z": -1931360624640
+    },
+    "stargate_id": 50004834,
+    "system_id": 30003735,
+    "type_id": 29624
+}

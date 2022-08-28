@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013281,
+        "system_id": 30004922
+    },
+    "name": "Stargate (UEP0-A)",
+    "position": {
+        "x": 2083691765760,
+        "y": 389099888640,
+        "z": 1633510809600
+    },
+    "stargate_id": 50013192,
+    "system_id": 30004921,
+    "type_id": 29633
+}

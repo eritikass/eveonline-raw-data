@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000277,
+        "system_id": 30000023
+    },
+    "name": "Stargate (Fovihi)",
+    "position": {
+        "x": -640894525440,
+        "y": 100990525440,
+        "z": -2285530521600
+    },
+    "stargate_id": 50002890,
+    "system_id": 30000024,
+    "type_id": 29624
+}

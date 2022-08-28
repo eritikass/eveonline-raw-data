@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011118,
+        "system_id": 30004056
+    },
+    "name": "Stargate (8R-RTB)",
+    "position": {
+        "x": 1285329838080,
+        "y": -48025559040,
+        "z": 1662454947840
+    },
+    "stargate_id": 50010924,
+    "system_id": 30004051,
+    "type_id": 3875
+}

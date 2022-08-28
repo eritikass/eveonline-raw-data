@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010488,
+        "system_id": 30004671
+    },
+    "name": "Stargate (O-MCZR)",
+    "position": {
+        "x": -316250972160,
+        "y": 52515102720,
+        "z": 312067153920
+    },
+    "stargate_id": 50010523,
+    "system_id": 30004672,
+    "type_id": 29624
+}

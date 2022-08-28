@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011367,
+        "system_id": 30002093
+    },
+    "name": "Stargate (Gebuladi)",
+    "position": {
+        "x": 546688081920,
+        "y": -50474803200,
+        "z": 807314350080
+    },
+    "stargate_id": 50012091,
+    "system_id": 30002095,
+    "type_id": 29633
+}

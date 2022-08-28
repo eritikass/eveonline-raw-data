@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012288,
+        "system_id": 30003855
+    },
+    "name": "Stargate (Mantenault)",
+    "position": {
+        "x": -2326899548160,
+        "y": -184276869120,
+        "z": 5113420308480
+    },
+    "stargate_id": 50011637,
+    "system_id": 30003854,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016360,
+        "system_id": 30045348
+    },
+    "name": "Stargate (Notoras)",
+    "position": {
+        "x": -166014443520,
+        "y": -23890944000,
+        "z": -961468293120
+    },
+    "stargate_id": 50016359,
+    "system_id": 30045352,
+    "type_id": 16
+}

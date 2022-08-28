@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010928,
+        "system_id": 30004745
+    },
+    "name": "Stargate (T-M0FA)",
+    "position": {
+        "x": -103940874240,
+        "y": 3069911040,
+        "z": -66328535040
+    },
+    "stargate_id": 50010726,
+    "system_id": 30004744,
+    "type_id": 29624
+}

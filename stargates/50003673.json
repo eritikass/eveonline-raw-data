@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007368,
+        "system_id": 30002786
+    },
+    "name": "Stargate (Ikao)",
+    "position": {
+        "x": -2926625955840,
+        "y": 345213296640,
+        "z": 163213516800
+    },
+    "stargate_id": 50003673,
+    "system_id": 30002790,
+    "type_id": 29627
+}

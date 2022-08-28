@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000440,
+        "system_id": 30003489
+    },
+    "name": "Stargate (Chaven)",
+    "position": {
+        "x": 411954094080,
+        "y": -13788733440,
+        "z": 1200412139520
+    },
+    "stargate_id": 50000122,
+    "system_id": 30003488,
+    "type_id": 29624
+}

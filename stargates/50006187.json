@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004275,
+        "system_id": 30002428
+    },
+    "name": "Stargate (M-MD31)",
+    "position": {
+        "x": 484216381440,
+        "y": 89707192320,
+        "z": -67375718400
+    },
+    "stargate_id": 50006187,
+    "system_id": 30002437,
+    "type_id": 16
+}

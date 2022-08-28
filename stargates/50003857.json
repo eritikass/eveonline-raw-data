@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002998,
+        "system_id": 30001074
+    },
+    "name": "Stargate (Z-DDVJ)",
+    "position": {
+        "x": -1126200975360,
+        "y": -1713861550080,
+        "z": 4711719444480
+    },
+    "stargate_id": 50003857,
+    "system_id": 30001132,
+    "type_id": 3874
+}

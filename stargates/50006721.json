@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006445,
+        "system_id": 30001588
+    },
+    "name": "Stargate (7-QOYS)",
+    "position": {
+        "x": -132436746240,
+        "y": -5492367360,
+        "z": -126650572800
+    },
+    "stargate_id": 50006721,
+    "system_id": 30001590,
+    "type_id": 3875
+}

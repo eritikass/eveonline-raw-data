@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004520,
+        "system_id": 30004988
+    },
+    "name": "Stargate (Hulmate)",
+    "position": {
+        "x": -2180717813760,
+        "y": -180359208960,
+        "z": 347071488000
+    },
+    "stargate_id": 50003411,
+    "system_id": 30004987,
+    "type_id": 3875
+}

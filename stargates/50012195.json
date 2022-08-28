@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012033,
+        "system_id": 30004539
+    },
+    "name": "Stargate (BMU-V1)",
+    "position": {
+        "x": 8691077652480,
+        "y": -996391280640,
+        "z": -1811380592640
+    },
+    "stargate_id": 50012195,
+    "system_id": 30004540,
+    "type_id": 3875
+}

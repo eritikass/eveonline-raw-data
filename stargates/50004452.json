@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005982,
+        "system_id": 30005034
+    },
+    "name": "Stargate (Bridi)",
+    "position": {
+        "x": 648407162880,
+        "y": -85109514240,
+        "z": -2267429806080
+    },
+    "stargate_id": 50004452,
+    "system_id": 30005030,
+    "type_id": 29624
+}

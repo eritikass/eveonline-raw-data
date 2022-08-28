@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011154,
+        "system_id": 30004577
+    },
+    "name": "Stargate (RE-C26)",
+    "position": {
+        "x": -636286279680,
+        "y": 49492254720,
+        "z": 3204498186240
+    },
+    "stargate_id": 50011147,
+    "system_id": 30004576,
+    "type_id": 3875
+}

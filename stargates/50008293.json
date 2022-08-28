@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008343,
+        "system_id": 30005058
+    },
+    "name": "Stargate (Neesher)",
+    "position": {
+        "x": -757519687680,
+        "y": 45508239360,
+        "z": 25765109760
+    },
+    "stargate_id": 50008293,
+    "system_id": 30005057,
+    "type_id": 29624
+}

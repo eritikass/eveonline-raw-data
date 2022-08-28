@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016284,
+        "system_id": 30045339
+    },
+    "name": "Stargate (Enaluri)",
+    "position": {
+        "x": -488354242560,
+        "y": -6052208640,
+        "z": -1692333711360
+    },
+    "stargate_id": 50016283,
+    "system_id": 30045342,
+    "type_id": 16
+}

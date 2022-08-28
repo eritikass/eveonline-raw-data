@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010343,
+        "system_id": 30004129
+    },
+    "name": "Stargate (Munory)",
+    "position": {
+        "x": 678199173120,
+        "y": 134696755200,
+        "z": -2734230036480
+    },
+    "stargate_id": 50009170,
+    "system_id": 30004128,
+    "type_id": 29624
+}

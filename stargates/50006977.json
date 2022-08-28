@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011771,
+        "system_id": 30002028
+    },
+    "name": "Stargate (MT9Q-S)",
+    "position": {
+        "x": -2869015633920,
+        "y": 294200647680,
+        "z": 1029011988480
+    },
+    "stargate_id": 50006977,
+    "system_id": 30002024,
+    "type_id": 16
+}

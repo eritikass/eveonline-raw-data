@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014156,
+        "system_id": 30025305
+    },
+    "name": "Stargate (Channace)",
+    "position": {
+        "x": -3492912783360,
+        "y": 76238561280,
+        "z": 354504253440
+    },
+    "stargate_id": 50014155,
+    "system_id": 30005301,
+    "type_id": 3875
+}

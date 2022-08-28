@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006057,
+        "system_id": 30001327
+    },
+    "name": "Stargate (VVD-O6)",
+    "position": {
+        "x": 1013732106240,
+        "y": 119815004160,
+        "z": -187168972800
+    },
+    "stargate_id": 50005937,
+    "system_id": 30001325,
+    "type_id": 16
+}

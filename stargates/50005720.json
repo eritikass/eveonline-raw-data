@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005552,
+        "system_id": 30003792
+    },
+    "name": "Stargate (Ostingele)",
+    "position": {
+        "x": 1553901281280,
+        "y": -4047015813120,
+        "z": 1268352000000
+    },
+    "stargate_id": 50005720,
+    "system_id": 30003800,
+    "type_id": 3874
+}

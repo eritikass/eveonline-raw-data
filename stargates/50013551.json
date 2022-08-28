@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013552,
+        "system_id": 30003484
+    },
+    "name": "Stargate (Sibot)",
+    "position": {
+        "x": -2571688550400,
+        "y": 6434927616000,
+        "z": -644512604160
+    },
+    "stargate_id": 50013551,
+    "system_id": 30003555,
+    "type_id": 17
+}

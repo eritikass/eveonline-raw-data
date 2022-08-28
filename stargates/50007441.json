@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006972,
+        "system_id": 30002070
+    },
+    "name": "Stargate (Uriok)",
+    "position": {
+        "x": -2763421655040,
+        "y": 316419809280,
+        "z": -2399738388480
+    },
+    "stargate_id": 50007441,
+    "system_id": 30002072,
+    "type_id": 29633
+}

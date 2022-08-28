@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010387,
+        "system_id": 30004047
+    },
+    "name": "Stargate (TN-T7T)",
+    "position": {
+        "x": -44497920000,
+        "y": -3435356160,
+        "z": 318630420480
+    },
+    "stargate_id": 50009784,
+    "system_id": 30004045,
+    "type_id": 3875
+}

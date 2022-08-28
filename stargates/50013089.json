@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013162,
+        "system_id": 30004224
+    },
+    "name": "Stargate (42SU-L)",
+    "position": {
+        "x": -445363200000,
+        "y": 56649523200,
+        "z": -88346664960
+    },
+    "stargate_id": 50013089,
+    "system_id": 30004223,
+    "type_id": 3875
+}

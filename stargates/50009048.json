@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008709,
+        "system_id": 30003918
+    },
+    "name": "Stargate (Hakana)",
+    "position": {
+        "x": -2457046671360,
+        "y": 94566604800,
+        "z": -3702317998080
+    },
+    "stargate_id": 50009048,
+    "system_id": 30003921,
+    "type_id": 29624
+}

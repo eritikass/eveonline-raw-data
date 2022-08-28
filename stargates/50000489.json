@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003093,
+        "system_id": 30000077
+    },
+    "name": "Stargate (Odlib)",
+    "position": {
+        "x": -411956551680,
+        "y": 22238699520,
+        "z": -335314575360
+    },
+    "stargate_id": 50000489,
+    "system_id": 30000076,
+    "type_id": 29624
+}

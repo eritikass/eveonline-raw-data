@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005645,
+        "system_id": 30000933
+    },
+    "name": "Stargate (AI-EVH)",
+    "position": {
+        "x": -3345232650240,
+        "y": 433756200960,
+        "z": -842178109440
+    },
+    "stargate_id": 50005906,
+    "system_id": 30000934,
+    "type_id": 29633
+}

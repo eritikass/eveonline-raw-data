@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007986,
+        "system_id": 30002090
+    },
+    "name": "Stargate (Frerstorn)",
+    "position": {
+        "x": 5142558105600,
+        "y": 2641305600,
+        "z": 4006284533760
+    },
+    "stargate_id": 50010810,
+    "system_id": 30002092,
+    "type_id": 29633
+}

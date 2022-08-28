@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010375,
+        "system_id": 30004667
+    },
+    "name": "Stargate (JI-K5H)",
+    "position": {
+        "x": -2940950323200,
+        "y": 549043200000,
+        "z": -1047947550720
+    },
+    "stargate_id": 50010388,
+    "system_id": 30004669,
+    "type_id": 29624
+}

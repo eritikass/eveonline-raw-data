@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013153,
+        "system_id": 30001936
+    },
+    "name": "Stargate (RP-H66)",
+    "position": {
+        "x": -174683873280,
+        "y": -24335032320,
+        "z": 2338232524800
+    },
+    "stargate_id": 50013108,
+    "system_id": 30001935,
+    "type_id": 29624
+}

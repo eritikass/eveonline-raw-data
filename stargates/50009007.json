@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009042,
+        "system_id": 30001872
+    },
+    "name": "Stargate (WBLF-0)",
+    "position": {
+        "x": -3525844131840,
+        "y": 52348231680,
+        "z": -269623664640
+    },
+    "stargate_id": 50009007,
+    "system_id": 30001871,
+    "type_id": 29624
+}

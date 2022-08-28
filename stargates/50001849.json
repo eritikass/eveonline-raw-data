@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000749,
+        "system_id": 30000737
+    },
+    "name": "Stargate (KD-KPR)",
+    "position": {
+        "x": -1585307197440,
+        "y": 261945139200,
+        "z": 4242529198080
+    },
+    "stargate_id": 50001849,
+    "system_id": 30000741,
+    "type_id": 29633
+}

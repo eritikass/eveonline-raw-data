@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001608,
+        "system_id": 30000020
+    },
+    "name": "Stargate (Lilmad)",
+    "position": {
+        "x": -2283192115200,
+        "y": -354270781440,
+        "z": -3835769610240
+    },
+    "stargate_id": 50000298,
+    "system_id": 30000017,
+    "type_id": 29624
+}

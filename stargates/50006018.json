@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006786,
+        "system_id": 30002904
+    },
+    "name": "Stargate (VFK-IV)",
+    "position": {
+        "x": -955063296000,
+        "y": 162822266880,
+        "z": 1033998213120
+    },
+    "stargate_id": 50006018,
+    "system_id": 30002903,
+    "type_id": 16
+}

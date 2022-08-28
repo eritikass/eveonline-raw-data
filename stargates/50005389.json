@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011769,
+        "system_id": 30001686
+    },
+    "name": "Stargate (Rethan)",
+    "position": {
+        "x": -718609489920,
+        "y": 53124833280,
+        "z": -214015549440
+    },
+    "stargate_id": 50005389,
+    "system_id": 30001682,
+    "type_id": 29624
+}

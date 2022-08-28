@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006837,
+        "system_id": 30000111
+    },
+    "name": "Stargate (Hothomouh)",
+    "position": {
+        "x": 1304348712960,
+        "y": 58878812160,
+        "z": 2696263557120
+    },
+    "stargate_id": 50003744,
+    "system_id": 30000108,
+    "type_id": 29624
+}

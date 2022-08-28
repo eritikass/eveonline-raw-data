@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013494,
+        "system_id": 30001947
+    },
+    "name": "Stargate (373Z-7)",
+    "position": {
+        "x": 4537706127360,
+        "y": 9991004160,
+        "z": -1805839687680
+    },
+    "stargate_id": 50013491,
+    "system_id": 30001946,
+    "type_id": 29624
+}

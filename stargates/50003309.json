@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005467,
+        "system_id": 30000537
+    },
+    "name": "Stargate (G063-U)",
+    "position": {
+        "x": 3845837414400,
+        "y": 1045417451520,
+        "z": 2186064814080
+    },
+    "stargate_id": 50003309,
+    "system_id": 30000596,
+    "type_id": 3877
+}

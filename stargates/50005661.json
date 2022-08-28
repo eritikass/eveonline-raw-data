@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007378,
+        "system_id": 30003534
+    },
+    "name": "Stargate (Namaili)",
+    "position": {
+        "x": -738817105920,
+        "y": 139506278400,
+        "z": -598681559040
+    },
+    "stargate_id": 50005661,
+    "system_id": 30003530,
+    "type_id": 29624
+}

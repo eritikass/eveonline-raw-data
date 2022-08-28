@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003653,
+        "system_id": 30000726
+    },
+    "name": "Stargate (71-UTX)",
+    "position": {
+        "x": -1276147015680,
+        "y": 32381706240,
+        "z": 4544576593920
+    },
+    "stargate_id": 50005956,
+    "system_id": 30000729,
+    "type_id": 29633
+}

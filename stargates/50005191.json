@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005100,
+        "system_id": 30001303
+    },
+    "name": "Stargate (VG-6CH)",
+    "position": {
+        "x": 1269719040,
+        "y": -242442240,
+        "z": 33010360320
+    },
+    "stargate_id": 50005191,
+    "system_id": 30001304,
+    "type_id": 16
+}

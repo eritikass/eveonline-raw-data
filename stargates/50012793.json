@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013432,
+        "system_id": 30002184
+    },
+    "name": "Stargate (DR-427)",
+    "position": {
+        "x": 678614753280,
+        "y": 136230543360,
+        "z": -414593064960
+    },
+    "stargate_id": 50012793,
+    "system_id": 30002180,
+    "type_id": 29633
+}

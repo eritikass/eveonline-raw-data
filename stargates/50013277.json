@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012093,
+        "system_id": 30002095
+    },
+    "name": "Stargate (Eszur)",
+    "position": {
+        "x": 1184699473920,
+        "y": -101804236800,
+        "z": 1290216775680
+    },
+    "stargate_id": 50013277,
+    "system_id": 30002096,
+    "type_id": 29633
+}

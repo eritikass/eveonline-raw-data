@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011069,
+        "system_id": 30005142
+    },
+    "name": "Stargate (W-KXEX)",
+    "position": {
+        "x": 9274122240,
+        "y": -1480826880,
+        "z": -160084008960
+    },
+    "stargate_id": 50007333,
+    "system_id": 30005140,
+    "type_id": 3875
+}

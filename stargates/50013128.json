@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013359,
+        "system_id": 30004916
+    },
+    "name": "Stargate (H90-C9)",
+    "position": {
+        "x": 35041075200,
+        "y": -4036485120,
+        "z": -144421969920
+    },
+    "stargate_id": 50013128,
+    "system_id": 30004912,
+    "type_id": 29633
+}

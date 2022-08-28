@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003434,
+        "system_id": 30001655
+    },
+    "name": "Stargate (Imeshasa)",
+    "position": {
+        "x": 1748344627200,
+        "y": 2996469719040,
+        "z": 1253338275840
+    },
+    "stargate_id": 50003569,
+    "system_id": 30001675,
+    "type_id": 17
+}

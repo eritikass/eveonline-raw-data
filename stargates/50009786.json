@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010731,
+        "system_id": 30003093
+    },
+    "name": "Stargate (Ayeroilen)",
+    "position": {
+        "x": -823692288000,
+        "y": 93543014400,
+        "z": 831476244480
+    },
+    "stargate_id": 50009786,
+    "system_id": 30003092,
+    "type_id": 29624
+}

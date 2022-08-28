@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010775,
+        "system_id": 30004731
+    },
+    "name": "Stargate (JP4-AA)",
+    "position": {
+        "x": 1469389332480,
+        "y": 246054297600,
+        "z": -893461831680
+    },
+    "stargate_id": 50010961,
+    "system_id": 30004736,
+    "type_id": 29624
+}

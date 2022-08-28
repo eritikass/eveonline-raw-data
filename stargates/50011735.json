@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011338,
+        "system_id": 30000321
+    },
+    "name": "Stargate (MGAM-4)",
+    "position": {
+        "x": 243166126080,
+        "y": -14671503360,
+        "z": 3989082071040
+    },
+    "stargate_id": 50011735,
+    "system_id": 30000324,
+    "type_id": 16
+}

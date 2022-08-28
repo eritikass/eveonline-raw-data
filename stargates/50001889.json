@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001068,
+        "system_id": 30000617
+    },
+    "name": "Stargate (W2T-TR)",
+    "position": {
+        "x": 332037365760,
+        "y": -66570854400,
+        "z": 1411054018560
+    },
+    "stargate_id": 50001889,
+    "system_id": 30000622,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009432,
+        "system_id": 30003924
+    },
+    "name": "Stargate (Dimoohan)",
+    "position": {
+        "x": -425887948800,
+        "y": -64531537920,
+        "z": -756508876800
+    },
+    "stargate_id": 50009130,
+    "system_id": 30003923,
+    "type_id": 29624
+}

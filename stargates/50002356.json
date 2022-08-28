@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003009,
+        "system_id": 30001203
+    },
+    "name": "Stargate (AX-DOT)",
+    "position": {
+        "x": 3795028500480,
+        "y": 19124674560,
+        "z": -695715962880
+    },
+    "stargate_id": 50002356,
+    "system_id": 30001198,
+    "type_id": 29624
+}

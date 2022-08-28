@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001810,
+        "system_id": 30001647
+    },
+    "name": "Stargate (Anjedin)",
+    "position": {
+        "x": -1182906654720,
+        "y": 214404096000,
+        "z": 3018310164480
+    },
+    "stargate_id": 50000877,
+    "system_id": 30001645,
+    "type_id": 29624
+}

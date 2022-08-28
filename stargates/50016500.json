@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016501,
+        "system_id": 30003504
+    },
+    "name": "Stargate (Niarja)",
+    "position": {
+        "x": 16339293779.39043,
+        "y": -240713683.8243813,
+        "z": 63250691291.812195
+    },
+    "stargate_id": 50016500,
+    "system_id": 30002225,
+    "type_id": 56317
+}

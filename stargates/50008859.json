@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009026,
+        "system_id": 30003115
+    },
+    "name": "Stargate (D-FVI7)",
+    "position": {
+        "x": 638211563520,
+        "y": 90149806080,
+        "z": -1337204121600
+    },
+    "stargate_id": 50008859,
+    "system_id": 30003114,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011655,
+        "system_id": 30004571
+    },
+    "name": "Stargate (Q-XEB3)",
+    "position": {
+        "x": -465464156160,
+        "y": -87986872320,
+        "z": 1406568652800
+    },
+    "stargate_id": 50011626,
+    "system_id": 30004569,
+    "type_id": 3875
+}

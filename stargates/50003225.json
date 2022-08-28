@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002989,
+        "system_id": 30001670
+    },
+    "name": "Stargate (Baviasi)",
+    "position": {
+        "x": 660366336000,
+        "y": 65272012800,
+        "z": 419593789440
+    },
+    "stargate_id": 50003225,
+    "system_id": 30001671,
+    "type_id": 29624
+}

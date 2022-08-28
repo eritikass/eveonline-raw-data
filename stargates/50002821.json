@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002896,
+        "system_id": 30001268
+    },
+    "name": "Stargate (P-FSQE)",
+    "position": {
+        "x": -179467591680,
+        "y": 441281617920,
+        "z": 2984825610240
+    },
+    "stargate_id": 50002821,
+    "system_id": 30001267,
+    "type_id": 29627
+}

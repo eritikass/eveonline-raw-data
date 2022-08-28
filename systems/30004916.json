@@ -1,0 +1,74 @@
+{
+    "constellation_id": 20000719,
+    "name": "H90-C9",
+    "planets": [
+        {
+            "planet_id": 40311529
+        },
+        {
+            "moons": [
+                40311531
+            ],
+            "planet_id": 40311530
+        },
+        {
+            "asteroid_belts": [
+                40311533,
+                40311534
+            ],
+            "planet_id": 40311532
+        },
+        {
+            "asteroid_belts": [
+                40311536
+            ],
+            "planet_id": 40311535
+        },
+        {
+            "asteroid_belts": [
+                40311538
+            ],
+            "planet_id": 40311537
+        },
+        {
+            "asteroid_belts": [
+                40311541
+            ],
+            "moons": [
+                40311540
+            ],
+            "planet_id": 40311539
+        },
+        {
+            "moons": [
+                40311543,
+                40311544
+            ],
+            "planet_id": 40311542
+        },
+        {
+            "asteroid_belts": [
+                40311546
+            ],
+            "planet_id": 40311545
+        },
+        {
+            "asteroid_belts": [
+                40311548
+            ],
+            "planet_id": 40311547
+        }
+    ],
+    "position": {
+        "x": 128842450091409400,
+        "y": -23048703603080610,
+        "z": -411784387679265200
+    },
+    "security_class": "F3",
+    "security_status": -0.5321984887123108,
+    "star_id": 40311528,
+    "stargates": [
+        50013359
+    ],
+    "system_id": 30004916
+}

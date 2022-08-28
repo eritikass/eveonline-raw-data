@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000128,
+        "system_id": 30000936
+    },
+    "name": "Stargate (GF-3FL)",
+    "position": {
+        "x": 1682580725760,
+        "y": -277773312000,
+        "z": -135258562560
+    },
+    "stargate_id": 50001520,
+    "system_id": 30000940,
+    "type_id": 29633
+}

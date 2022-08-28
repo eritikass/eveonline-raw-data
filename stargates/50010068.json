@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008974,
+        "system_id": 30002213
+    },
+    "name": "Stargate (Mazitah)",
+    "position": {
+        "x": -315730452480,
+        "y": 43572633600,
+        "z": 2322425978880
+    },
+    "stargate_id": 50010068,
+    "system_id": 30002215,
+    "type_id": 29624
+}

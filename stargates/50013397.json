@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011931,
+        "system_id": 30003938
+    },
+    "name": "Stargate (Fanathor)",
+    "position": {
+        "x": 5610579025920,
+        "y": 1108908564480,
+        "z": -597222727680
+    },
+    "stargate_id": 50013397,
+    "system_id": 30003940,
+    "type_id": 29624
+}

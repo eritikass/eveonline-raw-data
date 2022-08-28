@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008613,
+        "system_id": 30002247
+    },
+    "name": "Stargate (Ahala)",
+    "position": {
+        "x": -1094418554880,
+        "y": 28176261120,
+        "z": -147988930560
+    },
+    "stargate_id": 50008055,
+    "system_id": 30002245,
+    "type_id": 29624
+}

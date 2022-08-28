@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006731,
+        "system_id": 30002253
+    },
+    "name": "Stargate (Arshat)",
+    "position": {
+        "x": -3874459607040,
+        "y": -209410744320,
+        "z": -51082076160
+    },
+    "stargate_id": 50008185,
+    "system_id": 30002254,
+    "type_id": 29624
+}

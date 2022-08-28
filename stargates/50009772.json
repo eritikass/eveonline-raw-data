@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009764,
+        "system_id": 30004706
+    },
+    "name": "Stargate (UHKL-N)",
+    "position": {
+        "x": 1371127111680,
+        "y": -70573056000,
+        "z": 928229744640
+    },
+    "stargate_id": 50009772,
+    "system_id": 30004707,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005600,
+        "system_id": 30005323
+    },
+    "name": "Stargate (Sortet)",
+    "position": {
+        "x": 701897072640,
+        "y": -61522452480,
+        "z": 676479836160
+    },
+    "stargate_id": 50005668,
+    "system_id": 30005324,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005973,
+        "system_id": 30002458
+    },
+    "name": "Stargate (LX-ZOJ)",
+    "position": {
+        "x": -39942512640,
+        "y": 5960785920,
+        "z": -389739847680
+    },
+    "stargate_id": 50006536,
+    "system_id": 30002460,
+    "type_id": 16
+}

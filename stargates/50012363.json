@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012192,
+        "system_id": 30004617
+    },
+    "name": "Stargate (YZ-LQL)",
+    "position": {
+        "x": -125104742400,
+        "y": -16244367360,
+        "z": 108195471360
+    },
+    "stargate_id": 50012363,
+    "system_id": 30004620,
+    "type_id": 3875
+}

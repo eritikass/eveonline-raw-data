@@ -1,0 +1,69 @@
+{
+    "constellation_id": 20000641,
+    "name": "D4R-H7",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40277595
+            ],
+            "planet_id": 40277594
+        },
+        {
+            "asteroid_belts": [
+                40277597
+            ],
+            "planet_id": 40277596
+        },
+        {
+            "asteroid_belts": [
+                40277599
+            ],
+            "planet_id": 40277598
+        },
+        {
+            "asteroid_belts": [
+                40277601
+            ],
+            "planet_id": 40277600
+        },
+        {
+            "moons": [
+                40277603,
+                40277604
+            ],
+            "planet_id": 40277602
+        },
+        {
+            "moons": [
+                40277606,
+                40277607,
+                40277608,
+                40277609
+            ],
+            "planet_id": 40277605
+        },
+        {
+            "asteroid_belts": [
+                40277611
+            ],
+            "moons": [
+                40277612,
+                40277613
+            ],
+            "planet_id": 40277610
+        }
+    ],
+    "position": {
+        "x": -168018666146391070,
+        "y": 68953194566893336,
+        "z": 438538642709406000
+    },
+    "security_class": "H7",
+    "security_status": -1,
+    "star_id": 40277593,
+    "stargates": [
+        50011647,
+        50011648
+    ],
+    "system_id": 30004386
+}

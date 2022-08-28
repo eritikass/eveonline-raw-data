@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005292,
+        "system_id": 30000892
+    },
+    "name": "Stargate (C8VC-S)",
+    "position": {
+        "x": -1016471347200,
+        "y": -56653455360,
+        "z": -1108821811200
+    },
+    "stargate_id": 50004899,
+    "system_id": 30000891,
+    "type_id": 16
+}

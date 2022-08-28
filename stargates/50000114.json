@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001010,
+        "system_id": 30002752
+    },
+    "name": "Stargate (Ahynada)",
+    "position": {
+        "x": 3802775838720,
+        "y": 14367006720,
+        "z": -3583071313920
+    },
+    "stargate_id": 50000114,
+    "system_id": 30002750,
+    "type_id": 16
+}

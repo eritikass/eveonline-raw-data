@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010889,
+        "system_id": 30001923
+    },
+    "name": "Stargate (LC-1ED)",
+    "position": {
+        "x": 1989274460160,
+        "y": -33699962880,
+        "z": -1069174333440
+    },
+    "stargate_id": 50010955,
+    "system_id": 30001924,
+    "type_id": 29624
+}

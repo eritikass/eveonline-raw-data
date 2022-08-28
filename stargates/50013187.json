@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012680,
+        "system_id": 30001909
+    },
+    "name": "Stargate (E7-WSY)",
+    "position": {
+        "x": 405735874560,
+        "y": 64982507520,
+        "z": -1037942661120
+    },
+    "stargate_id": 50013187,
+    "system_id": 30001910,
+    "type_id": 29624
+}

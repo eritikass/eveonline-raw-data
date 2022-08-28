@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007878,
+        "system_id": 30004413
+    },
+    "name": "Stargate (OXC-UL)",
+    "position": {
+        "x": 667580375040,
+        "y": -22670745600,
+        "z": -418686689280
+    },
+    "stargate_id": 50007108,
+    "system_id": 30004410,
+    "type_id": 29633
+}

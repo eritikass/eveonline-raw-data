@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008265,
+        "system_id": 30002910
+    },
+    "name": "Stargate (NC-N3F)",
+    "position": {
+        "x": -267562475520,
+        "y": -50370109440,
+        "z": 827394416640
+    },
+    "stargate_id": 50007373,
+    "system_id": 30002909,
+    "type_id": 16
+}

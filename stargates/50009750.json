@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002188,
+        "system_id": 30001404
+    },
+    "name": "Stargate (Airkio)",
+    "position": {
+        "x": 717268377600,
+        "y": -134470410240,
+        "z": 287008727040
+    },
+    "stargate_id": 50009750,
+    "system_id": 30001405,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003253,
+        "system_id": 30000078
+    },
+    "name": "Stargate (Jofan)",
+    "position": {
+        "x": -564728832000,
+        "y": 55823032320,
+        "z": 210382479360
+    },
+    "stargate_id": 50003094,
+    "system_id": 30000077,
+    "type_id": 29624
+}

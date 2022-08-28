@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009789,
+        "system_id": 30002631
+    },
+    "name": "Stargate (DDI-B7)",
+    "position": {
+        "x": 552246927360,
+        "y": -93092290560,
+        "z": -192478617600
+    },
+    "stargate_id": 50009441,
+    "system_id": 30002630,
+    "type_id": 29633
+}

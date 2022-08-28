@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010882,
+        "system_id": 30002681
+    },
+    "name": "Stargate (Deltole)",
+    "position": {
+        "x": -65263165440,
+        "y": -3366297600,
+        "z": 441846620160
+    },
+    "stargate_id": 50010435,
+    "system_id": 30002680,
+    "type_id": 3875
+}

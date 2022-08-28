@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004170,
+        "system_id": 30000984
+    },
+    "name": "Stargate (V89M-R)",
+    "position": {
+        "x": 1085534822400,
+        "y": 208932495360,
+        "z": -626004418560
+    },
+    "stargate_id": 50004202,
+    "system_id": 30000985,
+    "type_id": 29633
+}

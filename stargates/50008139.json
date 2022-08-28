@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007405,
+        "system_id": 30005250
+    },
+    "name": "Stargate (Habu)",
+    "position": {
+        "x": 1641354485760,
+        "y": -331024834560,
+        "z": -296630476800
+    },
+    "stargate_id": 50008139,
+    "system_id": 30005254,
+    "type_id": 29624
+}

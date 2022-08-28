@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011451,
+        "system_id": 30004011
+    },
+    "name": "Stargate (N-M1A3)",
+    "position": {
+        "x": 775808409600,
+        "y": -3522152570880,
+        "z": 7517071810560
+    },
+    "stargate_id": 50012171,
+    "system_id": 30004031,
+    "type_id": 17
+}

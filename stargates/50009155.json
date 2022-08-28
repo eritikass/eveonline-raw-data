@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010236,
+        "system_id": 30003961
+    },
+    "name": "Stargate (9-HM04)",
+    "position": {
+        "x": 2549994332160,
+        "y": 369057914880,
+        "z": 1916992757760
+    },
+    "stargate_id": 50009155,
+    "system_id": 30003956,
+    "type_id": 29624
+}

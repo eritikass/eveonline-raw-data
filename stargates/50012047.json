@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011319,
+        "system_id": 30001255
+    },
+    "name": "Stargate (Y-PNRL)",
+    "position": {
+        "x": -365283532800,
+        "y": 1179525120,
+        "z": -79381340160
+    },
+    "stargate_id": 50012047,
+    "system_id": 30001256,
+    "type_id": 29624
+}

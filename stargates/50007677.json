@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007918,
+        "system_id": 30005056
+    },
+    "name": "Stargate (Kizama)",
+    "position": {
+        "x": -1183684976640,
+        "y": 2826362880,
+        "z": -2507099873280
+    },
+    "stargate_id": 50007677,
+    "system_id": 30005054,
+    "type_id": 17
+}

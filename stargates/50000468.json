@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004085,
+        "system_id": 30000035
+    },
+    "name": "Stargate (Nimambal)",
+    "position": {
+        "x": 1147166515200,
+        "y": 168736481280,
+        "z": -1618802565120
+    },
+    "stargate_id": 50000468,
+    "system_id": 30000031,
+    "type_id": 29624
+}

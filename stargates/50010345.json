@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010548,
+        "system_id": 30005277
+    },
+    "name": "Stargate (Pirna)",
+    "position": {
+        "x": 481053450240,
+        "y": 48032440320,
+        "z": -484179271680
+    },
+    "stargate_id": 50010345,
+    "system_id": 30005276,
+    "type_id": 29624
+}

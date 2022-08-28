@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011972,
+        "system_id": 30004274
+    },
+    "name": "Stargate (Nielez)",
+    "position": {
+        "x": -6303464693760,
+        "y": 629020631040,
+        "z": -4039298703360
+    },
+    "stargate_id": 50011534,
+    "system_id": 30004273,
+    "type_id": 29624
+}

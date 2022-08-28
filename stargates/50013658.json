@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013657,
+        "system_id": 30002415
+    },
+    "name": "Stargate (Weld)",
+    "position": {
+        "x": 367746048000,
+        "y": -59401789440,
+        "z": 1380435025920
+    },
+    "stargate_id": 50013658,
+    "system_id": 30002419,
+    "type_id": 29633
+}

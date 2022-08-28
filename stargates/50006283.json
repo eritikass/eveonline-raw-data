@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006912,
+        "system_id": 30003550
+    },
+    "name": "Stargate (Zhilshinou)",
+    "position": {
+        "x": -2859986657280,
+        "y": -28467978240,
+        "z": 183498547200
+    },
+    "stargate_id": 50006283,
+    "system_id": 30003547,
+    "type_id": 29624
+}

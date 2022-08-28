@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009969,
+        "system_id": 30003993
+    },
+    "name": "Stargate (BX2-ZX)",
+    "position": {
+        "x": 644066549760,
+        "y": 23708098560,
+        "z": -731917148160
+    },
+    "stargate_id": 50009681,
+    "system_id": 30003991,
+    "type_id": 29624
+}

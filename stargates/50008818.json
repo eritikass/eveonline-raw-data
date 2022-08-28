@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009604,
+        "system_id": 30003348
+    },
+    "name": "Stargate (5KS-AB)",
+    "position": {
+        "x": -599251722240,
+        "y": 67042959360,
+        "z": -548342538240
+    },
+    "stargate_id": 50008818,
+    "system_id": 30003342,
+    "type_id": 3875
+}

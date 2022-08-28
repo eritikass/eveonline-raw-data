@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012584,
+        "system_id": 30004076
+    },
+    "name": "Stargate (P5-KCC)",
+    "position": {
+        "x": 6374815703040,
+        "y": 32491806720,
+        "z": -1996428533760
+    },
+    "stargate_id": 50012431,
+    "system_id": 30004075,
+    "type_id": 3875
+}

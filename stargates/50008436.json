@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008114,
+        "system_id": 30003907
+    },
+    "name": "Stargate (Tegheon)",
+    "position": {
+        "x": 1681753989120,
+        "y": 6983580672000,
+        "z": -13486516346880
+    },
+    "stargate_id": 50008436,
+    "system_id": 30003916,
+    "type_id": 17
+}

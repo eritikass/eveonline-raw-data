@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007636,
+        "system_id": 30002870
+    },
+    "name": "Stargate (PNFW-O)",
+    "position": {
+        "x": -2845239582720,
+        "y": -38426173440,
+        "z": 433823539200
+    },
+    "stargate_id": 50007733,
+    "system_id": 30002871,
+    "type_id": 3875
+}

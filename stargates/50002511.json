@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002837,
+        "system_id": 30001072
+    },
+    "name": "Stargate (ZT-L3S)",
+    "position": {
+        "x": -1128176394240,
+        "y": -12514959360,
+        "z": -3990844661760
+    },
+    "stargate_id": 50002511,
+    "system_id": 30001071,
+    "type_id": 3875
+}

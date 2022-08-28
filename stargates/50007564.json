@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005689,
+        "system_id": 30002653
+    },
+    "name": "Stargate (Gratesier)",
+    "position": {
+        "x": 80296550400,
+        "y": 14443438080,
+        "z": -23819919360
+    },
+    "stargate_id": 50007564,
+    "system_id": 30002654,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008652,
+        "system_id": 30003623
+    },
+    "name": "Stargate (U1TX-A)",
+    "position": {
+        "x": 292860272640,
+        "y": -12773007360,
+        "z": -990504591360
+    },
+    "stargate_id": 50008751,
+    "system_id": 30003625,
+    "type_id": 16
+}

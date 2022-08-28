@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006137,
+        "system_id": 30001111
+    },
+    "name": "Stargate (6-WMKE)",
+    "position": {
+        "x": -4224087859200,
+        "y": -128874209280,
+        "z": -5578549862400
+    },
+    "stargate_id": 50003213,
+    "system_id": 30001110,
+    "type_id": 3875
+}

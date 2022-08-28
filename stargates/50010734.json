@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011021,
+        "system_id": 30000197
+    },
+    "name": "Stargate (Uemon)",
+    "position": {
+        "x": 339495690240,
+        "y": 15757271040,
+        "z": -143708528640
+    },
+    "stargate_id": 50010734,
+    "system_id": 30000196,
+    "type_id": 16
+}

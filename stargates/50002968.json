@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002009,
+        "system_id": 30002837
+    },
+    "name": "Stargate (QZX-L9)",
+    "position": {
+        "x": -1128095539200,
+        "y": 764536872960,
+        "z": -339093626880
+    },
+    "stargate_id": 50002968,
+    "system_id": 30001097,
+    "type_id": 29632
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000097,
+        "system_id": 30001017
+    },
+    "name": "Stargate (8G-MQV)",
+    "position": {
+        "x": 638958182400,
+        "y": 37551022080,
+        "z": 4257864867840
+    },
+    "stargate_id": 50001712,
+    "system_id": 30001019,
+    "type_id": 29633
+}

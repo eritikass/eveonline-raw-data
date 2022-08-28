@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001839,
+        "system_id": 30000710
+    },
+    "name": "Stargate (KZFV-4)",
+    "position": {
+        "x": -1961392742400,
+        "y": 14931517440,
+        "z": -141946920960
+    },
+    "stargate_id": 50000350,
+    "system_id": 30000709,
+    "type_id": 29633
+}

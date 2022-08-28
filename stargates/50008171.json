@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009177,
+        "system_id": 30003769
+    },
+    "name": "Stargate (R3-K7K)",
+    "position": {
+        "x": 1775729418240,
+        "y": 144206438400,
+        "z": 3132538675200
+    },
+    "stargate_id": 50008171,
+    "system_id": 30003767,
+    "type_id": 29624
+}

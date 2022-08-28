@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002450,
+        "system_id": 30002198
+    },
+    "name": "Stargate (Mikhir)",
+    "position": {
+        "x": -1191103242240,
+        "y": -77078814720,
+        "z": -547849052160
+    },
+    "stargate_id": 50003690,
+    "system_id": 30002203,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005485,
+        "system_id": 30000491
+    },
+    "name": "Stargate (A-7XFN)",
+    "position": {
+        "x": 3992097054720,
+        "y": -503213383680,
+        "z": 1043548200960
+    },
+    "stargate_id": 50005372,
+    "system_id": 30000490,
+    "type_id": 29633
+}

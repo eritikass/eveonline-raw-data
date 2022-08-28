@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003668,
+        "system_id": 30004812
+    },
+    "name": "Stargate (RH0-EG)",
+    "position": {
+        "x": 3581422510080,
+        "y": 113257144320,
+        "z": -92943360000
+    },
+    "stargate_id": 50004082,
+    "system_id": 30004813,
+    "type_id": 29633
+}

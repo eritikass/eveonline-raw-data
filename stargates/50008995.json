@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006664,
+        "system_id": 30003412
+    },
+    "name": "Stargate (Elgoi)",
+    "position": {
+        "x": -2225626275840,
+        "y": -2734975672320,
+        "z": -3327994060800
+    },
+    "stargate_id": 50008995,
+    "system_id": 30003453,
+    "type_id": 3877
+}

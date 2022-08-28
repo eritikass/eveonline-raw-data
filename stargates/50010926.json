@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010791,
+        "system_id": 30004237
+    },
+    "name": "Stargate (Kenahehab)",
+    "position": {
+        "x": 1990302965760,
+        "y": -85504450560,
+        "z": -244692541440
+    },
+    "stargate_id": 50010926,
+    "system_id": 30004238,
+    "type_id": 29624
+}

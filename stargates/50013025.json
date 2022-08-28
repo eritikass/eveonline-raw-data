@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011638,
+        "system_id": 30003854
+    },
+    "name": "Stargate (Alamel)",
+    "position": {
+        "x": -1080715223040,
+        "y": 100728791040,
+        "z": -759438827520
+    },
+    "stargate_id": 50013025,
+    "system_id": 30003857,
+    "type_id": 3875
+}

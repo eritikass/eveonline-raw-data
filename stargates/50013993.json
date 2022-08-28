@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013994,
+        "system_id": 30003471
+    },
+    "name": "Stargate (Konora)",
+    "position": {
+        "x": -1282548817920,
+        "y": 273025228800,
+        "z": 1215860613120
+    },
+    "stargate_id": 50013993,
+    "system_id": 30000999,
+    "type_id": 29634
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008643,
+        "system_id": 30004424
+    },
+    "name": "Stargate (O9V-R7)",
+    "position": {
+        "x": -3876176486400,
+        "y": -350976368640,
+        "z": -1135353815040
+    },
+    "stargate_id": 50008367,
+    "system_id": 30004420,
+    "type_id": 29633
+}

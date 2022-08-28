@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009269,
+        "system_id": 30002885
+    },
+    "name": "Stargate (86L-9F)",
+    "position": {
+        "x": 1430117130240,
+        "y": -127692103680,
+        "z": -610128322560
+    },
+    "stargate_id": 50008912,
+    "system_id": 30002884,
+    "type_id": 3875
+}

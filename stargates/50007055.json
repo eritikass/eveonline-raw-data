@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007198,
+        "system_id": 30001995
+    },
+    "name": "Stargate (M-76XI)",
+    "position": {
+        "x": -1048477163520,
+        "y": -81422868480,
+        "z": 456983961600
+    },
+    "stargate_id": 50007055,
+    "system_id": 30001994,
+    "type_id": 16
+}

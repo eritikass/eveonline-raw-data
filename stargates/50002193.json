@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002079,
+        "system_id": 30000006
+    },
+    "name": "Stargate (Zaid)",
+    "position": {
+        "x": 1756718653440,
+        "y": 13683548160,
+        "z": -453346222080
+    },
+    "stargate_id": 50002193,
+    "system_id": 30000008,
+    "type_id": 29624
+}

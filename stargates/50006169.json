@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006896,
+        "system_id": 30002398
+    },
+    "name": "Stargate (Eldulf)",
+    "position": {
+        "x": -3541678694400,
+        "y": -208307281920,
+        "z": -5632220651520
+    },
+    "stargate_id": 50006169,
+    "system_id": 30002397,
+    "type_id": 29633
+}

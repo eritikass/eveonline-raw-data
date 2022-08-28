@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003457,
+        "system_id": 30005100
+    },
+    "name": "Stargate (E-WMT7)",
+    "position": {
+        "x": -3847132815360,
+        "y": 327241359360,
+        "z": -2391205355520
+    },
+    "stargate_id": 50004687,
+    "system_id": 30005103,
+    "type_id": 3875
+}

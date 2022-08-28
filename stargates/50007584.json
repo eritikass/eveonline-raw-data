@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009289,
+        "system_id": 30003255
+    },
+    "name": "Stargate (LA2-KV)",
+    "position": {
+        "x": 857278095360,
+        "y": 981384929280,
+        "z": 1795305922560
+    },
+    "stargate_id": 50007584,
+    "system_id": 30003195,
+    "type_id": 3874
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004758,
+        "system_id": 30002550
+    },
+    "name": "Stargate (Roniko)",
+    "position": {
+        "x": 703474114560,
+        "y": 120092221440,
+        "z": -875646443520
+    },
+    "stargate_id": 50004720,
+    "system_id": 30002549,
+    "type_id": 29633
+}

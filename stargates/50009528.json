@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009125,
+        "system_id": 30003126
+    },
+    "name": "Stargate (F-UVBV)",
+    "position": {
+        "x": 295519641600,
+        "y": 33554718720,
+        "z": -1114507468800
+    },
+    "stargate_id": 50009528,
+    "system_id": 30003130,
+    "type_id": 29624
+}

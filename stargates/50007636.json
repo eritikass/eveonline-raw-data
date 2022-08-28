@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007733,
+        "system_id": 30002871
+    },
+    "name": "Stargate (HVGR-R)",
+    "position": {
+        "x": 5775298928640,
+        "y": 353817354240,
+        "z": 1476277739520
+    },
+    "stargate_id": 50007636,
+    "system_id": 30002870,
+    "type_id": 3875
+}

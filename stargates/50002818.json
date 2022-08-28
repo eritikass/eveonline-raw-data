@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003149,
+        "system_id": 30000832
+    },
+    "name": "Stargate (27-HP0)",
+    "position": {
+        "x": 1416774574080,
+        "y": -135994122240,
+        "z": 492095447040
+    },
+    "stargate_id": 50002818,
+    "system_id": 30000831,
+    "type_id": 29633
+}

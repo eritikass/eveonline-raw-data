@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010962,
+        "system_id": 30004736
+    },
+    "name": "Stargate (4X0-8B)",
+    "position": {
+        "x": -5296535838720,
+        "y": 4806942720,
+        "z": -2672739655680
+    },
+    "stargate_id": 50010853,
+    "system_id": 30004732,
+    "type_id": 29624
+}

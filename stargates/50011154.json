@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011147,
+        "system_id": 30004576
+    },
+    "name": "Stargate (APM-6K)",
+    "position": {
+        "x": 2208242933760,
+        "y": 204759490560,
+        "z": -2859150336000
+    },
+    "stargate_id": 50011154,
+    "system_id": 30004577,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003356,
+        "system_id": 30000479
+    },
+    "name": "Stargate (SLVP-D)",
+    "position": {
+        "x": 846493655040,
+        "y": -1644139929600,
+        "z": 21933957120
+    },
+    "stargate_id": 50003342,
+    "system_id": 30000471,
+    "type_id": 3877
+}

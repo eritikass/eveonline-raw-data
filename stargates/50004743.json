@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004571,
+        "system_id": 30000160
+    },
+    "name": "Stargate (Reisen)",
+    "position": {
+        "x": -54442598400,
+        "y": -5446410240,
+        "z": -187825152000
+    },
+    "stargate_id": 50004743,
+    "system_id": 30000161,
+    "type_id": 16
+}

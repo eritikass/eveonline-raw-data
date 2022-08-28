@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000453,
+        "system_id": 30000120
+    },
+    "name": "Stargate (Mitsolen)",
+    "position": {
+        "x": -373209784320,
+        "y": -52677058560,
+        "z": 111520358400
+    },
+    "stargate_id": 50000363,
+    "system_id": 30000119,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006056,
+        "system_id": 30001729
+    },
+    "name": "Stargate (Sinid)",
+    "position": {
+        "x": 850021539840,
+        "y": -66723471360,
+        "z": 3062319636480
+    },
+    "stargate_id": 50007749,
+    "system_id": 30001732,
+    "type_id": 29624
+}

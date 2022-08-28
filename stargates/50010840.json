@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002507,
+        "system_id": 30001662
+    },
+    "name": "Stargate (Hibi)",
+    "position": {
+        "x": -103163535360,
+        "y": 2874777600,
+        "z": 36877885440
+    },
+    "stargate_id": 50010840,
+    "system_id": 30001666,
+    "type_id": 29624
+}

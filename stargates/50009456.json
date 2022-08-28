@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009727,
+        "system_id": 30003935
+    },
+    "name": "Stargate (Irmalin)",
+    "position": {
+        "x": -1659214356480,
+        "y": -101263319040,
+        "z": -1273269903360
+    },
+    "stargate_id": 50009456,
+    "system_id": 30003931,
+    "type_id": 29624
+}

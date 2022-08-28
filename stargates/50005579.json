@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005707,
+        "system_id": 30005109
+    },
+    "name": "Stargate (OP7-BP)",
+    "position": {
+        "x": 1104567951360,
+        "y": -28216320000,
+        "z": 356120862720
+    },
+    "stargate_id": 50005579,
+    "system_id": 30005108,
+    "type_id": 3875
+}

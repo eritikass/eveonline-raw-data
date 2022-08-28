@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000025,
+        "system_id": 30000009
+    },
+    "name": "Stargate (Sooma)",
+    "position": {
+        "x": -1335628062720,
+        "y": -176301219840,
+        "z": 1715650191360
+    },
+    "stargate_id": 50000110,
+    "system_id": 30000010,
+    "type_id": 29624
+}

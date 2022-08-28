@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013603,
+        "system_id": 30003883
+    },
+    "name": "Stargate (Keberz)",
+    "position": {
+        "x": -1466887987200,
+        "y": 345008824320,
+        "z": 373707694080
+    },
+    "stargate_id": 50013604,
+    "system_id": 30001161,
+    "type_id": 29625
+}

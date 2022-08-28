@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005346,
+        "system_id": 30001751
+    },
+    "name": "Stargate (O-O2GN)",
+    "position": {
+        "x": -1484289269760,
+        "y": -261841428480,
+        "z": -3218667479040
+    },
+    "stargate_id": 50005422,
+    "system_id": 30001752,
+    "type_id": 3875
+}

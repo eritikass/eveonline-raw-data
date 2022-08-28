@@ -1,0 +1,51 @@
+{
+    "constellation_id": 20000661,
+    "name": "L3-XYO",
+    "planets": [
+        {
+            "planet_id": 40286250
+        },
+        {
+            "asteroid_belts": [
+                40286252
+            ],
+            "moons": [
+                40286253
+            ],
+            "planet_id": 40286251
+        },
+        {
+            "asteroid_belts": [
+                40286255
+            ],
+            "moons": [
+                40286256
+            ],
+            "planet_id": 40286254
+        },
+        {
+            "asteroid_belts": [
+                40286258
+            ],
+            "moons": [
+                40286259,
+                40286260
+            ],
+            "planet_id": 40286257
+        }
+    ],
+    "position": {
+        "x": -377965870367850900,
+        "y": 27531481590401484,
+        "z": 100739519163610240
+    },
+    "security_class": "J",
+    "security_status": -0.10025185346603394,
+    "star_id": 40286249,
+    "stargates": [
+        50010621,
+        50010622,
+        50010623
+    ],
+    "system_id": 30004526
+}

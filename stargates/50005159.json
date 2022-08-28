@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003135,
+        "system_id": 30003186
+    },
+    "name": "Stargate (ND-X7X)",
+    "position": {
+        "x": -1405930168320,
+        "y": 522767278080,
+        "z": -4797066485760
+    },
+    "stargate_id": 50005159,
+    "system_id": 30001135,
+    "type_id": 29632
+}

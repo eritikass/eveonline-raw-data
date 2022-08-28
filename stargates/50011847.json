@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011781,
+        "system_id": 30004191
+    },
+    "name": "Stargate (C2-1B5)",
+    "position": {
+        "x": -628314808320,
+        "y": 107138949120,
+        "z": -5067535441920
+    },
+    "stargate_id": 50011847,
+    "system_id": 30004192,
+    "type_id": 3875
+}

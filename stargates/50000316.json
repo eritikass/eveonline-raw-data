@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001829,
+        "system_id": 30001082
+    },
+    "name": "Stargate (NIM-FY)",
+    "position": {
+        "x": -287778447360,
+        "y": -20627251200,
+        "z": 2150330818560
+    },
+    "stargate_id": 50000316,
+    "system_id": 30001076,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012371,
+        "system_id": 30004683
+    },
+    "name": "Stargate (S-KU8B)",
+    "position": {
+        "x": 222090731520,
+        "y": -5872066560,
+        "z": 294797844480
+    },
+    "stargate_id": 50012541,
+    "system_id": 30004684,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006084,
+        "system_id": 30003736
+    },
+    "name": "Stargate (GN7-XY)",
+    "position": {
+        "x": 1311265628160,
+        "y": 172427059200,
+        "z": -2764761292800
+    },
+    "stargate_id": 50006717,
+    "system_id": 30003737,
+    "type_id": 29624
+}

@@ -1,0 +1,60 @@
+{
+    "constellation_id": 20000757,
+    "name": "W-CSFY",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40327561
+            ],
+            "planet_id": 40327560
+        },
+        {
+            "planet_id": 40327562
+        },
+        {
+            "asteroid_belts": [
+                40327564
+            ],
+            "planet_id": 40327563
+        },
+        {
+            "asteroid_belts": [
+                40327566
+            ],
+            "planet_id": 40327565
+        },
+        {
+            "asteroid_belts": [
+                40327568
+            ],
+            "moons": [
+                40327569
+            ],
+            "planet_id": 40327567
+        },
+        {
+            "asteroid_belts": [
+                40327571,
+                40327572
+            ],
+            "moons": [
+                40327573
+            ],
+            "planet_id": 40327570
+        }
+    ],
+    "position": {
+        "x": 249247706538467330,
+        "y": -12005708991547850,
+        "z": 60584870647700690
+    },
+    "security_class": "K6",
+    "security_status": -0.6229874491691589,
+    "star_id": 40327559,
+    "stargates": [
+        50010180,
+        50010181,
+        50010182
+    ],
+    "system_id": 30005177
+}

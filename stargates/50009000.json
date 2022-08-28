@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009041,
+        "system_id": 30003340
+    },
+    "name": "Stargate (S-GKKR)",
+    "position": {
+        "x": 1141583339520,
+        "y": -65426841600,
+        "z": 5575357685760
+    },
+    "stargate_id": 50009000,
+    "system_id": 30003339,
+    "type_id": 3875
+}

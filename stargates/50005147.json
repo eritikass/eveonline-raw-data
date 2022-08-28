@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010841,
+        "system_id": 30001666
+    },
+    "name": "Stargate (Pera)",
+    "position": {
+        "x": -511194685440,
+        "y": -81345699840,
+        "z": 552621711360
+    },
+    "stargate_id": 50005147,
+    "system_id": 30001663,
+    "type_id": 29624
+}

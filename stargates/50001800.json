@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004569,
+        "system_id": 30004088
+    },
+    "name": "Stargate (Joramok)",
+    "position": {
+        "x": 698293248000,
+        "y": -32753049600,
+        "z": -160605265920
+    },
+    "stargate_id": 50001800,
+    "system_id": 30004085,
+    "type_id": 29624
+}

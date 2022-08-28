@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009914,
+        "system_id": 30005147
+    },
+    "name": "Stargate (PVF-N9)",
+    "position": {
+        "x": -141725245440,
+        "y": -10231848960,
+        "z": -146369372160
+    },
+    "stargate_id": 50011301,
+    "system_id": 30005151,
+    "type_id": 3875
+}

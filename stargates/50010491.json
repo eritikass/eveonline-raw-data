@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010164,
+        "system_id": 30005065
+    },
+    "name": "Stargate (Arzi)",
+    "position": {
+        "x": 2538958970880,
+        "y": 223182151680,
+        "z": -2288490946560
+    },
+    "stargate_id": 50010491,
+    "system_id": 30005067,
+    "type_id": 29624
+}

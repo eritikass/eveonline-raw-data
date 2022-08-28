@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007476,
+        "system_id": 30000518
+    },
+    "name": "Stargate (DVWV-3)",
+    "position": {
+        "x": -137366691840,
+        "y": -8869847040,
+        "z": 54229032960
+    },
+    "stargate_id": 50007338,
+    "system_id": 30000516,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002416,
+        "system_id": 30000721
+    },
+    "name": "Stargate (HJ-BCH)",
+    "position": {
+        "x": 114824355840,
+        "y": -3003555840,
+        "z": -1845668044800
+    },
+    "stargate_id": 50005954,
+    "system_id": 30000729,
+    "type_id": 29633
+}

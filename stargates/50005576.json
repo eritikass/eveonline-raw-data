@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005731,
+        "system_id": 30003418
+    },
+    "name": "Stargate (Hardbako)",
+    "position": {
+        "x": 2927390515200,
+        "y": 417234984960,
+        "z": 561192837120
+    },
+    "stargate_id": 50005576,
+    "system_id": 30003417,
+    "type_id": 29633
+}

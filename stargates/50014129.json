@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014130,
+        "system_id": 30043489
+    },
+    "name": "Stargate (Horir)",
+    "position": {
+        "x": -851857858560,
+        "y": -32412426240,
+        "z": -4871608442880
+    },
+    "stargate_id": 50014129,
+    "system_id": 30003511,
+    "type_id": 29624
+}

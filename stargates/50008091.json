@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008381,
+        "system_id": 30003915
+    },
+    "name": "Stargate (Aurejet)",
+    "position": {
+        "x": -439284817920,
+        "y": -83323084800,
+        "z": 597565440
+    },
+    "stargate_id": 50008091,
+    "system_id": 30003913,
+    "type_id": 29624
+}

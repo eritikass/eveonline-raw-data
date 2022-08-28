@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011202,
+        "system_id": 30002729
+    },
+    "name": "Stargate (Aetree)",
+    "position": {
+        "x": 811294924800,
+        "y": 144304988160,
+        "z": 1389652254720
+    },
+    "stargate_id": 50011758,
+    "system_id": 30002730,
+    "type_id": 3875
+}

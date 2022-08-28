@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002958,
+        "system_id": 30000977
+    },
+    "name": "Stargate (P7UZ-T)",
+    "position": {
+        "x": 2240022405120,
+        "y": -977859256320,
+        "z": 8242004090880
+    },
+    "stargate_id": 50000382,
+    "system_id": 30000906,
+    "type_id": 3877
+}

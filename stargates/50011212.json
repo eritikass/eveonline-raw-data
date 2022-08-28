@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011871,
+        "system_id": 30004757
+    },
+    "name": "Stargate (F-TE1T)",
+    "position": {
+        "x": 629171773440,
+        "y": 44478750720,
+        "z": -3234730598400
+    },
+    "stargate_id": 50011212,
+    "system_id": 30004751,
+    "type_id": 29624
+}

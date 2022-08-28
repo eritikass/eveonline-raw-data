@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007900,
+        "system_id": 30004414
+    },
+    "name": "Stargate (F-8Y13)",
+    "position": {
+        "x": 480466575360,
+        "y": -16216842240,
+        "z": -2002132623360
+    },
+    "stargate_id": 50007109,
+    "system_id": 30004410,
+    "type_id": 29633
+}

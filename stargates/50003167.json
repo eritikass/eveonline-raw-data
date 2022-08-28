@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001359,
+        "system_id": 30000447
+    },
+    "name": "Stargate (XSUD-1)",
+    "position": {
+        "x": 6741085347840,
+        "y": 838963077120,
+        "z": 4022526566400
+    },
+    "stargate_id": 50003167,
+    "system_id": 30000472,
+    "type_id": 3877
+}

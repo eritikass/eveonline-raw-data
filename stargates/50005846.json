@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006220,
+        "system_id": 30002349
+    },
+    "name": "Stargate (E8-432)",
+    "position": {
+        "x": -3774568488960,
+        "y": 198018539520,
+        "z": -2685076807680
+    },
+    "stargate_id": 50005846,
+    "system_id": 30002346,
+    "type_id": 3875
+}

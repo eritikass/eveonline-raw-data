@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011053,
+        "system_id": 30004368
+    },
+    "name": "Stargate (WO-AIJ)",
+    "position": {
+        "x": 3135565701120,
+        "y": -116392304640,
+        "z": 85302435840
+    },
+    "stargate_id": 50011140,
+    "system_id": 30004369,
+    "type_id": 16
+}

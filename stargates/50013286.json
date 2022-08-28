@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013240,
+        "system_id": 30001951
+    },
+    "name": "Stargate (5J-UEX)",
+    "position": {
+        "x": -39975936000,
+        "y": 4668579840,
+        "z": -285825884160
+    },
+    "stargate_id": 50013286,
+    "system_id": 30001953,
+    "type_id": 29624
+}

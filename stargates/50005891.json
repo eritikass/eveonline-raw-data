@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010094,
+        "system_id": 30002805
+    },
+    "name": "Stargate (Anttiri)",
+    "position": {
+        "x": 3666386165760,
+        "y": 560826900480,
+        "z": -278892994560
+    },
+    "stargate_id": 50005891,
+    "system_id": 30002801,
+    "type_id": 16
+}

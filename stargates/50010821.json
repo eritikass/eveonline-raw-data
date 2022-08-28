@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010884,
+        "system_id": 30002275
+    },
+    "name": "Stargate (Clarelam)",
+    "position": {
+        "x": -2524275056640,
+        "y": 330393231360,
+        "z": 3606762823680
+    },
+    "stargate_id": 50010821,
+    "system_id": 30002274,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012851,
+        "system_id": 30004940
+    },
+    "name": "Stargate (1-NJLK)",
+    "position": {
+        "x": 1884585615360,
+        "y": 2787149537280,
+        "z": -826487316480
+    },
+    "stargate_id": 50012632,
+    "system_id": 30004931,
+    "type_id": 17
+}

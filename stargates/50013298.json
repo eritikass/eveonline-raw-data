@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013102,
+        "system_id": 30001916
+    },
+    "name": "Stargate (T7-JNB)",
+    "position": {
+        "x": 6588625920000,
+        "y": -383902801920,
+        "z": -216871772160
+    },
+    "stargate_id": 50013298,
+    "system_id": 30001917,
+    "type_id": 29624
+}

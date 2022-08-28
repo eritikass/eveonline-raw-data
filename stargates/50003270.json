@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003661,
+        "system_id": 30000149
+    },
+    "name": "Stargate (Gekutami)",
+    "position": {
+        "x": 15794580234240,
+        "y": 264193105920,
+        "z": -9311672033280
+    },
+    "stargate_id": 50003270,
+    "system_id": 30000148,
+    "type_id": 16
+}

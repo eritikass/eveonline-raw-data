@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014233,
+        "system_id": 30001056
+    },
+    "name": "Stargate (IF-KD1)",
+    "position": {
+        "x": -2048744939520,
+        "y": 3479944519680,
+        "z": -2052999782400
+    },
+    "stargate_id": 50014234,
+    "system_id": 30005099,
+    "type_id": 29632
+}

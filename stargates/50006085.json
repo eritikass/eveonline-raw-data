@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007737,
+        "system_id": 30003739
+    },
+    "name": "Stargate (QO-SRI)",
+    "position": {
+        "x": -3579450040320,
+        "y": 447016427520,
+        "z": -2105954181120
+    },
+    "stargate_id": 50006085,
+    "system_id": 30003736,
+    "type_id": 29624
+}

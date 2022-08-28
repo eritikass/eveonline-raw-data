@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011135,
+        "system_id": 30003181
+    },
+    "name": "Stargate (QFIU-K)",
+    "position": {
+        "x": -2550855229440,
+        "y": -334735073280,
+        "z": -3367240704000
+    },
+    "stargate_id": 50010910,
+    "system_id": 30003178,
+    "type_id": 29624
+}

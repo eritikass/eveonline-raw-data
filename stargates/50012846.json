@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012989,
+        "system_id": 30004294
+    },
+    "name": "Stargate (Illi)",
+    "position": {
+        "x": 56740700160,
+        "y": -4345159680,
+        "z": -248741437440
+    },
+    "stargate_id": 50012846,
+    "system_id": 30004292,
+    "type_id": 29624
+}

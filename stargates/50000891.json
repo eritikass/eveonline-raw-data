@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001524,
+        "system_id": 30001011
+    },
+    "name": "Stargate (K-B2D3)",
+    "position": {
+        "x": 1423695421440,
+        "y": -134649323520,
+        "z": 1391920619520
+    },
+    "stargate_id": 50000891,
+    "system_id": 30001010,
+    "type_id": 29633
+}

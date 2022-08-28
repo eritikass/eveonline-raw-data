@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003645,
+        "system_id": 30001744
+    },
+    "name": "Stargate (HLR-GL)",
+    "position": {
+        "x": -722763079680,
+        "y": -140880076800,
+        "z": -484137492480
+    },
+    "stargate_id": 50003476,
+    "system_id": 30001743,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014171,
+        "system_id": 30002708
+    },
+    "name": "Stargate (Claysson)",
+    "position": {
+        "x": 59242536960,
+        "y": 9768837120,
+        "z": -217802465280
+    },
+    "stargate_id": 50014172,
+    "system_id": 30022715,
+    "type_id": 3875
+}

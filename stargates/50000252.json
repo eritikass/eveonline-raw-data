@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000388,
+        "system_id": 30003026
+    },
+    "name": "Stargate (Blameston)",
+    "position": {
+        "x": -461992058880,
+        "y": 93425541120,
+        "z": 350299791360
+    },
+    "stargate_id": 50000252,
+    "system_id": 30003025,
+    "type_id": 3875
+}

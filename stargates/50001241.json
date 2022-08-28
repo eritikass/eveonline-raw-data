@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000286,
+        "system_id": 30000736
+    },
+    "name": "Stargate (KDG-TA)",
+    "position": {
+        "x": 2149501870080,
+        "y": 7630479360,
+        "z": -474967941120
+    },
+    "stargate_id": 50001241,
+    "system_id": 30000739,
+    "type_id": 29633
+}

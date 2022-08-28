@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000325,
+        "system_id": 30001380
+    },
+    "name": "Stargate (Vellaine)",
+    "position": {
+        "x": 485140193280,
+        "y": 94432174080,
+        "z": -2633174016000
+    },
+    "stargate_id": 50002051,
+    "system_id": 30001384,
+    "type_id": 16
+}

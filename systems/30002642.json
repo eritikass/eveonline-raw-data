@@ -1,0 +1,80 @@
+{
+    "constellation_id": 20000387,
+    "name": "Iyen-Oursta",
+    "planets": [
+        {
+            "planet_id": 40168289
+        },
+        {
+            "asteroid_belts": [
+                40168291
+            ],
+            "planet_id": 40168290
+        },
+        {
+            "planet_id": 40168292
+        },
+        {
+            "moons": [
+                40168294
+            ],
+            "planet_id": 40168293
+        },
+        {
+            "asteroid_belts": [
+                40168296
+            ],
+            "moons": [
+                40168297
+            ],
+            "planet_id": 40168295
+        },
+        {
+            "asteroid_belts": [
+                40168299
+            ],
+            "moons": [
+                40168300,
+                40168301,
+                40168302
+            ],
+            "planet_id": 40168298
+        },
+        {
+            "asteroid_belts": [
+                40168305
+            ],
+            "moons": [
+                40168304,
+                40168306
+            ],
+            "planet_id": 40168303
+        },
+        {
+            "asteroid_belts": [
+                40168308
+            ],
+            "moons": [
+                40168309
+            ],
+            "planet_id": 40168307
+        }
+    ],
+    "position": {
+        "x": -152946878439553340,
+        "y": 57955551765851120,
+        "z": 95549210343719760
+    },
+    "security_class": "B",
+    "security_status": 0.7795754075050354,
+    "star_id": 40168288,
+    "stargates": [
+        50000301,
+        50000302,
+        50000303
+    ],
+    "stations": [
+        60010387
+    ],
+    "system_id": 30002642
+}

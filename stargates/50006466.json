@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005506,
+        "system_id": 30003677
+    },
+    "name": "Stargate (E-9ORY)",
+    "position": {
+        "x": 351959408640,
+        "y": -60189941760,
+        "z": 969462128640
+    },
+    "stargate_id": 50006466,
+    "system_id": 30003679,
+    "type_id": 3875
+}

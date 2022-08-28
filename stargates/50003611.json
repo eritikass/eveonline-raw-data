@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003530,
+        "system_id": 30001431
+    },
+    "name": "Stargate (Aivoli)",
+    "position": {
+        "x": -57284567040,
+        "y": 3137495040,
+        "z": 167984455680
+    },
+    "stargate_id": 50003611,
+    "system_id": 30001432,
+    "type_id": 16
+}

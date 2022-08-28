@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008702,
+        "system_id": 30003555
+    },
+    "name": "Stargate (Bittanshal)",
+    "position": {
+        "x": -281472983040,
+        "y": 37964636160,
+        "z": -3179063746560
+    },
+    "stargate_id": 50009066,
+    "system_id": 30003556,
+    "type_id": 29624
+}

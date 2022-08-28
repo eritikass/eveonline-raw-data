@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008457,
+        "system_id": 30005059
+    },
+    "name": "Stargate (Misha)",
+    "position": {
+        "x": -2495078400,
+        "y": 323051520,
+        "z": 284001361920
+    },
+    "stargate_id": 50008518,
+    "system_id": 30005060,
+    "type_id": 29624
+}

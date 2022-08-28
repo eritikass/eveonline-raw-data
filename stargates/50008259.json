@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006901,
+        "system_id": 30002612
+    },
+    "name": "Stargate (N-7ECY)",
+    "position": {
+        "x": -1916921978880,
+        "y": -196932034560,
+        "z": -83205365760
+    },
+    "stargate_id": 50008259,
+    "system_id": 30002613,
+    "type_id": 29633
+}

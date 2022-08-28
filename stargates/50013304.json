@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013323,
+        "system_id": 30004702
+    },
+    "name": "Stargate (MP5-KR)",
+    "position": {
+        "x": -1065860505600,
+        "y": -112514949120,
+        "z": 2287419924480
+    },
+    "stargate_id": 50013304,
+    "system_id": 30004701,
+    "type_id": 29624
+}

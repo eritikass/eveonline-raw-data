@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006709,
+        "system_id": 30002640
+    },
+    "name": "Stargate (Erme)",
+    "position": {
+        "x": -1200203735040,
+        "y": -56046428160,
+        "z": -2874988830720
+    },
+    "stargate_id": 50003185,
+    "system_id": 30002633,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016495,
+        "system_id": 30003495
+    },
+    "name": "Stargate (Raravoss)",
+    "position": {
+        "x": -36550452379.08277,
+        "y": 3720159891.6615987,
+        "z": 61460227034.47337
+    },
+    "stargate_id": 50016494,
+    "system_id": 30002411,
+    "type_id": 56317
+}

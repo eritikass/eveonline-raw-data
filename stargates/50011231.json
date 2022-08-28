@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011187,
+        "system_id": 30001805
+    },
+    "name": "Stargate (8RL-OG)",
+    "position": {
+        "x": 332027043840,
+        "y": 9291571200,
+        "z": 983368212480
+    },
+    "stargate_id": 50011231,
+    "system_id": 30001806,
+    "type_id": 3875
+}

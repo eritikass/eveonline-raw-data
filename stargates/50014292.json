@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014291,
+        "system_id": 30002819
+    },
+    "name": "Stargate (Motsu)",
+    "position": {
+        "x": 274087649280,
+        "y": -12972564480,
+        "z": -50987950080
+    },
+    "stargate_id": 50014292,
+    "system_id": 30041392,
+    "type_id": 16
+}

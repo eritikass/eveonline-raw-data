@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001081,
+        "system_id": 30001165
+    },
+    "name": "Stargate (QBQ-RF)",
+    "position": {
+        "x": -765636894720,
+        "y": -45356113920,
+        "z": -470412533760
+    },
+    "stargate_id": 50001408,
+    "system_id": 30001167,
+    "type_id": 29624
+}

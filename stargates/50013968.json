@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013967,
+        "system_id": 30000015
+    },
+    "name": "Stargate (Sendaya)",
+    "position": {
+        "x": -2210588467200,
+        "y": 1364110172160,
+        "z": 1741606871040
+    },
+    "stargate_id": 50013968,
+    "system_id": 30001047,
+    "type_id": 29634
+}

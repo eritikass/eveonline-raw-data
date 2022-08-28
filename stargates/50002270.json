@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000793,
+        "system_id": 30000688
+    },
+    "name": "Stargate (ZFJH-T)",
+    "position": {
+        "x": -564736942080,
+        "y": -1337572761600,
+        "z": -26283417600
+    },
+    "stargate_id": 50002270,
+    "system_id": 30001021,
+    "type_id": 29635
+}

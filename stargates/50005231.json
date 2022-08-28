@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005895,
+        "system_id": 30004096
+    },
+    "name": "Stargate (Khafis)",
+    "position": {
+        "x": -1247963750400,
+        "y": 160195829760,
+        "z": 180295311360
+    },
+    "stargate_id": 50005231,
+    "system_id": 30004095,
+    "type_id": 29624
+}

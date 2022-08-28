@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010505,
+        "system_id": 30004522
+    },
+    "name": "Stargate (R-OCBA)",
+    "position": {
+        "x": 3355992268800,
+        "y": 307407544320,
+        "z": -386362368000
+    },
+    "stargate_id": 50010564,
+    "system_id": 30004524,
+    "type_id": 3875
+}

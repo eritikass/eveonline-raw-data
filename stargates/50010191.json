@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009336,
+        "system_id": 30003777
+    },
+    "name": "Stargate (GA9P-0)",
+    "position": {
+        "x": 2344997806080,
+        "y": 143367905280,
+        "z": 927522693120
+    },
+    "stargate_id": 50010191,
+    "system_id": 30003780,
+    "type_id": 29624
+}

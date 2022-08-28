@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003025,
+        "system_id": 30002890
+    },
+    "name": "Stargate (T-945F)",
+    "position": {
+        "x": -467271229440,
+        "y": -20019978240,
+        "z": -103865425920
+    },
+    "stargate_id": 50002994,
+    "system_id": 30002889,
+    "type_id": 16
+}

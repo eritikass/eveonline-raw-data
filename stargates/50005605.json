@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006963,
+        "system_id": 30004829
+    },
+    "name": "Stargate (PEK-8Z)",
+    "position": {
+        "x": 658160640000,
+        "y": 121376563200,
+        "z": -1436129402880
+    },
+    "stargate_id": 50005605,
+    "system_id": 30004825,
+    "type_id": 29633
+}

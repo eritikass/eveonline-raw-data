@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012145,
+        "system_id": 30004275
+    },
+    "name": "Stargate (Tukanas)",
+    "position": {
+        "x": -820406231040,
+        "y": -74893762560,
+        "z": -322696765440
+    },
+    "stargate_id": 50011973,
+    "system_id": 30004274,
+    "type_id": 29624
+}

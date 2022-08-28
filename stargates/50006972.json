@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007441,
+        "system_id": 30002072
+    },
+    "name": "Stargate (Inder)",
+    "position": {
+        "x": -1875942973440,
+        "y": 127159787520,
+        "z": 578879447040
+    },
+    "stargate_id": 50006972,
+    "system_id": 30002070,
+    "type_id": 29633
+}

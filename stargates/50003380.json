@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003461,
+        "system_id": 30001971
+    },
+    "name": "Stargate (JC-YX8)",
+    "position": {
+        "x": -1689488302080,
+        "y": 137903431680,
+        "z": -120964669440
+    },
+    "stargate_id": 50003380,
+    "system_id": 30001970,
+    "type_id": 16
+}

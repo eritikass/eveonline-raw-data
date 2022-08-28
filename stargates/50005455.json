@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006862,
+        "system_id": 30005230
+    },
+    "name": "Stargate (Manatirid)",
+    "position": {
+        "x": -782712053760,
+        "y": -31424225280,
+        "z": -458585088000
+    },
+    "stargate_id": 50005455,
+    "system_id": 30005229,
+    "type_id": 29624
+}

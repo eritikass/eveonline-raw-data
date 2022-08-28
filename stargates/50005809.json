@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006015,
+        "system_id": 30005326
+    },
+    "name": "Stargate (Annelle)",
+    "position": {
+        "x": -1813781176320,
+        "y": -187470028800,
+        "z": -95182233600
+    },
+    "stargate_id": 50005809,
+    "system_id": 30005325,
+    "type_id": 3875
+}

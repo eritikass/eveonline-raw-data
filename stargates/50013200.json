@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013261,
+        "system_id": 30004305
+    },
+    "name": "Stargate (Esaeel)",
+    "position": {
+        "x": -36738785280,
+        "y": 1582080000,
+        "z": -4655800320
+    },
+    "stargate_id": 50013200,
+    "system_id": 30004303,
+    "type_id": 29624
+}

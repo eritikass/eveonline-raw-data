@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009966,
+        "system_id": 30003004
+    },
+    "name": "Stargate (Ulerah)",
+    "position": {
+        "x": -1695492956160,
+        "y": -199007232000,
+        "z": -766562918400
+    },
+    "stargate_id": 50009075,
+    "system_id": 30003002,
+    "type_id": 29624
+}

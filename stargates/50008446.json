@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007973,
+        "system_id": 30000163
+    },
+    "name": "Stargate (Akora)",
+    "position": {
+        "x": -1395797237760,
+        "y": -122278256640,
+        "z": 16863436800
+    },
+    "stargate_id": 50008446,
+    "system_id": 30000164,
+    "type_id": 16
+}

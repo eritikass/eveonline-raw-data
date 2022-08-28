@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009988,
+        "system_id": 30000897
+    },
+    "name": "Stargate (F-G7BO)",
+    "position": {
+        "x": -578096701440,
+        "y": 38406021120,
+        "z": -2538086522880
+    },
+    "stargate_id": 50008842,
+    "system_id": 30000896,
+    "type_id": 16
+}

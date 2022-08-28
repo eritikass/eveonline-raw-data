@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013223,
+        "system_id": 30004212
+    },
+    "name": "Stargate (58Z-IH)",
+    "position": {
+        "x": -127500410880,
+        "y": 8900075520,
+        "z": -79436881920
+    },
+    "stargate_id": 50013227,
+    "system_id": 30004213,
+    "type_id": 3875
+}

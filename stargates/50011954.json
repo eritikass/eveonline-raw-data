@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011854,
+        "system_id": 30003848
+    },
+    "name": "Stargate (Amasiree)",
+    "position": {
+        "x": 718091427840,
+        "y": 138898268160,
+        "z": -1294458347520
+    },
+    "stargate_id": 50011954,
+    "system_id": 30003849,
+    "type_id": 3875
+}

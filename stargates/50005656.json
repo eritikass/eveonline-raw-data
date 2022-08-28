@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002430,
+        "system_id": 30002740
+    },
+    "name": "Stargate (Eitu)",
+    "position": {
+        "x": -216238448640,
+        "y": -13069639680,
+        "z": -1808380846080
+    },
+    "stargate_id": 50005656,
+    "system_id": 30002742,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013948,
+        "system_id": 30002710
+    },
+    "name": "Stargate (Adiere)",
+    "position": {
+        "x": 2809962946560,
+        "y": 1363240673280,
+        "z": 3465125928960
+    },
+    "stargate_id": 50013947,
+    "system_id": 30002639,
+    "type_id": 3874
+}

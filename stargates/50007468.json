@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011774,
+        "system_id": 30003266
+    },
+    "name": "Stargate (QYT-X8)",
+    "position": {
+        "x": 1885265633280,
+        "y": -2742315540480,
+        "z": 2779415715840
+    },
+    "stargate_id": 50007468,
+    "system_id": 30003194,
+    "type_id": 3874
+}

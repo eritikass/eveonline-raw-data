@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014170,
+        "system_id": 30012715
+    },
+    "name": "Stargate (Odotte)",
+    "position": {
+        "x": 2700739584000,
+        "y": 3849461760,
+        "z": -3194468966400
+    },
+    "stargate_id": 50014169,
+    "system_id": 30002656,
+    "type_id": 3875
+}

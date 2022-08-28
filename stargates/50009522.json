@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009673,
+        "system_id": 30003934
+    },
+    "name": "Stargate (Cabeki)",
+    "position": {
+        "x": 2396570542080,
+        "y": -368545013760,
+        "z": -1484189982720
+    },
+    "stargate_id": 50009522,
+    "system_id": 30003932,
+    "type_id": 29624
+}

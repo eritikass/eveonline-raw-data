@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004131,
+        "system_id": 30005300
+    },
+    "name": "Stargate (Loes)",
+    "position": {
+        "x": -1351158128640,
+        "y": -189153730560,
+        "z": -619195392000
+    },
+    "stargate_id": 50003817,
+    "system_id": 30005297,
+    "type_id": 3875
+}

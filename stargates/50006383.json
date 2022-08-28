@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006974,
+        "system_id": 30002024
+    },
+    "name": "Stargate (UC3H-Y)",
+    "position": {
+        "x": -1062605414400,
+        "y": 44677816320,
+        "z": -1220771143680
+    },
+    "stargate_id": 50006383,
+    "system_id": 30002023,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011807,
+        "system_id": 30004069
+    },
+    "name": "Stargate (XG-D1L)",
+    "position": {
+        "x": -4391806771200,
+        "y": 37225390080,
+        "z": 2585791488000
+    },
+    "stargate_id": 50011576,
+    "system_id": 30004068,
+    "type_id": 3875
+}

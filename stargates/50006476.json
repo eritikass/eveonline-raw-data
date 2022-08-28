@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003812,
+        "system_id": 30000883
+    },
+    "name": "Stargate (9SL-K9)",
+    "position": {
+        "x": -319732654080,
+        "y": -51552215040,
+        "z": -2015880192000
+    },
+    "stargate_id": 50006476,
+    "system_id": 30000884,
+    "type_id": 16
+}

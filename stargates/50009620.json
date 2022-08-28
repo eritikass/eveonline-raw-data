@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009985,
+        "system_id": 30000315
+    },
+    "name": "Stargate (WMBZ-U)",
+    "position": {
+        "x": 113549107200,
+        "y": -22404587520,
+        "z": -13849190400
+    },
+    "stargate_id": 50009620,
+    "system_id": 30000314,
+    "type_id": 16
+}

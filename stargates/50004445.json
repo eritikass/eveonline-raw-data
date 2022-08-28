@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007848,
+        "system_id": 30003408
+    },
+    "name": "Stargate (Evettullur)",
+    "position": {
+        "x": -471095500800,
+        "y": 28639027200,
+        "z": -1459221258240
+    },
+    "stargate_id": 50004445,
+    "system_id": 30003400,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013666,
+        "system_id": 30003478
+    },
+    "name": "Stargate (Basan)",
+    "position": {
+        "x": 45493739520,
+        "y": -1661552762880,
+        "z": -628833116160
+    },
+    "stargate_id": 50013665,
+    "system_id": 30002730,
+    "type_id": 3876
+}

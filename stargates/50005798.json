@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004984,
+        "system_id": 30005107
+    },
+    "name": "Stargate (HB-KSF)",
+    "position": {
+        "x": 650950287360,
+        "y": 106068664320,
+        "z": -3972100300800
+    },
+    "stargate_id": 50005798,
+    "system_id": 30005111,
+    "type_id": 3875
+}

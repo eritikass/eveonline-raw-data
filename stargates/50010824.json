@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010418,
+        "system_id": 30004371
+    },
+    "name": "Stargate (BWI1-9)",
+    "position": {
+        "x": 1353971343360,
+        "y": 98780897280,
+        "z": -978380759040
+    },
+    "stargate_id": 50010824,
+    "system_id": 30004372,
+    "type_id": 16
+}

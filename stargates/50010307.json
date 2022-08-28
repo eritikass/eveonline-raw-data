@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008484,
+        "system_id": 30005017
+    },
+    "name": "Stargate (Yona)",
+    "position": {
+        "x": -1714983936000,
+        "y": -71292641280,
+        "z": 1513593692160
+    },
+    "stargate_id": 50010307,
+    "system_id": 30005019,
+    "type_id": 3875
+}

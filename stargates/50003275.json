@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003475,
+        "system_id": 30001743
+    },
+    "name": "Stargate (JUE-DX)",
+    "position": {
+        "x": 2159115755520,
+        "y": -2744731361280,
+        "z": -890716938240
+    },
+    "stargate_id": 50003275,
+    "system_id": 30001572,
+    "type_id": 29632
+}

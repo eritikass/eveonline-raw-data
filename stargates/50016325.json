@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016326,
+        "system_id": 30045337
+    },
+    "name": "Stargate (Ikoskio)",
+    "position": {
+        "x": 479689236480,
+        "y": -3555558481920,
+        "z": -634878566400
+    },
+    "stargate_id": 50016325,
+    "system_id": 30045322,
+    "type_id": 29627
+}

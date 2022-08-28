@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003638,
+        "system_id": 30005001
+    },
+    "name": "Stargate (Arnon)",
+    "position": {
+        "x": -1690672865280,
+        "y": 5235621273600,
+        "z": 2161588592640
+    },
+    "stargate_id": 50002749,
+    "system_id": 30005202,
+    "type_id": 29625
+}

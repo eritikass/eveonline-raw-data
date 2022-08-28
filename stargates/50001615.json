@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001929,
+        "system_id": 30000564
+    },
+    "name": "Stargate (5Q65-4)",
+    "position": {
+        "x": 307667558400,
+        "y": -27925831680,
+        "z": 3106187796480
+    },
+    "stargate_id": 50001615,
+    "system_id": 30000563,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011654,
+        "system_id": 30004570
+    },
+    "name": "Stargate (SPLE-Y)",
+    "position": {
+        "x": 2434390056960,
+        "y": 314460610560,
+        "z": -1347730268160
+    },
+    "stargate_id": 50011707,
+    "system_id": 30004572,
+    "type_id": 3875
+}

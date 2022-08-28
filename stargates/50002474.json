@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000197,
+        "system_id": 30001398
+    },
+    "name": "Stargate (Aunenen)",
+    "position": {
+        "x": 6832861716480,
+        "y": -8019557376000,
+        "z": -2760006574080
+    },
+    "stargate_id": 50002474,
+    "system_id": 30001416,
+    "type_id": 29627
+}

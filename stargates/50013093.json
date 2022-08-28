@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011248,
+        "system_id": 30003456
+    },
+    "name": "Stargate (Hotrardik)",
+    "position": {
+        "x": -2000825671680,
+        "y": -298586480640,
+        "z": 3194615930880
+    },
+    "stargate_id": 50013093,
+    "system_id": 30003458,
+    "type_id": 29633
+}

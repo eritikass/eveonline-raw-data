@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012095,
+        "system_id": 30003220
+    },
+    "name": "Stargate (HF-K3O)",
+    "position": {
+        "x": 93648199680,
+        "y": -18464563200,
+        "z": -373520916480
+    },
+    "stargate_id": 50011527,
+    "system_id": 30003218,
+    "type_id": 3875
+}

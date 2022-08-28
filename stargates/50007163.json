@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007141,
+        "system_id": 30001770
+    },
+    "name": "Stargate (2ULC-J)",
+    "position": {
+        "x": 4839099064320,
+        "y": 516787200000,
+        "z": -4782070702080
+    },
+    "stargate_id": 50007163,
+    "system_id": 30001771,
+    "type_id": 3875
+}

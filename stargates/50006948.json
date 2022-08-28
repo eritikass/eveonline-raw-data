@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005010,
+        "system_id": 30000165
+    },
+    "name": "Stargate (Ishisomo)",
+    "position": {
+        "x": 804265205760,
+        "y": -77002137600,
+        "z": -1954491555840
+    },
+    "stargate_id": 50006948,
+    "system_id": 30000167,
+    "type_id": 16
+}

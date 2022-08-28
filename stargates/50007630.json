@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009205,
+        "system_id": 30004415
+    },
+    "name": "Stargate (4AZ-J8)",
+    "position": {
+        "x": 426028277760,
+        "y": -78236590080,
+        "z": -462336860160
+    },
+    "stargate_id": 50007630,
+    "system_id": 30004412,
+    "type_id": 29633
+}

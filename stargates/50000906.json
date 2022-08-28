@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002421,
+        "system_id": 30000054
+    },
+    "name": "Stargate (Shala)",
+    "position": {
+        "x": -2849994547200,
+        "y": -308750376960,
+        "z": 2254756700160
+    },
+    "stargate_id": 50000906,
+    "system_id": 30000052,
+    "type_id": 29624
+}

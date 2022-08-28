@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008822,
+        "system_id": 30003953
+    },
+    "name": "Stargate (V-LEKM)",
+    "position": {
+        "x": -462526095360,
+        "y": -22563102720,
+        "z": -583839129600
+    },
+    "stargate_id": 50008647,
+    "system_id": 30003950,
+    "type_id": 29624
+}

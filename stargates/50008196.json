@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008152,
+        "system_id": 30003945
+    },
+    "name": "Stargate (7V-KHW)",
+    "position": {
+        "x": 3382909378560,
+        "y": -649088655360,
+        "z": 2595404881920
+    },
+    "stargate_id": 50008196,
+    "system_id": 30003947,
+    "type_id": 29624
+}

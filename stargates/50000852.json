@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000639,
+        "system_id": 30000038
+    },
+    "name": "Stargate (Dooz)",
+    "position": {
+        "x": -4778908508160,
+        "y": 351824240640,
+        "z": -1418868940800
+    },
+    "stargate_id": 50000852,
+    "system_id": 30000039,
+    "type_id": 29624
+}

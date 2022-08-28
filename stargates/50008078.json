@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007227,
+        "system_id": 30003683
+    },
+    "name": "Stargate (O-CNPR)",
+    "position": {
+        "x": -140170076160,
+        "y": 9163284480,
+        "z": -2459911249920
+    },
+    "stargate_id": 50008078,
+    "system_id": 30003686,
+    "type_id": 3875
+}

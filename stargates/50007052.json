@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007231,
+        "system_id": 30000510
+    },
+    "name": "Stargate (K7S-FF)",
+    "position": {
+        "x": 3047055360,
+        "y": -590929920,
+        "z": 117952634880
+    },
+    "stargate_id": 50007052,
+    "system_id": 30000509,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012361,
+        "system_id": 30002705
+    },
+    "name": "Stargate (Croleur)",
+    "position": {
+        "x": 566136053760,
+        "y": -48865812480,
+        "z": -322932695040
+    },
+    "stargate_id": 50007466,
+    "system_id": 30002701,
+    "type_id": 3875
+}

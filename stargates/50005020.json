@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012783,
+        "system_id": 30002224
+    },
+    "name": "Stargate (Charra)",
+    "position": {
+        "x": -5560285224960,
+        "y": -1073978941440,
+        "z": -4258872238080
+    },
+    "stargate_id": 50005020,
+    "system_id": 30002220,
+    "type_id": 29624
+}

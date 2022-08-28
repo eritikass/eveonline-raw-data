@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013419,
+        "system_id": 30001945
+    },
+    "name": "Stargate (L-A9FS)",
+    "position": {
+        "x": 4537719644160,
+        "y": 9953157120,
+        "z": -1805814128640
+    },
+    "stargate_id": 50013490,
+    "system_id": 30001946,
+    "type_id": 29624
+}

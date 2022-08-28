@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010211,
+        "system_id": 30003231
+    },
+    "name": "Stargate (3-JG3X)",
+    "position": {
+        "x": 332153118720,
+        "y": -26731683840,
+        "z": -1307026513920
+    },
+    "stargate_id": 50011464,
+    "system_id": 30003234,
+    "type_id": 3875
+}

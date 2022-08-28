@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010200,
+        "system_id": 30003691
+    },
+    "name": "Stargate (FIO1-8)",
+    "position": {
+        "x": -5099286896640,
+        "y": 303218073600,
+        "z": -3881736806400
+    },
+    "stargate_id": 50009843,
+    "system_id": 30003690,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013783,
+        "system_id": 30001252
+    },
+    "name": "Stargate (EX6-AO)",
+    "position": {
+        "x": -1184396697600,
+        "y": 207240683520,
+        "z": -478474199040
+    },
+    "stargate_id": 50013784,
+    "system_id": 30001159,
+    "type_id": 12292
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004441,
+        "system_id": 30004815
+    },
+    "name": "Stargate (QRBN-M)",
+    "position": {
+        "x": 106285670400,
+        "y": 2611201597440,
+        "z": -5156167680
+    },
+    "stargate_id": 50005143,
+    "system_id": 30004824,
+    "type_id": 3877
+}

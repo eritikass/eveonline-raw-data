@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001605,
+        "system_id": 30002291
+    },
+    "name": "Stargate (5J-62N)",
+    "position": {
+        "x": 2417468252160,
+        "y": 264636211200,
+        "z": 338808545280
+    },
+    "stargate_id": 50002417,
+    "system_id": 30002294,
+    "type_id": 3875
+}

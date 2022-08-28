@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004171,
+        "system_id": 30002826
+    },
+    "name": "Stargate (F48K-D)",
+    "position": {
+        "x": -75590983680,
+        "y": 972595200,
+        "z": 251238113280
+    },
+    "stargate_id": 50002332,
+    "system_id": 30002823,
+    "type_id": 3875
+}

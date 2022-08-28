@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009179,
+        "system_id": 30003566
+    },
+    "name": "Stargate (Aimoguier)",
+    "position": {
+        "x": -586589184000,
+        "y": 90889789440,
+        "z": 239495208960
+    },
+    "stargate_id": 50008959,
+    "system_id": 30003565,
+    "type_id": 3875
+}

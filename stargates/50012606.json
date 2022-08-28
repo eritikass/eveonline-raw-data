@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012437,
+        "system_id": 30001787
+    },
+    "name": "Stargate (V-SEE6)",
+    "position": {
+        "x": -595617669120,
+        "y": -76295331840,
+        "z": -311995883520
+    },
+    "stargate_id": 50012606,
+    "system_id": 30001788,
+    "type_id": 3875
+}

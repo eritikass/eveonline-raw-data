@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011344,
+        "system_id": 30003698
+    },
+    "name": "Stargate (GME-PQ)",
+    "position": {
+        "x": 6335731261440,
+        "y": 543735275520,
+        "z": 5889833410560
+    },
+    "stargate_id": 50011924,
+    "system_id": 30003702,
+    "type_id": 3875
+}

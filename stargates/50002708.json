@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001828,
+        "system_id": 30000556
+    },
+    "name": "Stargate (M3-KAQ)",
+    "position": {
+        "x": 515122667520,
+        "y": 1281428889600,
+        "z": 2800823377920
+    },
+    "stargate_id": 50002708,
+    "system_id": 30000594,
+    "type_id": 3877
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006949,
+        "system_id": 30000167
+    },
+    "name": "Stargate (Sakkikainen)",
+    "position": {
+        "x": -957084180480,
+        "y": 140599418880,
+        "z": 2195080765440
+    },
+    "stargate_id": 50005617,
+    "system_id": 30000166,
+    "type_id": 16
+}

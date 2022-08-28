@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003839,
+        "system_id": 30001215
+    },
+    "name": "Stargate (B-XJX4)",
+    "position": {
+        "x": 6471121182720,
+        "y": -600593817600,
+        "z": 6216174182400
+    },
+    "stargate_id": 50004872,
+    "system_id": 30001216,
+    "type_id": 29624
+}

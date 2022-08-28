@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004428,
+        "system_id": 30002344
+    },
+    "name": "Stargate (4-QDIX)",
+    "position": {
+        "x": 1034104381440,
+        "y": -2332669255680,
+        "z": 3969168384000
+    },
+    "stargate_id": 50003763,
+    "system_id": 30002334,
+    "type_id": 3874
+}

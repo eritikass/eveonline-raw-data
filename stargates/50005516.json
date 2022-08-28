@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005781,
+        "system_id": 30005224
+    },
+    "name": "Stargate (Assez)",
+    "position": {
+        "x": -159508930560,
+        "y": 22464798720,
+        "z": -108608593920
+    },
+    "stargate_id": 50005516,
+    "system_id": 30005222,
+    "type_id": 29624
+}

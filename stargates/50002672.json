@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003574,
+        "system_id": 30000817
+    },
+    "name": "Stargate (B-II34)",
+    "position": {
+        "x": -4269266657280,
+        "y": 444970475520,
+        "z": 422379724800
+    },
+    "stargate_id": 50002672,
+    "system_id": 30000815,
+    "type_id": 29633
+}

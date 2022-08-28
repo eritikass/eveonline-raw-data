@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011525,
+        "system_id": 30003218
+    },
+    "name": "Stargate (R-ZESX)",
+    "position": {
+        "x": 108053913600,
+        "y": -11985592320,
+        "z": -1059168706560
+    },
+    "stargate_id": 50008665,
+    "system_id": 30003216,
+    "type_id": 3875
+}

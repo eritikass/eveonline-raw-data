@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002980,
+        "system_id": 30000280
+    },
+    "name": "Stargate (MQ-O27)",
+    "position": {
+        "x": 2816339681280,
+        "y": -3836416696320,
+        "z": 1132487024640
+    },
+    "stargate_id": 50002658,
+    "system_id": 30000226,
+    "type_id": 29627
+}

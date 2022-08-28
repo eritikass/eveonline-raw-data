@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001433,
+        "system_id": 30000255
+    },
+    "name": "Stargate (47L-J4)",
+    "position": {
+        "x": -306141388800,
+        "y": -3077283840,
+        "z": -128986030080
+    },
+    "stargate_id": 50002039,
+    "system_id": 30000258,
+    "type_id": 16
+}

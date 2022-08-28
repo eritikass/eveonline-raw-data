@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011110,
+        "system_id": 30002455
+    },
+    "name": "Stargate (2H-TSE)",
+    "position": {
+        "x": 1752330362880,
+        "y": 131321978880,
+        "z": -4178149662720
+    },
+    "stargate_id": 50007062,
+    "system_id": 30002454,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008596,
+        "system_id": 30002246
+    },
+    "name": "Stargate (Neziel)",
+    "position": {
+        "x": 61326581760,
+        "y": 10478592000,
+        "z": 526029742080
+    },
+    "stargate_id": 50009481,
+    "system_id": 30002250,
+    "type_id": 29624
+}

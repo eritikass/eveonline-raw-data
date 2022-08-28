@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005494,
+        "system_id": 30005329
+    },
+    "name": "Stargate (Amoderia)",
+    "position": {
+        "x": 2185127239680,
+        "y": -221375815680,
+        "z": -1007130746880
+    },
+    "stargate_id": 50006199,
+    "system_id": 30005330,
+    "type_id": 3875
+}

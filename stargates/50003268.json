@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003324,
+        "system_id": 30001422
+    },
+    "name": "Stargate (Iitanmadan)",
+    "position": {
+        "x": -1413341306880,
+        "y": -100669808640,
+        "z": -181431459840
+    },
+    "stargate_id": 50003268,
+    "system_id": 30001420,
+    "type_id": 16
+}

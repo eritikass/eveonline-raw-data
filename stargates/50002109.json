@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000637,
+        "system_id": 30002969
+    },
+    "name": "Stargate (Eredan)",
+    "position": {
+        "x": 586844528640,
+        "y": -13658480640,
+        "z": 1959567360
+    },
+    "stargate_id": 50002109,
+    "system_id": 30002974,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008056,
+        "system_id": 30003906
+    },
+    "name": "Stargate (Firbha)",
+    "position": {
+        "x": 294442229760,
+        "y": -16219791360,
+        "z": -702597488640
+    },
+    "stargate_id": 50007777,
+    "system_id": 30003903,
+    "type_id": 29624
+}

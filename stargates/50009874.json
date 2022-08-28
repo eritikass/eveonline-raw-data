@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009555,
+        "system_id": 30004450
+    },
+    "name": "Stargate (AZN-D2)",
+    "position": {
+        "x": -3333068759040,
+        "y": -47058247680,
+        "z": 7359146680320
+    },
+    "stargate_id": 50009874,
+    "system_id": 30004452,
+    "type_id": 29633
+}

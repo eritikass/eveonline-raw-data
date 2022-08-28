@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010145,
+        "system_id": 30002496
+    },
+    "name": "Stargate (B-F1MI)",
+    "position": {
+        "x": 1598647787520,
+        "y": -49315061760,
+        "z": 1227758100480
+    },
+    "stargate_id": 50013248,
+    "system_id": 30002498,
+    "type_id": 16
+}

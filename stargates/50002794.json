@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002702,
+        "system_id": 30000466
+    },
+    "name": "Stargate (LT-XI4)",
+    "position": {
+        "x": -4704060579840,
+        "y": 178708193280,
+        "z": -1559726530560
+    },
+    "stargate_id": 50002794,
+    "system_id": 30000467,
+    "type_id": 29633
+}

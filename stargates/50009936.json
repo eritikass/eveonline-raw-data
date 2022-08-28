@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009305,
+        "system_id": 30005049
+    },
+    "name": "Stargate (Andrub)",
+    "position": {
+        "x": -1426852208640,
+        "y": -1854619607040,
+        "z": -715722055680
+    },
+    "stargate_id": 50009936,
+    "system_id": 30005069,
+    "type_id": 17
+}

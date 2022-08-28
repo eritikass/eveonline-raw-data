@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004938,
+        "system_id": 30002829
+    },
+    "name": "Stargate (QX-4HO)",
+    "position": {
+        "x": 2949432238080,
+        "y": 438420234240,
+        "z": 18256158720
+    },
+    "stargate_id": 50005569,
+    "system_id": 30002830,
+    "type_id": 3875
+}

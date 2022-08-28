@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007367,
+        "system_id": 30002867
+    },
+    "name": "Stargate (ND-GL4)",
+    "position": {
+        "x": -5930868695040,
+        "y": 667548917760,
+        "z": -607947448320
+    },
+    "stargate_id": 50007893,
+    "system_id": 30002873,
+    "type_id": 3874
+}

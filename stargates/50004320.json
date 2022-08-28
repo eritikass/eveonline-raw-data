@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004636,
+        "system_id": 30001584
+    },
+    "name": "Stargate (XR-ZL7)",
+    "position": {
+        "x": -4068283883520,
+        "y": 206114365440,
+        "z": -991366471680
+    },
+    "stargate_id": 50004320,
+    "system_id": 30001582,
+    "type_id": 3875
+}

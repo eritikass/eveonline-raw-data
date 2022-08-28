@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009084,
+        "system_id": 30003125
+    },
+    "name": "Stargate (A1-AUH)",
+    "position": {
+        "x": -1726816542720,
+        "y": 4621427220480,
+        "z": -5771759493120
+    },
+    "stargate_id": 50008893,
+    "system_id": 30003112,
+    "type_id": 17
+}

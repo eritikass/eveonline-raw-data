@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003865,
+        "system_id": 30002192
+    },
+    "name": "Stargate (Irnin)",
+    "position": {
+        "x": 3016119214080,
+        "y": 426128793600,
+        "z": 5332006871040
+    },
+    "stargate_id": 50004829,
+    "system_id": 30002194,
+    "type_id": 29624
+}

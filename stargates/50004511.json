@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003473,
+        "system_id": 30005101
+    },
+    "name": "Stargate (FLK-LJ)",
+    "position": {
+        "x": 343698432000,
+        "y": -53812224000,
+        "z": -1381909831680
+    },
+    "stargate_id": 50004511,
+    "system_id": 30005102,
+    "type_id": 3875
+}

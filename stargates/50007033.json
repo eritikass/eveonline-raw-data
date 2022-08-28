@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007228,
+        "system_id": 30003202
+    },
+    "name": "Stargate (GGMF-J)",
+    "position": {
+        "x": -3685285109760,
+        "y": -545499586560,
+        "z": -390281994240
+    },
+    "stargate_id": 50007033,
+    "system_id": 30003200,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007760,
+        "system_id": 30002872
+    },
+    "name": "Stargate (K76A-3)",
+    "position": {
+        "x": 7783506616320,
+        "y": 476899368960,
+        "z": 6758377021440
+    },
+    "stargate_id": 50007637,
+    "system_id": 30002870,
+    "type_id": 3875
+}

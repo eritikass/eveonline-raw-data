@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005612,
+        "system_id": 30002124
+    },
+    "name": "Stargate (EA-HSA)",
+    "position": {
+        "x": -1311531786240,
+        "y": -154065838080,
+        "z": 1143430225920
+    },
+    "stargate_id": 50008554,
+    "system_id": 30002126,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002553,
+        "system_id": 30000225
+    },
+    "name": "Stargate (H-5GUI)",
+    "position": {
+        "x": -3650037473280,
+        "y": 3853773742080,
+        "z": 4021599313920
+    },
+    "stargate_id": 50003101,
+    "system_id": 30002421,
+    "type_id": 29629
+}

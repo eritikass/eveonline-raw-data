@@ -1,0 +1,99 @@
+{
+    "constellation_id": 20000354,
+    "name": "Mimiror",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40153317
+            ],
+            "planet_id": 40153316
+        },
+        {
+            "asteroid_belts": [
+                40153319
+            ],
+            "planet_id": 40153318
+        },
+        {
+            "asteroid_belts": [
+                40153322
+            ],
+            "moons": [
+                40153321
+            ],
+            "planet_id": 40153320
+        },
+        {
+            "asteroid_belts": [
+                40153324,
+                40153325,
+                40153326
+            ],
+            "planet_id": 40153323
+        },
+        {
+            "asteroid_belts": [
+                40153328
+            ],
+            "moons": [
+                40153329,
+                40153330,
+                40153331
+            ],
+            "planet_id": 40153327
+        },
+        {
+            "asteroid_belts": [
+                40153333
+            ],
+            "moons": [
+                40153334,
+                40153335
+            ],
+            "planet_id": 40153332
+        },
+        {
+            "asteroid_belts": [
+                40153337
+            ],
+            "moons": [
+                40153338,
+                40153339,
+                40153340
+            ],
+            "planet_id": 40153336
+        },
+        {
+            "asteroid_belts": [
+                40153342
+            ],
+            "moons": [
+                40153343,
+                40153344
+            ],
+            "planet_id": 40153341
+        },
+        {
+            "asteroid_belts": [
+                40153346
+            ],
+            "moons": [
+                40153347
+            ],
+            "planet_id": 40153345
+        }
+    ],
+    "position": {
+        "x": -14214486349412106,
+        "y": -5930460272638518,
+        "z": 2972844796557446
+    },
+    "security_class": "E1",
+    "security_status": 0.2044927328824997,
+    "star_id": 40153315,
+    "stargates": [
+        50010653,
+        50010654
+    ],
+    "system_id": 30002410
+}

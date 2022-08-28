@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012374,
+        "system_id": 30004622
+    },
+    "name": "Stargate (D-Q04X)",
+    "position": {
+        "x": 1370201333760,
+        "y": -1209572597760,
+        "z": -2989494558720
+    },
+    "stargate_id": 50012520,
+    "system_id": 30004649,
+    "type_id": 3874
+}

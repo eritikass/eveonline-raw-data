@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004439,
+        "system_id": 30001990
+    },
+    "name": "Stargate (93PI-4)",
+    "position": {
+        "x": -1738976501760,
+        "y": 214414909440,
+        "z": -1502343782400
+    },
+    "stargate_id": 50004090,
+    "system_id": 30001987,
+    "type_id": 16
+}

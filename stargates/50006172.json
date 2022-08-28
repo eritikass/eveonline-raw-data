@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006143,
+        "system_id": 30005219
+    },
+    "name": "Stargate (Sigga)",
+    "position": {
+        "x": 3574275317760,
+        "y": 370344960000,
+        "z": 198793912320
+    },
+    "stargate_id": 50006172,
+    "system_id": 30005220,
+    "type_id": 29624
+}

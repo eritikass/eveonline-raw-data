@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005317,
+        "system_id": 30003676
+    },
+    "name": "Stargate (C8-CHY)",
+    "position": {
+        "x": -2665960857600,
+        "y": -1479523000320,
+        "z": 7576791490560
+    },
+    "stargate_id": 50005096,
+    "system_id": 30001983,
+    "type_id": 29629
+}

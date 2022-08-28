@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013769,
+        "system_id": 30004028
+    },
+    "name": "Stargate (E-VKJV)",
+    "position": {
+        "x": 3717962096640,
+        "y": -815147704320,
+        "z": 627806576640
+    },
+    "stargate_id": 50013770,
+    "system_id": 30004764,
+    "type_id": 12292
+}

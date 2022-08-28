@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008847,
+        "system_id": 30001661
+    },
+    "name": "Stargate (Gyerzen)",
+    "position": {
+        "x": -4569897492480,
+        "y": 585968148480,
+        "z": -3280174817280
+    },
+    "stargate_id": 50008010,
+    "system_id": 30001660,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007691,
+        "system_id": 30002787
+    },
+    "name": "Stargate (Waira)",
+    "position": {
+        "x": 569744302080,
+        "y": -111596544000,
+        "z": 3045983969280
+    },
+    "stargate_id": 50005448,
+    "system_id": 30002783,
+    "type_id": 16
+}

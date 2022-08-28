@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011392,
+        "system_id": 30004560
+    },
+    "name": "Stargate (RP2-OQ)",
+    "position": {
+        "x": -4257180917760,
+        "y": 342552698880,
+        "z": 1855435530240
+    },
+    "stargate_id": 50011727,
+    "system_id": 30004561,
+    "type_id": 3875
+}

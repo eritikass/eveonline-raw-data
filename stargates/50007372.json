@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007195,
+        "system_id": 30002908
+    },
+    "name": "Stargate (I30-3A)",
+    "position": {
+        "x": -1524513546240,
+        "y": -286933770240,
+        "z": -1935897354240
+    },
+    "stargate_id": 50007372,
+    "system_id": 30002909,
+    "type_id": 16
+}

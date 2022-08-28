@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000213,
+        "system_id": 30002957
+    },
+    "name": "Stargate (Tzvi)",
+    "position": {
+        "x": 354684641280,
+        "y": -62140784640,
+        "z": 206462115840
+    },
+    "stargate_id": 50003966,
+    "system_id": 30002958,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011911,
+        "system_id": 30003894
+    },
+    "name": "Stargate (Sabusi)",
+    "position": {
+        "x": 977302855680,
+        "y": -159904112640,
+        "z": -523330314240
+    },
+    "stargate_id": 50009225,
+    "system_id": 30003891,
+    "type_id": 29624
+}

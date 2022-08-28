@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003235,
+        "system_id": 30000473
+    },
+    "name": "Stargate (2-X0PF)",
+    "position": {
+        "x": 3272933253120,
+        "y": 239071764480,
+        "z": 6382830182400
+    },
+    "stargate_id": 50003168,
+    "system_id": 30000472,
+    "type_id": 29633
+}

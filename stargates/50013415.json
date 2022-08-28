@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013285,
+        "system_id": 30004262
+    },
+    "name": "Stargate (Pemsah)",
+    "position": {
+        "x": 3558456483840,
+        "y": -692190289920,
+        "z": -345788866560
+    },
+    "stargate_id": 50013415,
+    "system_id": 30004265,
+    "type_id": 29624
+}

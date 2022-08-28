@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008030,
+        "system_id": 30004109
+    },
+    "name": "Stargate (Oberen)",
+    "position": {
+        "x": 2789425766400,
+        "y": -248070266880,
+        "z": 3389533593600
+    },
+    "stargate_id": 50007871,
+    "system_id": 30004108,
+    "type_id": 29624
+}

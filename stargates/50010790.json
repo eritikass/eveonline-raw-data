@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010609,
+        "system_id": 30004236
+    },
+    "name": "Stargate (Yehaba)",
+    "position": {
+        "x": 450487050240,
+        "y": 39484416000,
+        "z": 3622808248320
+    },
+    "stargate_id": 50010790,
+    "system_id": 30004237,
+    "type_id": 29624
+}

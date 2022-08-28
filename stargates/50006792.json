@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005779,
+        "system_id": 30000501
+    },
+    "name": "Stargate (S-51XG)",
+    "position": {
+        "x": -2067721297920,
+        "y": 177545748480,
+        "z": -471850475520
+    },
+    "stargate_id": 50006792,
+    "system_id": 30000503,
+    "type_id": 29633
+}

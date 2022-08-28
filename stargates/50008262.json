@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007944,
+        "system_id": 30005127
+    },
+    "name": "Stargate (B9N2-2)",
+    "position": {
+        "x": 746323845120,
+        "y": 149495930880,
+        "z": -1765485895680
+    },
+    "stargate_id": 50008262,
+    "system_id": 30005128,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010565,
+        "system_id": 30004524
+    },
+    "name": "Stargate (DB-6W4)",
+    "position": {
+        "x": 5013941575680,
+        "y": 994514411520,
+        "z": -3970186321920
+    },
+    "stargate_id": 50010555,
+    "system_id": 30004523,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003445,
+        "system_id": 30002140
+    },
+    "name": "Stargate (REB-KR)",
+    "position": {
+        "x": 615652270080,
+        "y": -48012533760,
+        "z": 1405527859200
+    },
+    "stargate_id": 50002533,
+    "system_id": 30002138,
+    "type_id": 29633
+}

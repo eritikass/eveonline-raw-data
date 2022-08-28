@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013478,
+        "system_id": 30004309
+    },
+    "name": "Stargate (Hophib)",
+    "position": {
+        "x": -1391935119360,
+        "y": -31827271680,
+        "z": 317916979200
+    },
+    "stargate_id": 50013406,
+    "system_id": 30004306,
+    "type_id": 29624
+}

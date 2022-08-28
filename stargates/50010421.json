@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011019,
+        "system_id": 30003643
+    },
+    "name": "Stargate (L-P3XM)",
+    "position": {
+        "x": 163149619200,
+        "y": -24914780160,
+        "z": 2193317928960
+    },
+    "stargate_id": 50010421,
+    "system_id": 30003640,
+    "type_id": 16
+}

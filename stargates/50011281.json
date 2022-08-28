@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010583,
+        "system_id": 30001783
+    },
+    "name": "Stargate (QOK-SX)",
+    "position": {
+        "x": -1212058214400,
+        "y": 193036492800,
+        "z": 3819741634560
+    },
+    "stargate_id": 50011281,
+    "system_id": 30001785,
+    "type_id": 3875
+}

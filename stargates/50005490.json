@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010226,
+        "system_id": 30005312
+    },
+    "name": "Stargate (Gisleres)",
+    "position": {
+        "x": 1616948305920,
+        "y": -2061177692160,
+        "z": 2166918635520
+    },
+    "stargate_id": 50005490,
+    "system_id": 30005322,
+    "type_id": 3874
+}

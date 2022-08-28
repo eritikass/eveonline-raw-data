@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006175,
+        "system_id": 30000493
+    },
+    "name": "Stargate (U-MFTL)",
+    "position": {
+        "x": -361803079680,
+        "y": 603978915840,
+        "z": -937585336320
+    },
+    "stargate_id": 50006575,
+    "system_id": 30000521,
+    "type_id": 3877
+}

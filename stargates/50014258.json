@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014257,
+        "system_id": 30002370
+    },
+    "name": "Stargate (PX-IHN)",
+    "position": {
+        "x": -780148285440,
+        "y": 573872578560,
+        "z": -2458469867520
+    },
+    "stargate_id": 50014258,
+    "system_id": 30002355,
+    "type_id": 3874
+}

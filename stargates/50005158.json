@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006932,
+        "system_id": 30002239
+    },
+    "name": "Stargate (Rammi)",
+    "position": {
+        "x": 5461007032320,
+        "y": 480723886080,
+        "z": -3752265277440
+    },
+    "stargate_id": 50005158,
+    "system_id": 30002236,
+    "type_id": 29624
+}

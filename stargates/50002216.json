@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002061,
+        "system_id": 30002821
+    },
+    "name": "Stargate (JT2I-7)",
+    "position": {
+        "x": 520692572160,
+        "y": 25423994880,
+        "z": -127951626240
+    },
+    "stargate_id": 50002216,
+    "system_id": 30002822,
+    "type_id": 3875
+}

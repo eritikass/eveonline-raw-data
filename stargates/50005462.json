@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005314,
+        "system_id": 30002228
+    },
+    "name": "Stargate (Nererut)",
+    "position": {
+        "x": -131696517120,
+        "y": -15449579520,
+        "z": 274658795520
+    },
+    "stargate_id": 50005462,
+    "system_id": 30002230,
+    "type_id": 29624
+}

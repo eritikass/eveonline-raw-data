@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001297,
+        "system_id": 30000855
+    },
+    "name": "Stargate (NL6V-7)",
+    "position": {
+        "x": -579492126720,
+        "y": -115983605760,
+        "z": 1251969146880
+    },
+    "stargate_id": 50001378,
+    "system_id": 30000856,
+    "type_id": 16
+}

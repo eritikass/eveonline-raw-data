@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004684,
+        "system_id": 30003015
+    },
+    "name": "Stargate (Aice)",
+    "position": {
+        "x": 85959598080,
+        "y": 14875975680,
+        "z": 168825937920
+    },
+    "stargate_id": 50003980,
+    "system_id": 30003013,
+    "type_id": 3875
+}

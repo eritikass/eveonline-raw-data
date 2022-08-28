@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000185,
+        "system_id": 30001036
+    },
+    "name": "Stargate (G-R4W1)",
+    "position": {
+        "x": -121220997120,
+        "y": -8738365440,
+        "z": 133990686720
+    },
+    "stargate_id": 50002094,
+    "system_id": 30001041,
+    "type_id": 29633
+}

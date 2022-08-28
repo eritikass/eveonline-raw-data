@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008604,
+        "system_id": 30001352
+    },
+    "name": "Stargate (2IBE-N)",
+    "position": {
+        "x": -4648860672000,
+        "y": -756095262720,
+        "z": -3699505274880
+    },
+    "stargate_id": 50007910,
+    "system_id": 30001350,
+    "type_id": 16
+}

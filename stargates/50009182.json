@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009767,
+        "system_id": 30003959
+    },
+    "name": "Stargate (VT-G2P)",
+    "position": {
+        "x": -2436591329280,
+        "y": -289563648000,
+        "z": -1776389775360
+    },
+    "stargate_id": 50009182,
+    "system_id": 30003957,
+    "type_id": 29624
+}

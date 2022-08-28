@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003431,
+        "system_id": 30002338
+    },
+    "name": "Stargate (ALC-JM)",
+    "position": {
+        "x": -926381383680,
+        "y": 82827632640,
+        "z": -684878929920
+    },
+    "stargate_id": 50003336,
+    "system_id": 30002337,
+    "type_id": 3875
+}

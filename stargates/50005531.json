@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003044,
+        "system_id": 30002191
+    },
+    "name": "Stargate (Toshabia)",
+    "position": {
+        "x": 3882190970880,
+        "y": 1717420892160,
+        "z": 4077754245120
+    },
+    "stargate_id": 50005531,
+    "system_id": 30002242,
+    "type_id": 17
+}

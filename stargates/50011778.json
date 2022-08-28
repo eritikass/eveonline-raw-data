@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011757,
+        "system_id": 30004591
+    },
+    "name": "Stargate (6F-H3W)",
+    "position": {
+        "x": 382672527360,
+        "y": 67723714560,
+        "z": 2434664570880
+    },
+    "stargate_id": 50011778,
+    "system_id": 30004592,
+    "type_id": 3875
+}

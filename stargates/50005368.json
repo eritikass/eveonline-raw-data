@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005483,
+        "system_id": 30002992
+    },
+    "name": "Stargate (Akes)",
+    "position": {
+        "x": 559546245120,
+        "y": -44303278080,
+        "z": 741678243840
+    },
+    "stargate_id": 50005368,
+    "system_id": 30002991,
+    "type_id": 29624
+}

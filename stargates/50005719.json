@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004461,
+        "system_id": 30000058
+    },
+    "name": "Stargate (Amphar)",
+    "position": {
+        "x": -608644669440,
+        "y": -1664404316160,
+        "z": 1782396395520
+    },
+    "stargate_id": 50005719,
+    "system_id": 30000105,
+    "type_id": 17
+}

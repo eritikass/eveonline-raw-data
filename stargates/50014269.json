@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014270,
+        "system_id": 30001533
+    },
+    "name": "Stargate (C6C-K9)",
+    "position": {
+        "x": 1648072089600,
+        "y": 1331301212160,
+        "z": -2185361694720
+    },
+    "stargate_id": 50014269,
+    "system_id": 30002336,
+    "type_id": 29632
+}

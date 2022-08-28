@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013691,
+        "system_id": 30000169
+    },
+    "name": "Stargate (Ihakana)",
+    "position": {
+        "x": 1992600576000,
+        "y": 2643522232320,
+        "z": -2212887060480
+    },
+    "stargate_id": 50013692,
+    "system_id": 30000194,
+    "type_id": 29627
+}

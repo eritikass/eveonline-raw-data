@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001940,
+        "system_id": 30001402
+    },
+    "name": "Stargate (Passari)",
+    "position": {
+        "x": 2825941032960,
+        "y": 428097331200,
+        "z": -2380883435520
+    },
+    "stargate_id": 50001470,
+    "system_id": 30001400,
+    "type_id": 16
+}

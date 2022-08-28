@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012968,
+        "system_id": 30005085
+    },
+    "name": "Stargate (Ranni)",
+    "position": {
+        "x": 2919997440,
+        "y": 355491840,
+        "z": -414391050240
+    },
+    "stargate_id": 50013022,
+    "system_id": 30005086,
+    "type_id": 29624
+}

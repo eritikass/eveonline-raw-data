@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010893,
+        "system_id": 30002216
+    },
+    "name": "Stargate (Aldali)",
+    "position": {
+        "x": -1285765079040,
+        "y": 177532231680,
+        "z": -854937231360
+    },
+    "stargate_id": 50010069,
+    "system_id": 30002215,
+    "type_id": 29624
+}

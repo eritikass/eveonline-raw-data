@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006928,
+        "system_id": 30001243
+    },
+    "name": "Stargate (JGW-OT)",
+    "position": {
+        "x": -1480401838080,
+        "y": -238853775360,
+        "z": 5297309982720
+    },
+    "stargate_id": 50006941,
+    "system_id": 30001244,
+    "type_id": 29624
+}

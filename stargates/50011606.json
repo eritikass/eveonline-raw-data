@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011387,
+        "system_id": 30003665
+    },
+    "name": "Stargate (M-UC0S)",
+    "position": {
+        "x": 536371814400,
+        "y": 67957186560,
+        "z": -502095175680
+    },
+    "stargate_id": 50011606,
+    "system_id": 30003666,
+    "type_id": 16
+}

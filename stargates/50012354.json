@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012527,
+        "system_id": 30004850
+    },
+    "name": "Stargate (A-REKV)",
+    "position": {
+        "x": -1215608217600,
+        "y": -90920017920,
+        "z": 8998564700160
+    },
+    "stargate_id": 50012354,
+    "system_id": 30004847,
+    "type_id": 29633
+}

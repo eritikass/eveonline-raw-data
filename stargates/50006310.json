@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005721,
+        "system_id": 30003800
+    },
+    "name": "Stargate (Alperaute)",
+    "position": {
+        "x": 957975552000,
+        "y": 36404305920,
+        "z": -408614215680
+    },
+    "stargate_id": 50006310,
+    "system_id": 30003801,
+    "type_id": 3875
+}

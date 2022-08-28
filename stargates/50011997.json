@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011951,
+        "system_id": 30004689
+    },
+    "name": "Stargate (LG-WA9)",
+    "position": {
+        "x": -520885493760,
+        "y": -73498583040,
+        "z": 35451740160
+    },
+    "stargate_id": 50011997,
+    "system_id": 30004690,
+    "type_id": 29624
+}

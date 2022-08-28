@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005889,
+        "system_id": 30002801
+    },
+    "name": "Stargate (Suroken)",
+    "position": {
+        "x": -1112293662720,
+        "y": -64628613120,
+        "z": -4049169162240
+    },
+    "stargate_id": 50006698,
+    "system_id": 30002802,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000130,
+        "system_id": 30003063
+    },
+    "name": "Stargate (Lamaa)",
+    "position": {
+        "x": 322546851840,
+        "y": 2191164825600,
+        "z": -1995504721920
+    },
+    "stargate_id": 50000212,
+    "system_id": 30002957,
+    "type_id": 29626
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000373,
+        "system_id": 30000744
+    },
+    "name": "Stargate (O-7LAI)",
+    "position": {
+        "x": -552175902720,
+        "y": 99941621760,
+        "z": -78882693120
+    },
+    "stargate_id": 50000982,
+    "system_id": 30000745,
+    "type_id": 29633
+}

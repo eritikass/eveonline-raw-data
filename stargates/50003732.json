@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003098,
+        "system_id": 30000952
+    },
+    "name": "Stargate (I-QRJA)",
+    "position": {
+        "x": 1418533969920,
+        "y": -73300992000,
+        "z": -2146987991040
+    },
+    "stargate_id": 50003732,
+    "system_id": 30000954,
+    "type_id": 29633
+}

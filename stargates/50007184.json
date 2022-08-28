@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004697,
+        "system_id": 30002068
+    },
+    "name": "Stargate (Nakugard)",
+    "position": {
+        "x": 6041549414400,
+        "y": 124656230400,
+        "z": 17808914227200
+    },
+    "stargate_id": 50007184,
+    "system_id": 30002071,
+    "type_id": 29633
+}

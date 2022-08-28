@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008204,
+        "system_id": 30003828
+    },
+    "name": "Stargate (Moclinamaud)",
+    "position": {
+        "x": -263524638720,
+        "y": -51368386560,
+        "z": 420104478720
+    },
+    "stargate_id": 50007824,
+    "system_id": 30003825,
+    "type_id": 3875
+}

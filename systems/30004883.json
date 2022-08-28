@@ -1,0 +1,56 @@
+{
+    "constellation_id": 20000714,
+    "name": "JV1V-O",
+    "planets": [
+        {
+            "planet_id": 40309353
+        },
+        {
+            "planet_id": 40309354
+        },
+        {
+            "moons": [
+                40309356
+            ],
+            "planet_id": 40309355
+        },
+        {
+            "asteroid_belts": [
+                40309358
+            ],
+            "moons": [
+                40309359
+            ],
+            "planet_id": 40309357
+        },
+        {
+            "asteroid_belts": [
+                40309361
+            ],
+            "moons": [
+                40309362,
+                40309363
+            ],
+            "planet_id": 40309360
+        },
+        {
+            "asteroid_belts": [
+                40309365,
+                40309366
+            ],
+            "planet_id": 40309364
+        }
+    ],
+    "position": {
+        "x": 134715950803404030,
+        "y": -16892293476014038,
+        "z": -327287238012728260
+    },
+    "security_class": "F7",
+    "security_status": -1,
+    "star_id": 40309352,
+    "stargates": [
+        50013517
+    ],
+    "system_id": 30004883
+}

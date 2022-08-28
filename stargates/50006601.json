@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006767,
+        "system_id": 30005246
+    },
+    "name": "Stargate (Imya)",
+    "position": {
+        "x": -1127703060480,
+        "y": -87747256320,
+        "z": 313738813440
+    },
+    "stargate_id": 50006601,
+    "system_id": 30005244,
+    "type_id": 29624
+}

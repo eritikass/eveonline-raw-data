@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003967,
+        "system_id": 30002958
+    },
+    "name": "Stargate (Raa)",
+    "position": {
+        "x": -753038254080,
+        "y": -149754961920,
+        "z": -2530296913920
+    },
+    "stargate_id": 50004260,
+    "system_id": 30002959,
+    "type_id": 29624
+}

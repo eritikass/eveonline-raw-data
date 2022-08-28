@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012577,
+        "system_id": 30004632
+    },
+    "name": "Stargate (38IA-E)",
+    "position": {
+        "x": -3358171668480,
+        "y": 348022824960,
+        "z": 2952664719360
+    },
+    "stargate_id": 50013182,
+    "system_id": 30004634,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000519,
+        "system_id": 30001037
+    },
+    "name": "Stargate (BPK-XK)",
+    "position": {
+        "x": -551156244480,
+        "y": -2550620160,
+        "z": 890358620160
+    },
+    "stargate_id": 50004015,
+    "system_id": 30001042,
+    "type_id": 29633
+}

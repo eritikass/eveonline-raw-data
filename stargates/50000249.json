@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002072,
+        "system_id": 30000905
+    },
+    "name": "Stargate (M-MD3B)",
+    "position": {
+        "x": -3024117473280,
+        "y": -113014824960,
+        "z": -4934169354240
+    },
+    "stargate_id": 50000249,
+    "system_id": 30000900,
+    "type_id": 29633
+}

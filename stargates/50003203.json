@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003112,
+        "system_id": 30001427
+    },
+    "name": "Stargate (Yoma)",
+    "position": {
+        "x": -3131348951040,
+        "y": 485594603520,
+        "z": -1229116170240
+    },
+    "stargate_id": 50003203,
+    "system_id": 30001428,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012424,
+        "system_id": 30004636
+    },
+    "name": "Stargate (I-CUVX)",
+    "position": {
+        "x": -5138724741120,
+        "y": -457265602560,
+        "z": 6553396469760
+    },
+    "stargate_id": 50012804,
+    "system_id": 30004639,
+    "type_id": 3875
+}

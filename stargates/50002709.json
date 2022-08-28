@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002152,
+        "system_id": 30000593
+    },
+    "name": "Stargate (GRHS-B)",
+    "position": {
+        "x": -1027666452480,
+        "y": 185855139840,
+        "z": 791463075840
+    },
+    "stargate_id": 50002709,
+    "system_id": 30000594,
+    "type_id": 29633
+}

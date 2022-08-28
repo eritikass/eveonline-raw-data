@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001462,
+        "system_id": 30001054
+    },
+    "name": "Stargate (VW-PXL)",
+    "position": {
+        "x": 2222675435520,
+        "y": 439866777600,
+        "z": 1331599810560
+    },
+    "stargate_id": 50000503,
+    "system_id": 30001052,
+    "type_id": 3875
+}

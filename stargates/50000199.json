@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002539,
+        "system_id": 30000462
+    },
+    "name": "Stargate (L8-WNE)",
+    "position": {
+        "x": -120280227840,
+        "y": 15207014400,
+        "z": -511389818880
+    },
+    "stargate_id": 50000199,
+    "system_id": 30000460,
+    "type_id": 29633
+}

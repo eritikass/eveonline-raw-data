@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012173,
+        "system_id": 30004031
+    },
+    "name": "Stargate (ZXJ-71)",
+    "position": {
+        "x": -267644067840,
+        "y": -14878433280,
+        "z": 358473523200
+    },
+    "stargate_id": 50012645,
+    "system_id": 30004033,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003203,
+        "system_id": 30001428
+    },
+    "name": "Stargate (Ibura)",
+    "position": {
+        "x": 72066048000,
+        "y": -9379553280,
+        "z": -13533634560
+    },
+    "stargate_id": 50003112,
+    "system_id": 30001427,
+    "type_id": 16
+}

@@ -1,0 +1,70 @@
+{
+    "constellation_id": 20000605,
+    "name": "Bersyrim",
+    "planets": [
+        {
+            "planet_id": 40262280
+        },
+        {
+            "asteroid_belts": [
+                40262282
+            ],
+            "moons": [
+                40262283
+            ],
+            "planet_id": 40262281
+        },
+        {
+            "asteroid_belts": [
+                40262285
+            ],
+            "moons": [
+                40262286
+            ],
+            "planet_id": 40262284
+        },
+        {
+            "asteroid_belts": [
+                40262288
+            ],
+            "moons": [
+                40262289
+            ],
+            "planet_id": 40262287
+        },
+        {
+            "asteroid_belts": [
+                40262293
+            ],
+            "moons": [
+                40262291,
+                40262292
+            ],
+            "planet_id": 40262290
+        },
+        {
+            "asteroid_belts": [
+                40262295,
+                40262296,
+                40262298
+            ],
+            "moons": [
+                40262297
+            ],
+            "planet_id": 40262294
+        }
+    ],
+    "position": {
+        "x": -251695558846884400,
+        "y": 75561567954536600,
+        "z": -38604961989104650
+    },
+    "security_class": "B3",
+    "security_status": 0.20437490940093994,
+    "star_id": 40262279,
+    "stargates": [
+        50010297,
+        50010298
+    ],
+    "system_id": 30004138
+}

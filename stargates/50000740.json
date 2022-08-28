@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002112,
+        "system_id": 30000615
+    },
+    "name": "Stargate (LMM7-L)",
+    "position": {
+        "x": 2145090232320,
+        "y": -173497589760,
+        "z": 3355696373760
+    },
+    "stargate_id": 50000740,
+    "system_id": 30000612,
+    "type_id": 29633
+}

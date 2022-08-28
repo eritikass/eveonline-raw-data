@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007706,
+        "system_id": 30003888
+    },
+    "name": "Stargate (Badivefi)",
+    "position": {
+        "x": -1654594560000,
+        "y": 47688867840,
+        "z": 324240629760
+    },
+    "stargate_id": 50008207,
+    "system_id": 30003890,
+    "type_id": 29624
+}

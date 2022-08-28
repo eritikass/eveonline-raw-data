@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013837,
+        "system_id": 30000896
+    },
+    "name": "Stargate (NJ4X-S)",
+    "position": {
+        "x": 287269232640,
+        "y": -1184055091200,
+        "z": -2837143019520
+    },
+    "stargate_id": 50013838,
+    "system_id": 30001348,
+    "type_id": 12292
+}

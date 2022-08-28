@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002356,
+        "system_id": 30001198
+    },
+    "name": "Stargate (GE-8JV)",
+    "position": {
+        "x": -2263423180800,
+        "y": -430871961600,
+        "z": 208265502720
+    },
+    "stargate_id": 50003009,
+    "system_id": 30001203,
+    "type_id": 29624
+}

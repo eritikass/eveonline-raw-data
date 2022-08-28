@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011123,
+        "system_id": 30004749
+    },
+    "name": "Stargate (Q-JQSG)",
+    "position": {
+        "x": -7888035840,
+        "y": -1425285120,
+        "z": 805094891520
+    },
+    "stargate_id": 50011062,
+    "system_id": 30004746,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013536,
+        "system_id": 30004966
+    },
+    "name": "Stargate (MVUO-F)",
+    "position": {
+        "x": -1923131351040,
+        "y": 122187571200,
+        "z": -745296322560
+    },
+    "stargate_id": 50013445,
+    "system_id": 30004965,
+    "type_id": 29624
+}

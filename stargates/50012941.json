@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013345,
+        "system_id": 30005286
+    },
+    "name": "Stargate (New Eden)",
+    "position": {
+        "x": -1974630850560,
+        "y": -108900311040,
+        "z": -4760013742080
+    },
+    "stargate_id": 50012941,
+    "system_id": 30005284,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001290,
+        "system_id": 30001538
+    },
+    "name": "Stargate (OTJ-4W)",
+    "position": {
+        "x": -3031462010880,
+        "y": -377402204160,
+        "z": 896901734400
+    },
+    "stargate_id": 50000412,
+    "system_id": 30001536,
+    "type_id": 3875
+}

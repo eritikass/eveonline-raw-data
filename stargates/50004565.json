@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004584,
+        "system_id": 30000988
+    },
+    "name": "Stargate (V-IH6B)",
+    "position": {
+        "x": 6257400668160,
+        "y": 573209272320,
+        "z": -490904494080
+    },
+    "stargate_id": 50004565,
+    "system_id": 30000987,
+    "type_id": 29633
+}

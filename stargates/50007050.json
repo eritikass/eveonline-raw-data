@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010720,
+        "system_id": 30002573
+    },
+    "name": "Stargate (Vullat)",
+    "position": {
+        "x": 1514285015040,
+        "y": 162193858560,
+        "z": 7954308341760
+    },
+    "stargate_id": 50007050,
+    "system_id": 30002570,
+    "type_id": 29633
+}

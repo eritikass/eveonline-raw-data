@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004122,
+        "system_id": 30001688
+    },
+    "name": "Stargate (Onazel)",
+    "position": {
+        "x": -427228815360,
+        "y": -28345344000,
+        "z": 1744668549120
+    },
+    "stargate_id": 50004006,
+    "system_id": 30001687,
+    "type_id": 29624
+}

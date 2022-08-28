@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012290,
+        "system_id": 30001802
+    },
+    "name": "Stargate (G-HE0N)",
+    "position": {
+        "x": 1105077411840,
+        "y": -117135728640,
+        "z": -206256906240
+    },
+    "stargate_id": 50011521,
+    "system_id": 30001797,
+    "type_id": 3875
+}

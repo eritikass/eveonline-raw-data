@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000026,
+        "system_id": 30000678
+    },
+    "name": "Stargate (XV-MWG)",
+    "position": {
+        "x": -6790668656640,
+        "y": -29350010880,
+        "z": -1282731171840
+    },
+    "stargate_id": 50001680,
+    "system_id": 30000682,
+    "type_id": 29633
+}

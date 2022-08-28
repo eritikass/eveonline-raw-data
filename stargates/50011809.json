@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011779,
+        "system_id": 30004592
+    },
+    "name": "Stargate (H-NPXW)",
+    "position": {
+        "x": 190586880,
+        "y": -155688960,
+        "z": -1708050554880
+    },
+    "stargate_id": 50011809,
+    "system_id": 30004593,
+    "type_id": 3875
+}

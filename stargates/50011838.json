@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012110,
+        "system_id": 30004253
+    },
+    "name": "Stargate (Pahineh)",
+    "position": {
+        "x": -382643527680,
+        "y": -16241664000,
+        "z": -2636499148800
+    },
+    "stargate_id": 50011838,
+    "system_id": 30004251,
+    "type_id": 29624
+}

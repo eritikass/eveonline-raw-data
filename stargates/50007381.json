@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006815,
+        "system_id": 30005122
+    },
+    "name": "Stargate (C6CG-W)",
+    "position": {
+        "x": -898761646080,
+        "y": 3592795054080,
+        "z": 5019523031040
+    },
+    "stargate_id": 50007381,
+    "system_id": 30005152,
+    "type_id": 3874
+}

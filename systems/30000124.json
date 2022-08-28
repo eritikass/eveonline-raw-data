@@ -1,0 +1,68 @@
+{
+    "constellation_id": 20000017,
+    "name": "Kylmabe",
+    "planets": [
+        {
+            "planet_id": 40008052
+        },
+        {
+            "planet_id": 40008053
+        },
+        {
+            "planet_id": 40008054
+        },
+        {
+            "planet_id": 40008055
+        },
+        {
+            "planet_id": 40008056
+        },
+        {
+            "moons": [
+                40008058,
+                40008059
+            ],
+            "planet_id": 40008057
+        },
+        {
+            "asteroid_belts": [
+                40008061
+            ],
+            "planet_id": 40008060
+        },
+        {
+            "moons": [
+                40008063,
+                40008064
+            ],
+            "planet_id": 40008062
+        },
+        {
+            "asteroid_belts": [
+                40008066
+            ],
+            "moons": [
+                40008067
+            ],
+            "planet_id": 40008065
+        },
+        {
+            "asteroid_belts": [
+                40008069
+            ],
+            "planet_id": 40008068
+        }
+    ],
+    "position": {
+        "x": -114552649128269630,
+        "y": 52214525295879096,
+        "z": 116245911522904030
+    },
+    "security_class": "C",
+    "security_status": 0.7319313287734985,
+    "star_id": 40008051,
+    "stargates": [
+        50003326
+    ],
+    "system_id": 30000124
+}

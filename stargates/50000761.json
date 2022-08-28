@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000515,
+        "system_id": 30001171
+    },
+    "name": "Stargate (F4R2-Q)",
+    "position": {
+        "x": 3554006016000,
+        "y": -498251735040,
+        "z": -2399085649920
+    },
+    "stargate_id": 50000761,
+    "system_id": 30001173,
+    "type_id": 29624
+}

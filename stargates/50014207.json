@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014208,
+        "system_id": 30002825
+    },
+    "name": "Stargate (UDVW-O)",
+    "position": {
+        "x": 2769314979840,
+        "y": -1584982548480,
+        "z": -660104847360
+    },
+    "stargate_id": 50014207,
+    "system_id": 30000319,
+    "type_id": 29629
+}

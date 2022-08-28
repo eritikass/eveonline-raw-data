@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007564,
+        "system_id": 30002654
+    },
+    "name": "Stargate (Schoorasana)",
+    "position": {
+        "x": -2913639751680,
+        "y": -416267673600,
+        "z": -198291578880
+    },
+    "stargate_id": 50005689,
+    "system_id": 30002653,
+    "type_id": 3875
+}

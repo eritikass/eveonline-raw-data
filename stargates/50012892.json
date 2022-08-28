@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012737,
+        "system_id": 30004651
+    },
+    "name": "Stargate (C-FER9)",
+    "position": {
+        "x": 195979468800,
+        "y": -4548894720,
+        "z": 209533624320
+    },
+    "stargate_id": 50012892,
+    "system_id": 30004652,
+    "type_id": 3875
+}

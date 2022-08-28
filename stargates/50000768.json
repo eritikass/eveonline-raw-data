@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003607,
+        "system_id": 30002326
+    },
+    "name": "Stargate (RV-GA8)",
+    "position": {
+        "x": 1385935626240,
+        "y": 133988966400,
+        "z": -1106720808960
+    },
+    "stargate_id": 50000768,
+    "system_id": 30002323,
+    "type_id": 3875
+}

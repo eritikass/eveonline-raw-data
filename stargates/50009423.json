@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008756,
+        "system_id": 30003223
+    },
+    "name": "Stargate (5JEZ-I)",
+    "position": {
+        "x": 951087144960,
+        "y": 105534382080,
+        "z": -583346626560
+    },
+    "stargate_id": 50009423,
+    "system_id": 30003226,
+    "type_id": 3875
+}

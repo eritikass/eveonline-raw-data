@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013189,
+        "system_id": 30004952
+    },
+    "name": "Stargate (JZL-VB)",
+    "position": {
+        "x": -2546500116480,
+        "y": 185116139520,
+        "z": 1878967296000
+    },
+    "stargate_id": 50013015,
+    "system_id": 30004949,
+    "type_id": 29624
+}

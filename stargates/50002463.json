@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000773,
+        "system_id": 30002111
+    },
+    "name": "Stargate (SPBS-6)",
+    "position": {
+        "x": -229279211520,
+        "y": 41795051520,
+        "z": 509639761920
+    },
+    "stargate_id": 50002463,
+    "system_id": 30002113,
+    "type_id": 29633
+}

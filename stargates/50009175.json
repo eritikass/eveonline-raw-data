@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011266,
+        "system_id": 30001737
+    },
+    "name": "Stargate (Hath)",
+    "position": {
+        "x": -1220612628480,
+        "y": 2631720960,
+        "z": -5349148385280
+    },
+    "stargate_id": 50009175,
+    "system_id": 30001735,
+    "type_id": 29624
+}

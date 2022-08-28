@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010327,
+        "system_id": 30002087
+    },
+    "name": "Stargate (Isbrabata)",
+    "position": {
+        "x": -2118907944960,
+        "y": 404444405760,
+        "z": -6541684531200
+    },
+    "stargate_id": 50009405,
+    "system_id": 30002086,
+    "type_id": 29633
+}

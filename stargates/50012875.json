@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013247,
+        "system_id": 30004154
+    },
+    "name": "Stargate (Yehnifi)",
+    "position": {
+        "x": 138551992320,
+        "y": 19445882880,
+        "z": -780249047040
+    },
+    "stargate_id": 50012875,
+    "system_id": 30004152,
+    "type_id": 29624
+}

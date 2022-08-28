@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002403,
+        "system_id": 30002649
+    },
+    "name": "Stargate (Boillair)",
+    "position": {
+        "x": -692077977600,
+        "y": -6138961920,
+        "z": 3144575754240
+    },
+    "stargate_id": 50003353,
+    "system_id": 30002650,
+    "type_id": 3875
+}

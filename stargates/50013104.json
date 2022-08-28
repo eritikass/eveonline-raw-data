@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013085,
+        "system_id": 30004942
+    },
+    "name": "Stargate (8KR9-5)",
+    "position": {
+        "x": 3108109885440,
+        "y": -240389283840,
+        "z": -1752375091200
+    },
+    "stargate_id": 50013104,
+    "system_id": 30004943,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014035,
+        "system_id": 30003756
+    },
+    "name": "Stargate (AY-24I)",
+    "position": {
+        "x": 5475879936000,
+        "y": -3928311029760,
+        "z": -278515752960
+    },
+    "stargate_id": 50014036,
+    "system_id": 30003773,
+    "type_id": 17
+}

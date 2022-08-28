@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010631,
+        "system_id": 30002887
+    },
+    "name": "Stargate (J-OAH2)",
+    "position": {
+        "x": 2762856652800,
+        "y": -69862563840,
+        "z": -6217814876160
+    },
+    "stargate_id": 50008273,
+    "system_id": 30002882,
+    "type_id": 3875
+}

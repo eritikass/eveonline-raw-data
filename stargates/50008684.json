@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009092,
+        "system_id": 30005270
+    },
+    "name": "Stargate (Shalne)",
+    "position": {
+        "x": -6742885294080,
+        "y": 1137053245440,
+        "z": -2092596879360
+    },
+    "stargate_id": 50008684,
+    "system_id": 30005268,
+    "type_id": 29624
+}

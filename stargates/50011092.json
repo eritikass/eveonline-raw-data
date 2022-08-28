@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011258,
+        "system_id": 30004250
+    },
+    "name": "Stargate (Chibi)",
+    "position": {
+        "x": -1455613009920,
+        "y": 202574929920,
+        "z": 636920094720
+    },
+    "stargate_id": 50011092,
+    "system_id": 30004248,
+    "type_id": 29624
+}

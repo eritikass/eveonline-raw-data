@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011433,
+        "system_id": 30001721
+    },
+    "name": "Stargate (Saminer)",
+    "position": {
+        "x": -974470225920,
+        "y": -38755246080,
+        "z": -3977763840000
+    },
+    "stargate_id": 50011250,
+    "system_id": 30001720,
+    "type_id": 29624
+}

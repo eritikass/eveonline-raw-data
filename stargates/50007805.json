@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008135,
+        "system_id": 30003294
+    },
+    "name": "Stargate (V4-L0X)",
+    "position": {
+        "x": -4582689546240,
+        "y": -126458388480,
+        "z": 1461368709120
+    },
+    "stargate_id": 50007805,
+    "system_id": 30003293,
+    "type_id": 3875
+}

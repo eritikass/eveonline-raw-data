@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012729,
+        "system_id": 30001594
+    },
+    "name": "Stargate (X-KHRZ)",
+    "position": {
+        "x": -1428004331520,
+        "y": 204924887040,
+        "z": -536359280640
+    },
+    "stargate_id": 50012317,
+    "system_id": 30001592,
+    "type_id": 3875
+}

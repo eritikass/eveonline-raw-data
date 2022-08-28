@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010455,
+        "system_id": 30002722
+    },
+    "name": "Stargate (Lamadent)",
+    "position": {
+        "x": 1886587084800,
+        "y": -243479715840,
+        "z": -2231910359040
+    },
+    "stargate_id": 50008875,
+    "system_id": 30002719,
+    "type_id": 3875
+}

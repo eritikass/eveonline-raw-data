@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001486,
+        "system_id": 30005193
+    },
+    "name": "Stargate (Lor)",
+    "position": {
+        "x": -5686514442240,
+        "y": -154948116480,
+        "z": -1372710297600
+    },
+    "stargate_id": 50002574,
+    "system_id": 30005196,
+    "type_id": 29624
+}

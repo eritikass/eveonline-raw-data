@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016278,
+        "system_id": 30045338
+    },
+    "name": "Stargate (Hikkoken)",
+    "position": {
+        "x": 1663580528640,
+        "y": 95115632640,
+        "z": -1104927498240
+    },
+    "stargate_id": 50016277,
+    "system_id": 30045343,
+    "type_id": 16
+}

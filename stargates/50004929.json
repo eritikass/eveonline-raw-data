@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002893,
+        "system_id": 30000024
+    },
+    "name": "Stargate (Kiereend)",
+    "position": {
+        "x": -3432275681280,
+        "y": 676033781760,
+        "z": 340762583040
+    },
+    "stargate_id": 50004929,
+    "system_id": 30000028,
+    "type_id": 29624
+}

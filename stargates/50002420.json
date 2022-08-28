@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002592,
+        "system_id": 30002758
+    },
+    "name": "Stargate (Hasama)",
+    "position": {
+        "x": -2402034769920,
+        "y": 124550553600,
+        "z": 968627773440
+    },
+    "stargate_id": 50002420,
+    "system_id": 30002757,
+    "type_id": 16
+}

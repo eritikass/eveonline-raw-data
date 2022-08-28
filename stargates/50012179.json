@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012276,
+        "system_id": 30004200
+    },
+    "name": "Stargate (CUT-0V)",
+    "position": {
+        "x": -1386485882880,
+        "y": -277710643200,
+        "z": 5496296939520
+    },
+    "stargate_id": 50012179,
+    "system_id": 30004198,
+    "type_id": 3875
+}

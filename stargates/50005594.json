@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006184,
+        "system_id": 30002997
+    },
+    "name": "Stargate (Ehnoum)",
+    "position": {
+        "x": 2303834480640,
+        "y": -446043217920,
+        "z": -580495319040
+    },
+    "stargate_id": 50005594,
+    "system_id": 30002996,
+    "type_id": 29624
+}

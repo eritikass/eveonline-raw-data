@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004763,
+        "system_id": 30000602
+    },
+    "name": "Stargate (WRL4-2)",
+    "position": {
+        "x": -363230945280,
+        "y": -39696261120,
+        "z": 1457377566720
+    },
+    "stargate_id": 50002182,
+    "system_id": 30000599,
+    "type_id": 29633
+}

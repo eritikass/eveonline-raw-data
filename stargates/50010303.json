@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009911,
+        "system_id": 30004711
+    },
+    "name": "Stargate (PR-8CA)",
+    "position": {
+        "x": 2109915832320,
+        "y": 1703318200320,
+        "z": 3804336660480
+    },
+    "stargate_id": 50010303,
+    "system_id": 30004718,
+    "type_id": 17
+}

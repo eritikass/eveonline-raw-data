@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001291,
+        "system_id": 30000663
+    },
+    "name": "Stargate (DE-A7P)",
+    "position": {
+        "x": 826321428480,
+        "y": -59811717120,
+        "z": 140407234560
+    },
+    "stargate_id": 50001720,
+    "system_id": 30000664,
+    "type_id": 29633
+}

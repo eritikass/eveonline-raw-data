@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016348,
+        "system_id": 30045335
+    },
+    "name": "Stargate (Teskanen)",
+    "position": {
+        "x": -991083601920,
+        "y": -19023421440,
+        "z": -626240102400
+    },
+    "stargate_id": 50016347,
+    "system_id": 30045331,
+    "type_id": 16
+}

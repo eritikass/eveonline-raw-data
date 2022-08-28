@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010069,
+        "system_id": 30002215
+    },
+    "name": "Stargate (Sakhti)",
+    "position": {
+        "x": -502357155840,
+        "y": -48817152000,
+        "z": 2588707921920
+    },
+    "stargate_id": 50010893,
+    "system_id": 30002216,
+    "type_id": 29624
+}

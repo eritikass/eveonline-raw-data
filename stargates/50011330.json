@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011806,
+        "system_id": 30003446
+    },
+    "name": "Stargate (Ofage)",
+    "position": {
+        "x": -194100387840,
+        "y": 15174574080,
+        "z": 691991224320
+    },
+    "stargate_id": 50011330,
+    "system_id": 30003444,
+    "type_id": 29633
+}

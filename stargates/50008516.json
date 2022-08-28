@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007991,
+        "system_id": 30003819
+    },
+    "name": "Stargate (Barleguet)",
+    "position": {
+        "x": 3034596433920,
+        "y": 385013391360,
+        "z": 982759956480
+    },
+    "stargate_id": 50008516,
+    "system_id": 30003820,
+    "type_id": 3875
+}

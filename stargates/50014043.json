@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014044,
+        "system_id": 30004589
+    },
+    "name": "Stargate (J5A-IX)",
+    "position": {
+        "x": -8049266565120,
+        "y": -2122075299840,
+        "z": -5966626775040
+    },
+    "stargate_id": 50014043,
+    "system_id": 30004040,
+    "type_id": 29632
+}

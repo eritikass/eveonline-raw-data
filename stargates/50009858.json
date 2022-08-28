@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008364,
+        "system_id": 30004342
+    },
+    "name": "Stargate (XM-4L0)",
+    "position": {
+        "x": 66613370880,
+        "y": -3493109760,
+        "z": -32646635520
+    },
+    "stargate_id": 50009858,
+    "system_id": 30004349,
+    "type_id": 16
+}

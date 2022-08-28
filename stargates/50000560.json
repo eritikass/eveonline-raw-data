@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002068,
+        "system_id": 30000232
+    },
+    "name": "Stargate (MY-T2P)",
+    "position": {
+        "x": -1190145269760,
+        "y": 77818798080,
+        "z": 1060256440320
+    },
+    "stargate_id": 50000560,
+    "system_id": 30000228,
+    "type_id": 16
+}

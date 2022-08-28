@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008180,
+        "system_id": 30002036
+    },
+    "name": "Stargate (D2-HOS)",
+    "position": {
+        "x": -3517600112640,
+        "y": -685800038400,
+        "z": 5759909928960
+    },
+    "stargate_id": 50010763,
+    "system_id": 30002040,
+    "type_id": 16
+}

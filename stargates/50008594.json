@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005753,
+        "system_id": 30002243
+    },
+    "name": "Stargate (Seiradih)",
+    "position": {
+        "x": 1589962629120,
+        "y": 113603420160,
+        "z": 1631442493440
+    },
+    "stargate_id": 50008594,
+    "system_id": 30002246,
+    "type_id": 29624
+}

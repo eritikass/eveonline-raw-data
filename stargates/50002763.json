@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004146,
+        "system_id": 30001005
+    },
+    "name": "Stargate (OSY-UD)",
+    "position": {
+        "x": -610625495040,
+        "y": 36914503680,
+        "z": -1455439503360
+    },
+    "stargate_id": 50002763,
+    "system_id": 30001002,
+    "type_id": 29633
+}

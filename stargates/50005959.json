@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005542,
+        "system_id": 30002901
+    },
+    "name": "Stargate (TXME-A)",
+    "position": {
+        "x": 2966098452480,
+        "y": 3174136995840,
+        "z": 163098746880
+    },
+    "stargate_id": 50005959,
+    "system_id": 30002902,
+    "type_id": 29627
+}

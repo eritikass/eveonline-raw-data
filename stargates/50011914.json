@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012022,
+        "system_id": 30004786
+    },
+    "name": "Stargate (31X-RE)",
+    "position": {
+        "x": -4897843814400,
+        "y": -621945200640,
+        "z": -119669514240
+    },
+    "stargate_id": 50011914,
+    "system_id": 30004785,
+    "type_id": 29624
+}

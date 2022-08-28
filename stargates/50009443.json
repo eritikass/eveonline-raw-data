@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005452,
+        "system_id": 30003794
+    },
+    "name": "Stargate (Stacmon)",
+    "position": {
+        "x": 361303941120,
+        "y": -33198120960,
+        "z": -3676406292480
+    },
+    "stargate_id": 50009443,
+    "system_id": 30003797,
+    "type_id": 3875
+}

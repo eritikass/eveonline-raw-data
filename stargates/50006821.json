@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006282,
+        "system_id": 30003547
+    },
+    "name": "Stargate (Hamse)",
+    "position": {
+        "x": 2211872071680,
+        "y": 353886904320,
+        "z": -1157824880640
+    },
+    "stargate_id": 50006821,
+    "system_id": 30003549,
+    "type_id": 29624
+}

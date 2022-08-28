@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001162,
+        "system_id": 30000780
+    },
+    "name": "Stargate (RERZ-L)",
+    "position": {
+        "x": 1376296427520,
+        "y": 226100797440,
+        "z": 92502958080
+    },
+    "stargate_id": 50001871,
+    "system_id": 30000782,
+    "type_id": 29633
+}

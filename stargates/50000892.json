@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002143,
+        "system_id": 30001012
+    },
+    "name": "Stargate (PO4F-3)",
+    "position": {
+        "x": 27060019200,
+        "y": -2567577600,
+        "z": -68590264320
+    },
+    "stargate_id": 50000892,
+    "system_id": 30001010,
+    "type_id": 29633
+}

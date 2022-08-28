@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011850,
+        "system_id": 30003591
+    },
+    "name": "Stargate (Yvelet)",
+    "position": {
+        "x": -117443174400,
+        "y": 4542259200,
+        "z": 1256134778880
+    },
+    "stargate_id": 50011658,
+    "system_id": 30003590,
+    "type_id": 3875
+}

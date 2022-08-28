@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013621,
+        "system_id": 30003561
+    },
+    "name": "Stargate (Biphi)",
+    "position": {
+        "x": 493831741440,
+        "y": 1358531911680,
+        "z": -33191731200
+    },
+    "stargate_id": 50013622,
+    "system_id": 30001668,
+    "type_id": 29626
+}

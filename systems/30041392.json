@@ -1,0 +1,76 @@
+{
+    "constellation_id": 20000413,
+    "name": "Laah",
+    "planets": [
+        {
+            "planet_id": 40342002
+        },
+        {
+            "planet_id": 40342003
+        },
+        {
+            "planet_id": 40342004
+        },
+        {
+            "planet_id": 40342005
+        },
+        {
+            "asteroid_belts": [
+                40342007
+            ],
+            "planet_id": 40342006
+        },
+        {
+            "asteroid_belts": [
+                40342009
+            ],
+            "moons": [
+                40342010
+            ],
+            "planet_id": 40342008
+        },
+        {
+            "asteroid_belts": [
+                40342012
+            ],
+            "moons": [
+                40342013
+            ],
+            "planet_id": 40342011
+        },
+        {
+            "moons": [
+                40342015,
+                40342016
+            ],
+            "planet_id": 40342014
+        },
+        {
+            "asteroid_belts": [
+                40342018
+            ],
+            "moons": [
+                40342019,
+                40342020
+            ],
+            "planet_id": 40342017
+        }
+    ],
+    "position": {
+        "x": -141875716447426660,
+        "y": 106327892241685890,
+        "z": 133536521737080460
+    },
+    "security_class": "A",
+    "security_status": 0.9195130467414856,
+    "star_id": 40342001,
+    "stargates": [
+        50014290,
+        50014292,
+        50016483
+    ],
+    "stations": [
+        60015008
+    ],
+    "system_id": 30041392
+}

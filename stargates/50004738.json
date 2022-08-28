@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005623,
+        "system_id": 30005216
+    },
+    "name": "Stargate (Apanake)",
+    "position": {
+        "x": -751129436160,
+        "y": -96954408960,
+        "z": -2019458703360
+    },
+    "stargate_id": 50004738,
+    "system_id": 30005215,
+    "type_id": 29624
+}

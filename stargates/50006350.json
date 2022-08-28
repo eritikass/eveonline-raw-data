@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006669,
+        "system_id": 30002564
+    },
+    "name": "Stargate (Javrendei)",
+    "position": {
+        "x": 3160914124800,
+        "y": 2521866240,
+        "z": -862994227200
+    },
+    "stargate_id": 50006350,
+    "system_id": 30002562,
+    "type_id": 29633
+}

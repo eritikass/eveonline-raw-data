@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005759,
+        "system_id": 30003419
+    },
+    "name": "Stargate (Erstur)",
+    "position": {
+        "x": 2927371591680,
+        "y": 417285120000,
+        "z": 561170718720
+    },
+    "stargate_id": 50005577,
+    "system_id": 30003417,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011264,
+        "system_id": 30004254
+    },
+    "name": "Stargate (Fihrneh)",
+    "position": {
+        "x": 302277304320,
+        "y": -27181178880,
+        "z": -109251502080
+    },
+    "stargate_id": 50012420,
+    "system_id": 30004257,
+    "type_id": 29624
+}

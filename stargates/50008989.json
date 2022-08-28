@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008239,
+        "system_id": 30003212
+    },
+    "name": "Stargate (YQTK-R)",
+    "position": {
+        "x": -2346781777920,
+        "y": 2477879500800,
+        "z": -5191810129920
+    },
+    "stargate_id": 50008989,
+    "system_id": 30003229,
+    "type_id": 3874
+}

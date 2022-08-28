@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000170,
+        "system_id": 30000657
+    },
+    "name": "Stargate (S-E6ES)",
+    "position": {
+        "x": -2365551452160,
+        "y": 9286545530880,
+        "z": 3916370288640
+    },
+    "stargate_id": 50000584,
+    "system_id": 30001001,
+    "type_id": 29635
+}

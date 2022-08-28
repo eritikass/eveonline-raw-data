@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006450,
+        "system_id": 30001239
+    },
+    "name": "Stargate (NH-1X6)",
+    "position": {
+        "x": 52171284480,
+        "y": 8141905920,
+        "z": -541256540160
+    },
+    "stargate_id": 50006694,
+    "system_id": 30001241,
+    "type_id": 29624
+}

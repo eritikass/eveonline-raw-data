@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010744,
+        "system_id": 30004025
+    },
+    "name": "Stargate (8-YNBE)",
+    "position": {
+        "x": -6705534935040,
+        "y": -979878174720,
+        "z": -4918348800000
+    },
+    "stargate_id": 50011235,
+    "system_id": 30004026,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007612,
+        "system_id": 30001868
+    },
+    "name": "Stargate (37S-KO)",
+    "position": {
+        "x": 150621265920,
+        "y": -30052147200,
+        "z": -472486502400
+    },
+    "stargate_id": 50008219,
+    "system_id": 30001869,
+    "type_id": 29624
+}

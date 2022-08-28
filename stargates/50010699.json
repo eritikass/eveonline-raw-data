@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010819,
+        "system_id": 30004558
+    },
+    "name": "Stargate (A8-XBW)",
+    "position": {
+        "x": -208915046400,
+        "y": 11515207680,
+        "z": -1090338201600
+    },
+    "stargate_id": 50010699,
+    "system_id": 30004555,
+    "type_id": 3875
+}

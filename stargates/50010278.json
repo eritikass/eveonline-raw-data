@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009752,
+        "system_id": 30001405
+    },
+    "name": "Stargate (Kakakela)",
+    "position": {
+        "x": 1337383034880,
+        "y": 62527610880,
+        "z": -415173304320
+    },
+    "stargate_id": 50010278,
+    "system_id": 30001407,
+    "type_id": 16
+}

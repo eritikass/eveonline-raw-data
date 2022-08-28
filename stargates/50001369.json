@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000255,
+        "system_id": 30000901
+    },
+    "name": "Stargate (JPL-RA)",
+    "position": {
+        "x": -278845071360,
+        "y": -797983580160,
+        "z": 878536335360
+    },
+    "stargate_id": 50001369,
+    "system_id": 30000923,
+    "type_id": 3877
+}

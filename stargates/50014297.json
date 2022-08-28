@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014298,
+        "system_id": 30002774
+    },
+    "name": "Stargate (Huttaken)",
+    "position": {
+        "x": 2871815823360,
+        "y": -517748121600,
+        "z": -3170624839680
+    },
+    "stargate_id": 50014297,
+    "system_id": 30002773,
+    "type_id": 16
+}

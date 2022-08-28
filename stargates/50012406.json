@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011537,
+        "system_id": 30004273
+    },
+    "name": "Stargate (Soliara)",
+    "position": {
+        "x": -2775088373760,
+        "y": -217384427520,
+        "z": -1124707737600
+    },
+    "stargate_id": 50012406,
+    "system_id": 30004277,
+    "type_id": 29624
+}

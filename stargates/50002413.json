@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002555,
+        "system_id": 30000722
+    },
+    "name": "Stargate (QPTT-F)",
+    "position": {
+        "x": -1172452515840,
+        "y": 73174917120,
+        "z": 3408170311680
+    },
+    "stargate_id": 50002413,
+    "system_id": 30000721,
+    "type_id": 29633
+}

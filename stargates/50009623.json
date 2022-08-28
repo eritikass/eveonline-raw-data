@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009808,
+        "system_id": 30003580
+    },
+    "name": "Stargate (Niballe)",
+    "position": {
+        "x": -394548142080,
+        "y": 56512389120,
+        "z": -1884357058560
+    },
+    "stargate_id": 50009623,
+    "system_id": 30003579,
+    "type_id": 3875
+}

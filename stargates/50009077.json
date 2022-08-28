@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008721,
+        "system_id": 30004884
+    },
+    "name": "Stargate (9MWZ-B)",
+    "position": {
+        "x": -1524240998400,
+        "y": -163700613120,
+        "z": -5507956531200
+    },
+    "stargate_id": 50009077,
+    "system_id": 30004885,
+    "type_id": 29633
+}

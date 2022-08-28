@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012963,
+        "system_id": 30001258
+    },
+    "name": "Stargate (25S-6P)",
+    "position": {
+        "x": -365285744640,
+        "y": 1172643840,
+        "z": -79378636800
+    },
+    "stargate_id": 50012048,
+    "system_id": 30001256,
+    "type_id": 29624
+}

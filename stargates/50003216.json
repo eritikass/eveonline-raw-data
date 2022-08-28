@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002849,
+        "system_id": 30002854
+    },
+    "name": "Stargate (WNM-V0)",
+    "position": {
+        "x": -2413492101120,
+        "y": -120588902400,
+        "z": -1466391060480
+    },
+    "stargate_id": 50003216,
+    "system_id": 30002855,
+    "type_id": 3875
+}

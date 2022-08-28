@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013464,
+        "system_id": 30001920
+    },
+    "name": "Stargate (J-AYLV)",
+    "position": {
+        "x": -1938872524800,
+        "y": 113033256960,
+        "z": 2498811863040
+    },
+    "stargate_id": 50013301,
+    "system_id": 30001917,
+    "type_id": 29624
+}

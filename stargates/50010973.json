@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012403,
+        "system_id": 30003784
+    },
+    "name": "Stargate (I-MGAB)",
+    "position": {
+        "x": 2880906977280,
+        "y": -90400235520,
+        "z": 2932732846080
+    },
+    "stargate_id": 50010973,
+    "system_id": 30003782,
+    "type_id": 29624
+}

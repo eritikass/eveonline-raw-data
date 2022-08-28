@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008559,
+        "system_id": 30003108
+    },
+    "name": "Stargate (DTX8-M)",
+    "position": {
+        "x": -387288391680,
+        "y": -47843450880,
+        "z": 331979612160
+    },
+    "stargate_id": 50008592,
+    "system_id": 30003109,
+    "type_id": 29624
+}

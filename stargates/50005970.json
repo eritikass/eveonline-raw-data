@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004623,
+        "system_id": 30001757
+    },
+    "name": "Stargate (1-10QG)",
+    "position": {
+        "x": 7244829941760,
+        "y": 1443339509760,
+        "z": 2035892674560
+    },
+    "stargate_id": 50005970,
+    "system_id": 30001759,
+    "type_id": 3875
+}

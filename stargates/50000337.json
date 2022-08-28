@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000051,
+        "system_id": 30002847
+    },
+    "name": "Stargate (L-GY1B)",
+    "position": {
+        "x": -3922344714240,
+        "y": -257463214080,
+        "z": 5545435914240
+    },
+    "stargate_id": 50000337,
+    "system_id": 30002289,
+    "type_id": 29632
+}

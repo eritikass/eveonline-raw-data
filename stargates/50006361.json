@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005828,
+        "system_id": 30000420
+    },
+    "name": "Stargate (VM-QFU)",
+    "position": {
+        "x": -3187777167360,
+        "y": 451881000960,
+        "z": -285149798400
+    },
+    "stargate_id": 50006361,
+    "system_id": 30000422,
+    "type_id": 3876
+}

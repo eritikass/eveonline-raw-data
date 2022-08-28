@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005829,
+        "system_id": 30003750
+    },
+    "name": "Stargate (8P9-BM)",
+    "position": {
+        "x": -627237642240,
+        "y": 112060047360,
+        "z": -4210038497280
+    },
+    "stargate_id": 50005412,
+    "system_id": 30003748,
+    "type_id": 29624
+}

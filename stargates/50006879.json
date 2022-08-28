@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007349,
+        "system_id": 30003301
+    },
+    "name": "Stargate (97X-CH)",
+    "position": {
+        "x": -1221057208320,
+        "y": 5099356938240,
+        "z": -4336164249600
+    },
+    "stargate_id": 50006879,
+    "system_id": 30003284,
+    "type_id": 3874
+}

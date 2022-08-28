@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003332,
+        "system_id": 30000291
+    },
+    "name": "Stargate (R-P7KL)",
+    "position": {
+        "x": -988785254400,
+        "y": 95308062720,
+        "z": -1095106437120
+    },
+    "stargate_id": 50005067,
+    "system_id": 30000293,
+    "type_id": 16
+}

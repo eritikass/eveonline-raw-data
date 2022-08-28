@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006593,
+        "system_id": 30000576
+    },
+    "name": "Stargate (4-EFLU)",
+    "position": {
+        "x": -3153984921600,
+        "y": 351891824640,
+        "z": -628729159680
+    },
+    "stargate_id": 50001660,
+    "system_id": 30000572,
+    "type_id": 29633
+}

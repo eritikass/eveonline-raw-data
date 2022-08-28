@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010522,
+        "system_id": 30004672
+    },
+    "name": "Stargate (9T-APQ)",
+    "position": {
+        "x": -1370866114560,
+        "y": 255887892480,
+        "z": -1898891059200
+    },
+    "stargate_id": 50010390,
+    "system_id": 30004669,
+    "type_id": 29624
+}

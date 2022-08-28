@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003940,
+        "system_id": 30001127
+    },
+    "name": "Stargate (TP-APY)",
+    "position": {
+        "x": 1752887500800,
+        "y": -193145364480,
+        "z": 2511391334400
+    },
+    "stargate_id": 50003906,
+    "system_id": 30001062,
+    "type_id": 3874
+}

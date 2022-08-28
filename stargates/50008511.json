@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008088,
+        "system_id": 30000284
+    },
+    "name": "Stargate (S6QX-N)",
+    "position": {
+        "x": 271221350400,
+        "y": -39923589120,
+        "z": 2109380075520
+    },
+    "stargate_id": 50008511,
+    "system_id": 30000285,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013379,
+        "system_id": 30002102
+    },
+    "name": "Stargate (Gukarla)",
+    "position": {
+        "x": -381686046720,
+        "y": -7697080320,
+        "z": -7078529556480
+    },
+    "stargate_id": 50012164,
+    "system_id": 30002100,
+    "type_id": 29633
+}

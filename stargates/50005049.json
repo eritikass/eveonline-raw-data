@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006655,
+        "system_id": 30003424
+    },
+    "name": "Stargate (Enden)",
+    "position": {
+        "x": -578627297280,
+        "y": -46362992640,
+        "z": 1404196085760
+    },
+    "stargate_id": 50005049,
+    "system_id": 30003423,
+    "type_id": 29633
+}

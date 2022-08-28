@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010280,
+        "system_id": 30004355
+    },
+    "name": "Stargate (X7R-JW)",
+    "position": {
+        "x": 3351594393600,
+        "y": -554198753280,
+        "z": 4162694307840
+    },
+    "stargate_id": 50010359,
+    "system_id": 30004356,
+    "type_id": 16
+}

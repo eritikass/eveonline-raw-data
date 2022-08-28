@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008638,
+        "system_id": 30002157
+    },
+    "name": "Stargate (B-R5RB)",
+    "position": {
+        "x": -611929989120,
+        "y": -108111912960,
+        "z": -1139884646400
+    },
+    "stargate_id": 50005270,
+    "system_id": 30002153,
+    "type_id": 29633
+}

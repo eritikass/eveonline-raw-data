@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005802,
+        "system_id": 30002238
+    },
+    "name": "Stargate (Bourar)",
+    "position": {
+        "x": 1670207692800,
+        "y": 165892546560,
+        "z": 206398218240
+    },
+    "stargate_id": 50007624,
+    "system_id": 30002241,
+    "type_id": 29624
+}

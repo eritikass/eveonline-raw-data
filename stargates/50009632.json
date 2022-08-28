@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010263,
+        "system_id": 30003137
+    },
+    "name": "Stargate (P-3XVV)",
+    "position": {
+        "x": -1005209395200,
+        "y": -7982653440,
+        "z": -4082527150080
+    },
+    "stargate_id": 50009632,
+    "system_id": 30003133,
+    "type_id": 29624
+}

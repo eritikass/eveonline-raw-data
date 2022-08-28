@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005301,
+        "system_id": 30002011
+    },
+    "name": "Stargate (3V8-LJ)",
+    "position": {
+        "x": 61171261440,
+        "y": -7875010560,
+        "z": -253486571520
+    },
+    "stargate_id": 50006676,
+    "system_id": 30002014,
+    "type_id": 16
+}

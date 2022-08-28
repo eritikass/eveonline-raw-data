@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009987,
+        "system_id": 30002703
+    },
+    "name": "Stargate (Brybier)",
+    "position": {
+        "x": -2413427957760,
+        "y": 161546526720,
+        "z": -2957609410560
+    },
+    "stargate_id": 50001762,
+    "system_id": 30002699,
+    "type_id": 3875
+}

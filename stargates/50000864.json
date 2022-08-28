@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000141,
+        "system_id": 30000082
+    },
+    "name": "Stargate (Jarizza)",
+    "position": {
+        "x": -1612052029440,
+        "y": -82471280640,
+        "z": 402733424640
+    },
+    "stargate_id": 50000864,
+    "system_id": 30000084,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000365,
+        "system_id": 30000119
+    },
+    "name": "Stargate (Itamo)",
+    "position": {
+        "x": 2118246359040,
+        "y": 70442065920,
+        "z": 1633946542080
+    },
+    "stargate_id": 50001368,
+    "system_id": 30000121,
+    "type_id": 16
+}

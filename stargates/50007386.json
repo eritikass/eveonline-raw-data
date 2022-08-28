@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006845,
+        "system_id": 30002875
+    },
+    "name": "Stargate (GQ-7SP)",
+    "position": {
+        "x": 728042987520,
+        "y": 71595909120,
+        "z": 554785382400
+    },
+    "stargate_id": 50007386,
+    "system_id": 30002878,
+    "type_id": 3875
+}

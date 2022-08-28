@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012448,
+        "system_id": 30004631
+    },
+    "name": "Stargate (G-UTHL)",
+    "position": {
+        "x": -2049923604480,
+        "y": 274068725760,
+        "z": -418236211200
+    },
+    "stargate_id": 50013364,
+    "system_id": 30004635,
+    "type_id": 3875
+}

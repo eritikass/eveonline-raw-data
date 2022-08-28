@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000225,
+        "system_id": 30000658
+    },
+    "name": "Stargate (R-3FBU)",
+    "position": {
+        "x": 593002782720,
+        "y": -104627773440,
+        "z": -4109189898240
+    },
+    "stargate_id": 50000117,
+    "system_id": 30000656,
+    "type_id": 29633
+}

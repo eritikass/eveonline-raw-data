@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016320,
+        "system_id": 30045323
+    },
+    "name": "Stargate (Astoh)",
+    "position": {
+        "x": -1410762792960,
+        "y": -19321036800,
+        "z": 47313100800
+    },
+    "stargate_id": 50016319,
+    "system_id": 30045327,
+    "type_id": 16
+}

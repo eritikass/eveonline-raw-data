@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003147,
+        "system_id": 30000147
+    },
+    "name": "Stargate (Abagawa)",
+    "position": {
+        "x": 680142151680,
+        "y": -87662960640,
+        "z": -357513338880
+    },
+    "stargate_id": 50002751,
+    "system_id": 30000146,
+    "type_id": 16
+}

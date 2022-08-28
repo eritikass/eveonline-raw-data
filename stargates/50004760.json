@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007155,
+        "system_id": 30002574
+    },
+    "name": "Stargate (Hrondedir)",
+    "position": {
+        "x": -844862545920,
+        "y": -2761582141440,
+        "z": 1279293972480
+    },
+    "stargate_id": 50004760,
+    "system_id": 30002550,
+    "type_id": 3877
+}

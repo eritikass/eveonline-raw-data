@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007665,
+        "system_id": 30003435
+    },
+    "name": "Stargate (Hebisa)",
+    "position": {
+        "x": -2599250780160,
+        "y": 486226698240,
+        "z": 1500687605760
+    },
+    "stargate_id": 50012617,
+    "system_id": 30003440,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011991,
+        "system_id": 30001343
+    },
+    "name": "Stargate (H-S5BM)",
+    "position": {
+        "x": -1599011020800,
+        "y": 183777976320,
+        "z": 72545280000
+    },
+    "stargate_id": 50008390,
+    "system_id": 30001341,
+    "type_id": 16
+}

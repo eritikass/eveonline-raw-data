@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012493,
+        "system_id": 30001825
+    },
+    "name": "Stargate (CNHV-M)",
+    "position": {
+        "x": 2624822108160,
+        "y": -4657865809920,
+        "z": -3166351564800
+    },
+    "stargate_id": 50012115,
+    "system_id": 30001814,
+    "type_id": 3874
+}

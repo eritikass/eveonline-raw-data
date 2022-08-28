@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013132,
+        "system_id": 30004546
+    },
+    "name": "Stargate (E-GCX0)",
+    "position": {
+        "x": 563371991040,
+        "y": -76151070720,
+        "z": 4555781775360
+    },
+    "stargate_id": 50013141,
+    "system_id": 30004547,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006118,
+        "system_id": 30004097
+    },
+    "name": "Stargate (Dantan)",
+    "position": {
+        "x": -1718697123840,
+        "y": 220586926080,
+        "z": -1752314634240
+    },
+    "stargate_id": 50005232,
+    "system_id": 30004095,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006537,
+        "system_id": 30002460
+    },
+    "name": "Stargate (04-LQM)",
+    "position": {
+        "x": 3913508659200,
+        "y": -187698585600,
+        "z": 482144624640
+    },
+    "stargate_id": 50006066,
+    "system_id": 30002459,
+    "type_id": 16
+}

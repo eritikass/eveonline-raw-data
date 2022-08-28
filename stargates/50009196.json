@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009012,
+        "system_id": 30004131
+    },
+    "name": "Stargate (Yooh)",
+    "position": {
+        "x": 169923256320,
+        "y": 23067893760,
+        "z": 236447293440
+    },
+    "stargate_id": 50009196,
+    "system_id": 30004132,
+    "type_id": 29624
+}

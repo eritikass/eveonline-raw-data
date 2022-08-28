@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010203,
+        "system_id": 30003652
+    },
+    "name": "Stargate (Z-SR1I)",
+    "position": {
+        "x": 5693743718400,
+        "y": -926950318080,
+        "z": -1249549639680
+    },
+    "stargate_id": 50010184,
+    "system_id": 30003651,
+    "type_id": 16
+}

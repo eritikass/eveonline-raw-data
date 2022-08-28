@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005987,
+        "system_id": 30002235
+    },
+    "name": "Stargate (Shumam)",
+    "position": {
+        "x": -811389050880,
+        "y": 65511628800,
+        "z": -676986593280
+    },
+    "stargate_id": 50005584,
+    "system_id": 30002232,
+    "type_id": 29624
+}

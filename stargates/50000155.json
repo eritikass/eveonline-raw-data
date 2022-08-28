@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001000,
+        "system_id": 30000217
+    },
+    "name": "Stargate (7-UH4Z)",
+    "position": {
+        "x": -26614456320,
+        "y": 4246364160,
+        "z": 62788362240
+    },
+    "stargate_id": 50000155,
+    "system_id": 30000215,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000465,
+        "system_id": 30000540
+    },
+    "name": "Stargate (L-FM3P)",
+    "position": {
+        "x": -8105489326080,
+        "y": -484829061120,
+        "z": -4346917724160
+    },
+    "stargate_id": 50001538,
+    "system_id": 30000543,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005923,
+        "system_id": 30002588
+    },
+    "name": "Stargate (H-64KI)",
+    "position": {
+        "x": 1211521228800,
+        "y": -1718066012160,
+        "z": -5394302361600
+    },
+    "stargate_id": 50005920,
+    "system_id": 30002587,
+    "type_id": 3877
+}

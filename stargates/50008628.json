@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008360,
+        "system_id": 30005262
+    },
+    "name": "Stargate (Djimame)",
+    "position": {
+        "x": -73502269440,
+        "y": 822927360,
+        "z": 716241100800
+    },
+    "stargate_id": 50008628,
+    "system_id": 30005265,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007088,
+        "system_id": 30002806
+    },
+    "name": "Stargate (Hasmijaala)",
+    "position": {
+        "x": -9768183029760,
+        "y": 1914442506240,
+        "z": 10150975610880
+    },
+    "stargate_id": 50004918,
+    "system_id": 30002796,
+    "type_id": 29627
+}

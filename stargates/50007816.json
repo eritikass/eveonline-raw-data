@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008098,
+        "system_id": 30002608
+    },
+    "name": "Stargate (U3SQ-X)",
+    "position": {
+        "x": -1268704174080,
+        "y": -180125736960,
+        "z": 987413176320
+    },
+    "stargate_id": 50007816,
+    "system_id": 30002607,
+    "type_id": 29633
+}

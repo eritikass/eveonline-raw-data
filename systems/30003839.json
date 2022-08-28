@@ -1,0 +1,71 @@
+{
+    "constellation_id": 20000561,
+    "name": "Evaulon",
+    "planets": [
+        {
+            "planet_id": 40242933
+        },
+        {
+            "asteroid_belts": [
+                40242935
+            ],
+            "planet_id": 40242934
+        },
+        {
+            "asteroid_belts": [
+                40242937
+            ],
+            "moons": [
+                40242938
+            ],
+            "planet_id": 40242936
+        },
+        {
+            "asteroid_belts": [
+                40242940
+            ],
+            "planet_id": 40242939
+        },
+        {
+            "asteroid_belts": [
+                40242942
+            ],
+            "moons": [
+                40242943,
+                40242944
+            ],
+            "planet_id": 40242941
+        },
+        {
+            "moons": [
+                40242946,
+                40242947
+            ],
+            "planet_id": 40242945
+        },
+        {
+            "moons": [
+                40242949,
+                40242950
+            ],
+            "planet_id": 40242948
+        }
+    ],
+    "position": {
+        "x": -245278697484735360,
+        "y": 107337803021521810,
+        "z": 132221103073709120
+    },
+    "security_class": "D2",
+    "security_status": 0.3668360114097595,
+    "star_id": 40242932,
+    "stargates": [
+        50008868,
+        50008869
+    ],
+    "stations": [
+        60011020,
+        60011356
+    ],
+    "system_id": 30003839
+}

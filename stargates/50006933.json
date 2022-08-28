@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007114,
+        "system_id": 30002240
+    },
+    "name": "Stargate (Arodan)",
+    "position": {
+        "x": -7759222333440,
+        "y": -714173767680,
+        "z": -5502134231040
+    },
+    "stargate_id": 50006933,
+    "system_id": 30002239,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011104,
+        "system_id": 30003246
+    },
+    "name": "Stargate (RO-AIQ)",
+    "position": {
+        "x": -572105072640,
+        "y": 40939315200,
+        "z": -182653624320
+    },
+    "stargate_id": 50010040,
+    "system_id": 30003244,
+    "type_id": 3875
+}

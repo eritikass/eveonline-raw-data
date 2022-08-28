@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002856,
+        "system_id": 30001417
+    },
+    "name": "Stargate (Rauntaka)",
+    "position": {
+        "x": -6744919203840,
+        "y": 672711598080,
+        "z": -601131540480
+    },
+    "stargate_id": 50002475,
+    "system_id": 30001416,
+    "type_id": 16
+}

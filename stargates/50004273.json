@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004284,
+        "system_id": 30002429
+    },
+    "name": "Stargate (WH-2EZ)",
+    "position": {
+        "x": -274184970240,
+        "y": 3259392000,
+        "z": -813182115840
+    },
+    "stargate_id": 50004273,
+    "system_id": 30002428,
+    "type_id": 16
+}

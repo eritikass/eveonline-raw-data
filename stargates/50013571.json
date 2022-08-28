@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013572,
+        "system_id": 30000037
+    },
+    "name": "Stargate (Uplingur)",
+    "position": {
+        "x": 2904663613440,
+        "y": -2559182315520,
+        "z": -1540390625280
+    },
+    "stargate_id": 50013571,
+    "system_id": 30002508,
+    "type_id": 29634
+}

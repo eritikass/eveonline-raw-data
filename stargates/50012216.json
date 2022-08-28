@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012560,
+        "system_id": 30003176
+    },
+    "name": "Stargate (IPX-H5)",
+    "position": {
+        "x": 2626220482560,
+        "y": -429346775040,
+        "z": 1434102865920
+    },
+    "stargate_id": 50012216,
+    "system_id": 30003175,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013028,
+        "system_id": 30001211
+    },
+    "name": "Stargate (X3FQ-W)",
+    "position": {
+        "x": -1057254973440,
+        "y": 201889259520,
+        "z": 456241766400
+    },
+    "stargate_id": 50009713,
+    "system_id": 30001210,
+    "type_id": 29624
+}

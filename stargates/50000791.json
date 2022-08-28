@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000568,
+        "system_id": 30000686
+    },
+    "name": "Stargate (HQ-Q1Q)",
+    "position": {
+        "x": -2393848504320,
+        "y": 116837867520,
+        "z": -3078818734080
+    },
+    "stargate_id": 50000791,
+    "system_id": 30000688,
+    "type_id": 29633
+}

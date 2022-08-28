@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005517,
+        "system_id": 30002231
+    },
+    "name": "Stargate (Ardishapur Prime)",
+    "position": {
+        "x": -1493597675520,
+        "y": -253484851200,
+        "z": 946183249920
+    },
+    "stargate_id": 50005295,
+    "system_id": 30002227,
+    "type_id": 29624
+}

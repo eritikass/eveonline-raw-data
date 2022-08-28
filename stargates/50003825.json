@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004021,
+        "system_id": 30003729
+    },
+    "name": "Stargate (KBP7-G)",
+    "position": {
+        "x": -929972428800,
+        "y": -2171637227520,
+        "z": -5809425653760
+    },
+    "stargate_id": 50003825,
+    "system_id": 30002968,
+    "type_id": 29625
+}

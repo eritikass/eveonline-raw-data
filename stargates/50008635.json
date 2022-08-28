@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008606,
+        "system_id": 30003831
+    },
+    "name": "Stargate (Osmeden)",
+    "position": {
+        "x": -995858964480,
+        "y": 137736560640,
+        "z": -2826805616640
+    },
+    "stargate_id": 50008635,
+    "system_id": 30003832,
+    "type_id": 3875
+}

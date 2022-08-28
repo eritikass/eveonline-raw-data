@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005262,
+        "system_id": 30003538
+    },
+    "name": "Stargate (Merz)",
+    "position": {
+        "x": 601024389120,
+        "y": -45369630720,
+        "z": -26202071040
+    },
+    "stargate_id": 50006001,
+    "system_id": 30003541,
+    "type_id": 29624
+}

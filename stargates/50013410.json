@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013434,
+        "system_id": 30004924
+    },
+    "name": "Stargate (OKEO-X)",
+    "position": {
+        "x": -7441246986240,
+        "y": -597749391360,
+        "z": -8437213962240
+    },
+    "stargate_id": 50013410,
+    "system_id": 30004923,
+    "type_id": 29633
+}

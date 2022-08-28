@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011011,
+        "system_id": 30003663
+    },
+    "name": "Stargate (U5-XW7)",
+    "position": {
+        "x": 22257868800,
+        "y": -800071680,
+        "z": 334292705280
+    },
+    "stargate_id": 50010341,
+    "system_id": 30003659,
+    "type_id": 16
+}

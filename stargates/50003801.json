@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003896,
+        "system_id": 30001090
+    },
+    "name": "Stargate (RIU-GC)",
+    "position": {
+        "x": -724688609280,
+        "y": -50312601600,
+        "z": -1230670602240
+    },
+    "stargate_id": 50003801,
+    "system_id": 30001089,
+    "type_id": 3875
+}

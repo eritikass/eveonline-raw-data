@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013412,
+        "system_id": 30002684
+    },
+    "name": "Stargate (Audaerne)",
+    "position": {
+        "x": 2351427379200,
+        "y": 434865561600,
+        "z": 1920858071040
+    },
+    "stargate_id": 50005711,
+    "system_id": 30002678,
+    "type_id": 3875
+}

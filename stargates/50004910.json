@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004635,
+        "system_id": 30002543
+    },
+    "name": "Stargate (Eystur)",
+    "position": {
+        "x": -83474227200,
+        "y": -12587212800,
+        "z": 81102397440
+    },
+    "stargate_id": 50004910,
+    "system_id": 30002544,
+    "type_id": 29633
+}

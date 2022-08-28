@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004591,
+        "system_id": 30003720
+    },
+    "name": "Stargate (5IO8-U)",
+    "position": {
+        "x": -4221966213120,
+        "y": -451873873920,
+        "z": 525537484800
+    },
+    "stargate_id": 50003750,
+    "system_id": 30003718,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001150,
+        "system_id": 30002676
+    },
+    "name": "Stargate (Parchanier)",
+    "position": {
+        "x": 1378669731840,
+        "y": 3119813959680,
+        "z": 3514639687680
+    },
+    "stargate_id": 50000143,
+    "system_id": 30002706,
+    "type_id": 3874
+}

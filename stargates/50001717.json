@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002467,
+        "system_id": 30002975
+    },
+    "name": "Stargate (Roushzar)",
+    "position": {
+        "x": -3360239984640,
+        "y": -496687964160,
+        "z": -2332240896000
+    },
+    "stargate_id": 50001717,
+    "system_id": 30003067,
+    "type_id": 29626
+}

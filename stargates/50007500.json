@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007549,
+        "system_id": 30001875
+    },
+    "name": "Stargate (UJM-RD)",
+    "position": {
+        "x": 7216657981440,
+        "y": 154086973440,
+        "z": -1203010314240
+    },
+    "stargate_id": 50007500,
+    "system_id": 30001874,
+    "type_id": 29624
+}

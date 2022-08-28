@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000064,
+        "system_id": 30003487
+    },
+    "name": "Stargate (Arbaz)",
+    "position": {
+        "x": -411290050560,
+        "y": 1825058611200,
+        "z": -1627845550080
+    },
+    "stargate_id": 50000966,
+    "system_id": 30003501,
+    "type_id": 17
+}

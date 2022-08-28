@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002000,
+        "system_id": 30000033
+    },
+    "name": "Stargate (Radima)",
+    "position": {
+        "x": -468671324160,
+        "y": -68936294400,
+        "z": 216695562240
+    },
+    "stargate_id": 50000467,
+    "system_id": 30000031,
+    "type_id": 29624
+}

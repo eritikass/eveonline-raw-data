@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013075,
+        "system_id": 30004661
+    },
+    "name": "Stargate (4HS-CR)",
+    "position": {
+        "x": 1089605099520,
+        "y": -154389504000,
+        "z": -471665172480
+    },
+    "stargate_id": 50013134,
+    "system_id": 30004662,
+    "type_id": 3875
+}

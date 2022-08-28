@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000735,
+        "system_id": 30000874
+    },
+    "name": "Stargate (L-1HKR)",
+    "position": {
+        "x": 342805585920,
+        "y": -10258145280,
+        "z": -322905661440
+    },
+    "stargate_id": 50001373,
+    "system_id": 30000875,
+    "type_id": 16
+}

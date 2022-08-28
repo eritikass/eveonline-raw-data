@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009970,
+        "system_id": 30003929
+    },
+    "name": "Stargate (Neda)",
+    "position": {
+        "x": 1167799787520,
+        "y": 179923722240,
+        "z": 759758561280
+    },
+    "stargate_id": 50009770,
+    "system_id": 30003928,
+    "type_id": 29624
+}

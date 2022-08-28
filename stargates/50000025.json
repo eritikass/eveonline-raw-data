@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000110,
+        "system_id": 30000010
+    },
+    "name": "Stargate (Chidah)",
+    "position": {
+        "x": 789684756480,
+        "y": 6538567680,
+        "z": -3083474165760
+    },
+    "stargate_id": 50000025,
+    "system_id": 30000009,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002646,
+        "system_id": 30000632
+    },
+    "name": "Stargate (C-6YHJ)",
+    "position": {
+        "x": 2815171584000,
+        "y": 512697262080,
+        "z": -1008041533440
+    },
+    "stargate_id": 50002500,
+    "system_id": 30000631,
+    "type_id": 29633
+}

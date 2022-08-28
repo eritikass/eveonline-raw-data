@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008378,
+        "system_id": 30004343
+    },
+    "name": "Stargate (QCWA-Z)",
+    "position": {
+        "x": -1036711403520,
+        "y": 29522780160,
+        "z": -477273661440
+    },
+    "stargate_id": 50008670,
+    "system_id": 30004344,
+    "type_id": 16
+}

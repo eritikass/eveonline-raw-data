@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010603,
+        "system_id": 30002723
+    },
+    "name": "Stargate (Otou)",
+    "position": {
+        "x": 105009192960,
+        "y": 4453294080,
+        "z": -264793006080
+    },
+    "stargate_id": 50010456,
+    "system_id": 30002722,
+    "type_id": 3875
+}

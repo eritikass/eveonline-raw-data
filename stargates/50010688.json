@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010959,
+        "system_id": 30004892
+    },
+    "name": "Stargate (G-B3PR)",
+    "position": {
+        "x": 3494680780800,
+        "y": -463415255040,
+        "z": -3694058250240
+    },
+    "stargate_id": 50010688,
+    "system_id": 30004890,
+    "type_id": 29633
+}

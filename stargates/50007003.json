@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007343,
+        "system_id": 30001873
+    },
+    "name": "Stargate (GDO-7H)",
+    "position": {
+        "x": -2557986938880,
+        "y": 4037562654720,
+        "z": 2186655375360
+    },
+    "stargate_id": 50007003,
+    "system_id": 30001864,
+    "type_id": 17
+}

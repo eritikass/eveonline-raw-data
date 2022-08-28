@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001270,
+        "system_id": 30001389
+    },
+    "name": "Stargate (Isanamo)",
+    "position": {
+        "x": 853373952000,
+        "y": 152484864000,
+        "z": -418614190080
+    },
+    "stargate_id": 50000004,
+    "system_id": 30001386,
+    "type_id": 16
+}

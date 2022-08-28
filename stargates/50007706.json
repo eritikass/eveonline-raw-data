@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008207,
+        "system_id": 30003890
+    },
+    "name": "Stargate (Ashi)",
+    "position": {
+        "x": -91298734080,
+        "y": 14782832640,
+        "z": -166318448640
+    },
+    "stargate_id": 50007706,
+    "system_id": 30003888,
+    "type_id": 29624
+}

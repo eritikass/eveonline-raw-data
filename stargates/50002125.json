@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002985,
+        "system_id": 30000589
+    },
+    "name": "Stargate (R4N-LD)",
+    "position": {
+        "x": 9307309793280,
+        "y": -1472738058240,
+        "z": 343357071360
+    },
+    "stargate_id": 50002125,
+    "system_id": 30000588,
+    "type_id": 29633
+}

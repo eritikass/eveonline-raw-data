@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007427,
+        "system_id": 30003535
+    },
+    "name": "Stargate (Afivad)",
+    "position": {
+        "x": 911006883840,
+        "y": 3221028249600,
+        "z": -546279628800
+    },
+    "stargate_id": 50001947,
+    "system_id": 30003515,
+    "type_id": 17
+}

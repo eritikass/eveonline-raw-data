@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013504,
+        "system_id": 30004227
+    },
+    "name": "Stargate (VY-866)",
+    "position": {
+        "x": 2703788974080,
+        "y": 509689405440,
+        "z": -126709800960
+    },
+    "stargate_id": 50013527,
+    "system_id": 30004228,
+    "type_id": 3875
+}

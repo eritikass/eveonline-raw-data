@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008176,
+        "system_id": 30003901
+    },
+    "name": "Stargate (Upt)",
+    "position": {
+        "x": 609158307840,
+        "y": -78030888960,
+        "z": -1448463605760
+    },
+    "stargate_id": 50008063,
+    "system_id": 30003900,
+    "type_id": 29624
+}

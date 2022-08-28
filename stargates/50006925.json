@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006177,
+        "system_id": 30002013
+    },
+    "name": "Stargate (R-LW2I)",
+    "position": {
+        "x": 997516124160,
+        "y": -22585466880,
+        "z": -2086326558720
+    },
+    "stargate_id": 50006925,
+    "system_id": 30002015,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002788,
+        "system_id": 30003520
+    },
+    "name": "Stargate (Mahrokht)",
+    "position": {
+        "x": 295036231680,
+        "y": -7451320320,
+        "z": 1675373076480
+    },
+    "stargate_id": 50002931,
+    "system_id": 30003521,
+    "type_id": 29624
+}

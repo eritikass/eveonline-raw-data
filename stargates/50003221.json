@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005132,
+        "system_id": 30001049
+    },
+    "name": "Stargate (Farit)",
+    "position": {
+        "x": -316496977920,
+        "y": -48753008640,
+        "z": 457591480320
+    },
+    "stargate_id": 50003221,
+    "system_id": 30001046,
+    "type_id": 29633
+}

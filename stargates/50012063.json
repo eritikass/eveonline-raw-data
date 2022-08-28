@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007257,
+        "system_id": 30002263
+    },
+    "name": "Stargate (Jarshitsan)",
+    "position": {
+        "x": -580771061760,
+        "y": 20832460800,
+        "z": -281083944960
+    },
+    "stargate_id": 50012063,
+    "system_id": 30002266,
+    "type_id": 29624
+}

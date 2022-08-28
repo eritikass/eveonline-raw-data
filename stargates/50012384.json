@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012460,
+        "system_id": 30004287
+    },
+    "name": "Stargate (Esubara)",
+    "position": {
+        "x": -5032081612800,
+        "y": 226185093120,
+        "z": 1080616919040
+    },
+    "stargate_id": 50012384,
+    "system_id": 30004286,
+    "type_id": 29624
+}

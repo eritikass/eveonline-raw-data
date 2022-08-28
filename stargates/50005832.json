@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005640,
+        "system_id": 30001680
+    },
+    "name": "Stargate (Hoona)",
+    "position": {
+        "x": 1089651548160,
+        "y": -1054964490240,
+        "z": 689646182400
+    },
+    "stargate_id": 50005832,
+    "system_id": 30001708,
+    "type_id": 17
+}

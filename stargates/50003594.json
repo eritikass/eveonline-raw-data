@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006548,
+        "system_id": 30003548
+    },
+    "name": "Stargate (Barira)",
+    "position": {
+        "x": 3939814809600,
+        "y": -3962663854080,
+        "z": 2852138065920
+    },
+    "stargate_id": 50003594,
+    "system_id": 30003525,
+    "type_id": 17
+}

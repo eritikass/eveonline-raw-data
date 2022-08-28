@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007651,
+        "system_id": 30003033
+    },
+    "name": "Stargate (Ethernity)",
+    "position": {
+        "x": -151433994240,
+        "y": 29106216960,
+        "z": -2294503710720
+    },
+    "stargate_id": 50010779,
+    "system_id": 30003035,
+    "type_id": 3875
+}

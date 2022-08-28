@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010190,
+        "system_id": 30003780
+    },
+    "name": "Stargate (C1-HAB)",
+    "position": {
+        "x": -2591257681920,
+        "y": -308291051520,
+        "z": -152136130560
+    },
+    "stargate_id": 50008726,
+    "system_id": 30003776,
+    "type_id": 29624
+}

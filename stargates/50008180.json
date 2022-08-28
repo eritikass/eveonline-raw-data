@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010763,
+        "system_id": 30002040
+    },
+    "name": "Stargate (HPS5-C)",
+    "position": {
+        "x": 1846308741120,
+        "y": 356570849280,
+        "z": 62054400
+    },
+    "stargate_id": 50008180,
+    "system_id": 30002036,
+    "type_id": 16
+}

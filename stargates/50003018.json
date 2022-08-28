@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003333,
+        "system_id": 30002522
+    },
+    "name": "Stargate (Obrolber)",
+    "position": {
+        "x": -1792867246080,
+        "y": 212964925440,
+        "z": 1260276080640
+    },
+    "stargate_id": 50003018,
+    "system_id": 30002520,
+    "type_id": 29633
+}

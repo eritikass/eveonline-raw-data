@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005089,
+        "system_id": 30003790
+    },
+    "name": "Stargate (Vey)",
+    "position": {
+        "x": 2290057666560,
+        "y": -96740597760,
+        "z": 1037694935040
+    },
+    "stargate_id": 50004206,
+    "system_id": 30003787,
+    "type_id": 3875
+}

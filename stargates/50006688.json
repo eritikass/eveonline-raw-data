@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006529,
+        "system_id": 30003860
+    },
+    "name": "Stargate (Kihtaled)",
+    "position": {
+        "x": 39100293120,
+        "y": 7039918080,
+        "z": 381580369920
+    },
+    "stargate_id": 50006688,
+    "system_id": 30003863,
+    "type_id": 29624
+}

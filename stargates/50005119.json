@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003981,
+        "system_id": 30003013
+    },
+    "name": "Stargate (Jurlesel)",
+    "position": {
+        "x": -328354897920,
+        "y": -28875202560,
+        "z": 120163246080
+    },
+    "stargate_id": 50005119,
+    "system_id": 30003016,
+    "type_id": 3875
+}

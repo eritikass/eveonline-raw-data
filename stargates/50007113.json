@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010396,
+        "system_id": 30002661
+    },
+    "name": "Stargate (Botane)",
+    "position": {
+        "x": -3638598574080,
+        "y": 594172846080,
+        "z": 1882116218880
+    },
+    "stargate_id": 50007113,
+    "system_id": 30002657,
+    "type_id": 3875
+}

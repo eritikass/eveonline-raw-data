@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011823,
+        "system_id": 30005183
+    },
+    "name": "Stargate (F-HQWV)",
+    "position": {
+        "x": 539042979840,
+        "y": 29876920320,
+        "z": -159263416320
+    },
+    "stargate_id": 50011588,
+    "system_id": 30005181,
+    "type_id": 3875
+}

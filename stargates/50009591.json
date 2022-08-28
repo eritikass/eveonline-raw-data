@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009473,
+        "system_id": 30004504
+    },
+    "name": "Stargate (4C-B7X)",
+    "position": {
+        "x": 3718739927040,
+        "y": 585134530560,
+        "z": -1292213821440
+    },
+    "stargate_id": 50009591,
+    "system_id": 30004506,
+    "type_id": 3875
+}

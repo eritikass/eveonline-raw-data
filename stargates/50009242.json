@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006779,
+        "system_id": 30002156
+    },
+    "name": "Stargate (FN-DSR)",
+    "position": {
+        "x": -4068434042880,
+        "y": 548698398720,
+        "z": 403933470720
+    },
+    "stargate_id": 50009242,
+    "system_id": 30002158,
+    "type_id": 29633
+}

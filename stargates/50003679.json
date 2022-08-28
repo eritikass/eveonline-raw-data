@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002996,
+        "system_id": 30002889
+    },
+    "name": "Stargate (4U90-Z)",
+    "position": {
+        "x": 56650260480,
+        "y": 6426992640,
+        "z": 95706685440
+    },
+    "stargate_id": 50003679,
+    "system_id": 30002892,
+    "type_id": 16
+}

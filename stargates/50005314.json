@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005462,
+        "system_id": 30002230
+    },
+    "name": "Stargate (Vashkah)",
+    "position": {
+        "x": -501933219840,
+        "y": -75791032320,
+        "z": -779799552000
+    },
+    "stargate_id": 50005314,
+    "system_id": 30002228,
+    "type_id": 29624
+}

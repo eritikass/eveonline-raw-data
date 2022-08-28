@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000206,
+        "system_id": 30003473
+    },
+    "name": "Stargate (Fahruni)",
+    "position": {
+        "x": 1238016614400,
+        "y": -1085626245120,
+        "z": 676166983680
+    },
+    "stargate_id": 50000030,
+    "system_id": 30004077,
+    "type_id": 29626
+}

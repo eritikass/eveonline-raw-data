@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007129,
+        "system_id": 30002463
+    },
+    "name": "Stargate (U-L4KS)",
+    "position": {
+        "x": -569921740800,
+        "y": 100884602880,
+        "z": -1428775526400
+    },
+    "stargate_id": 50007154,
+    "system_id": 30002464,
+    "type_id": 16
+}

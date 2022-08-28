@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004097,
+        "system_id": 30000152
+    },
+    "name": "Stargate (Hampinen)",
+    "position": {
+        "x": 644506705920,
+        "y": 17722122240,
+        "z": 90508369920
+    },
+    "stargate_id": 50003810,
+    "system_id": 30000150,
+    "type_id": 16
+}

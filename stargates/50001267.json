@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002047,
+        "system_id": 30003475
+    },
+    "name": "Stargate (Naguton)",
+    "position": {
+        "x": -7646813921280,
+        "y": -1425982955520,
+        "z": -4916873256960
+    },
+    "stargate_id": 50001267,
+    "system_id": 30003474,
+    "type_id": 29624
+}

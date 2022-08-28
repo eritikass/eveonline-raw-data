@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012732,
+        "system_id": 30004770
+    },
+    "name": "Stargate (PS-94K)",
+    "position": {
+        "x": -68130693120,
+        "y": -548659200,
+        "z": -105235537920
+    },
+    "stargate_id": 50011164,
+    "system_id": 30004766,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008598,
+        "system_id": 30003207
+    },
+    "name": "Stargate (Y-770C)",
+    "position": {
+        "x": 782052679680,
+        "y": -55390986240,
+        "z": 604748881920
+    },
+    "stargate_id": 50008155,
+    "system_id": 30003205,
+    "type_id": 3875
+}

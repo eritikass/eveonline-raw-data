@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013287,
+        "system_id": 30001953
+    },
+    "name": "Stargate (LGL-SD)",
+    "position": {
+        "x": 3943476633600,
+        "y": 475199692800,
+        "z": -7159454392320
+    },
+    "stargate_id": 50013393,
+    "system_id": 30001954,
+    "type_id": 29624
+}

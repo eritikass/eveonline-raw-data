@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011415,
+        "system_id": 30004143
+    },
+    "name": "Stargate (Syrikos)",
+    "position": {
+        "x": 939616051200,
+        "y": 87016366080,
+        "z": 2251586150400
+    },
+    "stargate_id": 50012320,
+    "system_id": 30004144,
+    "type_id": 29624
+}

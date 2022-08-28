@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010261,
+        "system_id": 30003973
+    },
+    "name": "Stargate (LNVW-K)",
+    "position": {
+        "x": 280716042240,
+        "y": 14943068160,
+        "z": -62140538880
+    },
+    "stargate_id": 50010467,
+    "system_id": 30003974,
+    "type_id": 29624
+}

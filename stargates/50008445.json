@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008914,
+        "system_id": 30005266
+    },
+    "name": "Stargate (Access)",
+    "position": {
+        "x": -248587100160,
+        "y": -37270118400,
+        "z": 97971363840
+    },
+    "stargate_id": 50008445,
+    "system_id": 30005264,
+    "type_id": 29624
+}

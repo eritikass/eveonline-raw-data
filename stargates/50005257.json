@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005459,
+        "system_id": 30005118
+    },
+    "name": "Stargate (PE-SAM)",
+    "position": {
+        "x": -65530552320,
+        "y": -4073840640,
+        "z": -225843732480
+    },
+    "stargate_id": 50005257,
+    "system_id": 30005117,
+    "type_id": 3875
+}

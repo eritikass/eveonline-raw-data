@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007739,
+        "system_id": 30003896
+    },
+    "name": "Stargate (Claini)",
+    "position": {
+        "x": 240895303680,
+        "y": 10562641920,
+        "z": -35867320320
+    },
+    "stargate_id": 50007743,
+    "system_id": 30003897,
+    "type_id": 29624
+}

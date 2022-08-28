@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007981,
+        "system_id": 30004330
+    },
+    "name": "Stargate (JRZ-B9)",
+    "position": {
+        "x": -59373772800,
+        "y": 6021242880,
+        "z": -4168704000
+    },
+    "stargate_id": 50008035,
+    "system_id": 30004332,
+    "type_id": 16
+}

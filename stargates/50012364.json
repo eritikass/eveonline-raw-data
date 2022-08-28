@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012366,
+        "system_id": 30004621
+    },
+    "name": "Stargate (WY-9LL)",
+    "position": {
+        "x": 2545696727040,
+        "y": 330931200000,
+        "z": -3407041044480
+    },
+    "stargate_id": 50012364,
+    "system_id": 30004620,
+    "type_id": 3875
+}

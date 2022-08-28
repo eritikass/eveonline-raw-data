@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011316,
+        "system_id": 30002489
+    },
+    "name": "Stargate (Atioth)",
+    "position": {
+        "x": 2064355123200,
+        "y": -293174599680,
+        "z": -974036951040
+    },
+    "stargate_id": 50007461,
+    "system_id": 30002481,
+    "type_id": 16
+}

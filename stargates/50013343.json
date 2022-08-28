@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013420,
+        "system_id": 30004659
+    },
+    "name": "Stargate (L7-APB)",
+    "position": {
+        "x": -1038471045120,
+        "y": 83808952320,
+        "z": -509886996480
+    },
+    "stargate_id": 50013343,
+    "system_id": 30004658,
+    "type_id": 3875
+}

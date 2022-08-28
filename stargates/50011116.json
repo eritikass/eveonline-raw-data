@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010074,
+        "system_id": 30003851
+    },
+    "name": "Stargate (Reschard)",
+    "position": {
+        "x": -489220055040,
+        "y": -21641256960,
+        "z": 1296842465280
+    },
+    "stargate_id": 50011116,
+    "system_id": 30003853,
+    "type_id": 3875
+}

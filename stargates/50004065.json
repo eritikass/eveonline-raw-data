@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003975,
+        "system_id": 30001833
+    },
+    "name": "Stargate (LGK-VP)",
+    "position": {
+        "x": 315724308480,
+        "y": -17831485440,
+        "z": -747109785600
+    },
+    "stargate_id": 50004065,
+    "system_id": 30001834,
+    "type_id": 29624
+}

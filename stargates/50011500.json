@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011578,
+        "system_id": 30003318
+    },
+    "name": "Stargate (MXYS-8)",
+    "position": {
+        "x": -87495598080,
+        "y": -4856832000,
+        "z": -141988945920
+    },
+    "stargate_id": 50011500,
+    "system_id": 30003316,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003874,
+        "system_id": 30003380
+    },
+    "name": "Stargate (Alf)",
+    "position": {
+        "x": 225262264320,
+        "y": 28465274880,
+        "z": -1159256678400
+    },
+    "stargate_id": 50002941,
+    "system_id": 30003377,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004531,
+        "system_id": 30003014
+    },
+    "name": "Stargate (Bereye)",
+    "position": {
+        "x": -2689727078400,
+        "y": 4309309071360,
+        "z": -3885766287360
+    },
+    "stargate_id": 50004900,
+    "system_id": 30003039,
+    "type_id": 3874
+}

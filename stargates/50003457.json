@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004687,
+        "system_id": 30005103
+    },
+    "name": "Stargate (F-5WYK)",
+    "position": {
+        "x": -3024776847360,
+        "y": -572550389760,
+        "z": 3993216245760
+    },
+    "stargate_id": 50003457,
+    "system_id": 30005100,
+    "type_id": 3875
+}

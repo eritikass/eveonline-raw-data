@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004565,
+        "system_id": 30000987
+    },
+    "name": "Stargate (JUK0-1)",
+    "position": {
+        "x": -2661949440,
+        "y": -425779200,
+        "z": 234312376320
+    },
+    "stargate_id": 50004584,
+    "system_id": 30000988,
+    "type_id": 29633
+}

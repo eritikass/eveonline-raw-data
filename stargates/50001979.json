@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001197,
+        "system_id": 30000019
+    },
+    "name": "Stargate (Podion)",
+    "position": {
+        "x": 4625292288000,
+        "y": 416036904960,
+        "z": 3950779883520
+    },
+    "stargate_id": 50001979,
+    "system_id": 30000022,
+    "type_id": 29624
+}

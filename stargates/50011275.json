@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008461,
+        "system_id": 30002602
+    },
+    "name": "Stargate (O2-39S)",
+    "position": {
+        "x": 133250457600,
+        "y": -1041899520,
+        "z": 3098479534080
+    },
+    "stargate_id": 50011275,
+    "system_id": 30002604,
+    "type_id": 29633
+}

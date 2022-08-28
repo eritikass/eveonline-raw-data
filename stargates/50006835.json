@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006908,
+        "system_id": 30002906
+    },
+    "name": "Stargate (CCP-US)",
+    "position": {
+        "x": -794645667840,
+        "y": -121997352960,
+        "z": 428096839680
+    },
+    "stargate_id": 50006835,
+    "system_id": 30002905,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012871,
+        "system_id": 30005292
+    },
+    "name": "Stargate (Agal)",
+    "position": {
+        "x": -14670766080,
+        "y": -2307809280,
+        "z": -2487061831680
+    },
+    "stargate_id": 50012745,
+    "system_id": 30005290,
+    "type_id": 29624
+}

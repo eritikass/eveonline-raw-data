@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007597,
+        "system_id": 30002998
+    },
+    "name": "Stargate (Upper Debyl)",
+    "position": {
+        "x": 148981309440,
+        "y": -1955635200,
+        "z": 876741795840
+    },
+    "stargate_id": 50006185,
+    "system_id": 30002997,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003879,
+        "system_id": 30001438
+    },
+    "name": "Stargate (Nannaras)",
+    "position": {
+        "x": 2851745832960,
+        "y": -434208153600,
+        "z": 640929423360
+    },
+    "stargate_id": 50004536,
+    "system_id": 30001440,
+    "type_id": 16
+}

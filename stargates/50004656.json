@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004980,
+        "system_id": 30000643
+    },
+    "name": "Stargate (BTLH-I)",
+    "position": {
+        "x": -1362629222400,
+        "y": -1256415436800,
+        "z": -2821325414400
+    },
+    "stargate_id": 50004656,
+    "system_id": 30000642,
+    "type_id": 3877
+}

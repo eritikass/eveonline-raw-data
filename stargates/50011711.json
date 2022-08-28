@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013487,
+        "system_id": 30005075
+    },
+    "name": "Stargate (Latari)",
+    "position": {
+        "x": -1083652055040,
+        "y": -194708889600,
+        "z": -1544192778240
+    },
+    "stargate_id": 50011711,
+    "system_id": 30005071,
+    "type_id": 29624
+}

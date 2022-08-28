@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010122,
+        "system_id": 30004170
+    },
+    "name": "Stargate (P-NRD3)",
+    "position": {
+        "x": -4214197985280,
+        "y": 584394547200,
+        "z": 2533670707200
+    },
+    "stargate_id": 50010273,
+    "system_id": 30004173,
+    "type_id": 3875
+}

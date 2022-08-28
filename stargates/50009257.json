@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009228,
+        "system_id": 30003633
+    },
+    "name": "Stargate (HB-FSO)",
+    "position": {
+        "x": 2631492526080,
+        "y": -530190458880,
+        "z": 3216248217600
+    },
+    "stargate_id": 50009257,
+    "system_id": 30003634,
+    "type_id": 16
+}

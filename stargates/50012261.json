@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012330,
+        "system_id": 30004284
+    },
+    "name": "Stargate (Defsunun)",
+    "position": {
+        "x": -580879196160,
+        "y": -117415157760,
+        "z": -1497423175680
+    },
+    "stargate_id": 50012261,
+    "system_id": 30004283,
+    "type_id": 29624
+}

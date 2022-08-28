@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007854,
+        "system_id": 30002031
+    },
+    "name": "Stargate (7X-VKB)",
+    "position": {
+        "x": 722188247040,
+        "y": 64403005440,
+        "z": -913943224320
+    },
+    "stargate_id": 50007444,
+    "system_id": 30002030,
+    "type_id": 16
+}

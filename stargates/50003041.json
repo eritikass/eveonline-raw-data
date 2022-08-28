@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003057,
+        "system_id": 30004977
+    },
+    "name": "Stargate (Yvangier)",
+    "position": {
+        "x": 452051312640,
+        "y": -70314762240,
+        "z": 1587332505600
+    },
+    "stargate_id": 50003041,
+    "system_id": 30004976,
+    "type_id": 3875
+}

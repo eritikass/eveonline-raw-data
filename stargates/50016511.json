@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016510,
+        "system_id": 30000192
+    },
+    "name": "Stargate (Otanuomi)",
+    "position": {
+        "x": -176704360415.732,
+        "y": 24551587486.36019,
+        "z": -93492840620.57532
+    },
+    "stargate_id": 50016511,
+    "system_id": 30002079,
+    "type_id": 56317
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008796,
+        "system_id": 30002149
+    },
+    "name": "Stargate (D-BAMJ)",
+    "position": {
+        "x": -183896432640,
+        "y": 16731463680,
+        "z": 4633436160
+    },
+    "stargate_id": 50005679,
+    "system_id": 30002146,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010625,
+        "system_id": 30004726
+    },
+    "name": "Stargate (IP6V-X)",
+    "position": {
+        "x": 105187368960,
+        "y": -10110443520,
+        "z": 537730375680
+    },
+    "stargate_id": 50010589,
+    "system_id": 30004725,
+    "type_id": 29624
+}

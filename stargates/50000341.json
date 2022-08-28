@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000775,
+        "system_id": 30001178
+    },
+    "name": "Stargate (GMLH-K)",
+    "position": {
+        "x": -1885384089600,
+        "y": 257906073600,
+        "z": -4768086712320
+    },
+    "stargate_id": 50000341,
+    "system_id": 30001176,
+    "type_id": 29624
+}

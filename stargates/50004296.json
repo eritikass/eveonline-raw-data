@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004115,
+        "system_id": 30000638
+    },
+    "name": "Stargate (P7-45V)",
+    "position": {
+        "x": -144494469120,
+        "y": -26687201280,
+        "z": -244087726080
+    },
+    "stargate_id": 50004296,
+    "system_id": 30000639,
+    "type_id": 29633
+}

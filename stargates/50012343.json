@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013045,
+        "system_id": 30005028
+    },
+    "name": "Stargate (Andole)",
+    "position": {
+        "x": 443532779520,
+        "y": -3116605440,
+        "z": 752126484480
+    },
+    "stargate_id": 50012343,
+    "system_id": 30005027,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011954,
+        "system_id": 30003849
+    },
+    "name": "Stargate (Aubonnie)",
+    "position": {
+        "x": -530262958080,
+        "y": -76736225280,
+        "z": 95915827200
+    },
+    "stargate_id": 50011854,
+    "system_id": 30003848,
+    "type_id": 3875
+}

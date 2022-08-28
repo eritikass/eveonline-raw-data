@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013485,
+        "system_id": 30004551
+    },
+    "name": "Stargate (VJ0-81)",
+    "position": {
+        "x": 2330902978560,
+        "y": -315115069440,
+        "z": 4933017600
+    },
+    "stargate_id": 50013143,
+    "system_id": 30004547,
+    "type_id": 3875
+}

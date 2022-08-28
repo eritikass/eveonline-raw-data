@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012991,
+        "system_id": 30003606
+    },
+    "name": "Stargate (Toustain)",
+    "position": {
+        "x": -785196933120,
+        "y": 65998233600,
+        "z": -290650890240
+    },
+    "stargate_id": 50012389,
+    "system_id": 30003604,
+    "type_id": 3875
+}

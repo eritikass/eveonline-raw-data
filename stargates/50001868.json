@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002154,
+        "system_id": 30001033
+    },
+    "name": "Stargate (QFEW-K)",
+    "position": {
+        "x": 349226557440,
+        "y": -19801497600,
+        "z": -127743467520
+    },
+    "stargate_id": 50001868,
+    "system_id": 30001031,
+    "type_id": 29633
+}

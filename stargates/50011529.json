@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013208,
+        "system_id": 30003222
+    },
+    "name": "Stargate (Q-ITV5)",
+    "position": {
+        "x": 1530803281920,
+        "y": -302469734400,
+        "z": 3079381278720
+    },
+    "stargate_id": 50011529,
+    "system_id": 30003218,
+    "type_id": 3875
+}

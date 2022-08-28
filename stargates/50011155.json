@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011304,
+        "system_id": 30004580
+    },
+    "name": "Stargate (N2-OQG)",
+    "position": {
+        "x": 463787827200,
+        "y": 43000750080,
+        "z": 215248773120
+    },
+    "stargate_id": 50011155,
+    "system_id": 30004577,
+    "type_id": 3875
+}

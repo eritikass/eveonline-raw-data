@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012703,
+        "system_id": 30001257
+    },
+    "name": "Stargate (6BPS-T)",
+    "position": {
+        "x": -1020361728000,
+        "y": -127565783040,
+        "z": 471603732480
+    },
+    "stargate_id": 50011320,
+    "system_id": 30001255,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001677,
+        "system_id": 30001382
+    },
+    "name": "Stargate (Akonoinen)",
+    "position": {
+        "x": -490249297920,
+        "y": -5303694827520,
+        "z": 1574668247040
+    },
+    "stargate_id": 50007473,
+    "system_id": 30001367,
+    "type_id": 29627
+}

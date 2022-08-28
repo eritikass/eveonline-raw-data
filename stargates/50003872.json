@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000818,
+        "system_id": 30003374
+    },
+    "name": "Stargate (Arlulf)",
+    "position": {
+        "x": 851391897600,
+        "y": -44074721280,
+        "z": 676358184960
+    },
+    "stargate_id": 50003872,
+    "system_id": 30003380,
+    "type_id": 29633
+}

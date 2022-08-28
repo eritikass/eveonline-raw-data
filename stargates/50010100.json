@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009818,
+        "system_id": 30004167
+    },
+    "name": "Stargate (GQLB-V)",
+    "position": {
+        "x": -1753982853120,
+        "y": 78846812160,
+        "z": 1507314278400
+    },
+    "stargate_id": 50010100,
+    "system_id": 30004169,
+    "type_id": 3875
+}

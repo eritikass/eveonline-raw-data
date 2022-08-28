@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014034,
+        "system_id": 30003681
+    },
+    "name": "Stargate (DO6H-Q)",
+    "position": {
+        "x": -5525982044160,
+        "y": 950724648960,
+        "z": 7136955555840
+    },
+    "stargate_id": 50014033,
+    "system_id": 30003679,
+    "type_id": 3875
+}

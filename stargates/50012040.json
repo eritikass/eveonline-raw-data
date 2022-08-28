@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012594,
+        "system_id": 30004615
+    },
+    "name": "Stargate (HMF-9D)",
+    "position": {
+        "x": -517465251840,
+        "y": 37538979840,
+        "z": 155936071680
+    },
+    "stargate_id": 50012040,
+    "system_id": 30004610,
+    "type_id": 3875
+}

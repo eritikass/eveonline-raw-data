@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013906,
+        "system_id": 30002193
+    },
+    "name": "Stargate (Kehour)",
+    "position": {
+        "x": -4293725429760,
+        "y": -7144879595520,
+        "z": 1087178956800
+    },
+    "stargate_id": 50013905,
+    "system_id": 30003491,
+    "type_id": 17
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012320,
+        "system_id": 30004144
+    },
+    "name": "Stargate (Yebouz)",
+    "position": {
+        "x": 4437422530560,
+        "y": -607573401600,
+        "z": -3032990638080
+    },
+    "stargate_id": 50011415,
+    "system_id": 30004143,
+    "type_id": 29624
+}

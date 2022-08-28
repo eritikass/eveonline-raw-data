@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003884,
+        "system_id": 30001676
+    },
+    "name": "Stargate (Mimen)",
+    "position": {
+        "x": 1613238067200,
+        "y": -5255700480,
+        "z": 1782187991040
+    },
+    "stargate_id": 50005637,
+    "system_id": 30001680,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009998,
+        "system_id": 30005274
+    },
+    "name": "Stargate (Otakod)",
+    "position": {
+        "x": 1599078850560,
+        "y": -539120640000,
+        "z": 775810129920
+    },
+    "stargate_id": 50010274,
+    "system_id": 30004230,
+    "type_id": 29626
+}

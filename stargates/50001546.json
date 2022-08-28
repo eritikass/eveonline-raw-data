@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002786,
+        "system_id": 30000811
+    },
+    "name": "Stargate (N7-BIY)",
+    "position": {
+        "x": 1248708648960,
+        "y": -132414627840,
+        "z": 939965276160
+    },
+    "stargate_id": 50001546,
+    "system_id": 30000808,
+    "type_id": 29633
+}

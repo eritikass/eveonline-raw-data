@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003385,
+        "system_id": 30003717
+    },
+    "name": "Stargate (U-HYMT)",
+    "position": {
+        "x": 59748556800,
+        "y": -6827089920,
+        "z": 936979783680
+    },
+    "stargate_id": 50004024,
+    "system_id": 30003719,
+    "type_id": 29624
+}

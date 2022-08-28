@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004295,
+        "system_id": 30003073
+    },
+    "name": "Stargate (Netsalakka)",
+    "position": {
+        "x": 905707560960,
+        "y": 95262351360,
+        "z": 2001692221440
+    },
+    "stargate_id": 50004581,
+    "system_id": 30003075,
+    "type_id": 29624
+}

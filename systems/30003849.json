@@ -1,0 +1,81 @@
+{
+    "constellation_id": 20000562,
+    "name": "Aubonnie",
+    "planets": [
+        {
+            "planet_id": 40243481
+        },
+        {
+            "asteroid_belts": [
+                40243483
+            ],
+            "moons": [
+                40243484
+            ],
+            "planet_id": 40243482
+        },
+        {
+            "asteroid_belts": [
+                40243486
+            ],
+            "planet_id": 40243485
+        },
+        {
+            "asteroid_belts": [
+                40243489
+            ],
+            "moons": [
+                40243488
+            ],
+            "planet_id": 40243487
+        },
+        {
+            "asteroid_belts": [
+                40243491
+            ],
+            "moons": [
+                40243492
+            ],
+            "planet_id": 40243490
+        },
+        {
+            "moons": [
+                40243494,
+                40243495,
+                40243496,
+                40243497
+            ],
+            "planet_id": 40243493
+        },
+        {
+            "asteroid_belts": [
+                40243499,
+                40243500
+            ],
+            "moons": [
+                40243501
+            ],
+            "planet_id": 40243498
+        },
+        {
+            "moons": [
+                40243503,
+                40243504
+            ],
+            "planet_id": 40243502
+        }
+    ],
+    "position": {
+        "x": -258907222548390430,
+        "y": 63546069746858460,
+        "z": 78807783019101660
+    },
+    "security_class": "D2",
+    "security_status": 0.4027964770793915,
+    "star_id": 40243480,
+    "stargates": [
+        50011953,
+        50011954
+    ],
+    "system_id": 30003849
+}

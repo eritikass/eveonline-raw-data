@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007880,
+        "system_id": 30003875
+    },
+    "name": "Stargate (Hishai)",
+    "position": {
+        "x": -5392996884480,
+        "y": 449390960640,
+        "z": -2576122060800
+    },
+    "stargate_id": 50007622,
+    "system_id": 30003871,
+    "type_id": 29624
+}

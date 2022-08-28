@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011981,
+        "system_id": 30004196
+    },
+    "name": "Stargate (VAF1-P)",
+    "position": {
+        "x": -605567508480,
+        "y": -12296232960,
+        "z": -1397826232320
+    },
+    "stargate_id": 50012080,
+    "system_id": 30004197,
+    "type_id": 3875
+}

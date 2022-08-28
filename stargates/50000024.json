@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003464,
+        "system_id": 30001361
+    },
+    "name": "Stargate (Aurohunen)",
+    "position": {
+        "x": 392171642880,
+        "y": 46412881920,
+        "z": 1510551920640
+    },
+    "stargate_id": 50000024,
+    "system_id": 30001356,
+    "type_id": 16
+}

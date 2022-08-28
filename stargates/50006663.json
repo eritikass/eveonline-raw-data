@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007772,
+        "system_id": 30003413
+    },
+    "name": "Stargate (Eram)",
+    "position": {
+        "x": 2873945825280,
+        "y": 501577359360,
+        "z": -5571212943360
+    },
+    "stargate_id": 50006663,
+    "system_id": 30003412,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012716,
+        "system_id": 30004616
+    },
+    "name": "Stargate (7BX-6F)",
+    "position": {
+        "x": -606557184000,
+        "y": -54817873920,
+        "z": -1779849093120
+    },
+    "stargate_id": 50011986,
+    "system_id": 30004608,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013137,
+        "system_id": 30003221
+    },
+    "name": "Stargate (QE2-FS)",
+    "position": {
+        "x": 93642055680,
+        "y": -18529443840,
+        "z": -373527060480
+    },
+    "stargate_id": 50011528,
+    "system_id": 30003218,
+    "type_id": 3875
+}

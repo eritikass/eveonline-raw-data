@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011539,
+        "system_id": 30002151
+    },
+    "name": "Stargate (RHE7-W)",
+    "position": {
+        "x": 1032540119040,
+        "y": 26713743360,
+        "z": -810878361600
+    },
+    "stargate_id": 50008798,
+    "system_id": 30002149,
+    "type_id": 29633
+}

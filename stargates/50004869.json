@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002537,
+        "system_id": 30002853
+    },
+    "name": "Stargate (G-KCFT)",
+    "position": {
+        "x": -574857338880,
+        "y": 81944616960,
+        "z": -5067004846080
+    },
+    "stargate_id": 50004869,
+    "system_id": 30002858,
+    "type_id": 3875
+}

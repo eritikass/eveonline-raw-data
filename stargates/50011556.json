@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010508,
+        "system_id": 30003170
+    },
+    "name": "Stargate (DL-CDY)",
+    "position": {
+        "x": -598832947200,
+        "y": -114259845120,
+        "z": 566035046400
+    },
+    "stargate_id": 50011556,
+    "system_id": 30003173,
+    "type_id": 29624
+}

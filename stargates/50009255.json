@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009022,
+        "system_id": 30003629
+    },
+    "name": "Stargate (S-KSWL)",
+    "position": {
+        "x": -735032893440,
+        "y": 148061429760,
+        "z": -1987178618880
+    },
+    "stargate_id": 50009255,
+    "system_id": 30003634,
+    "type_id": 16
+}

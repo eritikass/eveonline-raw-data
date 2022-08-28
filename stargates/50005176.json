@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004042,
+        "system_id": 30000476
+    },
+    "name": "Stargate (A-C5TC)",
+    "position": {
+        "x": -7822791352320,
+        "y": 196911882240,
+        "z": 7985406074880
+    },
+    "stargate_id": 50005176,
+    "system_id": 30000477,
+    "type_id": 29633
+}

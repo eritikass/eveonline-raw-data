@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005576,
+        "system_id": 30003417
+    },
+    "name": "Stargate (Urnhard)",
+    "position": {
+        "x": 345044951040,
+        "y": -2797117440,
+        "z": 3238822748160
+    },
+    "stargate_id": 50005731,
+    "system_id": 30003418,
+    "type_id": 29633
+}

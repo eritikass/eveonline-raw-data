@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004364,
+        "system_id": 30005308
+    },
+    "name": "Stargate (Jufvitte)",
+    "position": {
+        "x": -575105556480,
+        "y": -18163015680,
+        "z": -1257365299200
+    },
+    "stargate_id": 50006470,
+    "system_id": 30005309,
+    "type_id": 3875
+}

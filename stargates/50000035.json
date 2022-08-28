@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001548,
+        "system_id": 30001539
+    },
+    "name": "Stargate (AG-SYG)",
+    "position": {
+        "x": 3619973160960,
+        "y": -312081899520,
+        "z": 1579761377280
+    },
+    "stargate_id": 50000035,
+    "system_id": 30001533,
+    "type_id": 3875
+}

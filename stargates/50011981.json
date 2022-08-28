@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012080,
+        "system_id": 30004197
+    },
+    "name": "Stargate (FV1-RQ)",
+    "position": {
+        "x": 2733110845440,
+        "y": 346937303040,
+        "z": 2566439608320
+    },
+    "stargate_id": 50011981,
+    "system_id": 30004196,
+    "type_id": 3875
+}

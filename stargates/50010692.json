@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011905,
+        "system_id": 30000201
+    },
+    "name": "Stargate (Uchoshi)",
+    "position": {
+        "x": -2135141621760,
+        "y": -2902072074240,
+        "z": 3720862064640
+    },
+    "stargate_id": 50010692,
+    "system_id": 30000193,
+    "type_id": 29627
+}

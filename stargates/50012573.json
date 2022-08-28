@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012731,
+        "system_id": 30004903
+    },
+    "name": "Stargate (DJK-67)",
+    "position": {
+        "x": 2333958512640,
+        "y": 874045440,
+        "z": 1787880038400
+    },
+    "stargate_id": 50012573,
+    "system_id": 30004902,
+    "type_id": 29633
+}

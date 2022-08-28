@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008499,
+        "system_id": 30002727
+    },
+    "name": "Stargate (Allipes)",
+    "position": {
+        "x": -1895168778240,
+        "y": 84492902400,
+        "z": -651636940800
+    },
+    "stargate_id": 50007947,
+    "system_id": 30002725,
+    "type_id": 3875
+}

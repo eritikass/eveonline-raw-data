@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016277,
+        "system_id": 30045343
+    },
+    "name": "Stargate (Immuri)",
+    "position": {
+        "x": -273684111360,
+        "y": -14961254400,
+        "z": 531887185920
+    },
+    "stargate_id": 50016278,
+    "system_id": 30045338,
+    "type_id": 16
+}

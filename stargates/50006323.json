@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004362,
+        "system_id": 30002438
+    },
+    "name": "Stargate (BND-16)",
+    "position": {
+        "x": -282172170240,
+        "y": -26304798720,
+        "z": 159175188480
+    },
+    "stargate_id": 50006323,
+    "system_id": 30002441,
+    "type_id": 16
+}

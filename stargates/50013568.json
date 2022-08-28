@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013567,
+        "system_id": 30005006
+    },
+    "name": "Stargate (Aere)",
+    "position": {
+        "x": -81008271360,
+        "y": 11515725864960,
+        "z": -362982236160
+    },
+    "stargate_id": 50013568,
+    "system_id": 30004988,
+    "type_id": 3874
+}

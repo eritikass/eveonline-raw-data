@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002331,
+        "system_id": 30002823
+    },
+    "name": "Stargate (1-KCSA)",
+    "position": {
+        "x": -4463904399360,
+        "y": -549785640960,
+        "z": -733004390400
+    },
+    "stargate_id": 50003600,
+    "system_id": 30002824,
+    "type_id": 3875
+}

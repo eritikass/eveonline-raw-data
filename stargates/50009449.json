@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011080,
+        "system_id": 30003499
+    },
+    "name": "Stargate (Mai)",
+    "position": {
+        "x": 4319866429440,
+        "y": -393563136000,
+        "z": -5171667886080
+    },
+    "stargate_id": 50009449,
+    "system_id": 30003497,
+    "type_id": 29624
+}

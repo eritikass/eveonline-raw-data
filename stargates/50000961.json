@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001656,
+        "system_id": 30000086
+    },
+    "name": "Stargate (Sucha)",
+    "position": {
+        "x": -3691851816960,
+        "y": -445200261120,
+        "z": 1120091381760
+    },
+    "stargate_id": 50000961,
+    "system_id": 30000085,
+    "type_id": 29624
+}

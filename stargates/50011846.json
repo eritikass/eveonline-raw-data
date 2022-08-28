@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012139,
+        "system_id": 30004149
+    },
+    "name": "Stargate (Elmed)",
+    "position": {
+        "x": -1325053255680,
+        "y": 186119331840,
+        "z": -404786749440
+    },
+    "stargate_id": 50011846,
+    "system_id": 30004148,
+    "type_id": 29624
+}

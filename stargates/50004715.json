@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003581,
+        "system_id": 30003713
+    },
+    "name": "Stargate (G7AQ-7)",
+    "position": {
+        "x": -178638888960,
+        "y": 20369203200,
+        "z": -618655703040
+    },
+    "stargate_id": 50004715,
+    "system_id": 30003716,
+    "type_id": 29624
+}

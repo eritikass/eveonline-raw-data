@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014273,
+        "system_id": 30001542
+    },
+    "name": "Stargate (JNG7-K)",
+    "position": {
+        "x": -1504501555200,
+        "y": -1920327229440,
+        "z": 1908501258240
+    },
+    "stargate_id": 50014274,
+    "system_id": 30001532,
+    "type_id": 3874
+}

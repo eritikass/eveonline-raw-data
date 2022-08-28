@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005750,
+        "system_id": 30002155
+    },
+    "name": "Stargate (XS-K1O)",
+    "position": {
+        "x": -8376904458240,
+        "y": 1078917488640,
+        "z": -2706113617920
+    },
+    "stargate_id": 50006778,
+    "system_id": 30002156,
+    "type_id": 29633
+}

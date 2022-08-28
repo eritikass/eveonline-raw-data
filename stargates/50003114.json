@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002911,
+        "system_id": 30001269
+    },
+    "name": "Stargate (H-PA29)",
+    "position": {
+        "x": 429727948800,
+        "y": -56691302400,
+        "z": -197751644160
+    },
+    "stargate_id": 50003114,
+    "system_id": 30001270,
+    "type_id": 16
+}

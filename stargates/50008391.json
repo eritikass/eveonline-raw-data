@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007384,
+        "system_id": 30005152
+    },
+    "name": "Stargate (5V-Q1R)",
+    "position": {
+        "x": -92383027200,
+        "y": -6831759360,
+        "z": -298179256320
+    },
+    "stargate_id": 50008391,
+    "system_id": 30005155,
+    "type_id": 3875
+}

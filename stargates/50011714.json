@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007288,
+        "system_id": 30003292
+    },
+    "name": "Stargate (QWF-6P)",
+    "position": {
+        "x": -1337882664960,
+        "y": 61757399040,
+        "z": -864966942720
+    },
+    "stargate_id": 50011714,
+    "system_id": 30003297,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006113,
+        "system_id": 30003807
+    },
+    "name": "Stargate (Dour)",
+    "position": {
+        "x": 978884075520,
+        "y": -98843566080,
+        "z": 2731433779200
+    },
+    "stargate_id": 50005942,
+    "system_id": 30003806,
+    "type_id": 3875
+}

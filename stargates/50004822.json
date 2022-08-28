@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005027,
+        "system_id": 30001298
+    },
+    "name": "Stargate (8CIX-S)",
+    "position": {
+        "x": -640587571200,
+        "y": 81803550720,
+        "z": 2326736609280
+    },
+    "stargate_id": 50004822,
+    "system_id": 30001297,
+    "type_id": 16
+}

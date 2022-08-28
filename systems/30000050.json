@@ -1,0 +1,45 @@
+{
+    "constellation_id": 20000007,
+    "name": "Fera",
+    "planets": [
+        {
+            "planet_id": 40003187
+        },
+        {
+            "asteroid_belts": [
+                40003189
+            ],
+            "planet_id": 40003188
+        },
+        {
+            "asteroid_belts": [
+                40003191
+            ],
+            "moons": [
+                40003192
+            ],
+            "planet_id": 40003190
+        },
+        {
+            "asteroid_belts": [
+                40003194
+            ],
+            "moons": [
+                40003195
+            ],
+            "planet_id": 40003193
+        }
+    ],
+    "position": {
+        "x": -74299224152638900,
+        "y": 39382745820237064,
+        "z": -78999332766387170
+    },
+    "security_class": "B1",
+    "security_status": 0.47724634408950806,
+    "star_id": 40003186,
+    "stargates": [
+        50002626
+    ],
+    "system_id": 30000050
+}

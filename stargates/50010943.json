@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010687,
+        "system_id": 30004890
+    },
+    "name": "Stargate (VULA-I)",
+    "position": {
+        "x": 618459832320,
+        "y": -81201192960,
+        "z": -1239903559680
+    },
+    "stargate_id": 50010943,
+    "system_id": 30004891,
+    "type_id": 29633
+}

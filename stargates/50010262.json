@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011405,
+        "system_id": 30003975
+    },
+    "name": "Stargate (Q2-N6W)",
+    "position": {
+        "x": 1558769541120,
+        "y": -297904742400,
+        "z": -6462111621120
+    },
+    "stargate_id": 50010262,
+    "system_id": 30003973,
+    "type_id": 29624
+}

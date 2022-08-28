@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016402,
+        "system_id": 30002062
+    },
+    "name": "Stargate (Todifrauan)",
+    "position": {
+        "x": -2823147233280,
+        "y": -2278548971520,
+        "z": -2202852925440
+    },
+    "stargate_id": 50016403,
+    "system_id": 30000200,
+    "type_id": 3873
+}

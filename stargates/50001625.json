@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001396,
+        "system_id": 30000240
+    },
+    "name": "Stargate (4-HWWF)",
+    "position": {
+        "x": 418141102080,
+        "y": -47133941760,
+        "z": 134775152640
+    },
+    "stargate_id": 50001625,
+    "system_id": 30000241,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010344,
+        "system_id": 30005276
+    },
+    "name": "Stargate (Sharza)",
+    "position": {
+        "x": -1567147745280,
+        "y": 74069975040,
+        "z": -4370199306240
+    },
+    "stargate_id": 50010062,
+    "system_id": 30005275,
+    "type_id": 29624
+}

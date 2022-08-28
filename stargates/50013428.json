@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013382,
+        "system_id": 30004489
+    },
+    "name": "Stargate (ZID-LE)",
+    "position": {
+        "x": 240420003840,
+        "y": -31133491200,
+        "z": 463975833600
+    },
+    "stargate_id": 50013428,
+    "system_id": 30004490,
+    "type_id": 29633
+}

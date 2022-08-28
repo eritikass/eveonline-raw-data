@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011418,
+        "system_id": 30004268
+    },
+    "name": "Stargate (Shenda)",
+    "position": {
+        "x": -3669999820800,
+        "y": 335637749760,
+        "z": 4036250542080
+    },
+    "stargate_id": 50011452,
+    "system_id": 30004270,
+    "type_id": 29624
+}

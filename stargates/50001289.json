@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001997,
+        "system_id": 30003069
+    },
+    "name": "Stargate (Kamela)",
+    "position": {
+        "x": -1440399237120,
+        "y": -924388761600,
+        "z": 2466779013120
+    },
+    "stargate_id": 50001289,
+    "system_id": 30002970,
+    "type_id": 29626
+}

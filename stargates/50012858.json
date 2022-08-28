@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013233,
+        "system_id": 30003372
+    },
+    "name": "Stargate (U4-Q2V)",
+    "position": {
+        "x": 653059645440,
+        "y": 93593886720,
+        "z": 242837544960
+    },
+    "stargate_id": 50012858,
+    "system_id": 30003369,
+    "type_id": 3875
+}

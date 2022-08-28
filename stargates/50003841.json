@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003542,
+        "system_id": 30003394
+    },
+    "name": "Stargate (Freatlidur)",
+    "position": {
+        "x": 991820881920,
+        "y": -51627417600,
+        "z": 2066623733760
+    },
+    "stargate_id": 50003841,
+    "system_id": 30003395,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010206,
+        "system_id": 30001778
+    },
+    "name": "Stargate (XDTW-F)",
+    "position": {
+        "x": -455210311680,
+        "y": -89651896320,
+        "z": 2812452495360
+    },
+    "stargate_id": 50010112,
+    "system_id": 30001777,
+    "type_id": 3875
+}

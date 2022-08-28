@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009016,
+        "system_id": 30004500
+    },
+    "name": "Stargate (TQ-RR8)",
+    "position": {
+        "x": -738923520000,
+        "y": -80351600640,
+        "z": -2200755118080
+    },
+    "stargate_id": 50008732,
+    "system_id": 30004493,
+    "type_id": 3875
+}

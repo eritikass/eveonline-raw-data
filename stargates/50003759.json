@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004312,
+        "system_id": 30000822
+    },
+    "name": "Stargate (04-EHC)",
+    "position": {
+        "x": 855171932160,
+        "y": 72213012480,
+        "z": -1701396357120
+    },
+    "stargate_id": 50003759,
+    "system_id": 30000820,
+    "type_id": 29633
+}

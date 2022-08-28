@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009994,
+        "system_id": 30003771
+    },
+    "name": "Stargate (8B-VLX)",
+    "position": {
+        "x": -1228684615680,
+        "y": 68280606720,
+        "z": 1183308472320
+    },
+    "stargate_id": 50010429,
+    "system_id": 30003772,
+    "type_id": 29624
+}

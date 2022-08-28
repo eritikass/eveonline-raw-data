@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005658,
+        "system_id": 30000304
+    },
+    "name": "Stargate (ZA0L-U)",
+    "position": {
+        "x": -3994606510080,
+        "y": -349606256640,
+        "z": 978885058560
+    },
+    "stargate_id": 50004256,
+    "system_id": 30000302,
+    "type_id": 16
+}

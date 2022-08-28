@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004600,
+        "system_id": 30001991
+    },
+    "name": "Stargate (ION-FG)",
+    "position": {
+        "x": 2266527621120,
+        "y": 212293509120,
+        "z": 2233954099200
+    },
+    "stargate_id": 50005619,
+    "system_id": 30001992,
+    "type_id": 16
+}

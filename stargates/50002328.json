@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003822,
+        "system_id": 30002968
+    },
+    "name": "Stargate (Dital)",
+    "position": {
+        "x": 5372170444800,
+        "y": 639051325440,
+        "z": -2885461893120
+    },
+    "stargate_id": 50002328,
+    "system_id": 30002964,
+    "type_id": 29624
+}

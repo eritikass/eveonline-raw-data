@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008580,
+        "system_id": 30003830
+    },
+    "name": "Stargate (Orvolle)",
+    "position": {
+        "x": 2096066764800,
+        "y": 2403700285440,
+        "z": 3557815541760
+    },
+    "stargate_id": 50008046,
+    "system_id": 30003277,
+    "type_id": 3876
+}

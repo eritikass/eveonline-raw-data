@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006500,
+        "system_id": 30005120
+    },
+    "name": "Stargate (K-3PQW)",
+    "position": {
+        "x": 605555957760,
+        "y": -28903710720,
+        "z": -1294156308480
+    },
+    "stargate_id": 50005460,
+    "system_id": 30005118,
+    "type_id": 3875
+}

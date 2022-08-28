@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011255,
+        "system_id": 30004375
+    },
+    "name": "Stargate (KMQ4-V)",
+    "position": {
+        "x": -472624619520,
+        "y": -51720069120,
+        "z": -1533382287360
+    },
+    "stargate_id": 50011590,
+    "system_id": 30004376,
+    "type_id": 16
+}

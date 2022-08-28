@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006288,
+        "system_id": 30005123
+    },
+    "name": "Stargate (H-29TM)",
+    "position": {
+        "x": 1263677399040,
+        "y": -175674040320,
+        "z": -5043260989440
+    },
+    "stargate_id": 50007258,
+    "system_id": 30005126,
+    "type_id": 3875
+}

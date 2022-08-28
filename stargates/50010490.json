@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009792,
+        "system_id": 30005063
+    },
+    "name": "Stargate (Schmaeel)",
+    "position": {
+        "x": 2538971504640,
+        "y": 223224422400,
+        "z": -2288480624640
+    },
+    "stargate_id": 50010490,
+    "system_id": 30005067,
+    "type_id": 29624
+}

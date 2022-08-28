@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007252,
+        "system_id": 30001113
+    },
+    "name": "Stargate (XTVZ-E)",
+    "position": {
+        "x": 4843049164800,
+        "y": -247324385280,
+        "z": -1790233927680
+    },
+    "stargate_id": 50003199,
+    "system_id": 30001109,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003676,
+        "system_id": 30000276
+    },
+    "name": "Stargate (H-1EOH)",
+    "position": {
+        "x": -1990445998080,
+        "y": -288485744640,
+        "z": -105076531200
+    },
+    "stargate_id": 50003850,
+    "system_id": 30000277,
+    "type_id": 16
+}

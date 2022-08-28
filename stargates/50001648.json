@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002213,
+        "system_id": 30000252
+    },
+    "name": "Stargate (IPAY-2)",
+    "position": {
+        "x": -145073971200,
+        "y": -22839091200,
+        "z": -871902289920
+    },
+    "stargate_id": 50001648,
+    "system_id": 30000249,
+    "type_id": 16
+}

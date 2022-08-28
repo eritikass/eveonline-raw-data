@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008817,
+        "system_id": 30003342
+    },
+    "name": "Stargate (Y-W6GF)",
+    "position": {
+        "x": -3677179453440,
+        "y": 369199226880,
+        "z": -263948574720
+    },
+    "stargate_id": 50009171,
+    "system_id": 30003344,
+    "type_id": 3875
+}

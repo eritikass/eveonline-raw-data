@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012327,
+        "system_id": 30004765
+    },
+    "name": "Stargate (MO-GZ5)",
+    "position": {
+        "x": -5178667868160,
+        "y": 46719098880,
+        "z": -3821919313920
+    },
+    "stargate_id": 50010996,
+    "system_id": 30004759,
+    "type_id": 29624
+}

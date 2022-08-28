@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010592,
+        "system_id": 30001707
+    },
+    "name": "Stargate (Phoren)",
+    "position": {
+        "x": 1096799723520,
+        "y": 182950502400,
+        "z": 383106293760
+    },
+    "stargate_id": 50006418,
+    "system_id": 30001702,
+    "type_id": 29624
+}

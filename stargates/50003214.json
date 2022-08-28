@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007179,
+        "system_id": 30001112
+    },
+    "name": "Stargate (J-Z8C2)",
+    "position": {
+        "x": 53776588800,
+        "y": 1637621760,
+        "z": -71492689920
+    },
+    "stargate_id": 50003214,
+    "system_id": 30001110,
+    "type_id": 3875
+}

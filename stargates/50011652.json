@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012220,
+        "system_id": 30001801
+    },
+    "name": "Stargate (F-WCLC)",
+    "position": {
+        "x": 203775221760,
+        "y": 2097930240,
+        "z": 145332756480
+    },
+    "stargate_id": 50011652,
+    "system_id": 30001799,
+    "type_id": 3875
+}

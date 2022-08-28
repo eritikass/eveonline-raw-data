@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002227,
+        "system_id": 30002122
+    },
+    "name": "Stargate (XVV-21)",
+    "position": {
+        "x": -1792861347840,
+        "y": 3784018206720,
+        "z": -169024020480
+    },
+    "stargate_id": 50000055,
+    "system_id": 30002103,
+    "type_id": 3877
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010623,
+        "system_id": 30004526
+    },
+    "name": "Stargate (L3-XYO)",
+    "position": {
+        "x": 193273896960,
+        "y": -8532664320,
+        "z": 380737658880
+    },
+    "stargate_id": 50010964,
+    "system_id": 30004529,
+    "type_id": 3875
+}

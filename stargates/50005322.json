@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005523,
+        "system_id": 30002017
+    },
+    "name": "Stargate (S-MDYI)",
+    "position": {
+        "x": 2549633556480,
+        "y": 210781593600,
+        "z": -1732986593280
+    },
+    "stargate_id": 50005322,
+    "system_id": 30002016,
+    "type_id": 16
+}

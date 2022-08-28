@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002299,
+        "system_id": 30000810
+    },
+    "name": "Stargate (F3-8X2)",
+    "position": {
+        "x": 5167429017600,
+        "y": 3481570222080,
+        "z": 1910720716800
+    },
+    "stargate_id": 50000874,
+    "system_id": 30000785,
+    "type_id": 3877
+}

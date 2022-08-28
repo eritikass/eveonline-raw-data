@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000200,
+        "system_id": 30000460
+    },
+    "name": "Stargate (G3D-ZT)",
+    "position": {
+        "x": -406123192320,
+        "y": -81905541120,
+        "z": 1611338588160
+    },
+    "stargate_id": 50002855,
+    "system_id": 30000464,
+    "type_id": 29633
+}

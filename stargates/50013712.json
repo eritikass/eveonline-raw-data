@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013711,
+        "system_id": 30001383
+    },
+    "name": "Stargate (Vaajaita)",
+    "position": {
+        "x": -820311859200,
+        "y": -7714992906240,
+        "z": -1840367001600
+    },
+    "stargate_id": 50013712,
+    "system_id": 30001361,
+    "type_id": 29627
+}

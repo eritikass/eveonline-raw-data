@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006139,
+        "system_id": 30000429
+    },
+    "name": "Stargate (9K-VDI)",
+    "position": {
+        "x": -3927116636160,
+        "y": 281369518080,
+        "z": 2592174858240
+    },
+    "stargate_id": 50006029,
+    "system_id": 30000427,
+    "type_id": 3876
+}

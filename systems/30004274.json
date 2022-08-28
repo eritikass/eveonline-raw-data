@@ -1,0 +1,100 @@
+{
+    "constellation_id": 20000625,
+    "name": "Nielez",
+    "planets": [
+        {
+            "planet_id": 40270728
+        },
+        {
+            "asteroid_belts": [
+                40270730
+            ],
+            "planet_id": 40270729
+        },
+        {
+            "asteroid_belts": [
+                40270732
+            ],
+            "planet_id": 40270731
+        },
+        {
+            "moons": [
+                40270734
+            ],
+            "planet_id": 40270733
+        },
+        {
+            "asteroid_belts": [
+                40270736
+            ],
+            "moons": [
+                40270737
+            ],
+            "planet_id": 40270735
+        },
+        {
+            "asteroid_belts": [
+                40270739
+            ],
+            "planet_id": 40270738
+        },
+        {
+            "moons": [
+                40270741
+            ],
+            "planet_id": 40270740
+        },
+        {
+            "asteroid_belts": [
+                40270743
+            ],
+            "moons": [
+                40270744
+            ],
+            "planet_id": 40270742
+        },
+        {
+            "asteroid_belts": [
+                40270746,
+                40270748
+            ],
+            "moons": [
+                40270747
+            ],
+            "planet_id": 40270745
+        },
+        {
+            "asteroid_belts": [
+                40270750,
+                40270752
+            ],
+            "moons": [
+                40270751
+            ],
+            "planet_id": 40270749
+        },
+        {
+            "asteroid_belts": [
+                40270754
+            ],
+            "moons": [
+                40270755,
+                40270756
+            ],
+            "planet_id": 40270753
+        }
+    ],
+    "position": {
+        "x": -374134375153577400,
+        "y": 37945862556873310,
+        "z": -78513679080288960
+    },
+    "security_class": "B3",
+    "security_status": 0.11332051455974579,
+    "star_id": 40270727,
+    "stargates": [
+        50011972,
+        50011973
+    ],
+    "system_id": 30004274
+}

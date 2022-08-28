@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014106,
+        "system_id": 30002282
+    },
+    "name": "Stargate (Bhizheba)",
+    "position": {
+        "x": 1601495040,
+        "y": -1032285511680,
+        "z": -2341102755840
+    },
+    "stargate_id": 50014105,
+    "system_id": 30004080,
+    "type_id": 29626
+}

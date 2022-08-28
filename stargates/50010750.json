@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010698,
+        "system_id": 30004555
+    },
+    "name": "Stargate (3WE-KY)",
+    "position": {
+        "x": 1443080724480,
+        "y": -50626437120,
+        "z": -299375861760
+    },
+    "stargate_id": 50010750,
+    "system_id": 30004557,
+    "type_id": 3875
+}

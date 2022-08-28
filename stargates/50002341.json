@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001877,
+        "system_id": 30000098
+    },
+    "name": "Stargate (Kehrara)",
+    "position": {
+        "x": -3430254305280,
+        "y": -274456043520,
+        "z": -3756593848320
+    },
+    "stargate_id": 50002341,
+    "system_id": 30000099,
+    "type_id": 29624
+}

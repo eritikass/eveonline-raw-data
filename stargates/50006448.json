@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006422,
+        "system_id": 30001238
+    },
+    "name": "Stargate (K717-8)",
+    "position": {
+        "x": 73585090560,
+        "y": 9603194880,
+        "z": -46081105920
+    },
+    "stargate_id": 50006448,
+    "system_id": 30001239,
+    "type_id": 29624
+}

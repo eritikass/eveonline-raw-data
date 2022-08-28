@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007249,
+        "system_id": 30003815
+    },
+    "name": "Stargate (Iffrue)",
+    "position": {
+        "x": 716167864320,
+        "y": 133742223360,
+        "z": 383248588800
+    },
+    "stargate_id": 50007018,
+    "system_id": 30003814,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012082,
+        "system_id": 30001800
+    },
+    "name": "Stargate (J7X-VN)",
+    "position": {
+        "x": -5805671424000,
+        "y": 615435018240,
+        "z": 250588815360
+    },
+    "stargate_id": 50011520,
+    "system_id": 30001797,
+    "type_id": 3875
+}

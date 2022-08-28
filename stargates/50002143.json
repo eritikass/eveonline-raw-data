@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000892,
+        "system_id": 30001010
+    },
+    "name": "Stargate (D87E-A)",
+    "position": {
+        "x": 307399680000,
+        "y": 49757184000,
+        "z": 577722654720
+    },
+    "stargate_id": 50002143,
+    "system_id": 30001012,
+    "type_id": 29633
+}

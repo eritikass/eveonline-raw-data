@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008540,
+        "system_id": 30003821
+    },
+    "name": "Stargate (Ausmaert)",
+    "position": {
+        "x": 729378938880,
+        "y": 111226920960,
+        "z": 625832140800
+    },
+    "stargate_id": 50012360,
+    "system_id": 30003823,
+    "type_id": 3875
+}

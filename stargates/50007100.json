@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006353,
+        "system_id": 30002598
+    },
+    "name": "Stargate (F-3H2P)",
+    "position": {
+        "x": 1016694988800,
+        "y": -4950543851520,
+        "z": 3551770337280
+    },
+    "stargate_id": 50007100,
+    "system_id": 30002619,
+    "type_id": 3877
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013070,
+        "system_id": 30004487
+    },
+    "name": "Stargate (OBK-K8)",
+    "position": {
+        "x": -1959240376320,
+        "y": -385222287360,
+        "z": -559972638720
+    },
+    "stargate_id": 50012726,
+    "system_id": 30004484,
+    "type_id": 3877
+}

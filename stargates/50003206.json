@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003517,
+        "system_id": 30003711
+    },
+    "name": "Stargate (FX-7EM)",
+    "position": {
+        "x": 2283579432960,
+        "y": -197201141760,
+        "z": 3391805153280
+    },
+    "stargate_id": 50003206,
+    "system_id": 30003710,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013327,
+        "system_id": 30004878
+    },
+    "name": "Stargate (46DP-O)",
+    "position": {
+        "x": 1634485739520,
+        "y": -24748154880,
+        "z": 2052729692160
+    },
+    "stargate_id": 50013510,
+    "system_id": 30004882,
+    "type_id": 29633
+}

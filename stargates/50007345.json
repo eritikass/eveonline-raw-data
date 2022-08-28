@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007160,
+        "system_id": 30003746
+    },
+    "name": "Stargate (AY-YCU)",
+    "position": {
+        "x": -800748871680,
+        "y": 114113863680,
+        "z": -1309599375360
+    },
+    "stargate_id": 50007345,
+    "system_id": 30003747,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004396,
+        "system_id": 30002760
+    },
+    "name": "Stargate (Manjonakko)",
+    "position": {
+        "x": -1174193233920,
+        "y": 24678850560,
+        "z": 616146001920
+    },
+    "stargate_id": 50003671,
+    "system_id": 30002759,
+    "type_id": 16
+}

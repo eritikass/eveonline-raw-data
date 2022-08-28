@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002233,
+        "system_id": 30004082
+    },
+    "name": "Stargate (Aharalel)",
+    "position": {
+        "x": -544221634560,
+        "y": 67051806720,
+        "z": -1522503966720
+    },
+    "stargate_id": 50000031,
+    "system_id": 30004077,
+    "type_id": 29624
+}

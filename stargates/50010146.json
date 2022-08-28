@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008430,
+        "system_id": 30005134
+    },
+    "name": "Stargate (M5NO-B)",
+    "position": {
+        "x": 568880701440,
+        "y": -109837885440,
+        "z": -2055562321920
+    },
+    "stargate_id": 50010146,
+    "system_id": 30005136,
+    "type_id": 3875
+}

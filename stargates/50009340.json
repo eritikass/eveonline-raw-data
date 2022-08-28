@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009430,
+        "system_id": 30001250
+    },
+    "name": "Stargate (W-MPTH)",
+    "position": {
+        "x": -163382845440,
+        "y": -26564567040,
+        "z": 215815495680
+    },
+    "stargate_id": 50009340,
+    "system_id": 30001249,
+    "type_id": 29624
+}

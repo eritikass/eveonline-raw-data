@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001177,
+        "system_id": 30000012
+    },
+    "name": "Stargate (Asabona)",
+    "position": {
+        "x": 4669663272960,
+        "y": -2405319352320,
+        "z": -4897066721280
+    },
+    "stargate_id": 50001642,
+    "system_id": 30000073,
+    "type_id": 17
+}

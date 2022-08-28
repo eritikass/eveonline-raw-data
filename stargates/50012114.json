@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012112,
+        "system_id": 30001813
+    },
+    "name": "Stargate (UC-8XF)",
+    "position": {
+        "x": -1316196556800,
+        "y": -20655022080,
+        "z": 528526172160
+    },
+    "stargate_id": 50012114,
+    "system_id": 30001814,
+    "type_id": 3875
+}

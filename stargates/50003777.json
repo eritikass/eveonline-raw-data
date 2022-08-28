@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003944,
+        "system_id": 30002532
+    },
+    "name": "Stargate (Tongofur)",
+    "position": {
+        "x": -585780387840,
+        "y": -52162191360,
+        "z": -1439519170560
+    },
+    "stargate_id": 50003777,
+    "system_id": 30002531,
+    "type_id": 29633
+}

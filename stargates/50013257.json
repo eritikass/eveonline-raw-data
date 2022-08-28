@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013354,
+        "system_id": 30004864
+    },
+    "name": "Stargate (WSK-1A)",
+    "position": {
+        "x": 1116532531200,
+        "y": 95079505920,
+        "z": -2249153617920
+    },
+    "stargate_id": 50013257,
+    "system_id": 30004863,
+    "type_id": 29633
+}

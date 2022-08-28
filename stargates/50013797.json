@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013798,
+        "system_id": 30004842
+    },
+    "name": "Stargate (T2-V8F)",
+    "position": {
+        "x": 193169203200,
+        "y": -504945500160,
+        "z": 2934305955840
+    },
+    "stargate_id": 50013797,
+    "system_id": 30004435,
+    "type_id": 12292
+}

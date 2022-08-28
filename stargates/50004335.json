@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004523,
+        "system_id": 30004820
+    },
+    "name": "Stargate (ZMV9-A)",
+    "position": {
+        "x": -182654361600,
+        "y": -26167664640,
+        "z": 1852534333440
+    },
+    "stargate_id": 50004335,
+    "system_id": 30004819,
+    "type_id": 29633
+}

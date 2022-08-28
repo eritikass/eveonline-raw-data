@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012281,
+        "system_id": 30004598
+    },
+    "name": "Stargate (G95F-H)",
+    "position": {
+        "x": -2695035002880,
+        "y": -450154782720,
+        "z": -1576721817600
+    },
+    "stargate_id": 50012107,
+    "system_id": 30004597,
+    "type_id": 3875
+}

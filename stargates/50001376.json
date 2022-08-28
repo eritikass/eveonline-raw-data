@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000884,
+        "system_id": 30000853
+    },
+    "name": "Stargate (F-RT6Q)",
+    "position": {
+        "x": 88867676160,
+        "y": 17771765760,
+        "z": -2905449553920
+    },
+    "stargate_id": 50001376,
+    "system_id": 30000856,
+    "type_id": 16
+}

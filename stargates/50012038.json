@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012064,
+        "system_id": 30003168
+    },
+    "name": "Stargate (L-M6JK)",
+    "position": {
+        "x": 1965532815360,
+        "y": -393161809920,
+        "z": 185520660480
+    },
+    "stargate_id": 50012038,
+    "system_id": 30003167,
+    "type_id": 29624
+}

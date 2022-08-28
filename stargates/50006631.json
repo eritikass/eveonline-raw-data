@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013031,
+        "system_id": 30002456
+    },
+    "name": "Stargate (4NGK-F)",
+    "position": {
+        "x": -159249653760,
+        "y": -9351290880,
+        "z": -764655820800
+    },
+    "stargate_id": 50006631,
+    "system_id": 30002453,
+    "type_id": 16
+}

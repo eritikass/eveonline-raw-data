@@ -1,0 +1,76 @@
+{
+    "constellation_id": 20000399,
+    "name": "Allipes",
+    "planets": [
+        {
+            "planet_id": 40173213
+        },
+        {
+            "asteroid_belts": [
+                40173215,
+                40173216
+            ],
+            "planet_id": 40173214
+        },
+        {
+            "planet_id": 40173217
+        },
+        {
+            "asteroid_belts": [
+                40173219
+            ],
+            "moons": [
+                40173220
+            ],
+            "planet_id": 40173218
+        },
+        {
+            "asteroid_belts": [
+                40173222
+            ],
+            "moons": [
+                40173223
+            ],
+            "planet_id": 40173221
+        },
+        {
+            "asteroid_belts": [
+                40173225
+            ],
+            "moons": [
+                40173226
+            ],
+            "planet_id": 40173224
+        },
+        {
+            "asteroid_belts": [
+                40173228,
+                40173230
+            ],
+            "moons": [
+                40173229
+            ],
+            "planet_id": 40173227
+        },
+        {
+            "moons": [
+                40173232,
+                40173233
+            ],
+            "planet_id": 40173231
+        }
+    ],
+    "position": {
+        "x": -222745187470885700,
+        "y": 76725657054552450,
+        "z": 6836758334342023
+    },
+    "security_class": "D3",
+    "security_status": 0.1628292053937912,
+    "star_id": 40173212,
+    "stargates": [
+        50008499,
+        50008500
+    ],
+    "system_id": 30002727
+}

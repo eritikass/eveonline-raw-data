@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008805,
+        "system_id": 30004125
+    },
+    "name": "Stargate (Jakri)",
+    "position": {
+        "x": 1202554183680,
+        "y": -67027476480,
+        "z": -354982993920
+    },
+    "stargate_id": 50008117,
+    "system_id": 30004124,
+    "type_id": 29624
+}

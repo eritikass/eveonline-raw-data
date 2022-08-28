@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002704,
+        "system_id": 30001044
+    },
+    "name": "Stargate (Hemin)",
+    "position": {
+        "x": -1904457031680,
+        "y": -190797127680,
+        "z": 2545431306240
+    },
+    "stargate_id": 50002591,
+    "system_id": 30001028,
+    "type_id": 3877
+}

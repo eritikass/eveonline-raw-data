@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009980,
+        "system_id": 30003052
+    },
+    "name": "Stargate (Tolle)",
+    "position": {
+        "x": 61708247040,
+        "y": -6941859840,
+        "z": -9746964480
+    },
+    "stargate_id": 50010613,
+    "system_id": 30003055,
+    "type_id": 3875
+}

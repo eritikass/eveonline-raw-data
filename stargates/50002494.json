@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001787,
+        "system_id": 30003017
+    },
+    "name": "Stargate (Harerget)",
+    "position": {
+        "x": 1103879577600,
+        "y": -70571581440,
+        "z": 1949207224320
+    },
+    "stargate_id": 50002494,
+    "system_id": 30003018,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001456,
+        "system_id": 30001646
+    },
+    "name": "Stargate (Goram)",
+    "position": {
+        "x": -2489049538560,
+        "y": -1104299827200,
+        "z": 42107904000
+    },
+    "stargate_id": 50001555,
+    "system_id": 30003485,
+    "type_id": 29626
+}

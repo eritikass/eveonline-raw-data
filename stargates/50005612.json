@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008554,
+        "system_id": 30002126
+    },
+    "name": "Stargate (WYF8-8)",
+    "position": {
+        "x": 3727526338560,
+        "y": 473636659200,
+        "z": 775867146240
+    },
+    "stargate_id": 50005612,
+    "system_id": 30002124,
+    "type_id": 29633
+}

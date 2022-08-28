@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003293,
+        "system_id": 30001654
+    },
+    "name": "Stargate (Matyas)",
+    "position": {
+        "x": -1934168678400,
+        "y": 307004743680,
+        "z": -5999118213120
+    },
+    "stargate_id": 50002396,
+    "system_id": 30001653,
+    "type_id": 29624
+}

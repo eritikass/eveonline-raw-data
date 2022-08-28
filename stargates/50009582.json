@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008282,
+        "system_id": 30005158
+    },
+    "name": "Stargate (J9A-BH)",
+    "position": {
+        "x": 6038809927680,
+        "y": 99425525760,
+        "z": 2655495413760
+    },
+    "stargate_id": 50009582,
+    "system_id": 30005162,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002723,
+        "system_id": 30000730
+    },
+    "name": "Stargate (4-43BW)",
+    "position": {
+        "x": -676998881280,
+        "y": 74218659840,
+        "z": -841186959360
+    },
+    "stargate_id": 50004553,
+    "system_id": 30000734,
+    "type_id": 29633
+}

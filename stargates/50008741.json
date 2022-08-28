@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008807,
+        "system_id": 30004496
+    },
+    "name": "Stargate (ZQP-QV)",
+    "position": {
+        "x": -1309915176960,
+        "y": -88062320640,
+        "z": -355824476160
+    },
+    "stargate_id": 50008741,
+    "system_id": 30004494,
+    "type_id": 3875
+}

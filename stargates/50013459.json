@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013431,
+        "system_id": 30004307
+    },
+    "name": "Stargate (Nouta)",
+    "position": {
+        "x": 2372384563200,
+        "y": 47268618240,
+        "z": 746579435520
+    },
+    "stargate_id": 50013459,
+    "system_id": 30004308,
+    "type_id": 29624
+}

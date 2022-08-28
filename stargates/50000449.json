@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006596,
+        "system_id": 30002639
+    },
+    "name": "Stargate (Adreland)",
+    "position": {
+        "x": 2629609267200,
+        "y": 230906388480,
+        "z": -4862023802880
+    },
+    "stargate_id": 50000449,
+    "system_id": 30002632,
+    "type_id": 3875
+}

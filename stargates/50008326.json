@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005275,
+        "system_id": 30002364
+    },
+    "name": "Stargate (QHJR-E)",
+    "position": {
+        "x": -603977932800,
+        "y": -79062343680,
+        "z": 745692733440
+    },
+    "stargate_id": 50008326,
+    "system_id": 30002365,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007452,
+        "system_id": 30005255
+    },
+    "name": "Stargate (Saphthar)",
+    "position": {
+        "x": 3913097502720,
+        "y": -671566110720,
+        "z": 598043074560
+    },
+    "stargate_id": 50008302,
+    "system_id": 30005257,
+    "type_id": 29624
+}

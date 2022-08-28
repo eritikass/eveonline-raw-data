@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004784,
+        "system_id": 30004093
+    },
+    "name": "Stargate (Askonak)",
+    "position": {
+        "x": -2819890421760,
+        "y": 5991793827840,
+        "z": 5040988200960
+    },
+    "stargate_id": 50013129,
+    "system_id": 30004153,
+    "type_id": 17
+}

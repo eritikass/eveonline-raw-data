@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011791,
+        "system_id": 30004774
+    },
+    "name": "Stargate (5-CQDA)",
+    "position": {
+        "x": -840544542720,
+        "y": 138110361600,
+        "z": -793508536320
+    },
+    "stargate_id": 50012148,
+    "system_id": 30004777,
+    "type_id": 29624
+}

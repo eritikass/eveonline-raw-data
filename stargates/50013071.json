@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013173,
+        "system_id": 30004488
+    },
+    "name": "Stargate (KJ-V0P)",
+    "position": {
+        "x": -1845235507200,
+        "y": -349617070080,
+        "z": 147015720960
+    },
+    "stargate_id": 50013071,
+    "system_id": 30004487,
+    "type_id": 29633
+}

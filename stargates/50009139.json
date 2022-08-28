@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010066,
+        "system_id": 30001123
+    },
+    "name": "Stargate (RUF3-O)",
+    "position": {
+        "x": -162802851840,
+        "y": -27158077440,
+        "z": 1060271431680
+    },
+    "stargate_id": 50009139,
+    "system_id": 30001120,
+    "type_id": 3875
+}

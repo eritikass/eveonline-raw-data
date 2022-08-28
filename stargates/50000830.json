@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002280,
+        "system_id": 30003492
+    },
+    "name": "Stargate (Orkashu)",
+    "position": {
+        "x": -6474357596160,
+        "y": 4036305346560,
+        "z": -108623831040
+    },
+    "stargate_id": 50000830,
+    "system_id": 30003493,
+    "type_id": 17
+}

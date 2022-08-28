@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006622,
+        "system_id": 30003862
+    },
+    "name": "Stargate (Agil)",
+    "position": {
+        "x": 7392479354880,
+        "y": -22524026880,
+        "z": -168522670080
+    },
+    "stargate_id": 50007015,
+    "system_id": 30003866,
+    "type_id": 29624
+}

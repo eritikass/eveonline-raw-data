@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008230,
+        "system_id": 30002575
+    },
+    "name": "Stargate (Sotrenzur)",
+    "position": {
+        "x": -2240777871360,
+        "y": -157398097920,
+        "z": -2422357647360
+    },
+    "stargate_id": 50007157,
+    "system_id": 30002574,
+    "type_id": 29633
+}

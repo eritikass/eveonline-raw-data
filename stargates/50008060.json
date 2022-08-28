@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008090,
+        "system_id": 30003913
+    },
+    "name": "Stargate (Bomana)",
+    "position": {
+        "x": 871408558080,
+        "y": -150606520320,
+        "z": -2068265164800
+    },
+    "stargate_id": 50008060,
+    "system_id": 30003912,
+    "type_id": 29624
+}

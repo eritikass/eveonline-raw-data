@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010920,
+        "system_id": 30004750
+    },
+    "name": "Stargate (D-3GIQ)",
+    "position": {
+        "x": 111688458240,
+        "y": 7932026880,
+        "z": 418681282560
+    },
+    "stargate_id": 50011209,
+    "system_id": 30004751,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013530,
+        "system_id": 30003587
+    },
+    "name": "Stargate (Harner)",
+    "position": {
+        "x": -312989491200,
+        "y": 13889986560,
+        "z": -1051011686400
+    },
+    "stargate_id": 50011374,
+    "system_id": 30003584,
+    "type_id": 3875
+}

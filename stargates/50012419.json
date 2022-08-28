@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013483,
+        "system_id": 30003260
+    },
+    "name": "Stargate (RJBC-I)",
+    "position": {
+        "x": -546761564160,
+        "y": 53128028160,
+        "z": 1529182740480
+    },
+    "stargate_id": 50012419,
+    "system_id": 30003258,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006661,
+        "system_id": 30004311
+    },
+    "name": "Stargate (DCI7-7)",
+    "position": {
+        "x": -37306490880,
+        "y": -1371955200,
+        "z": -62558822400
+    },
+    "stargate_id": 50006695,
+    "system_id": 30004312,
+    "type_id": 16
+}

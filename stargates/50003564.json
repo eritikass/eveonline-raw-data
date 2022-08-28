@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004737,
+        "system_id": 30005215
+    },
+    "name": "Stargate (Avyuh)",
+    "position": {
+        "x": 32969318400,
+        "y": 626319360,
+        "z": -2719834152960
+    },
+    "stargate_id": 50003564,
+    "system_id": 30005214,
+    "type_id": 29624
+}

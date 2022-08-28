@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012697,
+        "system_id": 30004205
+    },
+    "name": "Stargate (HXK-J6)",
+    "position": {
+        "x": 446810480640,
+        "y": -69117419520,
+        "z": -340955013120
+    },
+    "stargate_id": 50013004,
+    "system_id": 30004206,
+    "type_id": 3875
+}

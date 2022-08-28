@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008575,
+        "system_id": 30000064
+    },
+    "name": "Stargate (Zet)",
+    "position": {
+        "x": 1119734538240,
+        "y": -149876367360,
+        "z": 8777899253760
+    },
+    "stargate_id": 50010269,
+    "system_id": 30000066,
+    "type_id": 29624
+}

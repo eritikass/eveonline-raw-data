@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000092,
+        "system_id": 30000655
+    },
+    "name": "Stargate (EIN-QG)",
+    "position": {
+        "x": 8105533440,
+        "y": 1458462720,
+        "z": 822880542720
+    },
+    "stargate_id": 50000168,
+    "system_id": 30000657,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001683,
+        "system_id": 30002709
+    },
+    "name": "Stargate (Auberulle)",
+    "position": {
+        "x": 3272204083200,
+        "y": -1290689863680,
+        "z": 4966052782080
+    },
+    "stargate_id": 50000447,
+    "system_id": 30002632,
+    "type_id": 3874
+}

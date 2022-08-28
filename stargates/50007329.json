@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007679,
+        "system_id": 30003872
+    },
+    "name": "Stargate (Yezara)",
+    "position": {
+        "x": 3962614210560,
+        "y": 299405598720,
+        "z": -2779231641600
+    },
+    "stargate_id": 50007329,
+    "system_id": 30003868,
+    "type_id": 29624
+}

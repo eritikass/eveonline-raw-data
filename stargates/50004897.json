@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004198,
+        "system_id": 30000889
+    },
+    "name": "Stargate (XD-TOV)",
+    "position": {
+        "x": -1016481177600,
+        "y": -56601600000,
+        "z": -1108799201280
+    },
+    "stargate_id": 50004897,
+    "system_id": 30000891,
+    "type_id": 16
+}

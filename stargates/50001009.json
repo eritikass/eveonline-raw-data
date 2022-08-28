@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000091,
+        "system_id": 30002749
+    },
+    "name": "Stargate (Kausaaja)",
+    "position": {
+        "x": -587281244160,
+        "y": 42709032960,
+        "z": 128971530240
+    },
+    "stargate_id": 50001009,
+    "system_id": 30002752,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006097,
+        "system_id": 30000180
+    },
+    "name": "Stargate (Osmon)",
+    "position": {
+        "x": 1855767552000,
+        "y": 925280624640,
+        "z": -579282493440
+    },
+    "stargate_id": 50004475,
+    "system_id": 30000158,
+    "type_id": 29627
+}

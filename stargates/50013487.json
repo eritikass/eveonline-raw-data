@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011711,
+        "system_id": 30005071
+    },
+    "name": "Stargate (Tralasa)",
+    "position": {
+        "x": -3468113141760,
+        "y": 402989752320,
+        "z": 4633365749760
+    },
+    "stargate_id": 50013487,
+    "system_id": 30005075,
+    "type_id": 29624
+}

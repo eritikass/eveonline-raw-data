@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009538,
+        "system_id": 30002408
+    },
+    "name": "Stargate (Fegomenko)",
+    "position": {
+        "x": 1987582156800,
+        "y": -108645703680,
+        "z": 62426603520
+    },
+    "stargate_id": 50007730,
+    "system_id": 30002399,
+    "type_id": 3877
+}

@@ -1,0 +1,44 @@
+{
+    "constellation_id": 20000687,
+    "name": "ZDYA-G",
+    "planets": [
+        {
+            "planet_id": 40297652
+        },
+        {
+            "moons": [
+                40297654
+            ],
+            "planet_id": 40297653
+        },
+        {
+            "moons": [
+                40297656,
+                40297657
+            ],
+            "planet_id": 40297655
+        },
+        {
+            "asteroid_belts": [
+                40297659
+            ],
+            "moons": [
+                40297660
+            ],
+            "planet_id": 40297658
+        }
+    ],
+    "position": {
+        "x": -159223680497939840,
+        "y": -30049929332333228,
+        "z": -481324957574955840
+    },
+    "security_class": "G7",
+    "security_status": -1,
+    "star_id": 40297651,
+    "stargates": [
+        50013492,
+        50013493
+    ],
+    "system_id": 30004704
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010264,
+        "system_id": 30003238
+    },
+    "name": "Stargate (21M1-B)",
+    "position": {
+        "x": 3635394109440,
+        "y": -319824568320,
+        "z": 4207159910400
+    },
+    "stargate_id": 50009091,
+    "system_id": 30003235,
+    "type_id": 3875
+}

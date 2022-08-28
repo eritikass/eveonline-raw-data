@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009924,
+        "system_id": 30002272
+    },
+    "name": "Stargate (Asoutar)",
+    "position": {
+        "x": -11049738240,
+        "y": 609361920,
+        "z": -1860196392960
+    },
+    "stargate_id": 50009609,
+    "system_id": 30002270,
+    "type_id": 29624
+}

@@ -1,0 +1,50 @@
+{
+    "constellation_id": 20000185,
+    "name": "P-FSQE",
+    "planets": [
+        {
+            "planet_id": 40080811
+        },
+        {
+            "asteroid_belts": [
+                40080813
+            ],
+            "planet_id": 40080812
+        },
+        {
+            "asteroid_belts": [
+                40080815
+            ],
+            "moons": [
+                40080816
+            ],
+            "planet_id": 40080814
+        },
+        {
+            "moons": [
+                40080818
+            ],
+            "planet_id": 40080817
+        },
+        {
+            "moons": [
+                40080820,
+                40080821
+            ],
+            "planet_id": 40080819
+        }
+    ],
+    "position": {
+        "x": -159326278830084830,
+        "y": 111688773538607570,
+        "z": 265770025435615580
+    },
+    "security_class": "H",
+    "security_status": -0.14970318973064423,
+    "star_id": 40080810,
+    "stargates": [
+        50002896,
+        50002897
+    ],
+    "system_id": 30001268
+}

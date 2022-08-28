@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005993,
+        "system_id": 30002589
+    },
+    "name": "Stargate (9I-SRF)",
+    "position": {
+        "x": -956810895360,
+        "y": -84012933120,
+        "z": -1688661811200
+    },
+    "stargate_id": 50005924,
+    "system_id": 30002588,
+    "type_id": 29633
+}

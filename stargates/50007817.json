@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003709,
+        "system_id": 30002670
+    },
+    "name": "Stargate (Dunraelare)",
+    "position": {
+        "x": 55109591040,
+        "y": -1666199592960,
+        "z": -89138257920
+    },
+    "stargate_id": 50007817,
+    "system_id": 30002724,
+    "type_id": 3874
+}

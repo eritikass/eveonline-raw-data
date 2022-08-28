@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003818,
+        "system_id": 30005297
+    },
+    "name": "Stargate (Ouelletta)",
+    "position": {
+        "x": 5058484592640,
+        "y": 4470312345600,
+        "z": 3564335308800
+    },
+    "stargate_id": 50004363,
+    "system_id": 30005308,
+    "type_id": 3874
+}

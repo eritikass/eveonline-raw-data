@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002867,
+        "system_id": 30001658
+    },
+    "name": "Stargate (Mani)",
+    "position": {
+        "x": 3851158609920,
+        "y": 1285637038080,
+        "z": 2921910312960
+    },
+    "stargate_id": 50008126,
+    "system_id": 30001734,
+    "type_id": 17
+}

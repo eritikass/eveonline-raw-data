@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003387,
+        "system_id": 30001035
+    },
+    "name": "Stargate (EQX-AE)",
+    "position": {
+        "x": -2586391879680,
+        "y": 2688121528320,
+        "z": -9657033646080
+    },
+    "stargate_id": 50000587,
+    "system_id": 30001001,
+    "type_id": 3877
+}

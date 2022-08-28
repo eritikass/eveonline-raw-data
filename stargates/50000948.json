@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001007,
+        "system_id": 30000768
+    },
+    "name": "Stargate (R959-U)",
+    "position": {
+        "x": -1497533521920,
+        "y": 16753336320,
+        "z": 1786280632320
+    },
+    "stargate_id": 50000948,
+    "system_id": 30000766,
+    "type_id": 29633
+}

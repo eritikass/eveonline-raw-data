@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006940,
+        "system_id": 30005248
+    },
+    "name": "Stargate (Hirizan)",
+    "position": {
+        "x": -413184614400,
+        "y": -5371231887360,
+        "z": 200353505280
+    },
+    "stargate_id": 50007069,
+    "system_id": 30004116,
+    "type_id": 29626
+}

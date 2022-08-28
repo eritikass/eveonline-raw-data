@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009590,
+        "system_id": 30002792
+    },
+    "name": "Stargate (Irjunen)",
+    "position": {
+        "x": 2834555904000,
+        "y": 38781296640,
+        "z": 5855695626240
+    },
+    "stargate_id": 50010574,
+    "system_id": 30002793,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004950,
+        "system_id": 30002637
+    },
+    "name": "Stargate (Metserel)",
+    "position": {
+        "x": 236499640320,
+        "y": 11019755520,
+        "z": 193141432320
+    },
+    "stargate_id": 50003184,
+    "system_id": 30002633,
+    "type_id": 3875
+}

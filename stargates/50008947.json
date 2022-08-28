@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013455,
+        "system_id": 30003564
+    },
+    "name": "Stargate (Rephirib)",
+    "position": {
+        "x": 4822040616960,
+        "y": -115233792000,
+        "z": -4636214845440
+    },
+    "stargate_id": 50008947,
+    "system_id": 30003559,
+    "type_id": 29624
+}

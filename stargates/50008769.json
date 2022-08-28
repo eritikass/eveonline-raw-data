@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008868,
+        "system_id": 30003839
+    },
+    "name": "Stargate (Evaulon)",
+    "position": {
+        "x": -968062279680,
+        "y": -49112064000,
+        "z": 1409188208640
+    },
+    "stargate_id": 50008769,
+    "system_id": 30003837,
+    "type_id": 3875
+}

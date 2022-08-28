@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011959,
+        "system_id": 30003359
+    },
+    "name": "Stargate (DUV-5Y)",
+    "position": {
+        "x": -1998112235520,
+        "y": 286406123520,
+        "z": 1909815582720
+    },
+    "stargate_id": 50009412,
+    "system_id": 30003355,
+    "type_id": 3875
+}

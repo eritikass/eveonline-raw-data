@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012511,
+        "system_id": 30004905
+    },
+    "name": "Stargate (J-4FNO)",
+    "position": {
+        "x": -2617165701120,
+        "y": -193960058880,
+        "z": -5620545085440
+    },
+    "stargate_id": 50012224,
+    "system_id": 30004904,
+    "type_id": 29633
+}

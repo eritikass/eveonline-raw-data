@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013983,
+        "system_id": 30000463
+    },
+    "name": "Stargate (1-GBVE)",
+    "position": {
+        "x": 2976542269440,
+        "y": 3889655193600,
+        "z": 2290314485760
+    },
+    "stargate_id": 50013984,
+    "system_id": 30000502,
+    "type_id": 3877
+}

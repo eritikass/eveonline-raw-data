@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010879,
+        "system_id": 30003312
+    },
+    "name": "Stargate (35-RK9)",
+    "position": {
+        "x": -1452244623360,
+        "y": -53776343040,
+        "z": 1369513943040
+    },
+    "stargate_id": 50009262,
+    "system_id": 30003311,
+    "type_id": 3875
+}

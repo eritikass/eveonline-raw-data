@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005690,
+        "system_id": 30001236
+    },
+    "name": "Stargate (IS-R7P)",
+    "position": {
+        "x": -3597329571840,
+        "y": -532708761600,
+        "z": -1204697702400
+    },
+    "stargate_id": 50005521,
+    "system_id": 30001235,
+    "type_id": 29624
+}

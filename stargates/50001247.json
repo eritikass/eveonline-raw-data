@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002443,
+        "system_id": 30000434
+    },
+    "name": "Stargate (V-4DBR)",
+    "position": {
+        "x": 12031057920,
+        "y": 198451200,
+        "z": -151957708800
+    },
+    "stargate_id": 50001247,
+    "system_id": 30000433,
+    "type_id": 29633
+}

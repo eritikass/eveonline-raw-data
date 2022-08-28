@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001519,
+        "system_id": 30000143
+    },
+    "name": "Stargate (Niyabainen)",
+    "position": {
+        "x": -1438139719680,
+        "y": 41496207360,
+        "z": -502259834880
+    },
+    "stargate_id": 50002200,
+    "system_id": 30000145,
+    "type_id": 16
+}

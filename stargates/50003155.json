@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003682,
+        "system_id": 30002525
+    },
+    "name": "Stargate (Meirakulf)",
+    "position": {
+        "x": 247896760320,
+        "y": 34774179840,
+        "z": 1122390712320
+    },
+    "stargate_id": 50003155,
+    "system_id": 30002524,
+    "type_id": 29633
+}

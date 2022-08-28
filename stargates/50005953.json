@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012245,
+        "system_id": 30002009
+    },
+    "name": "Stargate (PFU-LH)",
+    "position": {
+        "x": 371197501440,
+        "y": -9874268160,
+        "z": -8549118320640
+    },
+    "stargate_id": 50005953,
+    "system_id": 30002006,
+    "type_id": 16
+}

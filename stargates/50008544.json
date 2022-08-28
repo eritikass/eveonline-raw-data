@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007125,
+        "system_id": 30002025
+    },
+    "name": "Stargate (6GWE-A)",
+    "position": {
+        "x": 1438795898880,
+        "y": 230840033280,
+        "z": -9531376558080
+    },
+    "stargate_id": 50008544,
+    "system_id": 30002026,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002293,
+        "system_id": 30000926
+    },
+    "name": "Stargate (TET3-B)",
+    "position": {
+        "x": -1622243696640,
+        "y": -4192147906560,
+        "z": -17304821760
+    },
+    "stargate_id": 50000081,
+    "system_id": 30000666,
+    "type_id": 29635
+}

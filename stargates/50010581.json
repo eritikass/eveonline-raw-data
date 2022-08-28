@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010411,
+        "system_id": 30001781
+    },
+    "name": "Stargate (DJ-GBH)",
+    "position": {
+        "x": -109371924480,
+        "y": 4355321487360,
+        "z": 539651973120
+    },
+    "stargate_id": 50010581,
+    "system_id": 30001783,
+    "type_id": 3874
+}

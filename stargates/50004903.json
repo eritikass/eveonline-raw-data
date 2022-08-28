@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005474,
+        "system_id": 30003041
+    },
+    "name": "Stargate (Colcer)",
+    "position": {
+        "x": 4631215104000,
+        "y": 493823631360,
+        "z": 3480407285760
+    },
+    "stargate_id": 50004903,
+    "system_id": 30003039,
+    "type_id": 3875
+}

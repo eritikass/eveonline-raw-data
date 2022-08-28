@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016397,
+        "system_id": 30005000
+    },
+    "name": "Stargate (Old Man Star)",
+    "position": {
+        "x": -2292689018880,
+        "y": -5523243048960,
+        "z": -3929511813120
+    },
+    "stargate_id": 50016396,
+    "system_id": 30004979,
+    "type_id": 3874
+}

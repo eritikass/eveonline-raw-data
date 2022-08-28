@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003028,
+        "system_id": 30001204
+    },
+    "name": "Stargate (YHN-3K)",
+    "position": {
+        "x": -685502423040,
+        "y": -3455508480,
+        "z": -1585988689920
+    },
+    "stargate_id": 50002357,
+    "system_id": 30001198,
+    "type_id": 29624
+}

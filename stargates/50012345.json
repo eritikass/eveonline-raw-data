@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012432,
+        "system_id": 30001804
+    },
+    "name": "Stargate (LTT-AP)",
+    "position": {
+        "x": -800766320640,
+        "y": -4660715520,
+        "z": -468057661440
+    },
+    "stargate_id": 50012345,
+    "system_id": 30001803,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016540,
+        "system_id": 30002702
+    },
+    "name": "Stargate (Archee)",
+    "position": {
+        "x": 40135016792.70124,
+        "y": 5100682427.298239,
+        "z": 129654503327.1494
+    },
+    "stargate_id": 50016541,
+    "system_id": 30005029,
+    "type_id": 56317
+}

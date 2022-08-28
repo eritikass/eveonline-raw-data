@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007766,
+        "system_id": 30000283
+    },
+    "name": "Stargate (E-SCTX)",
+    "position": {
+        "x": -1692636979200,
+        "y": -100706672640,
+        "z": 4808724357120
+    },
+    "stargate_id": 50008087,
+    "system_id": 30000284,
+    "type_id": 16
+}

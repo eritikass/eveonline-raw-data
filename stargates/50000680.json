@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002291,
+        "system_id": 30000053
+    },
+    "name": "Stargate (Ibaria)",
+    "position": {
+        "x": -526802165760,
+        "y": -58114990080,
+        "z": 1830901309440
+    },
+    "stargate_id": 50000680,
+    "system_id": 30000051,
+    "type_id": 29624
+}

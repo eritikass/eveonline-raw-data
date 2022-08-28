@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001848,
+        "system_id": 30002285
+    },
+    "name": "Stargate (J7M-3W)",
+    "position": {
+        "x": 56614379520,
+        "y": 7108976640,
+        "z": 104344166400
+    },
+    "stargate_id": 50002034,
+    "system_id": 30002287,
+    "type_id": 3875
+}

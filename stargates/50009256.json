@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009160,
+        "system_id": 30003631
+    },
+    "name": "Stargate (R-YWID)",
+    "position": {
+        "x": 2631550525440,
+        "y": -530202992640,
+        "z": 3216227082240
+    },
+    "stargate_id": 50009256,
+    "system_id": 30003634,
+    "type_id": 16
+}

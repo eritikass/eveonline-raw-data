@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012626,
+        "system_id": 30004930
+    },
+    "name": "Stargate (0-NTIS)",
+    "position": {
+        "x": -2575901859840,
+        "y": 249447260160,
+        "z": 1726480834560
+    },
+    "stargate_id": 50012638,
+    "system_id": 30004933,
+    "type_id": 29624
+}

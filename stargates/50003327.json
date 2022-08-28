@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003089,
+        "system_id": 30000633
+    },
+    "name": "Stargate (M53-1V)",
+    "position": {
+        "x": 425128304640,
+        "y": -8033771520,
+        "z": 6248881152000
+    },
+    "stargate_id": 50003327,
+    "system_id": 30000634,
+    "type_id": 29633
+}

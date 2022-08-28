@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001357,
+        "system_id": 30000922
+    },
+    "name": "Stargate (M-EKDF)",
+    "position": {
+        "x": 137486131200,
+        "y": 21263523840,
+        "z": 51912007680
+    },
+    "stargate_id": 50001600,
+    "system_id": 30000924,
+    "type_id": 29633
+}

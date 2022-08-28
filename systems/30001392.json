@@ -1,0 +1,76 @@
+{
+    "constellation_id": 20000204,
+    "name": "Amsen",
+    "planets": [
+        {
+            "planet_id": 40088639
+        },
+        {
+            "planet_id": 40088640
+        },
+        {
+            "planet_id": 40088641
+        },
+        {
+            "planet_id": 40088642
+        },
+        {
+            "asteroid_belts": [
+                40088644
+            ],
+            "planet_id": 40088643
+        },
+        {
+            "asteroid_belts": [
+                40088646
+            ],
+            "moons": [
+                40088647
+            ],
+            "planet_id": 40088645
+        },
+        {
+            "asteroid_belts": [
+                40088649
+            ],
+            "moons": [
+                40088650
+            ],
+            "planet_id": 40088648
+        },
+        {
+            "moons": [
+                40088652,
+                40088653
+            ],
+            "planet_id": 40088651
+        },
+        {
+            "asteroid_belts": [
+                40088655
+            ],
+            "moons": [
+                40088656,
+                40088657
+            ],
+            "planet_id": 40088654
+        }
+    ],
+    "position": {
+        "x": -145493013225000000,
+        "y": 101594111568000000,
+        "z": 137638171423000000
+    },
+    "security_class": "A",
+    "security_status": 1,
+    "star_id": 40088638,
+    "stargates": [
+        50001721,
+        50001722
+    ],
+    "stations": [
+        60004450,
+        60015159
+    ],
+    "system_id": 30001392
+}

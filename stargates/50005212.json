@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001532,
+        "system_id": 30003508
+    },
+    "name": "Stargate (Sayartchen)",
+    "position": {
+        "x": -2019589693440,
+        "y": -225805148160,
+        "z": 2129834926080
+    },
+    "stargate_id": 50005212,
+    "system_id": 30003510,
+    "type_id": 29624
+}

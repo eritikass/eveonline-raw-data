@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009583,
+        "system_id": 30005162
+    },
+    "name": "Stargate (PT-2KR)",
+    "position": {
+        "x": -785782824960,
+        "y": 76877045760,
+        "z": -1508824227840
+    },
+    "stargate_id": 50008909,
+    "system_id": 30005160,
+    "type_id": 3875
+}

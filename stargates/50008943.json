@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009253,
+        "system_id": 30003560
+    },
+    "name": "Stargate (Hoshoun)",
+    "position": {
+        "x": 4821980651520,
+        "y": -115246817280,
+        "z": -4636247040000
+    },
+    "stargate_id": 50008943,
+    "system_id": 30003559,
+    "type_id": 29624
+}

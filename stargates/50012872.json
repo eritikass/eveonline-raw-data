@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012898,
+        "system_id": 30005293
+    },
+    "name": "Stargate (Doza)",
+    "position": {
+        "x": -991861678080,
+        "y": 80885391360,
+        "z": -897335746560
+    },
+    "stargate_id": 50012872,
+    "system_id": 30005292,
+    "type_id": 29624
+}

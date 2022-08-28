@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002273,
+        "system_id": 30002288
+    },
+    "name": "Stargate (QNXJ-M)",
+    "position": {
+        "x": 4133188853760,
+        "y": 79896698880,
+        "z": 4300875816960
+    },
+    "stargate_id": 50000361,
+    "system_id": 30002296,
+    "type_id": 3874
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013800,
+        "system_id": 30002183
+    },
+    "name": "Stargate (RU-PT9)",
+    "position": {
+        "x": -1410376458240,
+        "y": 709204500480,
+        "z": 1971398369280
+    },
+    "stargate_id": 50013799,
+    "system_id": 30004871,
+    "type_id": 12292
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013650,
+        "system_id": 30000118
+    },
+    "name": "Stargate (Uanzin)",
+    "position": {
+        "x": 433444577280,
+        "y": -5740309585920,
+        "z": 2789438545920
+    },
+    "stargate_id": 50013649,
+    "system_id": 30000065,
+    "type_id": 17
+}

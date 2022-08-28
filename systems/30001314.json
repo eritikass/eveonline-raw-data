@@ -1,0 +1,55 @@
+{
+    "constellation_id": 20000191,
+    "name": "SE-SHZ",
+    "planets": [
+        {
+            "planet_id": 40083742
+        },
+        {
+            "asteroid_belts": [
+                40083744,
+                40083745
+            ],
+            "planet_id": 40083743
+        },
+        {
+            "planet_id": 40083746
+        },
+        {
+            "asteroid_belts": [
+                40083748
+            ],
+            "planet_id": 40083747
+        },
+        {
+            "asteroid_belts": [
+                40083750,
+                40083751
+            ],
+            "moons": [
+                40083752,
+                40083753
+            ],
+            "planet_id": 40083749
+        },
+        {
+            "moons": [
+                40083755
+            ],
+            "planet_id": 40083754
+        }
+    ],
+    "position": {
+        "x": -156938870225627100,
+        "y": 108771499677876560,
+        "z": 354613236337989440
+    },
+    "security_class": "H3",
+    "security_status": -0.47201007604599,
+    "star_id": 40083741,
+    "stargates": [
+        50006451,
+        50006452
+    ],
+    "system_id": 30001314
+}

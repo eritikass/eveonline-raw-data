@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003670,
+        "system_id": 30002759
+    },
+    "name": "Stargate (Uuna)",
+    "position": {
+        "x": 167527096320,
+        "y": 21668536320,
+        "z": -280005304320
+    },
+    "stargate_id": 50001803,
+    "system_id": 30002756,
+    "type_id": 16
+}

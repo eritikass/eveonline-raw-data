@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010356,
+        "system_id": 30004015
+    },
+    "name": "Stargate (RKM-GE)",
+    "position": {
+        "x": -1717226004480,
+        "y": 122780835840,
+        "z": -4190889861120
+    },
+    "stargate_id": 50010657,
+    "system_id": 30004018,
+    "type_id": 29624
+}

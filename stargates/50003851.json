@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004238,
+        "system_id": 30000278
+    },
+    "name": "Stargate (C-DHON)",
+    "position": {
+        "x": 234822328320,
+        "y": 34048696320,
+        "z": -392853872640
+    },
+    "stargate_id": 50003851,
+    "system_id": 30000277,
+    "type_id": 16
+}

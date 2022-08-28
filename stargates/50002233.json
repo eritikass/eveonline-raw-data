@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000031,
+        "system_id": 30004077
+    },
+    "name": "Stargate (Hiroudeh)",
+    "position": {
+        "x": -3776354918400,
+        "y": -568606679040,
+        "z": 8363085373440
+    },
+    "stargate_id": 50002233,
+    "system_id": 30004082,
+    "type_id": 29624
+}

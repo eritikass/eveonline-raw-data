@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008452,
+        "system_id": 30003689
+    },
+    "name": "Stargate (L-C3O7)",
+    "position": {
+        "x": -1981398835200,
+        "y": -176918323200,
+        "z": -1129306890240
+    },
+    "stargate_id": 50008201,
+    "system_id": 30003687,
+    "type_id": 3875
+}

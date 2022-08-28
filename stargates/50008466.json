@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008412,
+        "system_id": 30004336
+    },
+    "name": "Stargate (3-TD6L)",
+    "position": {
+        "x": -2259562291200,
+        "y": -321097850880,
+        "z": -2999458897920
+    },
+    "stargate_id": 50008466,
+    "system_id": 30004337,
+    "type_id": 16
+}

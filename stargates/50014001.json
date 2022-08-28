@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014002,
+        "system_id": 30002813
+    },
+    "name": "Stargate (Tama)",
+    "position": {
+        "x": -1776766279680,
+        "y": -445353861120,
+        "z": -172643082240
+    },
+    "stargate_id": 50014001,
+    "system_id": 30001376,
+    "type_id": 29629
+}

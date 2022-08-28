@@ -1,0 +1,58 @@
+{
+    "constellation_id": 20000619,
+    "name": "Van",
+    "planets": [
+        {
+            "planet_id": 40267949
+        },
+        {
+            "asteroid_belts": [
+                40267951
+            ],
+            "planet_id": 40267950
+        },
+        {
+            "asteroid_belts": [
+                40267953
+            ],
+            "moons": [
+                40267954,
+                40267955
+            ],
+            "planet_id": 40267952
+        },
+        {
+            "moons": [
+                40267957,
+                40267958
+            ],
+            "planet_id": 40267956
+        },
+        {
+            "asteroid_belts": [
+                40267960
+            ],
+            "moons": [
+                40267961
+            ],
+            "planet_id": 40267959
+        }
+    ],
+    "position": {
+        "x": -315647116595986940,
+        "y": 4906211358285412,
+        "z": -36119505251290720
+    },
+    "security_class": "B2",
+    "security_status": 0.3124498724937439,
+    "star_id": 40267948,
+    "stargates": [
+        50010274,
+        50010275,
+        50010276
+    ],
+    "stations": [
+        60006187
+    ],
+    "system_id": 30004230
+}

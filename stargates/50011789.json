@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011888,
+        "system_id": 30004775
+    },
+    "name": "Stargate (I-E3TG)",
+    "position": {
+        "x": 2926988206080,
+        "y": 417396203520,
+        "z": -76579921920
+    },
+    "stargate_id": 50011789,
+    "system_id": 30004774,
+    "type_id": 29624
+}

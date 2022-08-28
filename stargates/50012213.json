@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012401,
+        "system_id": 30004614
+    },
+    "name": "Stargate (AV-VB6)",
+    "position": {
+        "x": -1334886850560,
+        "y": 204497264640,
+        "z": -5864427970560
+    },
+    "stargate_id": 50012213,
+    "system_id": 30004613,
+    "type_id": 3875
+}

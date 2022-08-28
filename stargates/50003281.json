@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010309,
+        "system_id": 30001124
+    },
+    "name": "Stargate (C-NMG9)",
+    "position": {
+        "x": -499092971520,
+        "y": 83356999680,
+        "z": -2954649600
+    },
+    "stargate_id": 50003281,
+    "system_id": 30001117,
+    "type_id": 3875
+}

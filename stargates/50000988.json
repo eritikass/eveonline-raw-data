@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001681,
+        "system_id": 30000682
+    },
+    "name": "Stargate (Q-K2T7)",
+    "position": {
+        "x": -1192537497600,
+        "y": -147280896000,
+        "z": 143956746240
+    },
+    "stargate_id": 50000988,
+    "system_id": 30000680,
+    "type_id": 29633
+}

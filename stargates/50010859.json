@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010289,
+        "system_id": 30001898
+    },
+    "name": "Stargate (U2-BJ2)",
+    "position": {
+        "x": 1456760709120,
+        "y": 2018777456640,
+        "z": -3056347668480
+    },
+    "stargate_id": 50010859,
+    "system_id": 30001911,
+    "type_id": 17
+}

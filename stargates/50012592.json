@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012170,
+        "system_id": 30004185
+    },
+    "name": "Stargate (5HN-D6)",
+    "position": {
+        "x": -1186014044160,
+        "y": 28575129600,
+        "z": 1093663825920
+    },
+    "stargate_id": 50012592,
+    "system_id": 30004187,
+    "type_id": 3875
+}

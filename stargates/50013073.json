@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012927,
+        "system_id": 30000204
+    },
+    "name": "Stargate (Ohkunen)",
+    "position": {
+        "x": -1703217930240,
+        "y": 342961152000,
+        "z": 224038133760
+    },
+    "stargate_id": 50013073,
+    "system_id": 30000205,
+    "type_id": 16
+}

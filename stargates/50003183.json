@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004887,
+        "system_id": 30002636
+    },
+    "name": "Stargate (Grinacanne)",
+    "position": {
+        "x": -1200191938560,
+        "y": -56096563200,
+        "z": -2874957127680
+    },
+    "stargate_id": 50003183,
+    "system_id": 30002633,
+    "type_id": 3875
+}

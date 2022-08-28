@@ -1,0 +1,74 @@
+{
+    "constellation_id": 20000740,
+    "name": "Shaha",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40320133
+            ],
+            "planet_id": 40320132
+        },
+        {
+            "planet_id": 40320134
+        },
+        {
+            "asteroid_belts": [
+                40320137
+            ],
+            "moons": [
+                40320136
+            ],
+            "planet_id": 40320135
+        },
+        {
+            "asteroid_belts": [
+                40320139
+            ],
+            "moons": [
+                40320140,
+                40320141
+            ],
+            "planet_id": 40320138
+        },
+        {
+            "planet_id": 40320142
+        },
+        {
+            "asteroid_belts": [
+                40320144
+            ],
+            "moons": [
+                40320145
+            ],
+            "planet_id": 40320143
+        },
+        {
+            "planet_id": 40320146
+        },
+        {
+            "moons": [
+                40320148,
+                40320149
+            ],
+            "planet_id": 40320147
+        }
+    ],
+    "position": {
+        "x": -330661874167026050,
+        "y": 7779747542143741,
+        "z": -103018995734842640
+    },
+    "security_class": "B1",
+    "security_status": 0.5981747508049011,
+    "star_id": 40320131,
+    "stargates": [
+        50008292,
+        50008293,
+        50008294
+    ],
+    "stations": [
+        60005173,
+        60008455
+    ],
+    "system_id": 30005057
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004582,
+        "system_id": 30003075
+    },
+    "name": "Stargate (Myyhera)",
+    "position": {
+        "x": 1414259712000,
+        "y": 142713692160,
+        "z": 718822563840
+    },
+    "stargate_id": 50004352,
+    "system_id": 30003074,
+    "type_id": 29624
+}

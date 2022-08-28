@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003353,
+        "system_id": 30002650
+    },
+    "name": "Stargate (Ney)",
+    "position": {
+        "x": 270795202560,
+        "y": -45876387840,
+        "z": -315227873280
+    },
+    "stargate_id": 50002403,
+    "system_id": 30002649,
+    "type_id": 3875
+}

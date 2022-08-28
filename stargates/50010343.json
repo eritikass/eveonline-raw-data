@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009170,
+        "system_id": 30004128
+    },
+    "name": "Stargate (Koona)",
+    "position": {
+        "x": -22844497920,
+        "y": 2373181440,
+        "z": 671291842560
+    },
+    "stargate_id": 50010343,
+    "system_id": 30004129,
+    "type_id": 29624
+}

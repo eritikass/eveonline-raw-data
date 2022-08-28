@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016294,
+        "system_id": 30003837
+    },
+    "name": "Stargate (Aldranette)",
+    "position": {
+        "x": -2776254013440,
+        "y": 5636866252800,
+        "z": 6516613570560
+    },
+    "stargate_id": 50016293,
+    "system_id": 30045344,
+    "type_id": 3873
+}

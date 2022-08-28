@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004649,
+        "system_id": 30003187
+    },
+    "name": "Stargate (DGDT-3)",
+    "position": {
+        "x": 280509112320,
+        "y": 43771699200,
+        "z": 3451838914560
+    },
+    "stargate_id": 50004772,
+    "system_id": 30003188,
+    "type_id": 3875
+}

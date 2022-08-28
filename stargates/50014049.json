@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014050,
+        "system_id": 30005205
+    },
+    "name": "Stargate (Tarta)",
+    "position": {
+        "x": -1492668948480,
+        "y": 217162260480,
+        "z": 2209406115840
+    },
+    "stargate_id": 50014049,
+    "system_id": 30005195,
+    "type_id": 17
+}

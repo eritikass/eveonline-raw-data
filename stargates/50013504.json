@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013527,
+        "system_id": 30004228
+    },
+    "name": "Stargate (HB-5L3)",
+    "position": {
+        "x": -1237451120640,
+        "y": -193166254080,
+        "z": 122202562560
+    },
+    "stargate_id": 50013504,
+    "system_id": 30004227,
+    "type_id": 3875
+}

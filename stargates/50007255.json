@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007882,
+        "system_id": 30002261
+    },
+    "name": "Stargate (Luromooh)",
+    "position": {
+        "x": 6173099827200,
+        "y": -584170659840,
+        "z": -2316976988160
+    },
+    "stargate_id": 50007255,
+    "system_id": 30002263,
+    "type_id": 17
+}

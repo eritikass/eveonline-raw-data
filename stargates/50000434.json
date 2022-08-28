@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000036,
+        "system_id": 30000770
+    },
+    "name": "Stargate (88A-RA)",
+    "position": {
+        "x": -3377699266560,
+        "y": -155977113600,
+        "z": -3188089774080
+    },
+    "stargate_id": 50000434,
+    "system_id": 30000772,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010030,
+        "system_id": 30005176
+    },
+    "name": "Stargate (7JRA-G)",
+    "position": {
+        "x": 274002124800,
+        "y": 50800435200,
+        "z": -26206003200
+    },
+    "stargate_id": 50009834,
+    "system_id": 30005174,
+    "type_id": 3875
+}

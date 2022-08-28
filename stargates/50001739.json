@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000057,
+        "system_id": 30000001
+    },
+    "name": "Stargate (Tanoo)",
+    "position": {
+        "x": -136720834560,
+        "y": -10959790080,
+        "z": -230393241600
+    },
+    "stargate_id": 50001739,
+    "system_id": 30000005,
+    "type_id": 29624
+}

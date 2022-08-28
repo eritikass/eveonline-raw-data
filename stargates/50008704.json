@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008799,
+        "system_id": 30003626
+    },
+    "name": "Stargate (RKE-CP)",
+    "position": {
+        "x": -120177745920,
+        "y": -12616212480,
+        "z": 1939466772480
+    },
+    "stargate_id": 50008704,
+    "system_id": 30003624,
+    "type_id": 16
+}

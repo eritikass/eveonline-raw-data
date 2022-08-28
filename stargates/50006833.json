@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006019,
+        "system_id": 30002903
+    },
+    "name": "Stargate (2-KF56)",
+    "position": {
+        "x": 1035761786880,
+        "y": 159022080000,
+        "z": -922201006080
+    },
+    "stargate_id": 50006833,
+    "system_id": 30002905,
+    "type_id": 16
+}

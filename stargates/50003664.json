@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003897,
+        "system_id": 30000888
+    },
+    "name": "Stargate (V7-FB4)",
+    "position": {
+        "x": -213473402880,
+        "y": 17677148160,
+        "z": -286081966080
+    },
+    "stargate_id": 50003664,
+    "system_id": 30000887,
+    "type_id": 16
+}

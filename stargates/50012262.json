@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012368,
+        "system_id": 30004285
+    },
+    "name": "Stargate (Zazamye)",
+    "position": {
+        "x": 86875791360,
+        "y": 17568522240,
+        "z": -8060313600
+    },
+    "stargate_id": 50012262,
+    "system_id": 30004283,
+    "type_id": 29624
+}

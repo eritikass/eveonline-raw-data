@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001476,
+        "system_id": 30002121
+    },
+    "name": "Stargate (ZBP-TP)",
+    "position": {
+        "x": 1135677235200,
+        "y": 16276070400,
+        "z": 2049068113920
+    },
+    "stargate_id": 50001189,
+    "system_id": 30002119,
+    "type_id": 29633
+}

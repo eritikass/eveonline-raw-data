@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003311,
+        "system_id": 30004979
+    },
+    "name": "Stargate (Heydieles)",
+    "position": {
+        "x": -3292072550400,
+        "y": -369202421760,
+        "z": 801720606720
+    },
+    "stargate_id": 50004966,
+    "system_id": 30004980,
+    "type_id": 3875
+}

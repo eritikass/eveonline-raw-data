@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012074,
+        "system_id": 30004565
+    },
+    "name": "Stargate (CL-BWB)",
+    "position": {
+        "x": 521177948160,
+        "y": -30904197120,
+        "z": -2349230776320
+    },
+    "stargate_id": 50011393,
+    "system_id": 30004560,
+    "type_id": 3875
+}

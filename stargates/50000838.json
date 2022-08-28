@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003011,
+        "system_id": 30000914
+    },
+    "name": "Stargate (AB-FZE)",
+    "position": {
+        "x": 3557953413120,
+        "y": -561371258880,
+        "z": -5246061895680
+    },
+    "stargate_id": 50000838,
+    "system_id": 30000912,
+    "type_id": 29633
+}

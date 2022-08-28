@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007479,
+        "system_id": 30001208
+    },
+    "name": "Stargate (UQ-PWD)",
+    "position": {
+        "x": -273743585280,
+        "y": 19871539200,
+        "z": -134144532480
+    },
+    "stargate_id": 50004481,
+    "system_id": 30001206,
+    "type_id": 29624
+}

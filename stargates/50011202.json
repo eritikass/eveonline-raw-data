@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011758,
+        "system_id": 30002730
+    },
+    "name": "Stargate (Esmes)",
+    "position": {
+        "x": 58490019840,
+        "y": 5052211200,
+        "z": -2913569464320
+    },
+    "stargate_id": 50011202,
+    "system_id": 30002729,
+    "type_id": 3875
+}

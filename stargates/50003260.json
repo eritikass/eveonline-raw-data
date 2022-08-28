@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002615,
+        "system_id": 30005201
+    },
+    "name": "Stargate (Manarq)",
+    "position": {
+        "x": 255528345600,
+        "y": 8163287040,
+        "z": -1297770209280
+    },
+    "stargate_id": 50003260,
+    "system_id": 30005203,
+    "type_id": 29624
+}

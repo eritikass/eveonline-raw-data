@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010331,
+        "system_id": 30004719
+    },
+    "name": "Stargate (YZ9-F6)",
+    "position": {
+        "x": -1570107678720,
+        "y": 282391142400,
+        "z": 2869948784640
+    },
+    "stargate_id": 50010594,
+    "system_id": 30004722,
+    "type_id": 29624
+}

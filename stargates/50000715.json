@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000556,
+        "system_id": 30000937
+    },
+    "name": "Stargate (ZJ-GOU)",
+    "position": {
+        "x": -86209044480,
+        "y": 13422305280,
+        "z": -211748659200
+    },
+    "stargate_id": 50000715,
+    "system_id": 30000938,
+    "type_id": 29633
+}

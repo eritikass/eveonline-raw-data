@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003834,
+        "system_id": 30001973
+    },
+    "name": "Stargate (XI-VUF)",
+    "position": {
+        "x": -1080422277120,
+        "y": -89728573440,
+        "z": -2102540820480
+    },
+    "stargate_id": 50003374,
+    "system_id": 30001969,
+    "type_id": 16
+}

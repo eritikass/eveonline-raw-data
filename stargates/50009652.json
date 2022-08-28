@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008258,
+        "system_id": 30002469
+    },
+    "name": "Stargate (4D9-66)",
+    "position": {
+        "x": -682803486720,
+        "y": 25292513280,
+        "z": 2342614179840
+    },
+    "stargate_id": 50009652,
+    "system_id": 30002470,
+    "type_id": 16
+}

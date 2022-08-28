@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000443,
+        "system_id": 30003027
+    },
+    "name": "Stargate (Vaurent)",
+    "position": {
+        "x": 688933969920,
+        "y": 44042772480,
+        "z": -8125941719040
+    },
+    "stargate_id": 50004793,
+    "system_id": 30003038,
+    "type_id": 3874
+}

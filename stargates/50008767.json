@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008983,
+        "system_id": 30004499
+    },
+    "name": "Stargate (E9G-MT)",
+    "position": {
+        "x": -869320826880,
+        "y": 108703211520,
+        "z": 602463805440
+    },
+    "stargate_id": 50008767,
+    "system_id": 30004495,
+    "type_id": 3875
+}

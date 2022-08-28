@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005379,
+        "system_id": 30000653
+    },
+    "name": "Stargate (K85Y-6)",
+    "position": {
+        "x": -1651994910720,
+        "y": 251478220800,
+        "z": 4134432399360
+    },
+    "stargate_id": 50005225,
+    "system_id": 30000650,
+    "type_id": 29633
+}

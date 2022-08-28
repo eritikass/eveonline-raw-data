@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005714,
+        "system_id": 30001309
+    },
+    "name": "Stargate (N-5476)",
+    "position": {
+        "x": 5061660057600,
+        "y": 993321246720,
+        "z": -923962613760
+    },
+    "stargate_id": 50006227,
+    "system_id": 30001312,
+    "type_id": 16
+}

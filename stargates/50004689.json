@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005365,
+        "system_id": 30005104
+    },
+    "name": "Stargate (EF-QZK)",
+    "position": {
+        "x": 137376522240,
+        "y": -11682816000,
+        "z": 8045568000
+    },
+    "stargate_id": 50004689,
+    "system_id": 30005103,
+    "type_id": 3875
+}

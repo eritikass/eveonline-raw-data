@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003930,
+        "system_id": 30003012
+    },
+    "name": "Stargate (Amattens)",
+    "position": {
+        "x": 1646434590720,
+        "y": 284739870720,
+        "z": -974819942400
+    },
+    "stargate_id": 50003978,
+    "system_id": 30003013,
+    "type_id": 3875
+}

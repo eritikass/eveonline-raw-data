@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009450,
+        "system_id": 30003568
+    },
+    "name": "Stargate (Meunvon)",
+    "position": {
+        "x": -23424737280,
+        "y": 354754560,
+        "z": -24515420160
+    },
+    "stargate_id": 50009239,
+    "system_id": 30003567,
+    "type_id": 3875
+}

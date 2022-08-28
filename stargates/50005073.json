@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004641,
+        "system_id": 30001980
+    },
+    "name": "Stargate (KLY-C0)",
+    "position": {
+        "x": 1742731468800,
+        "y": 828334080,
+        "z": -5241908060160
+    },
+    "stargate_id": 50005073,
+    "system_id": 30001982,
+    "type_id": 16
+}

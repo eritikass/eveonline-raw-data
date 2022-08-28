@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005668,
+        "system_id": 30005324
+    },
+    "name": "Stargate (Claulenne)",
+    "position": {
+        "x": -186338304000,
+        "y": 33858969600,
+        "z": -207784796160
+    },
+    "stargate_id": 50005600,
+    "system_id": 30005323,
+    "type_id": 3875
+}

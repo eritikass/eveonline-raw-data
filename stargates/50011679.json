@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011978,
+        "system_id": 30002933
+    },
+    "name": "Stargate (AGG-NR)",
+    "position": {
+        "x": 1307355832320,
+        "y": 174134845440,
+        "z": -885747916800
+    },
+    "stargate_id": 50011679,
+    "system_id": 30002932,
+    "type_id": 16
+}

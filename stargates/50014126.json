@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014125,
+        "system_id": 30002281
+    },
+    "name": "Stargate (Eba)",
+    "position": {
+        "x": -2316293038080,
+        "y": 119348305920,
+        "z": -926416281600
+    },
+    "stargate_id": 50014126,
+    "system_id": 30023489,
+    "type_id": 29624
+}

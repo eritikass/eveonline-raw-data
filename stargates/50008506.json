@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010473,
+        "system_id": 30002088
+    },
+    "name": "Stargate (Vimeini)",
+    "position": {
+        "x": 29053870080,
+        "y": -1778442240,
+        "z": -595739320320
+    },
+    "stargate_id": 50008506,
+    "system_id": 30002084,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005706,
+        "system_id": 30000646
+    },
+    "name": "Stargate (4YO-QK)",
+    "position": {
+        "x": -4344983347200,
+        "y": -417727733760,
+        "z": 4306629550080
+    },
+    "stargate_id": 50005811,
+    "system_id": 30000648,
+    "type_id": 29633
+}

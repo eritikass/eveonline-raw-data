@@ -1,0 +1,54 @@
+{
+    "constellation_id": 20000752,
+    "name": "W-KXEX",
+    "planets": [
+        {
+            "planet_id": 40325413
+        },
+        {
+            "planet_id": 40325414
+        },
+        {
+            "planet_id": 40325415
+        },
+        {
+            "planet_id": 40325416
+        },
+        {
+            "asteroid_belts": [
+                40325418
+            ],
+            "planet_id": 40325417
+        },
+        {
+            "moons": [
+                40325420
+            ],
+            "planet_id": 40325419
+        },
+        {
+            "moons": [
+                40325422
+            ],
+            "planet_id": 40325421
+        },
+        {
+            "asteroid_belts": [
+                40325424
+            ],
+            "planet_id": 40325423
+        }
+    ],
+    "position": {
+        "x": 213629238102003870,
+        "y": 32760967858226572,
+        "z": 89064224748401230
+    },
+    "security_class": "K4",
+    "security_status": -0.32546934485435486,
+    "star_id": 40325412,
+    "stargates": [
+        50011069
+    ],
+    "system_id": 30005142
+}

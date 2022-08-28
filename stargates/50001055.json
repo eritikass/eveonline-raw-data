@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000269,
+        "system_id": 30000565
+    },
+    "name": "Stargate (SR-4EK)",
+    "position": {
+        "x": 1684793548800,
+        "y": 293542502400,
+        "z": -556676751360
+    },
+    "stargate_id": 50001055,
+    "system_id": 30000566,
+    "type_id": 29633
+}

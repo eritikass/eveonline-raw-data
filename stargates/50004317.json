@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004330,
+        "system_id": 30000495
+    },
+    "name": "Stargate (FIDY-8)",
+    "position": {
+        "x": 370532966400,
+        "y": -10257162240,
+        "z": 1954170593280
+    },
+    "stargate_id": 50004317,
+    "system_id": 30000494,
+    "type_id": 29633
+}

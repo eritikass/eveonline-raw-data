@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000117,
+        "system_id": 30000656
+    },
+    "name": "Stargate (ARG-3R)",
+    "position": {
+        "x": -383852175360,
+        "y": -29939589120,
+        "z": 1766541189120
+    },
+    "stargate_id": 50000225,
+    "system_id": 30000658,
+    "type_id": 29633
+}

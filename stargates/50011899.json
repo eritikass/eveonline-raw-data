@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010286,
+        "system_id": 30005076
+    },
+    "name": "Stargate (Shokal)",
+    "position": {
+        "x": 2323907911680,
+        "y": 276448911360,
+        "z": -1047760281600
+    },
+    "stargate_id": 50011899,
+    "system_id": 30005079,
+    "type_id": 29624
+}

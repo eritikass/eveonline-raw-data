@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016473,
+        "system_id": 30000140
+    },
+    "name": "Stargate (Maurasi)",
+    "position": {
+        "x": 158551695360,
+        "y": -4198981754880,
+        "z": -1839094210560
+    },
+    "stargate_id": 50016472,
+    "system_id": 30002780,
+    "type_id": 29629
+}

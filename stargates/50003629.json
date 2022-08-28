@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003401,
+        "system_id": 30005206
+    },
+    "name": "Stargate (Kemerk)",
+    "position": {
+        "x": -1330593177600,
+        "y": -931499335680,
+        "z": -3635569582080
+    },
+    "stargate_id": 50003629,
+    "system_id": 30004994,
+    "type_id": 3876
+}

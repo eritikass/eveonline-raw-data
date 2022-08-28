@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005938,
+        "system_id": 30001325
+    },
+    "name": "Stargate (XW-6TC)",
+    "position": {
+        "x": -3154800353280,
+        "y": -138473594880,
+        "z": -1074329886720
+    },
+    "stargate_id": 50007493,
+    "system_id": 30001329,
+    "type_id": 16
+}

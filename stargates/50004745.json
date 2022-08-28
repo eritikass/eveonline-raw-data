@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004217,
+        "system_id": 30001292
+    },
+    "name": "Stargate (HBD-CC)",
+    "position": {
+        "x": 6505814384640,
+        "y": -586585497600,
+        "z": -8228266844160
+    },
+    "stargate_id": 50004745,
+    "system_id": 30001296,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010805,
+        "system_id": 30004527
+    },
+    "name": "Stargate (AN-G54)",
+    "position": {
+        "x": 16849182720,
+        "y": -724623360,
+        "z": 307416883200
+    },
+    "stargate_id": 50010965,
+    "system_id": 30004529,
+    "type_id": 3875
+}

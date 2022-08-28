@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012311,
+        "system_id": 30004899
+    },
+    "name": "Stargate (MJ-X5V)",
+    "position": {
+        "x": -8605741916160,
+        "y": -112943308800,
+        "z": 1683388538880
+    },
+    "stargate_id": 50012433,
+    "system_id": 30004901,
+    "type_id": 29633
+}

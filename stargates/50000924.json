@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001388,
+        "system_id": 30005199
+    },
+    "name": "Stargate (Tar)",
+    "position": {
+        "x": -1982055751680,
+        "y": 333314826240,
+        "z": 1008372080640
+    },
+    "stargate_id": 50000924,
+    "system_id": 30005198,
+    "type_id": 29624
+}

@@ -1,0 +1,70 @@
+{
+    "constellation_id": 20000492,
+    "name": "Orgron",
+    "planets": [
+        {
+            "planet_id": 40347202
+        },
+        {
+            "asteroid_belts": [
+                40347204
+            ],
+            "planet_id": 40347203
+        },
+        {
+            "planet_id": 40347205
+        },
+        {
+            "asteroid_belts": [
+                40347207
+            ],
+            "planet_id": 40347206
+        },
+        {
+            "asteroid_belts": [
+                40347210
+            ],
+            "moons": [
+                40347209
+            ],
+            "planet_id": 40347208
+        },
+        {
+            "moons": [
+                40347212
+            ],
+            "planet_id": 40347211
+        },
+        {
+            "moons": [
+                40347214
+            ],
+            "planet_id": 40347213
+        },
+        {
+            "asteroid_belts": [
+                40347216
+            ],
+            "moons": [
+                40347217,
+                40347218
+            ],
+            "planet_id": 40347215
+        }
+    ],
+    "position": {
+        "x": -81315802460308510,
+        "y": 38909633795993430,
+        "z": 10344802068637826
+    },
+    "security_class": "A",
+    "security_status": 0.9616119265556335,
+    "star_id": 40347201,
+    "stargates": [
+        50014196
+    ],
+    "stations": [
+        60015042
+    ],
+    "system_id": 30022505
+}

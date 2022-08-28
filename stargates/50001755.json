@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002423,
+        "system_id": 30000449
+    },
+    "name": "Stargate (ZLO3-V)",
+    "position": {
+        "x": 1215520235520,
+        "y": -93248839680,
+        "z": -378012917760
+    },
+    "stargate_id": 50001755,
+    "system_id": 30000448,
+    "type_id": 29633
+}

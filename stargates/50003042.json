@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000778,
+        "system_id": 30002188
+    },
+    "name": "Stargate (Boranai)",
+    "position": {
+        "x": 3766609797120,
+        "y": -4148551680,
+        "z": 2879752151040
+    },
+    "stargate_id": 50003042,
+    "system_id": 30002191,
+    "type_id": 29624
+}

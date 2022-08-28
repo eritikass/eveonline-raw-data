@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002220,
+        "system_id": 30001085
+    },
+    "name": "Stargate (C-KW6X)",
+    "position": {
+        "x": -4420927856640,
+        "y": 109338746880,
+        "z": 1963407728640
+    },
+    "stargate_id": 50000746,
+    "system_id": 30001083,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001934,
+        "system_id": 30001174
+    },
+    "name": "Stargate (L7XS-5)",
+    "position": {
+        "x": -3129183313920,
+        "y": -561078312960,
+        "z": 1980783452160
+    },
+    "stargate_id": 50000728,
+    "system_id": 30001172,
+    "type_id": 29624
+}

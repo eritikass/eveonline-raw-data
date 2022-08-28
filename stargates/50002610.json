@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003047,
+        "system_id": 30000882
+    },
+    "name": "Stargate (X-CFN6)",
+    "position": {
+        "x": -368685342720,
+        "y": 53312102400,
+        "z": -224713728000
+    },
+    "stargate_id": 50002610,
+    "system_id": 30000880,
+    "type_id": 16
+}

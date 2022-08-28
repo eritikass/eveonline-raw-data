@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001370,
+        "system_id": 30000923
+    },
+    "name": "Stargate (CRXA-Y)",
+    "position": {
+        "x": -99852410880,
+        "y": -17164984320,
+        "z": 1626646732800
+    },
+    "stargate_id": 50001208,
+    "system_id": 30000920,
+    "type_id": 29633
+}

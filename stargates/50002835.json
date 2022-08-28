@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003125,
+        "system_id": 30001966
+    },
+    "name": "Stargate (UR-E6D)",
+    "position": {
+        "x": -2831000248320,
+        "y": 48328826880,
+        "z": -1981405716480
+    },
+    "stargate_id": 50002835,
+    "system_id": 30001965,
+    "type_id": 16
+}

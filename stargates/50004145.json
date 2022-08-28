@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000588,
+        "system_id": 30001001
+    },
+    "name": "Stargate (H-ADOC)",
+    "position": {
+        "x": -1344906240000,
+        "y": -216367472640,
+        "z": 4268580249600
+    },
+    "stargate_id": 50004145,
+    "system_id": 30001005,
+    "type_id": 29633
+}

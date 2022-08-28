@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005153,
+        "system_id": 30002449
+    },
+    "name": "Stargate (3USX-F)",
+    "position": {
+        "x": 206240440320,
+        "y": 1894686720,
+        "z": 2207576678400
+    },
+    "stargate_id": 50005139,
+    "system_id": 30002448,
+    "type_id": 16
+}

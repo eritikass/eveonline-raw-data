@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013514,
+        "system_id": 30000187
+    },
+    "name": "Stargate (Wuos)",
+    "position": {
+        "x": 642036326400,
+        "y": -25475358720,
+        "z": 686378065920
+    },
+    "stargate_id": 50007042,
+    "system_id": 30000182,
+    "type_id": 16
+}

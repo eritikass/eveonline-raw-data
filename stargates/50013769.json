@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013770,
+        "system_id": 30004764
+    },
+    "name": "Stargate (3-DMQT)",
+    "position": {
+        "x": -4370391736320,
+        "y": 958190346240,
+        "z": -737974394880
+    },
+    "stargate_id": 50013769,
+    "system_id": 30004028,
+    "type_id": 12292
+}

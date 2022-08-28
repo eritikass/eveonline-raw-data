@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006171,
+        "system_id": 30002397
+    },
+    "name": "Stargate (Horaka)",
+    "position": {
+        "x": 59974164480,
+        "y": -11073576960,
+        "z": 81428766720
+    },
+    "stargate_id": 50008331,
+    "system_id": 30002400,
+    "type_id": 29633
+}

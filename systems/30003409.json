@@ -1,0 +1,78 @@
+{
+    "constellation_id": 20000497,
+    "name": "Leurtmar",
+    "planets": [
+        {
+            "planet_id": 40216218
+        },
+        {
+            "planet_id": 40216219
+        },
+        {
+            "asteroid_belts": [
+                40216221,
+                40216222,
+                40216223
+            ],
+            "moons": [
+                40216224
+            ],
+            "planet_id": 40216220
+        },
+        {
+            "asteroid_belts": [
+                40216226
+            ],
+            "moons": [
+                40216227,
+                40216228
+            ],
+            "planet_id": 40216225
+        },
+        {
+            "asteroid_belts": [
+                40216230
+            ],
+            "planet_id": 40216229
+        },
+        {
+            "asteroid_belts": [
+                40216232
+            ],
+            "moons": [
+                40216233
+            ],
+            "planet_id": 40216231
+        },
+        {
+            "planet_id": 40216234
+        },
+        {
+            "moons": [
+                40216236,
+                40216237
+            ],
+            "planet_id": 40216235
+        },
+        {
+            "planet_id": 40216238
+        }
+    ],
+    "position": {
+        "x": -68269111272524010,
+        "y": 44293563815557660,
+        "z": 27397655675306450
+    },
+    "security_class": "A",
+    "security_status": 0.9578976631164551,
+    "star_id": 40216217,
+    "stargates": [
+        50004653,
+        50004654,
+        50014179
+    ],
+    "stations": [
+        60014101
+    ],
+    "system_id": 30003409
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003113,
+        "system_id": 30001530
+    },
+    "name": "Stargate (E-BFLT)",
+    "position": {
+        "x": -1668103987200,
+        "y": -182327255040,
+        "z": -256087941120
+    },
+    "stargate_id": 50001313,
+    "system_id": 30001527,
+    "type_id": 3875
+}

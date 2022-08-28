@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008315,
+        "system_id": 30003614
+    },
+    "name": "Stargate (IG-ZAM)",
+    "position": {
+        "x": -3118985256960,
+        "y": 280046100480,
+        "z": 2473182289920
+    },
+    "stargate_id": 50008490,
+    "system_id": 30003616,
+    "type_id": 16
+}

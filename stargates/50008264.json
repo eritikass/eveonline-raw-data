@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008745,
+        "system_id": 30004120
+    },
+    "name": "Stargate (Iaokit)",
+    "position": {
+        "x": -897534566400,
+        "y": -49409187840,
+        "z": 2186552893440
+    },
+    "stargate_id": 50008264,
+    "system_id": 30004118,
+    "type_id": 29624
+}

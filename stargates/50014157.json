@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014158,
+        "system_id": 30035305
+    },
+    "name": "Stargate (Clacille)",
+    "position": {
+        "x": -1449069649920,
+        "y": 278756597760,
+        "z": 4438979665920
+    },
+    "stargate_id": 50014157,
+    "system_id": 30005315,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012079,
+        "system_id": 30001786
+    },
+    "name": "Stargate (2-84WC)",
+    "position": {
+        "x": 4272432291840,
+        "y": -276756848640,
+        "z": 732992593920
+    },
+    "stargate_id": 50011139,
+    "system_id": 30001784,
+    "type_id": 3875
+}

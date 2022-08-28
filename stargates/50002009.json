@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002968,
+        "system_id": 30001097
+    },
+    "name": "Stargate (Z-EKCY)",
+    "position": {
+        "x": 3624238571520,
+        "y": -2456231239680,
+        "z": 1089407508480
+    },
+    "stargate_id": 50002009,
+    "system_id": 30002837,
+    "type_id": 29632
+}

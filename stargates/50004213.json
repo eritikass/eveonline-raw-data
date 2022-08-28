@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004287,
+        "system_id": 30004818
+    },
+    "name": "Stargate (C-FD0D)",
+    "position": {
+        "x": 6033958133760,
+        "y": 217303572480,
+        "z": -1231911444480
+    },
+    "stargate_id": 50004213,
+    "system_id": 30004817,
+    "type_id": 29633
+}

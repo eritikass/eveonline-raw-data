@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010669,
+        "system_id": 30004554
+    },
+    "name": "Stargate (YZS5-4)",
+    "position": {
+        "x": 2588630753280,
+        "y": -748420423680,
+        "z": -872947998720
+    },
+    "stargate_id": 50010933,
+    "system_id": 30004584,
+    "type_id": 3874
+}

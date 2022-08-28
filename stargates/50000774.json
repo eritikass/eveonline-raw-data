@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002478,
+        "system_id": 30002114
+    },
+    "name": "Stargate (LN-56V)",
+    "position": {
+        "x": 1643576401920,
+        "y": 328529879040,
+        "z": 1111061667840
+    },
+    "stargate_id": 50000774,
+    "system_id": 30002111,
+    "type_id": 29633
+}

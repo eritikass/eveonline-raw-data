@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006089,
+        "system_id": 30002251
+    },
+    "name": "Stargate (Sadye)",
+    "position": {
+        "x": 629020139520,
+        "y": 3586315345920,
+        "z": -2116381532160
+    },
+    "stargate_id": 50005815,
+    "system_id": 30002234,
+    "type_id": 17
+}

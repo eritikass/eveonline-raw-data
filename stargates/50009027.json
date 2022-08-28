@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008996,
+        "system_id": 30003453
+    },
+    "name": "Stargate (Orduin)",
+    "position": {
+        "x": 18455964426240,
+        "y": 1961898024960,
+        "z": 5003311964160
+    },
+    "stargate_id": 50009027,
+    "system_id": 30003454,
+    "type_id": 29633
+}

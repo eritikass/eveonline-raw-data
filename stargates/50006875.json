@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007087,
+        "system_id": 30003084
+    },
+    "name": "Stargate (Malpara)",
+    "position": {
+        "x": -1701133639680,
+        "y": 146725232640,
+        "z": 829085245440
+    },
+    "stargate_id": 50006875,
+    "system_id": 30003082,
+    "type_id": 29624
+}

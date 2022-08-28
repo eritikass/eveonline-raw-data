@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012098,
+        "system_id": 30004606
+    },
+    "name": "Stargate (H-S80W)",
+    "position": {
+        "x": -1375110389760,
+        "y": 35115786240,
+        "z": -455587307520
+    },
+    "stargate_id": 50011942,
+    "system_id": 30004603,
+    "type_id": 3875
+}

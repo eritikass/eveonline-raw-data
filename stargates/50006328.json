@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006467,
+        "system_id": 30003679
+    },
+    "name": "Stargate (HHK-VL)",
+    "position": {
+        "x": -1586650030080,
+        "y": -297580339200,
+        "z": -1894872391680
+    },
+    "stargate_id": 50006328,
+    "system_id": 30003678,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002772,
+        "system_id": 30000153
+    },
+    "name": "Stargate (Poinen)",
+    "position": {
+        "x": -448294625280,
+        "y": -46890885120,
+        "z": -1321484328960
+    },
+    "stargate_id": 50002928,
+    "system_id": 30000154,
+    "type_id": 16
+}

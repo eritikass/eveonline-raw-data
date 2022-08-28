@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008494,
+        "system_id": 30003829
+    },
+    "name": "Stargate (Renarelle)",
+    "position": {
+        "x": -2997563842560,
+        "y": 538854481920,
+        "z": 426803650560
+    },
+    "stargate_id": 50008192,
+    "system_id": 30003827,
+    "type_id": 3875
+}

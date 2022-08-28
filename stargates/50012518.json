@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012636,
+        "system_id": 30004291
+    },
+    "name": "Stargate (Anohel)",
+    "position": {
+        "x": -304151961600,
+        "y": 11296972800,
+        "z": 529129021440
+    },
+    "stargate_id": 50012518,
+    "system_id": 30004289,
+    "type_id": 29624
+}

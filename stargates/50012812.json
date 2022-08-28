@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012711,
+        "system_id": 30004934
+    },
+    "name": "Stargate (MG0-RD)",
+    "position": {
+        "x": 4532537057280,
+        "y": -911653232640,
+        "z": 3147029913600
+    },
+    "stargate_id": 50012812,
+    "system_id": 30004936,
+    "type_id": 29624
+}

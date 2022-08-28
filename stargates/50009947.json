@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009496,
+        "system_id": 30004505
+    },
+    "name": "Stargate (LGUZ-1)",
+    "position": {
+        "x": 3294836613120,
+        "y": -2852347453440,
+        "z": -251585126400
+    },
+    "stargate_id": 50009947,
+    "system_id": 30004514,
+    "type_id": 3874
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008710,
+        "system_id": 30002694
+    },
+    "name": "Stargate (Odette)",
+    "position": {
+        "x": -1344469278720,
+        "y": -270798888960,
+        "z": -2659698892800
+    },
+    "stargate_id": 50008601,
+    "system_id": 30002693,
+    "type_id": 3875
+}

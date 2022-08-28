@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012790,
+        "system_id": 30002180
+    },
+    "name": "Stargate (FRTC-5)",
+    "position": {
+        "x": 3640137031680,
+        "y": -622917672960,
+        "z": 2048178954240
+    },
+    "stargate_id": 50011444,
+    "system_id": 30002178,
+    "type_id": 29633
+}

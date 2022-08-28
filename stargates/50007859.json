@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005724,
+        "system_id": 30003754
+    },
+    "name": "Stargate (2-TEGJ)",
+    "position": {
+        "x": 419978895360,
+        "y": -55869480960,
+        "z": -667615764480
+    },
+    "stargate_id": 50007859,
+    "system_id": 30003756,
+    "type_id": 29624
+}

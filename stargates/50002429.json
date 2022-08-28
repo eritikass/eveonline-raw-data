@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005413,
+        "system_id": 30002741
+    },
+    "name": "Stargate (Horkkisen)",
+    "position": {
+        "x": 3647950479360,
+        "y": -402576384000,
+        "z": 306639298560
+    },
+    "stargate_id": 50002429,
+    "system_id": 30002740,
+    "type_id": 16
+}

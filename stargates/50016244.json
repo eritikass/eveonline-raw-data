@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016243,
+        "system_id": 30045310
+    },
+    "name": "Stargate (Sarenemi)",
+    "position": {
+        "x": -2859341291520,
+        "y": -896878632960,
+        "z": -1259006484480
+    },
+    "stargate_id": 50016244,
+    "system_id": 30001440,
+    "type_id": 29629
+}

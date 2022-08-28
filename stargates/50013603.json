@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013604,
+        "system_id": 30001161
+    },
+    "name": "Stargate (HED-GP)",
+    "position": {
+        "x": 3211986001920,
+        "y": -755451863040,
+        "z": -818292940800
+    },
+    "stargate_id": 50013603,
+    "system_id": 30003883,
+    "type_id": 29625
+}

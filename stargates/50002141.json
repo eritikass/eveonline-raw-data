@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001575,
+        "system_id": 30001566
+    },
+    "name": "Stargate (VK6-EZ)",
+    "position": {
+        "x": 2138918461440,
+        "y": 206008442880,
+        "z": 101483028480
+    },
+    "stargate_id": 50002141,
+    "system_id": 30001567,
+    "type_id": 3875
+}

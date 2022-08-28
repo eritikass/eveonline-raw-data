@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008175,
+        "system_id": 30000312
+    },
+    "name": "Stargate (8-TFDX)",
+    "position": {
+        "x": -1526210764800,
+        "y": -111479808000,
+        "z": 1396478976000
+    },
+    "stargate_id": 50008227,
+    "system_id": 30000313,
+    "type_id": 16
+}

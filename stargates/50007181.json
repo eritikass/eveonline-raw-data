@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011274,
+        "system_id": 30001116
+    },
+    "name": "Stargate (2Z-HPQ)",
+    "position": {
+        "x": 1083692851200,
+        "y": 207690178560,
+        "z": -1124520960000
+    },
+    "stargate_id": 50007181,
+    "system_id": 30001112,
+    "type_id": 3875
+}

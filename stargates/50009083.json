@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009781,
+        "system_id": 30002369
+    },
+    "name": "Stargate (EX-GBT)",
+    "position": {
+        "x": -217067642880,
+        "y": 10743767040,
+        "z": -71080796160
+    },
+    "stargate_id": 50009083,
+    "system_id": 30002368,
+    "type_id": 3875
+}

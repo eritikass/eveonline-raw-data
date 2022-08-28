@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012454,
+        "system_id": 30005187
+    },
+    "name": "Stargate (F18-AY)",
+    "position": {
+        "x": -1766602137600,
+        "y": 139699200000,
+        "z": -1774147215360
+    },
+    "stargate_id": 50012391,
+    "system_id": 30005186,
+    "type_id": 3875
+}

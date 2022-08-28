@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002741,
+        "system_id": 30000944
+    },
+    "name": "Stargate (SUR-F7)",
+    "position": {
+        "x": 3401718865920,
+        "y": 227824803840,
+        "z": 1771594260480
+    },
+    "stargate_id": 50002777,
+    "system_id": 30000945,
+    "type_id": 29633
+}

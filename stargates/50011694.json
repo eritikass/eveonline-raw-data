@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010217,
+        "system_id": 30003572
+    },
+    "name": "Stargate (Vevelonel)",
+    "position": {
+        "x": -1949495992320,
+        "y": -719618826240,
+        "z": -5565132840960
+    },
+    "stargate_id": 50011694,
+    "system_id": 30003602,
+    "type_id": 3874
+}

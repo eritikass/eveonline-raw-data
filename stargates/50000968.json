@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002433,
+        "system_id": 30003502
+    },
+    "name": "Stargate (Bahromab)",
+    "position": {
+        "x": -2212362854400,
+        "y": 280307589120,
+        "z": 330846412800
+    },
+    "stargate_id": 50000968,
+    "system_id": 30003501,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000191,
+        "system_id": 30000679
+    },
+    "name": "Stargate (OAQY-M)",
+    "position": {
+        "x": -917505269760,
+        "y": 3222856704000,
+        "z": 748917841920
+    },
+    "stargate_id": 50001613,
+    "system_id": 30000563,
+    "type_id": 29635
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013561,
+        "system_id": 30002979
+    },
+    "name": "Stargate (Tararan)",
+    "position": {
+        "x": -1484223651840,
+        "y": 3906627624960,
+        "z": -941557555200
+    },
+    "stargate_id": 50013562,
+    "system_id": 30002960,
+    "type_id": 17
+}

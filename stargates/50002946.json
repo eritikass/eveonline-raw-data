@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002725,
+        "system_id": 30001556
+    },
+    "name": "Stargate (JLH-FN)",
+    "position": {
+        "x": -397912350720,
+        "y": 9042124800,
+        "z": -909130997760
+    },
+    "stargate_id": 50002946,
+    "system_id": 30001557,
+    "type_id": 3875
+}

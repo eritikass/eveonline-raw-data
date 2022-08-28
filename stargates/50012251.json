@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012765,
+        "system_id": 30005083
+    },
+    "name": "Stargate (Jedandan)",
+    "position": {
+        "x": -1278963425280,
+        "y": 1476157440,
+        "z": 451998228480
+    },
+    "stargate_id": 50012251,
+    "system_id": 30005082,
+    "type_id": 29624
+}

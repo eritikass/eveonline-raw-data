@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007069,
+        "system_id": 30004116
+    },
+    "name": "Stargate (Rayeret)",
+    "position": {
+        "x": 201560186880,
+        "y": 2620201082880,
+        "z": -97736663040
+    },
+    "stargate_id": 50006940,
+    "system_id": 30005248,
+    "type_id": 29626
+}

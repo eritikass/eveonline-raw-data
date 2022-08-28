@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006270,
+        "system_id": 30001858
+    },
+    "name": "Stargate (4GQ-XQ)",
+    "position": {
+        "x": 281012428800,
+        "y": 53586616320,
+        "z": 3435137556480
+    },
+    "stargate_id": 50006438,
+    "system_id": 30001859,
+    "type_id": 29624
+}

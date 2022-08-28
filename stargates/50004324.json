@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002770,
+        "system_id": 30002771
+    },
+    "name": "Stargate (Kulelen)",
+    "position": {
+        "x": 1538250055680,
+        "y": 10440435179520,
+        "z": -11894452101120
+    },
+    "stargate_id": 50004324,
+    "system_id": 30002794,
+    "type_id": 29627
+}

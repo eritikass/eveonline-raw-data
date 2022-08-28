@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004514,
+        "system_id": 30000890
+    },
+    "name": "Stargate (K-6SNI)",
+    "position": {
+        "x": -2362652958720,
+        "y": 427492270080,
+        "z": -4261896069120
+    },
+    "stargate_id": 50004197,
+    "system_id": 30000889,
+    "type_id": 16
+}

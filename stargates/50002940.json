@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003189,
+        "system_id": 30003379
+    },
+    "name": "Stargate (Aldilur)",
+    "position": {
+        "x": 225489346560,
+        "y": 28509020160,
+        "z": -1159184424960
+    },
+    "stargate_id": 50002940,
+    "system_id": 30003377,
+    "type_id": 29633
+}

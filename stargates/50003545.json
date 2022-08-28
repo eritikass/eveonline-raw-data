@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002019,
+        "system_id": 30000670
+    },
+    "name": "Stargate (SG-75T)",
+    "position": {
+        "x": 1379215810560,
+        "y": -4298724679680,
+        "z": 912036618240
+    },
+    "stargate_id": 50003545,
+    "system_id": 30000732,
+    "type_id": 3877
+}

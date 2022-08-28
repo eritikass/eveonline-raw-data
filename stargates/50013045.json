@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012343,
+        "system_id": 30005027
+    },
+    "name": "Stargate (Ommare)",
+    "position": {
+        "x": -1191637770240,
+        "y": -49748828160,
+        "z": 1060266762240
+    },
+    "stargate_id": 50013045,
+    "system_id": 30005028,
+    "type_id": 3875
+}

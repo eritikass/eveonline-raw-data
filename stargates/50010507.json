@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010951,
+        "system_id": 30003171
+    },
+    "name": "Stargate (29YH-V)",
+    "position": {
+        "x": -31610511360,
+        "y": 4003061760,
+        "z": -233412403200
+    },
+    "stargate_id": 50010507,
+    "system_id": 30003170,
+    "type_id": 29624
+}

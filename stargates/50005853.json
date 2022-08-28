@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006417,
+        "system_id": 30001702
+    },
+    "name": "Stargate (Nafrivik)",
+    "position": {
+        "x": 2905461104640,
+        "y": -363976089600,
+        "z": 200283217920
+    },
+    "stargate_id": 50005853,
+    "system_id": 30001701,
+    "type_id": 29624
+}

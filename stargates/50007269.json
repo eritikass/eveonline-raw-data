@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007401,
+        "system_id": 30000512
+    },
+    "name": "Stargate (O5Q7-U)",
+    "position": {
+        "x": -216217067520,
+        "y": 40097587200,
+        "z": -3995131207680
+    },
+    "stargate_id": 50007269,
+    "system_id": 30000511,
+    "type_id": 29633
+}

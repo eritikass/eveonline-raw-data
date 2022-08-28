@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003690,
+        "system_id": 30002203
+    },
+    "name": "Stargate (Ziona)",
+    "position": {
+        "x": 751690506240,
+        "y": 144607764480,
+        "z": 2477847060480
+    },
+    "stargate_id": 50002450,
+    "system_id": 30002198,
+    "type_id": 29624
+}

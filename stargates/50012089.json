@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012346,
+        "system_id": 30004481
+    },
+    "name": "Stargate (HYPL-V)",
+    "position": {
+        "x": -8243626106880,
+        "y": 1168745963520,
+        "z": 1585306705920
+    },
+    "stargate_id": 50012089,
+    "system_id": 30004478,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011287,
+        "system_id": 30004065
+    },
+    "name": "Stargate (PPG-XC)",
+    "position": {
+        "x": -4391828152320,
+        "y": 37229568000,
+        "z": 2585740369920
+    },
+    "stargate_id": 50011574,
+    "system_id": 30004068,
+    "type_id": 3875
+}

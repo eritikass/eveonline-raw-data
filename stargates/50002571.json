@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002563,
+        "system_id": 30001424
+    },
+    "name": "Stargate (Haajinen)",
+    "position": {
+        "x": 262664724480,
+        "y": 19533864960,
+        "z": -4844609249280
+    },
+    "stargate_id": 50002571,
+    "system_id": 30001425,
+    "type_id": 16
+}

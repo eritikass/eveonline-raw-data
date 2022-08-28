@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000755,
+        "system_id": 30001025
+    },
+    "name": "Stargate (CL-85V)",
+    "position": {
+        "x": 328376033280,
+        "y": -14526750720,
+        "z": -1015881031680
+    },
+    "stargate_id": 50000498,
+    "system_id": 30001023,
+    "type_id": 29633
+}

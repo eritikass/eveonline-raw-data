@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013229,
+        "system_id": 30004961
+    },
+    "name": "Stargate (PA-VE3)",
+    "position": {
+        "x": -5839195054080,
+        "y": -5932362915840,
+        "z": 3772260065280
+    },
+    "stargate_id": 50013194,
+    "system_id": 30004953,
+    "type_id": 17
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006382,
+        "system_id": 30002023
+    },
+    "name": "Stargate (RD-G2R)",
+    "position": {
+        "x": -2385923235840,
+        "y": 1263697797120,
+        "z": -3150487019520
+    },
+    "stargate_id": 50004924,
+    "system_id": 30001981,
+    "type_id": 29627
+}

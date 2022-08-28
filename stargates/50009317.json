@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006147,
+        "system_id": 30002556
+    },
+    "name": "Stargate (Gusandall)",
+    "position": {
+        "x": -735856680960,
+        "y": -38167633920,
+        "z": 3068743557120
+    },
+    "stargate_id": 50009317,
+    "system_id": 30002559,
+    "type_id": 29633
+}

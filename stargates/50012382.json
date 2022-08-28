@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009413,
+        "system_id": 30003355
+    },
+    "name": "Stargate (EF-F36)",
+    "position": {
+        "x": 72907284480,
+        "y": -1523343360,
+        "z": 2278043197440
+    },
+    "stargate_id": 50012382,
+    "system_id": 30003360,
+    "type_id": 3875
+}

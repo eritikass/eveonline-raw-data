@@ -1,0 +1,39 @@
+{
+    "constellation_id": 20000721,
+    "name": "35-JWD",
+    "planets": [
+        {
+            "planet_id": 40312181
+        },
+        {
+            "asteroid_belts": [
+                40312183
+            ],
+            "planet_id": 40312182
+        },
+        {
+            "planet_id": 40312184
+        },
+        {
+            "asteroid_belts": [
+                40312186
+            ],
+            "planet_id": 40312185
+        }
+    ],
+    "position": {
+        "x": -399872622722117760,
+        "y": 86108011343286270,
+        "z": -355494201854167800
+    },
+    "security_class": "G",
+    "security_status": -0.01660899817943573,
+    "star_id": 40312180,
+    "stargates": [
+        50012578,
+        50012579,
+        50012580,
+        50012581
+    ],
+    "system_id": 30004928
+}

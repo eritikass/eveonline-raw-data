@@ -1,0 +1,72 @@
+{
+    "constellation_id": 20000702,
+    "name": "M0O-JG",
+    "planets": [
+        {
+            "moons": [
+                40303975
+            ],
+            "planet_id": 40303974
+        },
+        {
+            "asteroid_belts": [
+                40303977
+            ],
+            "planet_id": 40303976
+        },
+        {
+            "asteroid_belts": [
+                40303979
+            ],
+            "moons": [
+                40303980,
+                40303981
+            ],
+            "planet_id": 40303978
+        },
+        {
+            "moons": [
+                40303983,
+                40303984
+            ],
+            "planet_id": 40303982
+        },
+        {
+            "moons": [
+                40303986
+            ],
+            "planet_id": 40303985
+        },
+        {
+            "asteroid_belts": [
+                40303988
+            ],
+            "moons": [
+                40303989,
+                40303990
+            ],
+            "planet_id": 40303987
+        },
+        {
+            "asteroid_belts": [
+                40303992
+            ],
+            "moons": [
+                40303993
+            ],
+            "planet_id": 40303991
+        }
+    ],
+    "position": {
+        "x": -395069614143835260,
+        "y": 83374423055912290,
+        "z": -336108575821372740
+    },
+    "security_class": "G",
+    "security_status": -0.05963411554694176,
+    "star_id": 40303973,
+    "stargates": [
+        50012491
+    ],
+    "system_id": 30004802
+}

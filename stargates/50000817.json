@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002690,
+        "system_id": 30003376
+    },
+    "name": "Stargate (Stirht)",
+    "position": {
+        "x": 583386193920,
+        "y": 56756428800,
+        "z": 441288007680
+    },
+    "stargate_id": 50000817,
+    "system_id": 30003374,
+    "type_id": 29633
+}

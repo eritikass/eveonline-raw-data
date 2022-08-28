@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010910,
+        "system_id": 30003178
+    },
+    "name": "Stargate (YRV-MZ)",
+    "position": {
+        "x": 389669314560,
+        "y": 46707056640,
+        "z": 86008258560
+    },
+    "stargate_id": 50011135,
+    "system_id": 30003181,
+    "type_id": 29624
+}

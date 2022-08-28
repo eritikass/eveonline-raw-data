@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013672,
+        "system_id": 30005241
+    },
+    "name": "Stargate (Petidu)",
+    "position": {
+        "x": -640329523200,
+        "y": -6123145912320,
+        "z": -1737535365120
+    },
+    "stargate_id": 50013671,
+    "system_id": 30004120,
+    "type_id": 29626
+}

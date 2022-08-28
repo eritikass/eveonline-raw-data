@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007391,
+        "system_id": 30003818
+    },
+    "name": "Stargate (Aulbres)",
+    "position": {
+        "x": 1046810910720,
+        "y": 3530891796480,
+        "z": 2189698375680
+    },
+    "stargate_id": 50006899,
+    "system_id": 30003805,
+    "type_id": 3874
+}

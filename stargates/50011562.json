@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010935,
+        "system_id": 30004584
+    },
+    "name": "Stargate (Z9PP-H)",
+    "position": {
+        "x": 610613207040,
+        "y": -8893440000,
+        "z": -1533482803200
+    },
+    "stargate_id": 50011562,
+    "system_id": 30004586,
+    "type_id": 3875
+}

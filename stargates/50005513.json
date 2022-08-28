@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005438,
+        "system_id": 30000438
+    },
+    "name": "Stargate (PQRE-W)",
+    "position": {
+        "x": 3376808878080,
+        "y": -554231193600,
+        "z": 2467132661760
+    },
+    "stargate_id": 50005513,
+    "system_id": 30000439,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007240,
+        "system_id": 30003878
+    },
+    "name": "Stargate (Palas)",
+    "position": {
+        "x": 1016270315520,
+        "y": 155412357120,
+        "z": 3936462643200
+    },
+    "stargate_id": 50007353,
+    "system_id": 30003879,
+    "type_id": 29624
+}

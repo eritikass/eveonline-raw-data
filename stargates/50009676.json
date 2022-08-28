@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009949,
+        "system_id": 30001776
+    },
+    "name": "Stargate (8K-QCZ)",
+    "position": {
+        "x": 1328169000960,
+        "y": -201688473600,
+        "z": 3316979589120
+    },
+    "stargate_id": 50009676,
+    "system_id": 30001774,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007572,
+        "system_id": 30003881
+    },
+    "name": "Stargate (Moniyyuku)",
+    "position": {
+        "x": -1168251740160,
+        "y": -118233047040,
+        "z": 93125959680
+    },
+    "stargate_id": 50007416,
+    "system_id": 30003880,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011015,
+        "system_id": 30004383
+    },
+    "name": "Stargate (NEH-CS)",
+    "position": {
+        "x": -629169070080,
+        "y": -20292280320,
+        "z": 7262004879360
+    },
+    "stargate_id": 50010446,
+    "system_id": 30004378,
+    "type_id": 16
+}

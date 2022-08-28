@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002034,
+        "system_id": 30002287
+    },
+    "name": "Stargate (9P-870)",
+    "position": {
+        "x": -4853957222400,
+        "y": 524810280960,
+        "z": 214600949760
+    },
+    "stargate_id": 50001848,
+    "system_id": 30002285,
+    "type_id": 3875
+}

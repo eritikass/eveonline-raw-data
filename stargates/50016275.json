@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016276,
+        "system_id": 30045344
+    },
+    "name": "Stargate (Nennamaila)",
+    "position": {
+        "x": 1274642718720,
+        "y": 13112647680,
+        "z": 3912498585600
+    },
+    "stargate_id": 50016275,
+    "system_id": 30045343,
+    "type_id": 16
+}

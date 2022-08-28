@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007778,
+        "system_id": 30003903
+    },
+    "name": "Stargate (Afnakat)",
+    "position": {
+        "x": -411215585280,
+        "y": -57150873600,
+        "z": -1358419107840
+    },
+    "stargate_id": 50008486,
+    "system_id": 30003909,
+    "type_id": 29624
+}

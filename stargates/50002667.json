@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003503,
+        "system_id": 30000601
+    },
+    "name": "Stargate (TZE-UB)",
+    "position": {
+        "x": 2536970772480,
+        "y": 70330245120,
+        "z": -4034321080320
+    },
+    "stargate_id": 50002667,
+    "system_id": 30000600,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010558,
+        "system_id": 30004176
+    },
+    "name": "Stargate (KIG9-K)",
+    "position": {
+        "x": 89495101440,
+        "y": -3058851840,
+        "z": -304324485120
+    },
+    "stargate_id": 50010134,
+    "system_id": 30004171,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009275,
+        "system_id": 30005048
+    },
+    "name": "Stargate (Polfaly)",
+    "position": {
+        "x": 2426040115200,
+        "y": 1118709964800,
+        "z": 2311337041920
+    },
+    "stargate_id": 50006320,
+    "system_id": 30005037,
+    "type_id": 17
+}

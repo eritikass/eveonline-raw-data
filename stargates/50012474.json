@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012845,
+        "system_id": 30004292
+    },
+    "name": "Stargate (Soza)",
+    "position": {
+        "x": -1125369569280,
+        "y": 226458869760,
+        "z": 6909088358400
+    },
+    "stargate_id": 50012474,
+    "system_id": 30004288,
+    "type_id": 29624
+}

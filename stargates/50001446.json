@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002093,
+        "system_id": 30000016
+    },
+    "name": "Stargate (Nazhgete)",
+    "position": {
+        "x": -41064898560,
+        "y": 1943101440,
+        "z": -615841259520
+    },
+    "stargate_id": 50001446,
+    "system_id": 30000013,
+    "type_id": 29624
+}

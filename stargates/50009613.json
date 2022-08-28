@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009768,
+        "system_id": 30003638
+    },
+    "name": "Stargate (WV-0R2)",
+    "position": {
+        "x": -3047600332800,
+        "y": -207523061760,
+        "z": -61532528640
+    },
+    "stargate_id": 50009613,
+    "system_id": 30003636,
+    "type_id": 16
+}

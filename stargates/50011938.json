@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013313,
+        "system_id": 30003649
+    },
+    "name": "Stargate (HE5T-A)",
+    "position": {
+        "x": -1883607736320,
+        "y": -264312545280,
+        "z": 3092215357440
+    },
+    "stargate_id": 50011938,
+    "system_id": 30003647,
+    "type_id": 16
+}

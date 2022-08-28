@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016226,
+        "system_id": 30045309
+    },
+    "name": "Stargate (Villasen)",
+    "position": {
+        "x": -750132142080,
+        "y": -114857287680,
+        "z": 5109964800
+    },
+    "stargate_id": 50016225,
+    "system_id": 30045307,
+    "type_id": 16
+}

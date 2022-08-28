@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010547,
+        "system_id": 30003005
+    },
+    "name": "Stargate (Uktiad)",
+    "position": {
+        "x": 765588971520,
+        "y": 89455779840,
+        "z": -1447755816960
+    },
+    "stargate_id": 50011105,
+    "system_id": 30003007,
+    "type_id": 29624
+}

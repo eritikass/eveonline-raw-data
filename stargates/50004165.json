@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006550,
+        "system_id": 30002674
+    },
+    "name": "Stargate (Gallareue)",
+    "position": {
+        "x": 1542654566400,
+        "y": -95220572160,
+        "z": -565565399040
+    },
+    "stargate_id": 50004165,
+    "system_id": 30002671,
+    "type_id": 3875
+}

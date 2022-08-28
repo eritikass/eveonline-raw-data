@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011969,
+        "system_id": 30004030
+    },
+    "name": "Stargate (B-7DFU)",
+    "position": {
+        "x": -3266865930240,
+        "y": 330335232000,
+        "z": -2793060065280
+    },
+    "stargate_id": 50011672,
+    "system_id": 30004029,
+    "type_id": 29624
+}

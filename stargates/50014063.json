@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014064,
+        "system_id": 30002768
+    },
+    "name": "Stargate (Uedama)",
+    "position": {
+        "x": 1397566218240,
+        "y": 1659844976640,
+        "z": 1250172395520
+    },
+    "stargate_id": 50014063,
+    "system_id": 30002765,
+    "type_id": 29627
+}

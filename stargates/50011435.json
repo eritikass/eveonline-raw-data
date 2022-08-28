@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011855,
+        "system_id": 30003146
+    },
+    "name": "Stargate (Q1-R7K)",
+    "position": {
+        "x": 3383915765760,
+        "y": 69157724160,
+        "z": -4282661068800
+    },
+    "stargate_id": 50011435,
+    "system_id": 30003145,
+    "type_id": 29624
+}

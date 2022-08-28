@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006899,
+        "system_id": 30003805
+    },
+    "name": "Stargate (Gare)",
+    "position": {
+        "x": -2291368796160,
+        "y": -7728784957440,
+        "z": -4793040691200
+    },
+    "stargate_id": 50007391,
+    "system_id": 30003818,
+    "type_id": 3874
+}

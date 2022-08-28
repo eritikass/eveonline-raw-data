@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000065,
+        "system_id": 30002117
+    },
+    "name": "Stargate (Z8-81T)",
+    "position": {
+        "x": -3365302886400,
+        "y": -48140820480,
+        "z": 725787156480
+    },
+    "stargate_id": 50001188,
+    "system_id": 30002119,
+    "type_id": 29633
+}

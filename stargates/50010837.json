@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011169,
+        "system_id": 30002279
+    },
+    "name": "Stargate (Safizon)",
+    "position": {
+        "x": 2299455528960,
+        "y": -100155678720,
+        "z": 1428445224960
+    },
+    "stargate_id": 50010837,
+    "system_id": 30002278,
+    "type_id": 29624
+}

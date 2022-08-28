@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001063,
+        "system_id": 30000097
+    },
+    "name": "Stargate (Shach)",
+    "position": {
+        "x": -71443537920,
+        "y": -2597068800,
+        "z": 632857190400
+    },
+    "stargate_id": 50000287,
+    "system_id": 30000096,
+    "type_id": 29624
+}

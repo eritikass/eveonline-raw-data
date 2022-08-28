@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013630,
+        "system_id": 30003600
+    },
+    "name": "Stargate (Agaullores)",
+    "position": {
+        "x": -990253670400,
+        "y": 1348423557120,
+        "z": 2465055498240
+    },
+    "stargate_id": 50013629,
+    "system_id": 30004233,
+    "type_id": 29625
+}

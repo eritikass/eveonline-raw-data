@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014157,
+        "system_id": 30005315
+    },
+    "name": "Stargate (Eletta)",
+    "position": {
+        "x": -737597890560,
+        "y": 68660060160,
+        "z": -1058904023040
+    },
+    "stargate_id": 50014158,
+    "system_id": 30035305,
+    "type_id": 3875
+}

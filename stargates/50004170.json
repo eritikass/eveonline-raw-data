@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004202,
+        "system_id": 30000985
+    },
+    "name": "Stargate (66U-1P)",
+    "position": {
+        "x": 159387525120,
+        "y": -21279006720,
+        "z": 302436556800
+    },
+    "stargate_id": 50004170,
+    "system_id": 30000984,
+    "type_id": 29633
+}

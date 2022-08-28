@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014139,
+        "system_id": 30000133
+    },
+    "name": "Stargate (Hirtamon)",
+    "position": {
+        "x": -728851783680,
+        "y": -34047959040,
+        "z": 1853863403520
+    },
+    "stargate_id": 50014140,
+    "system_id": 30021407,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007563,
+        "system_id": 30002222
+    },
+    "name": "Stargate (Airshaz)",
+    "position": {
+        "x": -5560283504640,
+        "y": -1073937408000,
+        "z": -4258887720960
+    },
+    "stargate_id": 50005018,
+    "system_id": 30002220,
+    "type_id": 29624
+}

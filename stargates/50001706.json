@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000662,
+        "system_id": 30000210
+    },
+    "name": "Stargate (U54-1L)",
+    "position": {
+        "x": 94345912320,
+        "y": -15204802560,
+        "z": 322273320960
+    },
+    "stargate_id": 50001706,
+    "system_id": 30000212,
+    "type_id": 16
+}

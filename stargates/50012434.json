@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012352,
+        "system_id": 30004900
+    },
+    "name": "Stargate (3FKU-H)",
+    "position": {
+        "x": -4048319078400,
+        "y": -53232721920,
+        "z": -1552025149440
+    },
+    "stargate_id": 50012434,
+    "system_id": 30004901,
+    "type_id": 29633
+}

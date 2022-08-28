@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003781,
+        "system_id": 30002335
+    },
+    "name": "Stargate (FIZU-X)",
+    "position": {
+        "x": -1699641630720,
+        "y": -171132149760,
+        "z": 5768406835200
+    },
+    "stargate_id": 50003160,
+    "system_id": 30002331,
+    "type_id": 3875
+}

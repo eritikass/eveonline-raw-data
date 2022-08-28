@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009460,
+        "system_id": 30003925
+    },
+    "name": "Stargate (Chitiamem)",
+    "position": {
+        "x": -425900728320,
+        "y": -64542842880,
+        "z": -756494376960
+    },
+    "stargate_id": 50009131,
+    "system_id": 30003923,
+    "type_id": 29624
+}

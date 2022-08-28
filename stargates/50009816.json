@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009439,
+        "system_id": 30004165
+    },
+    "name": "Stargate (4-PCHD)",
+    "position": {
+        "x": 633745367040,
+        "y": 342632816640,
+        "z": -3173807185920
+    },
+    "stargate_id": 50009816,
+    "system_id": 30004167,
+    "type_id": 3874
+}

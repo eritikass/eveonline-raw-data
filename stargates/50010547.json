@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011105,
+        "system_id": 30003007
+    },
+    "name": "Stargate (Arveyil)",
+    "position": {
+        "x": -5122600673280,
+        "y": 164079083520,
+        "z": 5273689251840
+    },
+    "stargate_id": 50010547,
+    "system_id": 30003005,
+    "type_id": 29624
+}

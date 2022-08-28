@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003654,
+        "system_id": 30000842
+    },
+    "name": "Stargate (VD-8QY)",
+    "position": {
+        "x": 3211724267520,
+        "y": 256192634880,
+        "z": -1477320744960
+    },
+    "stargate_id": 50003507,
+    "system_id": 30000841,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010152,
+        "system_id": 30003142
+    },
+    "name": "Stargate (J-RVGD)",
+    "position": {
+        "x": 298237747200,
+        "y": -214425600,
+        "z": -734136852480
+    },
+    "stargate_id": 50012010,
+    "system_id": 30003147,
+    "type_id": 29624
+}

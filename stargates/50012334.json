@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012686,
+        "system_id": 30004208
+    },
+    "name": "Stargate (E0DR-G)",
+    "position": {
+        "x": 2372687339520,
+        "y": 185228451840,
+        "z": 1489157529600
+    },
+    "stargate_id": 50012334,
+    "system_id": 30004201,
+    "type_id": 3874
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004973,
+        "system_id": 30000835
+    },
+    "name": "Stargate (FX4L-2)",
+    "position": {
+        "x": 1967981568000,
+        "y": 46426398720,
+        "z": -1491789373440
+    },
+    "stargate_id": 50005354,
+    "system_id": 30000836,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001376,
+        "system_id": 30000856
+    },
+    "name": "Stargate (F-749O)",
+    "position": {
+        "x": -1632207790080,
+        "y": -75395850240,
+        "z": 4914791424000
+    },
+    "stargate_id": 50000884,
+    "system_id": 30000853,
+    "type_id": 16
+}

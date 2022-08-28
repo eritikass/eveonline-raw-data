@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013780,
+        "system_id": 30001260
+    },
+    "name": "Stargate (4-07MU)",
+    "position": {
+        "x": 3889254113280,
+        "y": -498678128640,
+        "z": 903664558080
+    },
+    "stargate_id": 50013779,
+    "system_id": 30004009,
+    "type_id": 12292
+}

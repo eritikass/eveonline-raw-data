@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010041,
+        "system_id": 30003421
+    },
+    "name": "Stargate (Libold)",
+    "position": {
+        "x": 1749007196160,
+        "y": 84492656640,
+        "z": 251050844160
+    },
+    "stargate_id": 50005760,
+    "system_id": 30003419,
+    "type_id": 29633
+}

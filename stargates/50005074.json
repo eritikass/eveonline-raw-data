@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005095,
+        "system_id": 30001983
+    },
+    "name": "Stargate (ROIR-Y)",
+    "position": {
+        "x": -1702795468800,
+        "y": -854384640,
+        "z": 1206422691840
+    },
+    "stargate_id": 50005074,
+    "system_id": 30001982,
+    "type_id": 16
+}

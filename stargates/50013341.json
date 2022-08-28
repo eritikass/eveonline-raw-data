@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012982,
+        "system_id": 30004655
+    },
+    "name": "Stargate (XUW-3X)",
+    "position": {
+        "x": 1021854228480,
+        "y": -82427535360,
+        "z": 2378904330240
+    },
+    "stargate_id": 50013341,
+    "system_id": 30004658,
+    "type_id": 3875
+}

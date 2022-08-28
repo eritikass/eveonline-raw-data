@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011081,
+        "system_id": 30003852
+    },
+    "name": "Stargate (Arderonne)",
+    "position": {
+        "x": 6154839121920,
+        "y": 381402931200,
+        "z": -3296638279680
+    },
+    "stargate_id": 50010073,
+    "system_id": 30003851,
+    "type_id": 3875
+}

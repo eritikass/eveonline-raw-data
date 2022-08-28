@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000763,
+        "system_id": 30002751
+    },
+    "name": "Stargate (Kaimon)",
+    "position": {
+        "x": 905595248640,
+        "y": 5880913920,
+        "z": 465910702080
+    },
+    "stargate_id": 50000090,
+    "system_id": 30002749,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007473,
+        "system_id": 30001367
+    },
+    "name": "Stargate (Hageken)",
+    "position": {
+        "x": 234784727040,
+        "y": 2539986247680,
+        "z": -754122547200
+    },
+    "stargate_id": 50001677,
+    "system_id": 30001382,
+    "type_id": 29627
+}

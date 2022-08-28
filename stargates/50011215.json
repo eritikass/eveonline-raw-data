@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012034,
+        "system_id": 30004387
+    },
+    "name": "Stargate (313I-B)",
+    "position": {
+        "x": -2050940313600,
+        "y": -135146741760,
+        "z": -1359867617280
+    },
+    "stargate_id": 50011215,
+    "system_id": 30004385,
+    "type_id": 16
+}

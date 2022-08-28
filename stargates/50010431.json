@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009483,
+        "system_id": 30002485
+    },
+    "name": "Stargate (HKYW-T)",
+    "position": {
+        "x": -3781729935360,
+        "y": -123242373120,
+        "z": 2945254809600
+    },
+    "stargate_id": 50010431,
+    "system_id": 30002487,
+    "type_id": 16
+}

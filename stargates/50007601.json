@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007176,
+        "system_id": 30001730
+    },
+    "name": "Stargate (Alra)",
+    "position": {
+        "x": -2035275325440,
+        "y": 373730795520,
+        "z": 1806232166400
+    },
+    "stargate_id": 50007601,
+    "system_id": 30001731,
+    "type_id": 29624
+}

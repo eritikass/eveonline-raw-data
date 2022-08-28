@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003161,
+        "system_id": 30001967
+    },
+    "name": "Stargate (X47L-Q)",
+    "position": {
+        "x": -3727671828480,
+        "y": -550585589760,
+        "z": -1915370741760
+    },
+    "stargate_id": 50002637,
+    "system_id": 30001963,
+    "type_id": 16
+}

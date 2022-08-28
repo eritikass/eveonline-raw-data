@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016253,
+        "system_id": 30045318
+    },
+    "name": "Stargate (Martoh)",
+    "position": {
+        "x": -825406709760,
+        "y": -26995138560,
+        "z": 2112440524800
+    },
+    "stargate_id": 50016254,
+    "system_id": 30045319,
+    "type_id": 16
+}

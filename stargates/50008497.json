@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008433,
+        "system_id": 30003330
+    },
+    "name": "Stargate (0LTQ-C)",
+    "position": {
+        "x": 514720604160,
+        "y": -28213125120,
+        "z": -65773363200
+    },
+    "stargate_id": 50008497,
+    "system_id": 30003332,
+    "type_id": 3875
+}

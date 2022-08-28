@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001252,
+        "system_id": 30000913
+    },
+    "name": "Stargate (F8K-WQ)",
+    "position": {
+        "x": 796532367360,
+        "y": -385148313600,
+        "z": -838781952000
+    },
+    "stargate_id": 50001371,
+    "system_id": 30000923,
+    "type_id": 3877
+}

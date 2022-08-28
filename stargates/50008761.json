@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009134,
+        "system_id": 30004041
+    },
+    "name": "Stargate (QXW-PV)",
+    "position": {
+        "x": -1306953277440,
+        "y": 62740439040,
+        "z": 1322768179200
+    },
+    "stargate_id": 50008761,
+    "system_id": 30004038,
+    "type_id": 3875
+}

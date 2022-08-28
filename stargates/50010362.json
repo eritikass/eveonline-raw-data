@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010874,
+        "system_id": 30004177
+    },
+    "name": "Stargate (I-CMZA)",
+    "position": {
+        "x": -2055063183360,
+        "y": -1264559677440,
+        "z": 2645026775040
+    },
+    "stargate_id": 50010362,
+    "system_id": 30004175,
+    "type_id": 3874
+}

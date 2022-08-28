@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000320,
+        "system_id": 30002707
+    },
+    "name": "Stargate (Unel)",
+    "position": {
+        "x": 1355985346560,
+        "y": -2526040350720,
+        "z": -1713989836800
+    },
+    "stargate_id": 50001098,
+    "system_id": 30002763,
+    "type_id": 3873
+}

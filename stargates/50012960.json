@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012608,
+        "system_id": 30001938
+    },
+    "name": "Stargate (O-FTHE)",
+    "position": {
+        "x": -3378684518400,
+        "y": -537489285120,
+        "z": 3709558579200
+    },
+    "stargate_id": 50012960,
+    "system_id": 30001939,
+    "type_id": 29624
+}

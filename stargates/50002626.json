@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001568,
+        "system_id": 30000047
+    },
+    "name": "Stargate (Majamar)",
+    "position": {
+        "x": 439508951040,
+        "y": 15956828160,
+        "z": -881799536640
+    },
+    "stargate_id": 50002626,
+    "system_id": 30000050,
+    "type_id": 29624
+}

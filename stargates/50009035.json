@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001632,
+        "system_id": 30002692
+    },
+    "name": "Stargate (Jel)",
+    "position": {
+        "x": -6245701509120,
+        "y": 695623557120,
+        "z": 2156456386560
+    },
+    "stargate_id": 50009035,
+    "system_id": 30002695,
+    "type_id": 3875
+}

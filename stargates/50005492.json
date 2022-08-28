@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006427,
+        "system_id": 30002144
+    },
+    "name": "Stargate (4-GB14)",
+    "position": {
+        "x": -2645260738560,
+        "y": 533915443200,
+        "z": -6264815247360
+    },
+    "stargate_id": 50005492,
+    "system_id": 30002142,
+    "type_id": 29633
+}

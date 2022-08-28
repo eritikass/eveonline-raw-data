@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000499,
+        "system_id": 30001023
+    },
+    "name": "Stargate (EW-JR5)",
+    "position": {
+        "x": 371137044480,
+        "y": -28665077760,
+        "z": -2270977105920
+    },
+    "stargate_id": 50002425,
+    "system_id": 30001027,
+    "type_id": 29633
+}

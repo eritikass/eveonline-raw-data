@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012482,
+        "system_id": 30004541
+    },
+    "name": "Stargate (LBV-Q1)",
+    "position": {
+        "x": -1046902579200,
+        "y": 119872266240,
+        "z": -1918892728320
+    },
+    "stargate_id": 50012196,
+    "system_id": 30004540,
+    "type_id": 3875
+}

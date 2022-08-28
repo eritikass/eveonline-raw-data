@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013990,
+        "system_id": 30000821
+    },
+    "name": "Stargate (C1G-XC)",
+    "position": {
+        "x": 597562613760,
+        "y": -2244162969600,
+        "z": -3231008808960
+    },
+    "stargate_id": 50013989,
+    "system_id": 30000619,
+    "type_id": 29635
+}

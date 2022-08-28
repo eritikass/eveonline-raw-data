@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004624,
+        "system_id": 30001998
+    },
+    "name": "Stargate (WW-KGD)",
+    "position": {
+        "x": -918803619840,
+        "y": -2120465080320,
+        "z": -3431303208960
+    },
+    "stargate_id": 50004459,
+    "system_id": 30001976,
+    "type_id": 29627
+}

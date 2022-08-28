@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013805,
+        "system_id": 30000484
+    },
+    "name": "Stargate (FMH-OV)",
+    "position": {
+        "x": -6418301214720,
+        "y": -3948022210560,
+        "z": -6240391618560
+    },
+    "stargate_id": 50013806,
+    "system_id": 30000498,
+    "type_id": 12292
+}

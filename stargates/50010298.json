@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009512,
+        "system_id": 30004137
+    },
+    "name": "Stargate (Omam)",
+    "position": {
+        "x": -155450449920,
+        "y": 8530452480,
+        "z": -669056901120
+    },
+    "stargate_id": 50010298,
+    "system_id": 30004138,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007174,
+        "system_id": 30002666
+    },
+    "name": "Stargate (Basgerin)",
+    "position": {
+        "x": 2025901301760,
+        "y": 174697881600,
+        "z": 2532484669440
+    },
+    "stargate_id": 50000631,
+    "system_id": 30002662,
+    "type_id": 3875
+}

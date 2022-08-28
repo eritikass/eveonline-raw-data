@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008964,
+        "system_id": 30004437
+    },
+    "name": "Stargate (ZXOG-O)",
+    "position": {
+        "x": 2904803205120,
+        "y": -88313487360,
+        "z": -1972510187520
+    },
+    "stargate_id": 50008883,
+    "system_id": 30004436,
+    "type_id": 29633
+}

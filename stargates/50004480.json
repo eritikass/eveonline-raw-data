@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006649,
+        "system_id": 30001231
+    },
+    "name": "Stargate (KA6D-K)",
+    "position": {
+        "x": -664113930240,
+        "y": 1621110005760,
+        "z": 1402509926400
+    },
+    "stargate_id": 50004480,
+    "system_id": 30001206,
+    "type_id": 17
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000019,
+        "system_id": 30003009
+    },
+    "name": "Stargate (Arnatele)",
+    "position": {
+        "x": 1646464573440,
+        "y": 284932300800,
+        "z": -974959779840
+    },
+    "stargate_id": 50003977,
+    "system_id": 30003013,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004510,
+        "system_id": 30003399
+    },
+    "name": "Stargate (Vorsk)",
+    "position": {
+        "x": -469024972800,
+        "y": -1360404480,
+        "z": -502921912320
+    },
+    "stargate_id": 50003999,
+    "system_id": 30003396,
+    "type_id": 29633
+}

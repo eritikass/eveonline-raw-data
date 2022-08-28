@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011818,
+        "system_id": 30003597
+    },
+    "name": "Stargate (Hare)",
+    "position": {
+        "x": 1732871331840,
+        "y": -71634984960,
+        "z": 2146705612800
+    },
+    "stargate_id": 50013184,
+    "system_id": 30003598,
+    "type_id": 3875
+}

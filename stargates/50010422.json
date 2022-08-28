@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011397,
+        "system_id": 30003670
+    },
+    "name": "Stargate (C-XNUA)",
+    "position": {
+        "x": -1466017013760,
+        "y": -1803399045120,
+        "z": 672441507840
+    },
+    "stargate_id": 50010422,
+    "system_id": 30003640,
+    "type_id": 29627
+}

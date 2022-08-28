@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006255,
+        "system_id": 30002593
+    },
+    "name": "Stargate (68FT-6)",
+    "position": {
+        "x": -1260045803520,
+        "y": -199859281920,
+        "z": 4918554009600
+    },
+    "stargate_id": 50006299,
+    "system_id": 30002595,
+    "type_id": 29633
+}

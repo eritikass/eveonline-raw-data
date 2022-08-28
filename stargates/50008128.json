@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009173,
+        "system_id": 30001735
+    },
+    "name": "Stargate (Uhodoh)",
+    "position": {
+        "x": 3157628805120,
+        "y": -3875296665600,
+        "z": -182485032960
+    },
+    "stargate_id": 50008128,
+    "system_id": 30001734,
+    "type_id": 17
+}

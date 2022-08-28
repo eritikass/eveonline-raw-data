@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002508,
+        "system_id": 30000814
+    },
+    "name": "Stargate (EJ48-O)",
+    "position": {
+        "x": 2414011146240,
+        "y": -3597309911040,
+        "z": 767846031360
+    },
+    "stargate_id": 50001645,
+    "system_id": 30000769,
+    "type_id": 3877
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008678,
+        "system_id": 30003335
+    },
+    "name": "Stargate (A-SJ8X)",
+    "position": {
+        "x": -588468264960,
+        "y": 32299868160,
+        "z": 5906497658880
+    },
+    "stargate_id": 50008498,
+    "system_id": 30003332,
+    "type_id": 3875
+}

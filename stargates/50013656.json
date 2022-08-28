@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013655,
+        "system_id": 30002401
+    },
+    "name": "Stargate (Meildolf)",
+    "position": {
+        "x": -3660064235520,
+        "y": 1795205898240,
+        "z": 141801676800
+    },
+    "stargate_id": 50013656,
+    "system_id": 30002412,
+    "type_id": 3877
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010887,
+        "system_id": 30004528
+    },
+    "name": "Stargate (ZXI-K2)",
+    "position": {
+        "x": 236753264640,
+        "y": 638467645440,
+        "z": -639229009920
+    },
+    "stargate_id": 50011825,
+    "system_id": 30004532,
+    "type_id": 3874
+}

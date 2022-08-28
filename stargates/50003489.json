@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003397,
+        "system_id": 30002383
+    },
+    "name": "Stargate (Aeddin)",
+    "position": {
+        "x": 162779504640,
+        "y": -10777927680,
+        "z": 666380083200
+    },
+    "stargate_id": 50003489,
+    "system_id": 30002384,
+    "type_id": 29633
+}

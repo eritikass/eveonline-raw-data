@@ -1,0 +1,73 @@
+{
+    "constellation_id": 20000007,
+    "name": "Faspera",
+    "planets": [
+        {
+            "planet_id": 40002838
+        },
+        {
+            "planet_id": 40002839
+        },
+        {
+            "planet_id": 40002840
+        },
+        {
+            "asteroid_belts": [
+                40002842
+            ],
+            "moons": [
+                40002843,
+                40002844
+            ],
+            "planet_id": 40002841
+        },
+        {
+            "asteroid_belts": [
+                40002846
+            ],
+            "planet_id": 40002845
+        },
+        {
+            "asteroid_belts": [
+                40002848
+            ],
+            "moons": [
+                40002849,
+                40002850
+            ],
+            "planet_id": 40002847
+        },
+        {
+            "asteroid_belts": [
+                40002852
+            ],
+            "planet_id": 40002851
+        },
+        {
+            "asteroid_belts": [
+                40002854
+            ],
+            "moons": [
+                40002855,
+                40002856
+            ],
+            "planet_id": 40002853
+        }
+    ],
+    "position": {
+        "x": -87275787061837660,
+        "y": 24422502349262536,
+        "z": -107306739389600960
+    },
+    "security_class": "B3",
+    "security_status": 0.12825848162174225,
+    "star_id": 40002837,
+    "stargates": [
+        50000759,
+        50000760
+    ],
+    "stations": [
+        60012163
+    ],
+    "system_id": 30000044
+}

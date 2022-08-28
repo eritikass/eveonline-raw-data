@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014101,
+        "system_id": 30004969
+    },
+    "name": "Stargate (Oursulaert)",
+    "position": {
+        "x": -289025187840,
+        "y": 7690936320,
+        "z": -431122636800
+    },
+    "stargate_id": 50014102,
+    "system_id": 30004968,
+    "type_id": 3875
+}

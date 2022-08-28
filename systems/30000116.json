@@ -1,0 +1,77 @@
+{
+    "constellation_id": 20000016,
+    "name": "Kenobanala",
+    "planets": [
+        {
+            "planet_id": 40007575
+        },
+        {
+            "moons": [
+                40007577
+            ],
+            "planet_id": 40007576
+        },
+        {
+            "asteroid_belts": [
+                40007579,
+                40007580
+            ],
+            "planet_id": 40007578
+        },
+        {
+            "asteroid_belts": [
+                40007582
+            ],
+            "planet_id": 40007581
+        },
+        {
+            "asteroid_belts": [
+                40007584
+            ],
+            "planet_id": 40007583
+        },
+        {
+            "asteroid_belts": [
+                40007587
+            ],
+            "moons": [
+                40007586
+            ],
+            "planet_id": 40007585
+        },
+        {
+            "moons": [
+                40007589,
+                40007590
+            ],
+            "planet_id": 40007588
+        },
+        {
+            "asteroid_belts": [
+                40007592
+            ],
+            "planet_id": 40007591
+        },
+        {
+            "asteroid_belts": [
+                40007594
+            ],
+            "planet_id": 40007593
+        }
+    ],
+    "position": {
+        "x": -44895594885382180,
+        "y": 32880779275870110,
+        "z": -36250328056568890
+    },
+    "security_class": "B2",
+    "security_status": 0.28939834237098694,
+    "star_id": 40007574,
+    "stargates": [
+        50011358,
+        50011359,
+        50011360,
+        50013653
+    ],
+    "system_id": 30000116
+}

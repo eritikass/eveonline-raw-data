@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003826,
+        "system_id": 30000591
+    },
+    "name": "Stargate (M-MBRT)",
+    "position": {
+        "x": -438039060480,
+        "y": -42003456000,
+        "z": -1166141399040
+    },
+    "stargate_id": 50002986,
+    "system_id": 30000589,
+    "type_id": 29633
+}

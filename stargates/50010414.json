@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010534,
+        "system_id": 30004724
+    },
+    "name": "Stargate (RF-K9W)",
+    "position": {
+        "x": -775054172160,
+        "y": 3130214031360,
+        "z": -2270848819200
+    },
+    "stargate_id": 50010414,
+    "system_id": 30004717,
+    "type_id": 17
+}

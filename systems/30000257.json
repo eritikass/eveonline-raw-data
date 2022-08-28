@@ -1,0 +1,69 @@
+{
+    "constellation_id": 20000036,
+    "name": "E-D0VZ",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40016179
+            ],
+            "planet_id": 40016178
+        },
+        {
+            "planet_id": 40016180
+        },
+        {
+            "asteroid_belts": [
+                40016183
+            ],
+            "moons": [
+                40016182
+            ],
+            "planet_id": 40016181
+        },
+        {
+            "asteroid_belts": [
+                40016185
+            ],
+            "moons": [
+                40016186,
+                40016187
+            ],
+            "planet_id": 40016184
+        },
+        {
+            "planet_id": 40016188
+        },
+        {
+            "asteroid_belts": [
+                40016190
+            ],
+            "moons": [
+                40016191
+            ],
+            "planet_id": 40016189
+        },
+        {
+            "planet_id": 40016192
+        },
+        {
+            "moons": [
+                40016194,
+                40016195
+            ],
+            "planet_id": 40016193
+        }
+    ],
+    "position": {
+        "x": -95505628490911230,
+        "y": 124225254991960740,
+        "z": 181937991932551230
+    },
+    "security_class": "H1",
+    "security_status": -0.27033889293670654,
+    "star_id": 40016177,
+    "stargates": [
+        50001551,
+        50001552
+    ],
+    "system_id": 30000257
+}

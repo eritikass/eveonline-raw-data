@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010253,
+        "system_id": 30002561
+    },
+    "name": "Stargate (Auren)",
+    "position": {
+        "x": -1850414161920,
+        "y": -3298725027840,
+        "z": 1765417328640
+    },
+    "stargate_id": 50005065,
+    "system_id": 30002552,
+    "type_id": 3877
+}

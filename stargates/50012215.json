@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011804,
+        "system_id": 30003174
+    },
+    "name": "Stargate (QS-530)",
+    "position": {
+        "x": -649242501120,
+        "y": 106050232320,
+        "z": 1036749250560
+    },
+    "stargate_id": 50012215,
+    "system_id": 30003175,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007855,
+        "system_id": 30003303
+    },
+    "name": "Stargate (6R-PWU)",
+    "position": {
+        "x": 1365394513920,
+        "y": -163799040,
+        "z": 2011496079360
+    },
+    "stargate_id": 50007545,
+    "system_id": 30003302,
+    "type_id": 3875
+}

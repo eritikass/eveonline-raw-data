@@ -1,0 +1,73 @@
+{
+    "constellation_id": 20000332,
+    "name": "Ahmak",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40144317
+            ],
+            "planet_id": 40144316
+        },
+        {
+            "asteroid_belts": [
+                40144319
+            ],
+            "planet_id": 40144318
+        },
+        {
+            "asteroid_belts": [
+                40144321
+            ],
+            "planet_id": 40144320
+        },
+        {
+            "asteroid_belts": [
+                40144323
+            ],
+            "moons": [
+                40144324
+            ],
+            "planet_id": 40144322
+        },
+        {
+            "asteroid_belts": [
+                40144326
+            ],
+            "moons": [
+                40144327
+            ],
+            "planet_id": 40144325
+        },
+        {
+            "asteroid_belts": [
+                40144329
+            ],
+            "moons": [
+                40144330
+            ],
+            "planet_id": 40144328
+        },
+        {
+            "moons": [
+                40144332,
+                40144333
+            ],
+            "planet_id": 40144331
+        }
+    ],
+    "position": {
+        "x": -188294247740163330,
+        "y": 61401304371588230,
+        "z": -103410349591592160
+    },
+    "security_class": "B1",
+    "security_status": 0.6017409563064575,
+    "star_id": 40144315,
+    "stargates": [
+        50012063
+    ],
+    "stations": [
+        60007753
+    ],
+    "system_id": 30002266
+}

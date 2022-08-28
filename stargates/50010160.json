@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010268,
+        "system_id": 30004521
+    },
+    "name": "Stargate (OX-RGN)",
+    "position": {
+        "x": 380218859520,
+        "y": 36691107840,
+        "z": -1928478597120
+    },
+    "stargate_id": 50010160,
+    "system_id": 30004520,
+    "type_id": 3875
+}

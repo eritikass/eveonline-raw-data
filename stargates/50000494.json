@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012974,
+        "system_id": 30004115
+    },
+    "name": "Stargate (Kamda)",
+    "position": {
+        "x": 952709898240,
+        "y": -3179679375360,
+        "z": 1437915586560
+    },
+    "stargate_id": 50000494,
+    "system_id": 30005192,
+    "type_id": 29626
+}

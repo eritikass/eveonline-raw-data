@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008573,
+        "system_id": 30002256
+    },
+    "name": "Stargate (Reyi)",
+    "position": {
+        "x": 999647846400,
+        "y": 140203253760,
+        "z": 2969385492480
+    },
+    "stargate_id": 50008557,
+    "system_id": 30002255,
+    "type_id": 29624
+}

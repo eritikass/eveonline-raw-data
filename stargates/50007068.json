@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008569,
+        "system_id": 30002603
+    },
+    "name": "Stargate (M-VEJZ)",
+    "position": {
+        "x": 129578065920,
+        "y": -15763660800,
+        "z": 86729072640
+    },
+    "stargate_id": 50007068,
+    "system_id": 30002601,
+    "type_id": 29633
+}

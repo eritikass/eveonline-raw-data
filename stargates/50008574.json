@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007961,
+        "system_id": 30000063
+    },
+    "name": "Stargate (Orva)",
+    "position": {
+        "x": 1877540413440,
+        "y": -346110812160,
+        "z": -1817142927360
+    },
+    "stargate_id": 50008574,
+    "system_id": 30000064,
+    "type_id": 29624
+}

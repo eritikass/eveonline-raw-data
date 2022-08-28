@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003046,
+        "system_id": 30000123
+    },
+    "name": "Stargate (Vaankalen)",
+    "position": {
+        "x": 1248411033600,
+        "y": 176115671040,
+        "z": -1279704883200
+    },
+    "stargate_id": 50000366,
+    "system_id": 30000119,
+    "type_id": 16
+}

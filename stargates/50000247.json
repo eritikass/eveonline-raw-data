@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004250,
+        "system_id": 30000793
+    },
+    "name": "Stargate (QTME-D)",
+    "position": {
+        "x": -2932266639360,
+        "y": -507798773760,
+        "z": -3321824747520
+    },
+    "stargate_id": 50000247,
+    "system_id": 30000789,
+    "type_id": 29633
+}

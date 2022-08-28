@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010085,
+        "system_id": 30003152
+    },
+    "name": "Stargate (SN9S-N)",
+    "position": {
+        "x": 1480711987200,
+        "y": -4747820113920,
+        "z": 101105786880
+    },
+    "stargate_id": 50010147,
+    "system_id": 30003154,
+    "type_id": 17
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003711,
+        "system_id": 30001673
+    },
+    "name": "Stargate (Shesha)",
+    "position": {
+        "x": 8381868318720,
+        "y": -1561599221760,
+        "z": 670616985600
+    },
+    "stargate_id": 50003740,
+    "system_id": 30001674,
+    "type_id": 29624
+}

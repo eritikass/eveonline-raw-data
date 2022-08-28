@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007169,
+        "system_id": 30000524
+    },
+    "name": "Stargate (E51-JE)",
+    "position": {
+        "x": 1866956759040,
+        "y": 328497930240,
+        "z": 3132620021760
+    },
+    "stargate_id": 50007143,
+    "system_id": 30000523,
+    "type_id": 29633
+}

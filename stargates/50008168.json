@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007663,
+        "system_id": 30003431
+    },
+    "name": "Stargate (Tratokard)",
+    "position": {
+        "x": -2095192596480,
+        "y": 328981831680,
+        "z": 8274638807040
+    },
+    "stargate_id": 50008168,
+    "system_id": 30003433,
+    "type_id": 29633
+}

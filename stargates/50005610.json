@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007360,
+        "system_id": 30002473
+    },
+    "name": "Stargate (UBX-CC)",
+    "position": {
+        "x": -1011110338560,
+        "y": -1645921443840,
+        "z": -1290878607360
+    },
+    "stargate_id": 50005610,
+    "system_id": 30002433,
+    "type_id": 29627
+}

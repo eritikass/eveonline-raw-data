@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006073,
+        "system_id": 30002861
+    },
+    "name": "Stargate (G4-QU6)",
+    "position": {
+        "x": 182721454080,
+        "y": 31258828800,
+        "z": 1425723678720
+    },
+    "stargate_id": 50006519,
+    "system_id": 30002862,
+    "type_id": 3875
+}

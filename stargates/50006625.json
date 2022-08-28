@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006910,
+        "system_id": 30005247
+    },
+    "name": "Stargate (Kobam)",
+    "position": {
+        "x": 91197972480,
+        "y": -13177282560,
+        "z": 381233602560
+    },
+    "stargate_id": 50006625,
+    "system_id": 30005245,
+    "type_id": 29624
+}

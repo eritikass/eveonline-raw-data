@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010229,
+        "system_id": 30003468
+    },
+    "name": "Stargate (Hroduko)",
+    "position": {
+        "x": 2737202503680,
+        "y": 163337379840,
+        "z": -1273973514240
+    },
+    "stargate_id": 50010225,
+    "system_id": 30003467,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004311,
+        "system_id": 30001694
+    },
+    "name": "Stargate (Abai)",
+    "position": {
+        "x": -2337035673600,
+        "y": -142818631680,
+        "z": -2833778810880
+    },
+    "stargate_id": 50005310,
+    "system_id": 30001696,
+    "type_id": 29624
+}

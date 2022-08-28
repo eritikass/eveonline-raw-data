@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001031,
+        "system_id": 30001179
+    },
+    "name": "Stargate (W9-DID)",
+    "position": {
+        "x": -971729510400,
+        "y": -169414778880,
+        "z": 97017569280
+    },
+    "stargate_id": 50001901,
+    "system_id": 30001180,
+    "type_id": 29624
+}

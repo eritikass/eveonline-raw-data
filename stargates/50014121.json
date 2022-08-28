@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014122,
+        "system_id": 30045042
+    },
+    "name": "Stargate (Conoban)",
+    "position": {
+        "x": 200919736320,
+        "y": -23471185920,
+        "z": 3205128560640
+    },
+    "stargate_id": 50014121,
+    "system_id": 30005037,
+    "type_id": 29624
+}

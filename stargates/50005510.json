@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004469,
+        "system_id": 30002988
+    },
+    "name": "Stargate (Nakatre)",
+    "position": {
+        "x": 3211951349760,
+        "y": 178541568000,
+        "z": -2882410045440
+    },
+    "stargate_id": 50005510,
+    "system_id": 30002993,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012362,
+        "system_id": 30002937
+    },
+    "name": "Stargate (3JN9-Q)",
+    "position": {
+        "x": -2017703731200,
+        "y": 132493271040,
+        "z": -2447193661440
+    },
+    "stargate_id": 50012188,
+    "system_id": 30002935,
+    "type_id": 16
+}

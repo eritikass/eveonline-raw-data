@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009468,
+        "system_id": 30004444
+    },
+    "name": "Stargate (BJ-ZFD)",
+    "position": {
+        "x": 346453401600,
+        "y": 33966612480,
+        "z": -150883737600
+    },
+    "stargate_id": 50009147,
+    "system_id": 30004443,
+    "type_id": 29633
+}

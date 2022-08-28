@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009479,
+        "system_id": 30004364
+    },
+    "name": "Stargate (LXWN-W)",
+    "position": {
+        "x": 1252149043200,
+        "y": -167615324160,
+        "z": 1181334528000
+    },
+    "stargate_id": 50011188,
+    "system_id": 30004370,
+    "type_id": 16
+}

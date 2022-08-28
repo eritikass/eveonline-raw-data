@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008166,
+        "system_id": 30003946
+    },
+    "name": "Stargate (O3L-95)",
+    "position": {
+        "x": -563922984960,
+        "y": -74052526080,
+        "z": 3064065024000
+    },
+    "stargate_id": 50007966,
+    "system_id": 30003943,
+    "type_id": 29624
+}

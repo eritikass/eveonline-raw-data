@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010813,
+        "system_id": 30003059
+    },
+    "name": "Stargate (Adeel)",
+    "position": {
+        "x": 2991911116800,
+        "y": 234628177920,
+        "z": 2542269112320
+    },
+    "stargate_id": 50008987,
+    "system_id": 30003058,
+    "type_id": 3875
+}

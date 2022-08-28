@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007521,
+        "system_id": 30005256
+    },
+    "name": "Stargate (Itrin)",
+    "position": {
+        "x": -2691340492800,
+        "y": 1420392652800,
+        "z": -2485288673280
+    },
+    "stargate_id": 50007472,
+    "system_id": 30005251,
+    "type_id": 17
+}

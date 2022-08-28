@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013515,
+        "system_id": 30001922
+    },
+    "name": "Stargate (ZH-KEV)",
+    "position": {
+        "x": -5705181388800,
+        "y": 828433981440,
+        "z": -278796165120
+    },
+    "stargate_id": 50013363,
+    "system_id": 30001918,
+    "type_id": 29624
+}

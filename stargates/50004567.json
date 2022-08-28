@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004538,
+        "system_id": 30001440
+    },
+    "name": "Stargate (Karjataimon)",
+    "position": {
+        "x": 469886361600,
+        "y": -869376000,
+        "z": -673153474560
+    },
+    "stargate_id": 50004567,
+    "system_id": 30001441,
+    "type_id": 16
+}

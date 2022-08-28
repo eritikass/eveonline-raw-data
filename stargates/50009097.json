@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009102,
+        "system_id": 30003979
+    },
+    "name": "Stargate (9CG6-H)",
+    "position": {
+        "x": 47359057920,
+        "y": 7615733760,
+        "z": 2838724485120
+    },
+    "stargate_id": 50009097,
+    "system_id": 30003978,
+    "type_id": 29624
+}

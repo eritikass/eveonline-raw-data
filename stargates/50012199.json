@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013374,
+        "system_id": 30004160
+    },
+    "name": "Stargate (Zorrabed)",
+    "position": {
+        "x": -296731238400,
+        "y": 42477035520,
+        "z": 1101560340480
+    },
+    "stargate_id": 50012199,
+    "system_id": 30004156,
+    "type_id": 29624
+}

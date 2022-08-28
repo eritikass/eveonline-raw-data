@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004960,
+        "system_id": 30001300
+    },
+    "name": "Stargate (4RX-EE)",
+    "position": {
+        "x": 2173312081920,
+        "y": 1993357025280,
+        "z": 6466371133440
+    },
+    "stargate_id": 50004292,
+    "system_id": 30001288,
+    "type_id": 29627
+}

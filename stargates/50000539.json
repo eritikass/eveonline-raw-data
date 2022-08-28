@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000870,
+        "system_id": 30001157
+    },
+    "name": "Stargate (36N-HZ)",
+    "position": {
+        "x": -3990560317440,
+        "y": 165594439680,
+        "z": -1158882877440
+    },
+    "stargate_id": 50000539,
+    "system_id": 30001163,
+    "type_id": 17
+}

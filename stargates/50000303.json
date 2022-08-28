@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003437,
+        "system_id": 30002647
+    },
+    "name": "Stargate (Ignoitton)",
+    "position": {
+        "x": -1065577881600,
+        "y": 79342510080,
+        "z": -371805020160
+    },
+    "stargate_id": 50000303,
+    "system_id": 30002642,
+    "type_id": 3875
+}

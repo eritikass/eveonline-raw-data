@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006653,
+        "system_id": 30003044
+    },
+    "name": "Stargate (Elarel)",
+    "position": {
+        "x": 415025602560,
+        "y": 5803795537920,
+        "z": 3089030307840
+    },
+    "stargate_id": 50007901,
+    "system_id": 30003057,
+    "type_id": 3874
+}

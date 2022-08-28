@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005016,
+        "system_id": 30002220
+    },
+    "name": "Stargate (Aghesi)",
+    "position": {
+        "x": -1136068485120,
+        "y": 850904064000,
+        "z": -2430379253760
+    },
+    "stargate_id": 50006261,
+    "system_id": 30003546,
+    "type_id": 17
+}

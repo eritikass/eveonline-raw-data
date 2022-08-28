@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011158,
+        "system_id": 30003182
+    },
+    "name": "Stargate (2R-KLH)",
+    "position": {
+        "x": -252778536960,
+        "y": -3661455360,
+        "z": -30175272960
+    },
+    "stargate_id": 50011033,
+    "system_id": 30003180,
+    "type_id": 29624
+}

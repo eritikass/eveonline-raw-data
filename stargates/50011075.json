@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010136,
+        "system_id": 30005281
+    },
+    "name": "Stargate (Exit)",
+    "position": {
+        "x": 3958374359040,
+        "y": -428189491200,
+        "z": 4417221304320
+    },
+    "stargate_id": 50011075,
+    "system_id": 30005282,
+    "type_id": 29624
+}

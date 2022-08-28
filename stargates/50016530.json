@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016531,
+        "system_id": 30002797
+    },
+    "name": "Stargate (Kaunokka)",
+    "position": {
+        "x": 9346525957127.52,
+        "y": 1386674550944.0576,
+        "z": 1280158440751.2808
+    },
+    "stargate_id": 50016530,
+    "system_id": 30001381,
+    "type_id": 56317
+}

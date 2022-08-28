@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002859,
+        "system_id": 30000264
+    },
+    "name": "Stargate (V-NL3K)",
+    "position": {
+        "x": 1170264023040,
+        "y": 12539535360,
+        "z": 3228879052800
+    },
+    "stargate_id": 50000231,
+    "system_id": 30000261,
+    "type_id": 16
+}

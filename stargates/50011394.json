@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012156,
+        "system_id": 30004566
+    },
+    "name": "Stargate (R3W-XU)",
+    "position": {
+        "x": -1897848053760,
+        "y": 112336281600,
+        "z": 6018633768960
+    },
+    "stargate_id": 50011394,
+    "system_id": 30004560,
+    "type_id": 3875
+}

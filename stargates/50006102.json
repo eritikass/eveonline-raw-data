@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005598,
+        "system_id": 30003793
+    },
+    "name": "Stargate (Harroule)",
+    "position": {
+        "x": 2149565276160,
+        "y": 4182624952320,
+        "z": 665271951360
+    },
+    "stargate_id": 50006102,
+    "system_id": 30003268,
+    "type_id": 3876
+}

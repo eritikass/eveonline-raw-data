@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009453,
+        "system_id": 30003129
+    },
+    "name": "Stargate (VUAC-Y)",
+    "position": {
+        "x": 272094044160,
+        "y": 37464514560,
+        "z": 78234624000
+    },
+    "stargate_id": 50009544,
+    "system_id": 30003131,
+    "type_id": 29624
+}

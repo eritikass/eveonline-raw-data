@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008492,
+        "system_id": 30003616
+    },
+    "name": "Stargate (NCG-PW)",
+    "position": {
+        "x": 114224947200,
+        "y": 938930626560,
+        "z": -1852786728960
+    },
+    "stargate_id": 50009019,
+    "system_id": 30003629,
+    "type_id": 29627
+}

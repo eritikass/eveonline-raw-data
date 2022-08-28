@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002242,
+        "system_id": 30004972
+    },
+    "name": "Stargate (Algogille)",
+    "position": {
+        "x": 786032271360,
+        "y": -1815846543360,
+        "z": -1271189053440
+    },
+    "stargate_id": 50006513,
+    "system_id": 30005015,
+    "type_id": 3874
+}

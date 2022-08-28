@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016368,
+        "system_id": 30045351
+    },
+    "name": "Stargate (Iwisoda)",
+    "position": {
+        "x": 297357926400,
+        "y": 8525783040,
+        "z": -257637457920
+    },
+    "stargate_id": 50016367,
+    "system_id": 30045349,
+    "type_id": 16
+}

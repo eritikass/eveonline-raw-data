@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008084,
+        "system_id": 30005253
+    },
+    "name": "Stargate (Chiga)",
+    "position": {
+        "x": -575617720320,
+        "y": 29091962880,
+        "z": 2805872271360
+    },
+    "stargate_id": 50007404,
+    "system_id": 30005250,
+    "type_id": 29624
+}

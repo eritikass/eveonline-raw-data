@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005920,
+        "system_id": 30002587
+    },
+    "name": "Stargate (AFJ-NB)",
+    "position": {
+        "x": -840297799680,
+        "y": 1191631626240,
+        "z": 3741428981760
+    },
+    "stargate_id": 50005923,
+    "system_id": 30002588,
+    "type_id": 3877
+}

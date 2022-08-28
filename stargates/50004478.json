@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004255,
+        "system_id": 30000302
+    },
+    "name": "Stargate (C-FP70)",
+    "position": {
+        "x": -3860659937280,
+        "y": 52897505280,
+        "z": -2391165542400
+    },
+    "stargate_id": 50004478,
+    "system_id": 30000303,
+    "type_id": 16
+}

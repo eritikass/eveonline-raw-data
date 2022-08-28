@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012250,
+        "system_id": 30005082
+    },
+    "name": "Stargate (Enal)",
+    "position": {
+        "x": -72941690880,
+        "y": -1615001395200,
+        "z": 424450252800
+    },
+    "stargate_id": 50012235,
+    "system_id": 30005081,
+    "type_id": 17
+}

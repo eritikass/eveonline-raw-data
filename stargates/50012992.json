@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012764,
+        "system_id": 30003605
+    },
+    "name": "Stargate (Eggheron)",
+    "position": {
+        "x": 5408094658560,
+        "y": -636130713600,
+        "z": -2091281571840
+    },
+    "stargate_id": 50012992,
+    "system_id": 30003606,
+    "type_id": 3875
+}

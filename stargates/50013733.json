@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013734,
+        "system_id": 30003522
+    },
+    "name": "Stargate (Sarum Prime)",
+    "position": {
+        "x": 2106409820160,
+        "y": 2212565852160,
+        "z": -1179634606080
+    },
+    "stargate_id": 50013733,
+    "system_id": 30002187,
+    "type_id": 17
+}

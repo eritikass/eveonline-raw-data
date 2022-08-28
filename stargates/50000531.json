@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001438,
+        "system_id": 30002304
+    },
+    "name": "Stargate (D-CR6W)",
+    "position": {
+        "x": 240786677760,
+        "y": 6355476480,
+        "z": -223775170560
+    },
+    "stargate_id": 50000531,
+    "system_id": 30002302,
+    "type_id": 3875
+}

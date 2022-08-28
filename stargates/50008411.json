@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008211,
+        "system_id": 30004335
+    },
+    "name": "Stargate (CX-1XF)",
+    "position": {
+        "x": -818582937600,
+        "y": -92285214720,
+        "z": -1170187345920
+    },
+    "stargate_id": 50008411,
+    "system_id": 30004336,
+    "type_id": 16
+}

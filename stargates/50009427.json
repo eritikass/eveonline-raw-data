@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009927,
+        "system_id": 30003465
+    },
+    "name": "Stargate (Tabbetzur)",
+    "position": {
+        "x": 261070479360,
+        "y": -42754007040,
+        "z": -442217717760
+    },
+    "stargate_id": 50009427,
+    "system_id": 30003460,
+    "type_id": 29633
+}

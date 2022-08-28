@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009145,
+        "system_id": 30004042
+    },
+    "name": "Stargate (DY-F70)",
+    "position": {
+        "x": -756768399360,
+        "y": -708725514240,
+        "z": -2806577356800
+    },
+    "stargate_id": 50009298,
+    "system_id": 30004043,
+    "type_id": 3874
+}

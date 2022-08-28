@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000145,
+        "system_id": 30002706
+    },
+    "name": "Stargate (Doussivitte)",
+    "position": {
+        "x": 2908086312960,
+        "y": -479857090560,
+        "z": 2892631941120
+    },
+    "stargate_id": 50002101,
+    "system_id": 30002711,
+    "type_id": 3875
+}

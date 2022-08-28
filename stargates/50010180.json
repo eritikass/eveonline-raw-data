@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009835,
+        "system_id": 30005174
+    },
+    "name": "Stargate (SY-OLX)",
+    "position": {
+        "x": -547604029440,
+        "y": 106577633280,
+        "z": -102586736640
+    },
+    "stargate_id": 50010180,
+    "system_id": 30005177,
+    "type_id": 3875
+}

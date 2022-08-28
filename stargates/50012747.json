@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012591,
+        "system_id": 30001819
+    },
+    "name": "Stargate (OW-QXW)",
+    "position": {
+        "x": -448964321280,
+        "y": 80021544960,
+        "z": -132738539520
+    },
+    "stargate_id": 50012747,
+    "system_id": 30001821,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011993,
+        "system_id": 30004072
+    },
+    "name": "Stargate (CX7-70)",
+    "position": {
+        "x": 1577441648640,
+        "y": 294259630080,
+        "z": 3584717414400
+    },
+    "stargate_id": 50012116,
+    "system_id": 30004073,
+    "type_id": 3875
+}

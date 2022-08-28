@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003338,
+        "system_id": 30002523
+    },
+    "name": "Stargate (Austraka)",
+    "position": {
+        "x": -2495158149120,
+        "y": 1403643125760,
+        "z": 1469511229440
+    },
+    "stargate_id": 50003396,
+    "system_id": 30002383,
+    "type_id": 29635
+}

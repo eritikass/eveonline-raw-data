@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009529,
+        "system_id": 30003130
+    },
+    "name": "Stargate (V-XANH)",
+    "position": {
+        "x": -2182007562240,
+        "y": -441504030720,
+        "z": 3328043950080
+    },
+    "stargate_id": 50009562,
+    "system_id": 30003132,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010537,
+        "system_id": 30001253
+    },
+    "name": "Stargate (CZK-ZQ)",
+    "position": {
+        "x": -3861442437120,
+        "y": -344882503680,
+        "z": -2836703846400
+    },
+    "stargate_id": 50009566,
+    "system_id": 30001251,
+    "type_id": 29624
+}

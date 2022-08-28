@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000700,
+        "system_id": 30004080
+    },
+    "name": "Stargate (Romi)",
+    "position": {
+        "x": 194694389760,
+        "y": -5950709760,
+        "z": -125135953920
+    },
+    "stargate_id": 50000187,
+    "system_id": 30004079,
+    "type_id": 29624
+}

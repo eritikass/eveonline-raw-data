@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000919,
+        "system_id": 30003064
+    },
+    "name": "Stargate (Tuomuta)",
+    "position": {
+        "x": -615844454400,
+        "y": 45586391040,
+        "z": 1036558049280
+    },
+    "stargate_id": 50001366,
+    "system_id": 30003066,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012305,
+        "system_id": 30000088
+    },
+    "name": "Stargate (Akeva)",
+    "position": {
+        "x": 1740308520960,
+        "y": -262393651200,
+        "z": -819954524160
+    },
+    "stargate_id": 50005727,
+    "system_id": 30000087,
+    "type_id": 29624
+}

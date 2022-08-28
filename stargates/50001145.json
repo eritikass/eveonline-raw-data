@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001352,
+        "system_id": 30000230
+    },
+    "name": "Stargate (NFM-0V)",
+    "position": {
+        "x": 183978762240,
+        "y": 30042316800,
+        "z": -455340810240
+    },
+    "stargate_id": 50001145,
+    "system_id": 30000229,
+    "type_id": 16
+}

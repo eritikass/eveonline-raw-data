@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010221,
+        "system_id": 30002273
+    },
+    "name": "Stargate (Porsharrah)",
+    "position": {
+        "x": -1039933808640,
+        "y": 104934727680,
+        "z": -1626039214080
+    },
+    "stargate_id": 50009891,
+    "system_id": 30002271,
+    "type_id": 29624
+}

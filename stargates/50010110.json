@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009838,
+        "system_id": 30003992
+    },
+    "name": "Stargate (DS-LO3)",
+    "position": {
+        "x": 1416410849280,
+        "y": 129034690560,
+        "z": -1496745123840
+    },
+    "stargate_id": 50010110,
+    "system_id": 30003995,
+    "type_id": 29624
+}

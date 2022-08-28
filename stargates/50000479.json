@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000804,
+        "system_id": 30001376
+    },
+    "name": "Stargate (Nourvukaiken)",
+    "position": {
+        "x": 1402544578560,
+        "y": 164549959680,
+        "z": -979429662720
+    },
+    "stargate_id": 50000479,
+    "system_id": 30001375,
+    "type_id": 16
+}

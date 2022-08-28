@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003522,
+        "system_id": 30001430
+    },
+    "name": "Stargate (Endatoh)",
+    "position": {
+        "x": -3724600811520,
+        "y": -563858104320,
+        "z": -1383220961280
+    },
+    "stargate_id": 50003298,
+    "system_id": 30001421,
+    "type_id": 29627
+}

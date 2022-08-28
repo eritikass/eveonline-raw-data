@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009850,
+        "system_id": 30002478
+    },
+    "name": "Stargate (AD-5B8)",
+    "position": {
+        "x": 274135326720,
+        "y": 23787970560,
+        "z": -248520744960
+    },
+    "stargate_id": 50008590,
+    "system_id": 30002476,
+    "type_id": 16
+}

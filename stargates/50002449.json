@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002841,
+        "system_id": 30002199
+    },
+    "name": "Stargate (Bashakru)",
+    "position": {
+        "x": 244693524480,
+        "y": 47080611840,
+        "z": -1750536314880
+    },
+    "stargate_id": 50002449,
+    "system_id": 30002198,
+    "type_id": 29624
+}

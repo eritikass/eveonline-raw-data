@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008617,
+        "system_id": 30002572
+    },
+    "name": "Stargate (Hurjafren)",
+    "position": {
+        "x": 3556786790400,
+        "y": 120820654080,
+        "z": -2753085972480
+    },
+    "stargate_id": 50008310,
+    "system_id": 30002571,
+    "type_id": 29633
+}

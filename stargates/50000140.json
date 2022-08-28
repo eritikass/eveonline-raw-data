@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000291,
+        "system_id": 30000083
+    },
+    "name": "Stargate (Ejahi)",
+    "position": {
+        "x": -1161446645760,
+        "y": -53141299200,
+        "z": 391406592000
+    },
+    "stargate_id": 50000140,
+    "system_id": 30000082,
+    "type_id": 29624
+}

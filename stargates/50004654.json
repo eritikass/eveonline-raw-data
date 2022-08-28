@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005543,
+        "system_id": 30003410
+    },
+    "name": "Stargate (Ryddinjorn)",
+    "position": {
+        "x": 435279175680,
+        "y": -5795143680,
+        "z": 118873497600
+    },
+    "stargate_id": 50004654,
+    "system_id": 30003409,
+    "type_id": 29633
+}

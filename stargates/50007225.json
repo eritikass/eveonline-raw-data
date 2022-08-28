@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007540,
+        "system_id": 30003684
+    },
+    "name": "Stargate (L-SCBU)",
+    "position": {
+        "x": 1061586247680,
+        "y": 146909306880,
+        "z": -4346572431360
+    },
+    "stargate_id": 50007225,
+    "system_id": 30003683,
+    "type_id": 3875
+}

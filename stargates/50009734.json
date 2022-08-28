@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009101,
+        "system_id": 30004886
+    },
+    "name": "Stargate (S-XZHU)",
+    "position": {
+        "x": -4556295905280,
+        "y": -514926059520,
+        "z": -966134538240
+    },
+    "stargate_id": 50009734,
+    "system_id": 30004889,
+    "type_id": 29633
+}

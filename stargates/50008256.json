@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007764,
+        "system_id": 30003898
+    },
+    "name": "Stargate (Seshala)",
+    "position": {
+        "x": -2562190909440,
+        "y": -323925811200,
+        "z": -4900933509120
+    },
+    "stargate_id": 50008256,
+    "system_id": 30003902,
+    "type_id": 29624
+}

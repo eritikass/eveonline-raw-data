@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007388,
+        "system_id": 30002878
+    },
+    "name": "Stargate (FZX-PU)",
+    "position": {
+        "x": 526776360960,
+        "y": 70054010880,
+        "z": -1456357416960
+    },
+    "stargate_id": 50007717,
+    "system_id": 30002879,
+    "type_id": 3875
+}

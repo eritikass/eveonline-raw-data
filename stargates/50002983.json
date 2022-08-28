@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000602,
+        "system_id": 30000089
+    },
+    "name": "Stargate (Sosa)",
+    "position": {
+        "x": -850175631360,
+        "y": -53317017600,
+        "z": 389240954880
+    },
+    "stargate_id": 50002983,
+    "system_id": 30000092,
+    "type_id": 29624
+}

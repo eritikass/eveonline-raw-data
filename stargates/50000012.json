@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001008,
+        "system_id": 30002852
+    },
+    "name": "Stargate (M3-H2Y)",
+    "position": {
+        "x": -3680917463040,
+        "y": -241636024320,
+        "z": 791593820160
+    },
+    "stargate_id": 50000012,
+    "system_id": 30002846,
+    "type_id": 3875
+}

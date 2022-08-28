@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011613,
+        "system_id": 30002152
+    },
+    "name": "Stargate (F76-8Q)",
+    "position": {
+        "x": -933965291520,
+        "y": -49553448960,
+        "z": -86030868480
+    },
+    "stargate_id": 50011540,
+    "system_id": 30002151,
+    "type_id": 29633
+}

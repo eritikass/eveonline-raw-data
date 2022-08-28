@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002626,
+        "system_id": 30000050
+    },
+    "name": "Stargate (Fera)",
+    "position": {
+        "x": -1199753502720,
+        "y": 215790182400,
+        "z": 8998563225600
+    },
+    "stargate_id": 50001568,
+    "system_id": 30000047,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008096,
+        "system_id": 30002393
+    },
+    "name": "Stargate (Aedald)",
+    "position": {
+        "x": 161398333440,
+        "y": 31555706880,
+        "z": 652925214720
+    },
+    "stargate_id": 50009306,
+    "system_id": 30002395,
+    "type_id": 29633
+}

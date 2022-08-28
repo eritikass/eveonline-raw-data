@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006472,
+        "system_id": 30000426
+    },
+    "name": "Stargate (H472-N)",
+    "position": {
+        "x": -1673712967680,
+        "y": 234816921600,
+        "z": -814731878400
+    },
+    "stargate_id": 50006424,
+    "system_id": 30000425,
+    "type_id": 3876
+}

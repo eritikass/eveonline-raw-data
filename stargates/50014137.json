@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014138,
+        "system_id": 30011407
+    },
+    "name": "Stargate (Akiainavas)",
+    "position": {
+        "x": -667189862400,
+        "y": 43831664640,
+        "z": -1454294016000
+    },
+    "stargate_id": 50014137,
+    "system_id": 30001404,
+    "type_id": 16
+}

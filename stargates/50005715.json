@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006451,
+        "system_id": 30001314
+    },
+    "name": "Stargate (SE-SHZ)",
+    "position": {
+        "x": 65549721600,
+        "y": 8030085120,
+        "z": -69675294720
+    },
+    "stargate_id": 50005715,
+    "system_id": 30001309,
+    "type_id": 16
+}

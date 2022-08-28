@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013703,
+        "system_id": 30002693
+    },
+    "name": "Stargate (Egghelende)",
+    "position": {
+        "x": -3900725207040,
+        "y": -1749595299840,
+        "z": 1199164661760
+    },
+    "stargate_id": 50013704,
+    "system_id": 30002539,
+    "type_id": 29634
+}

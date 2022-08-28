@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000766,
+        "system_id": 30002323
+    },
+    "name": "Stargate (JTA2-2)",
+    "position": {
+        "x": 500485201920,
+        "y": -75800862720,
+        "z": 1464743485440
+    },
+    "stargate_id": 50001345,
+    "system_id": 30002324,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010434,
+        "system_id": 30002680
+    },
+    "name": "Stargate (Augnais)",
+    "position": {
+        "x": -68931133440,
+        "y": -2550128640,
+        "z": -15932989440
+    },
+    "stargate_id": 50009777,
+    "system_id": 30002679,
+    "type_id": 3875
+}

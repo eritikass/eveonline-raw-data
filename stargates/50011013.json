@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010684,
+        "system_id": 30000317
+    },
+    "name": "Stargate (A3-RQ3)",
+    "position": {
+        "x": -600995880960,
+        "y": 35312885760,
+        "z": 79475712000
+    },
+    "stargate_id": 50011013,
+    "system_id": 30000318,
+    "type_id": 16
+}

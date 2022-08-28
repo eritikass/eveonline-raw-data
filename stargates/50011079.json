@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013452,
+        "system_id": 30000186
+    },
+    "name": "Stargate (Oijanen)",
+    "position": {
+        "x": 1364587929600,
+        "y": 157156515840,
+        "z": -3627088896000
+    },
+    "stargate_id": 50011079,
+    "system_id": 30000185,
+    "type_id": 16
+}

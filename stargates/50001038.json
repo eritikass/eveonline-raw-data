@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002108,
+        "system_id": 30000251
+    },
+    "name": "Stargate (49-0LI)",
+    "position": {
+        "x": -2639058247680,
+        "y": 441556131840,
+        "z": 4881543045120
+    },
+    "stargate_id": 50001038,
+    "system_id": 30000248,
+    "type_id": 16
+}

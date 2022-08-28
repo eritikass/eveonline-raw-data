@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010409,
+        "system_id": 30003660
+    },
+    "name": "Stargate (W0X-MG)",
+    "position": {
+        "x": 6502545285120,
+        "y": -1201003929600,
+        "z": 6274272829440
+    },
+    "stargate_id": 50010497,
+    "system_id": 30003661,
+    "type_id": 16
+}

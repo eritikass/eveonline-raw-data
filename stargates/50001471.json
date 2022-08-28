@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001835,
+        "system_id": 30000858
+    },
+    "name": "Stargate (UMI-KK)",
+    "position": {
+        "x": 3052972646400,
+        "y": -291238256640,
+        "z": 3742516224000
+    },
+    "stargate_id": 50001471,
+    "system_id": 30000857,
+    "type_id": 16
+}

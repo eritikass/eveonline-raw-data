@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003208,
+        "system_id": 30000979
+    },
+    "name": "Stargate (HB-1NJ)",
+    "position": {
+        "x": -75964293120,
+        "y": -9139691520,
+        "z": 77351116800
+    },
+    "stargate_id": 50003105,
+    "system_id": 30000978,
+    "type_id": 29633
+}

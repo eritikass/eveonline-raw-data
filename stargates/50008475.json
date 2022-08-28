@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008532,
+        "system_id": 30003554
+    },
+    "name": "Stargate (Jambu)",
+    "position": {
+        "x": 3318245253120,
+        "y": 203997634560,
+        "z": 897807360000
+    },
+    "stargate_id": 50008475,
+    "system_id": 30003553,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013921,
+        "system_id": 30000142
+    },
+    "name": "Stargate (Jita)",
+    "position": {
+        "x": 1264172605440,
+        "y": -42385612800,
+        "z": 1496728903680
+    },
+    "stargate_id": 50013922,
+    "system_id": 30000143,
+    "type_id": 16
+}

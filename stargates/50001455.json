@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000876,
+        "system_id": 30001645
+    },
+    "name": "Stargate (Tendhyes)",
+    "position": {
+        "x": -3842009210880,
+        "y": -577356718080,
+        "z": -2493232865280
+    },
+    "stargate_id": 50001455,
+    "system_id": 30001646,
+    "type_id": 29624
+}

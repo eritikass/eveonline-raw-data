@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012751,
+        "system_id": 30001595
+    },
+    "name": "Stargate (WIW-X8)",
+    "position": {
+        "x": -2551362478080,
+        "y": -402098626560,
+        "z": 3137081794560
+    },
+    "stargate_id": 50012794,
+    "system_id": 30001597,
+    "type_id": 3875
+}

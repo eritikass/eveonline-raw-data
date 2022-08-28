@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006881,
+        "system_id": 30001242
+    },
+    "name": "Stargate (KB-U56)",
+    "position": {
+        "x": -2232956313600,
+        "y": -84597104640,
+        "z": -1540372684800
+    },
+    "stargate_id": 50006666,
+    "system_id": 30001240,
+    "type_id": 29624
+}

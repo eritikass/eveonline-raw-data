@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004866,
+        "system_id": 30002447
+    },
+    "name": "Stargate (K42-IE)",
+    "position": {
+        "x": -2693401190400,
+        "y": -24311193600,
+        "z": 2198400245760
+    },
+    "stargate_id": 50005138,
+    "system_id": 30002448,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000574,
+        "system_id": 30000703
+    },
+    "name": "Stargate (U2-28D)",
+    "position": {
+        "x": -1970617835520,
+        "y": 306636840960,
+        "z": 1565487390720
+    },
+    "stargate_id": 50002789,
+    "system_id": 30000706,
+    "type_id": 29633
+}

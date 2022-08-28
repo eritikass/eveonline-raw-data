@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009693,
+        "system_id": 30002098
+    },
+    "name": "Stargate (Orfrold)",
+    "position": {
+        "x": -1100305244160,
+        "y": -75636203520,
+        "z": 627389276160
+    },
+    "stargate_id": 50009215,
+    "system_id": 30002097,
+    "type_id": 29633
+}

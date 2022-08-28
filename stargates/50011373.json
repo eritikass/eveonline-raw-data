@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011436,
+        "system_id": 30003585
+    },
+    "name": "Stargate (Aeter)",
+    "position": {
+        "x": -312976220160,
+        "y": 13853122560,
+        "z": -1051052236800
+    },
+    "stargate_id": 50011373,
+    "system_id": 30003584,
+    "type_id": 3875
+}

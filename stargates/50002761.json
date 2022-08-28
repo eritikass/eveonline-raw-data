@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003510,
+        "system_id": 30001003
+    },
+    "name": "Stargate (UW9B-F)",
+    "position": {
+        "x": -610604851200,
+        "y": 36912291840,
+        "z": -1455438028800
+    },
+    "stargate_id": 50002761,
+    "system_id": 30001002,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012990,
+        "system_id": 30003669
+    },
+    "name": "Stargate (Q1U-IU)",
+    "position": {
+        "x": 1550851153920,
+        "y": -15866880000,
+        "z": -754968207360
+    },
+    "stargate_id": 50011378,
+    "system_id": 30003664,
+    "type_id": 16
+}

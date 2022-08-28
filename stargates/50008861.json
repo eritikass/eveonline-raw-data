@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010600,
+        "system_id": 30003117
+    },
+    "name": "Stargate (NH-R5B)",
+    "position": {
+        "x": -79120834560,
+        "y": -11131330560,
+        "z": 962107023360
+    },
+    "stargate_id": 50008861,
+    "system_id": 30003114,
+    "type_id": 29624
+}

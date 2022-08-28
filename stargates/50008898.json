@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005935,
+        "system_id": 30001716
+    },
+    "name": "Stargate (Goni)",
+    "position": {
+        "x": -1992083005440,
+        "y": 297818972160,
+        "z": 983030292480
+    },
+    "stargate_id": 50008898,
+    "system_id": 30001718,
+    "type_id": 29624
+}

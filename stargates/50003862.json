@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007084,
+        "system_id": 30001137
+    },
+    "name": "Stargate (QSCO-D)",
+    "position": {
+        "x": 3277191782400,
+        "y": 158659829760,
+        "z": 833294376960
+    },
+    "stargate_id": 50003862,
+    "system_id": 30001132,
+    "type_id": 3875
+}

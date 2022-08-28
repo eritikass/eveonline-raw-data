@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002746,
+        "system_id": 30000798
+    },
+    "name": "Stargate (3AE-CP)",
+    "position": {
+        "x": -6570380697600,
+        "y": 859876024320,
+        "z": -3632758087680
+    },
+    "stargate_id": 50005021,
+    "system_id": 30000800,
+    "type_id": 29633
+}

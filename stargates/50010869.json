@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010912,
+        "system_id": 30002170
+    },
+    "name": "Stargate (CKX-RW)",
+    "position": {
+        "x": 1232254279680,
+        "y": 185959587840,
+        "z": -3119685181440
+    },
+    "stargate_id": 50010869,
+    "system_id": 30002169,
+    "type_id": 29633
+}

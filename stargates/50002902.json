@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000356,
+        "system_id": 30000673
+    },
+    "name": "Stargate (RNM-Y6)",
+    "position": {
+        "x": 1661939834880,
+        "y": -304525271040,
+        "z": -3495812014080
+    },
+    "stargate_id": 50002902,
+    "system_id": 30000677,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007016,
+        "system_id": 30003866
+    },
+    "name": "Stargate (Bukah)",
+    "position": {
+        "x": 4123918049280,
+        "y": 1010490040320,
+        "z": 1044354539520
+    },
+    "stargate_id": 50007095,
+    "system_id": 30003882,
+    "type_id": 17
+}

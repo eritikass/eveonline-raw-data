@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009722,
+        "system_id": 30003123
+    },
+    "name": "Stargate (CR-0E5)",
+    "position": {
+        "x": -6359997358080,
+        "y": 1089299619840,
+        "z": 739085475840
+    },
+    "stargate_id": 50010256,
+    "system_id": 30003124,
+    "type_id": 29624
+}

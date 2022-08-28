@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001464,
+        "system_id": 30001652
+    },
+    "name": "Stargate (Pimsu)",
+    "position": {
+        "x": 73810206720,
+        "y": -1451089920,
+        "z": 32017489920
+    },
+    "stargate_id": 50001024,
+    "system_id": 30001650,
+    "type_id": 29624
+}

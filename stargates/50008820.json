@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008779,
+        "system_id": 30003110
+    },
+    "name": "Stargate (X-7BIX)",
+    "position": {
+        "x": 3083973058560,
+        "y": 614093168640,
+        "z": -1860047708160
+    },
+    "stargate_id": 50008820,
+    "system_id": 30003111,
+    "type_id": 29624
+}

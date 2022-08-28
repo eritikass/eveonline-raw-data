@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003404,
+        "system_id": 30001205
+    },
+    "name": "Stargate (CB4-Q2)",
+    "position": {
+        "x": 2781763215360,
+        "y": -201958809600,
+        "z": -291553320960
+    },
+    "stargate_id": 50007364,
+    "system_id": 30001207,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009490,
+        "system_id": 30002380
+    },
+    "name": "Stargate (RK-Q51)",
+    "position": {
+        "x": -341963120640,
+        "y": -2930247229440,
+        "z": -2850344017920
+    },
+    "stargate_id": 50002383,
+    "system_id": 30002305,
+    "type_id": 3874
+}

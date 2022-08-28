@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013151,
+        "system_id": 30004663
+    },
+    "name": "Stargate (LBGI-2)",
+    "position": {
+        "x": -4175371345920,
+        "y": 174937989120,
+        "z": 2551579975680
+    },
+    "stargate_id": 50013438,
+    "system_id": 30004665,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008608,
+        "system_id": 30002615
+    },
+    "name": "Stargate (PZMA-E)",
+    "position": {
+        "x": -915164405760,
+        "y": 20304814080,
+        "z": 837088665600
+    },
+    "stargate_id": 50008514,
+    "system_id": 30002614,
+    "type_id": 29633
+}

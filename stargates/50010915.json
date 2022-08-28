@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010495,
+        "system_id": 30003240
+    },
+    "name": "Stargate (U-RELP)",
+    "position": {
+        "x": -5248675553280,
+        "y": -327783997440,
+        "z": -69547008000
+    },
+    "stargate_id": 50010915,
+    "system_id": 30003241,
+    "type_id": 3875
+}

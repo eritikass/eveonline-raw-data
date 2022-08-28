@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013216,
+        "system_id": 30002735
+    },
+    "name": "Stargate (Caretyn)",
+    "position": {
+        "x": -2025306316800,
+        "y": -2125479075840,
+        "z": 3007359344640
+    },
+    "stargate_id": 50001764,
+    "system_id": 30002699,
+    "type_id": 3874
+}

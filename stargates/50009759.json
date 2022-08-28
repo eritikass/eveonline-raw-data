@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010257,
+        "system_id": 30003296
+    },
+    "name": "Stargate (0EK-NJ)",
+    "position": {
+        "x": 4967664476160,
+        "y": -889886760960,
+        "z": 7668092805120
+    },
+    "stargate_id": 50009759,
+    "system_id": 30003295,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014116,
+        "system_id": 30015042
+    },
+    "name": "Stargate (Akhwa)",
+    "position": {
+        "x": 784726548480,
+        "y": 66772131840,
+        "z": -139176468480
+    },
+    "stargate_id": 50014115,
+    "system_id": 30004102,
+    "type_id": 29624
+}

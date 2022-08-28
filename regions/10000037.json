@@ -1,0 +1,14 @@
+{
+    "constellations": [
+        20000441,
+        20000442,
+        20000443,
+        20000444,
+        20000445,
+        20000446,
+        20000447
+    ],
+    "description": "The first region that the Federation colonized after Essence was Everyshore. The asteroid belts of this region were found to hold significant amounts of Veldspar and Scordite, which the Federation mined with a vigor never seen before in order to fuel construction projects that their quickly expanding borders required. When the belts were mined to a level that made large scale operations uneconomical, greedy eyes turned towards the planets, intent on mining these for minerals.\r\n\r\nAn incident on a lush jungle planet in the Aclan system forced the government to intervene. Astral Mining, filling a large contract for the Federation Navy, introduced a herbicide into the atmosphere to clear the jungle and enable mining to begin. Outraged at this senseless destruction, where many species of flora and fauna were lost that had not even been studied, prominent ecologists managed to force a bill through the Senate: no planet that supported any life-form was to have its ecosystem tampered with in any way without a license being granted from the Federation Senate. This law became known as The Aclan Agreement and it remains in place to this day.",
+    "name": "Everyshore",
+    "region_id": 10000037
+}

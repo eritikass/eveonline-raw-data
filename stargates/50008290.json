@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008480,
+        "system_id": 30003331
+    },
+    "name": "Stargate (A9D-R0)",
+    "position": {
+        "x": -3516783206400,
+        "y": 14009917440,
+        "z": 1646656757760
+    },
+    "stargate_id": 50008290,
+    "system_id": 30003327,
+    "type_id": 3875
+}

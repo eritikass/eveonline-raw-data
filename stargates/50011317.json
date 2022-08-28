@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010858,
+        "system_id": 30002488
+    },
+    "name": "Stargate (U6D-9A)",
+    "position": {
+        "x": -8092011110400,
+        "y": 518649815040,
+        "z": 7218280243200
+    },
+    "stargate_id": 50011317,
+    "system_id": 30002489,
+    "type_id": 16
+}

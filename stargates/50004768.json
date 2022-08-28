@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003425,
+        "system_id": 30002967
+    },
+    "name": "Stargate (Dihra)",
+    "position": {
+        "x": 596648878080,
+        "y": -4486371532800,
+        "z": 5318137159680
+    },
+    "stargate_id": 50004768,
+    "system_id": 30002995,
+    "type_id": 17
+}

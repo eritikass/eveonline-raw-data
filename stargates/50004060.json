@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003998,
+        "system_id": 30003396
+    },
+    "name": "Stargate (Maturat)",
+    "position": {
+        "x": -4627127132160,
+        "y": -786145320960,
+        "z": -1549886545920
+    },
+    "stargate_id": 50004060,
+    "system_id": 30003397,
+    "type_id": 29633
+}

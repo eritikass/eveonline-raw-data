@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001164,
+        "system_id": 30000128
+    },
+    "name": "Stargate (Tuuriainas)",
+    "position": {
+        "x": 1304517058560,
+        "y": 206603427840,
+        "z": 389461155840
+    },
+    "stargate_id": 50000528,
+    "system_id": 30000127,
+    "type_id": 16
+}

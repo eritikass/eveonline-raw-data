@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011224,
+        "system_id": 30004020
+    },
+    "name": "Stargate (ED-L9T)",
+    "position": {
+        "x": -827993579520,
+        "y": 78158438400,
+        "z": -1428563189760
+    },
+    "stargate_id": 50010335,
+    "system_id": 30004019,
+    "type_id": 29624
+}

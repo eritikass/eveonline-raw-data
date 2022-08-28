@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013644,
+        "system_id": 30001388
+    },
+    "name": "Stargate (Mara)",
+    "position": {
+        "x": 37933424640,
+        "y": 2829598187520,
+        "z": 442681466880
+    },
+    "stargate_id": 50013643,
+    "system_id": 30002758,
+    "type_id": 29629
+}

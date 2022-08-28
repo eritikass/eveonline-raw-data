@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002486,
+        "system_id": 30001656
+    },
+    "name": "Stargate (Ivih)",
+    "position": {
+        "x": 9717971804160,
+        "y": -835511869440,
+        "z": 101165260800
+    },
+    "stargate_id": 50005996,
+    "system_id": 30001659,
+    "type_id": 29624
+}

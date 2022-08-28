@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002119,
+        "system_id": 30001020
+    },
+    "name": "Stargate (KLMT-W)",
+    "position": {
+        "x": 503605370880,
+        "y": -35712245760,
+        "z": 556130672640
+    },
+    "stargate_id": 50000061,
+    "system_id": 30001016,
+    "type_id": 29633
+}

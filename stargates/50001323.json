@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004388,
+        "system_id": 30002843
+    },
+    "name": "Stargate (BM-VYZ)",
+    "position": {
+        "x": -3110125117440,
+        "y": -589968138240,
+        "z": 1859693322240
+    },
+    "stargate_id": 50001323,
+    "system_id": 30002840,
+    "type_id": 3875
+}

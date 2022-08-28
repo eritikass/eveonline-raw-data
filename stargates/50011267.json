@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012035,
+        "system_id": 30001739
+    },
+    "name": "Stargate (Sharios)",
+    "position": {
+        "x": 3656245862400,
+        "y": -392230625280,
+        "z": -7683325992960
+    },
+    "stargate_id": 50011267,
+    "system_id": 30001737,
+    "type_id": 29624
+}

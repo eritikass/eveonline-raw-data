@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003023,
+        "system_id": 30005094
+    },
+    "name": "Stargate (AY9X-Q)",
+    "position": {
+        "x": -3665544192000,
+        "y": -63914434560,
+        "z": -1325690511360
+    },
+    "stargate_id": 50004725,
+    "system_id": 30005095,
+    "type_id": 3875
+}

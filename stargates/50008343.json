@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008293,
+        "system_id": 30005057
+    },
+    "name": "Stargate (Shaha)",
+    "position": {
+        "x": 1286590586880,
+        "y": -235941273600,
+        "z": 469938216960
+    },
+    "stargate_id": 50008343,
+    "system_id": 30005058,
+    "type_id": 29624
+}

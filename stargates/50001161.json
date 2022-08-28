@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001154,
+        "system_id": 30000779
+    },
+    "name": "Stargate (SHBF-V)",
+    "position": {
+        "x": -501045780480,
+        "y": -16258375680,
+        "z": -1509113733120
+    },
+    "stargate_id": 50001161,
+    "system_id": 30000780,
+    "type_id": 29633
+}

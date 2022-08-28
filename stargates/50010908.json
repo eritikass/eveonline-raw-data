@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011020,
+        "system_id": 30005173
+    },
+    "name": "Stargate (VWES-Y)",
+    "position": {
+        "x": -1989798174720,
+        "y": -265239552000,
+        "z": -1025309614080
+    },
+    "stargate_id": 50010908,
+    "system_id": 30005172,
+    "type_id": 3875
+}

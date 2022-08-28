@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010274,
+        "system_id": 30004230
+    },
+    "name": "Stargate (Van)",
+    "position": {
+        "x": -5795100549120,
+        "y": 1953786224640,
+        "z": -2811554734080
+    },
+    "stargate_id": 50009998,
+    "system_id": 30005274,
+    "type_id": 29626
+}

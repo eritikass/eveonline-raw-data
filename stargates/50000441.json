@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000108,
+        "system_id": 30003024
+    },
+    "name": "Stargate (Marosier)",
+    "position": {
+        "x": 2141101547520,
+        "y": -362823966720,
+        "z": -604737576960
+    },
+    "stargate_id": 50000441,
+    "system_id": 30003027,
+    "type_id": 3875
+}

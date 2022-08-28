@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001607,
+        "system_id": 30000625
+    },
+    "name": "Stargate (VK-A5G)",
+    "position": {
+        "x": -932185497600,
+        "y": -143395184640,
+        "z": 2468931379200
+    },
+    "stargate_id": 50001670,
+    "system_id": 30000626,
+    "type_id": 29633
+}

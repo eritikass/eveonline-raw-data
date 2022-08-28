@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004328,
+        "system_id": 30002341
+    },
+    "name": "Stargate (N-SFZK)",
+    "position": {
+        "x": 2163779788800,
+        "y": -426996817920,
+        "z": -2024731238400
+    },
+    "stargate_id": 50004055,
+    "system_id": 30002339,
+    "type_id": 3875
+}

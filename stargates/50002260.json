@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000635,
+        "system_id": 30000541
+    },
+    "name": "Stargate (X-ARMF)",
+    "position": {
+        "x": 314088284160,
+        "y": -52947394560,
+        "z": -216055848960
+    },
+    "stargate_id": 50002260,
+    "system_id": 30000545,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010979,
+        "system_id": 30004008
+    },
+    "name": "Stargate (5V-BJI)",
+    "position": {
+        "x": -2962085928960,
+        "y": -412581027840,
+        "z": 8658247680
+    },
+    "stargate_id": 50009907,
+    "system_id": 30004004,
+    "type_id": 29624
+}

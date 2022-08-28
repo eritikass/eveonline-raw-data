@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007538,
+        "system_id": 30005232
+    },
+    "name": "Stargate (Pamah)",
+    "position": {
+        "x": 11964702720,
+        "y": 1353031680,
+        "z": -151955005440
+    },
+    "stargate_id": 50007548,
+    "system_id": 30005233,
+    "type_id": 29624
+}

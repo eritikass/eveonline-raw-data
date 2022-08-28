@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006755,
+        "system_id": 30002404
+    },
+    "name": "Stargate (Half)",
+    "position": {
+        "x": -581571010560,
+        "y": -101460172800,
+        "z": -216842035200
+    },
+    "stargate_id": 50006379,
+    "system_id": 30002403,
+    "type_id": 29633
+}

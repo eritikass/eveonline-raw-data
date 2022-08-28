@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005393,
+        "system_id": 30003402
+    },
+    "name": "Stargate (Totkubad)",
+    "position": {
+        "x": 657429258240,
+        "y": -110603919360,
+        "z": -4713487196160
+    },
+    "stargate_id": 50006337,
+    "system_id": 30003403,
+    "type_id": 29633
+}

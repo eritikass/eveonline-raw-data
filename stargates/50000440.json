@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000122,
+        "system_id": 30003488
+    },
+    "name": "Stargate (Penirgman)",
+    "position": {
+        "x": -2316282961920,
+        "y": 119369687040,
+        "z": -926422917120
+    },
+    "stargate_id": 50000440,
+    "system_id": 30003489,
+    "type_id": 29624
+}

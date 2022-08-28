@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003783,
+        "system_id": 30001560
+    },
+    "name": "Stargate (L7-BLT)",
+    "position": {
+        "x": -397916037120,
+        "y": 9115361280,
+        "z": -909129768960
+    },
+    "stargate_id": 50002947,
+    "system_id": 30001557,
+    "type_id": 3875
+}

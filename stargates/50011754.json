@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012393,
+        "system_id": 30004398
+    },
+    "name": "Stargate (ME-4IU)",
+    "position": {
+        "x": 434359296000,
+        "y": -72007311360,
+        "z": 1229936025600
+    },
+    "stargate_id": 50011754,
+    "system_id": 30004397,
+    "type_id": 16
+}

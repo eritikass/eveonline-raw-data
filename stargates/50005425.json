@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005745,
+        "system_id": 30001284
+    },
+    "name": "Stargate (92K-H2)",
+    "position": {
+        "x": 3716070236160,
+        "y": -558340792320,
+        "z": 6296820572160
+    },
+    "stargate_id": 50005425,
+    "system_id": 30001282,
+    "type_id": 16
+}

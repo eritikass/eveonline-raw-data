@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000223,
+        "system_id": 30001022
+    },
+    "name": "Stargate (AAM-1A)",
+    "position": {
+        "x": -900092928000,
+        "y": 46572625920,
+        "z": -125070336000
+    },
+    "stargate_id": 50001904,
+    "system_id": 30001026,
+    "type_id": 29633
+}

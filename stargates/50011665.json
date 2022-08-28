@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011596,
+        "system_id": 30004583
+    },
+    "name": "Stargate (IGE-RI)",
+    "position": {
+        "x": -1982208122880,
+        "y": -1017882255360,
+        "z": 2178064834560
+    },
+    "stargate_id": 50011665,
+    "system_id": 30004590,
+    "type_id": 3874
+}

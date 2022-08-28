@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011090,
+        "system_id": 30004248
+    },
+    "name": "Stargate (Haimeh)",
+    "position": {
+        "x": -4694165790720,
+        "y": -11136285696000,
+        "z": -3419613880320
+    },
+    "stargate_id": 50010971,
+    "system_id": 30004241,
+    "type_id": 17
+}

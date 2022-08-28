@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006822,
+        "system_id": 30003549
+    },
+    "name": "Stargate (Lashkai)",
+    "position": {
+        "x": 72913674240,
+        "y": 1281515520,
+        "z": -4008914657280
+    },
+    "stargate_id": 50006913,
+    "system_id": 30003550,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005808,
+        "system_id": 30005325
+    },
+    "name": "Stargate (Masalle)",
+    "position": {
+        "x": -3166090076160,
+        "y": 277168496640,
+        "z": -3539978280960
+    },
+    "stargate_id": 50005669,
+    "system_id": 30005324,
+    "type_id": 3875
+}

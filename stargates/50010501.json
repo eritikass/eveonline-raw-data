@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004617,
+        "system_id": 30002060
+    },
+    "name": "Stargate (Evati)",
+    "position": {
+        "x": 1430044876800,
+        "y": -113126154240,
+        "z": -1166111662080
+    },
+    "stargate_id": 50010501,
+    "system_id": 30002066,
+    "type_id": 29633
+}

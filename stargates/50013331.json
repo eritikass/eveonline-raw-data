@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013063,
+        "system_id": 30004628
+    },
+    "name": "Stargate (3ZTV-V)",
+    "position": {
+        "x": 5508195164160,
+        "y": 29181911040,
+        "z": -1902720245760
+    },
+    "stargate_id": 50013331,
+    "system_id": 30004629,
+    "type_id": 3875
+}

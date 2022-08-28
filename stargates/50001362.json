@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005939,
+        "system_id": 30000935
+    },
+    "name": "Stargate (ZM-DNR)",
+    "position": {
+        "x": -3078825615360,
+        "y": 291566837760,
+        "z": -370988851200
+    },
+    "stargate_id": 50001362,
+    "system_id": 30000927,
+    "type_id": 29633
+}

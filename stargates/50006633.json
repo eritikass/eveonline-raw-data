@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007058,
+        "system_id": 30005011
+    },
+    "name": "Stargate (Droselory)",
+    "position": {
+        "x": -763609128960,
+        "y": 134589603840,
+        "z": -3460798341120
+    },
+    "stargate_id": 50006633,
+    "system_id": 30005010,
+    "type_id": 3875
+}

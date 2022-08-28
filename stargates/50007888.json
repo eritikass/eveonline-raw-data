@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008905,
+        "system_id": 30000065
+    },
+    "name": "Stargate (Akhrad)",
+    "position": {
+        "x": 1747148021760,
+        "y": 84043653120,
+        "z": -1919990292480
+    },
+    "stargate_id": 50007888,
+    "system_id": 30000062,
+    "type_id": 29624
+}

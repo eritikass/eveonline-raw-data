@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002898,
+        "system_id": 30002677
+    },
+    "name": "Stargate (Fluekele)",
+    "position": {
+        "x": 2157773905920,
+        "y": -53042012160,
+        "z": 2976584540160
+    },
+    "stargate_id": 50001151,
+    "system_id": 30002676,
+    "type_id": 3875
+}

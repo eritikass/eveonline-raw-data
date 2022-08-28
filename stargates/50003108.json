@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003544,
+        "system_id": 30000042
+    },
+    "name": "Stargate (Moh)",
+    "position": {
+        "x": -75665448960,
+        "y": 5650882560,
+        "z": 40016732160
+    },
+    "stargate_id": 50003108,
+    "system_id": 30000041,
+    "type_id": 29624
+}

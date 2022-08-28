@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005423,
+        "system_id": 30001282
+    },
+    "name": "Stargate (OZ-VAE)",
+    "position": {
+        "x": 1108987207680,
+        "y": 172468592640,
+        "z": 3258717757440
+    },
+    "stargate_id": 50003588,
+    "system_id": 30001280,
+    "type_id": 16
+}

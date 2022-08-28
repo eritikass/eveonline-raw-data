@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009959,
+        "system_id": 30000136
+    },
+    "name": "Stargate (Ohmahailen)",
+    "position": {
+        "x": -1044904304640,
+        "y": -60645089280,
+        "z": 746233405440
+    },
+    "stargate_id": 50006033,
+    "system_id": 30000134,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013005,
+        "system_id": 30004206
+    },
+    "name": "Stargate (4LNE-M)",
+    "position": {
+        "x": -1745763409920,
+        "y": -239097077760,
+        "z": -1792664739840
+    },
+    "stargate_id": 50013034,
+    "system_id": 30004207,
+    "type_id": 3875
+}

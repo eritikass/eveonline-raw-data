@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010146,
+        "system_id": 30005136
+    },
+    "name": "Stargate (JPEZ-R)",
+    "position": {
+        "x": 1444945059840,
+        "y": 277614305280,
+        "z": 254825717760
+    },
+    "stargate_id": 50008430,
+    "system_id": 30005134,
+    "type_id": 3875
+}

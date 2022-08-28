@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004707,
+        "system_id": 30003715
+    },
+    "name": "Stargate (T-RPFU)",
+    "position": {
+        "x": -3509527633920,
+        "y": -56650014720,
+        "z": 193282007040
+    },
+    "stargate_id": 50003124,
+    "system_id": 30003709,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000771,
+        "system_id": 30002668
+    },
+    "name": "Stargate (Trosquesere)",
+    "position": {
+        "x": -354625658880,
+        "y": 21859000320,
+        "z": -362784399360
+    },
+    "stargate_id": 50004163,
+    "system_id": 30002671,
+    "type_id": 3875
+}

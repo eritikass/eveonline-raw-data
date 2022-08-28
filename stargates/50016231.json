@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016232,
+        "system_id": 30045306
+    },
+    "name": "Stargate (Hykanima)",
+    "position": {
+        "x": -5687672709120,
+        "y": -80404193280,
+        "z": -5866985840640
+    },
+    "stargate_id": 50016231,
+    "system_id": 30045309,
+    "type_id": 16
+}

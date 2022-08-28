@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009319,
+        "system_id": 30002559
+    },
+    "name": "Stargate (Ingunn)",
+    "position": {
+        "x": -935992565760,
+        "y": -105220792320,
+        "z": 5128893603840
+    },
+    "stargate_id": 50009684,
+    "system_id": 30002560,
+    "type_id": 29633
+}

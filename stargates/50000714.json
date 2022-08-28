@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000430,
+        "system_id": 30000907
+    },
+    "name": "Stargate (6EG7-R)",
+    "position": {
+        "x": -685533880320,
+        "y": 8572590612480,
+        "z": 2741364449280
+    },
+    "stargate_id": 50000714,
+    "system_id": 30000938,
+    "type_id": 3877
+}

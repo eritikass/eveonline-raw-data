@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013984,
+        "system_id": 30000502
+    },
+    "name": "Stargate (E-1XVP)",
+    "position": {
+        "x": -965929820160,
+        "y": -1262247813120,
+        "z": -743239311360
+    },
+    "stargate_id": 50013983,
+    "system_id": 30000463,
+    "type_id": 3877
+}

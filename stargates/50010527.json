@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010635,
+        "system_id": 30002920
+    },
+    "name": "Stargate (DKUK-G)",
+    "position": {
+        "x": 730040279040,
+        "y": 32297164800,
+        "z": 1196601139200
+    },
+    "stargate_id": 50010527,
+    "system_id": 30002918,
+    "type_id": 16
+}

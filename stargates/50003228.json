@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005649,
+        "system_id": 30001700
+    },
+    "name": "Stargate (Remoriu)",
+    "position": {
+        "x": -572470272000,
+        "y": -3788946432000,
+        "z": 3978468188160
+    },
+    "stargate_id": 50003228,
+    "system_id": 30001671,
+    "type_id": 17
+}

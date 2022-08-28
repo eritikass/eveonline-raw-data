@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016334,
+        "system_id": 30045336
+    },
+    "name": "Stargate (Elunala)",
+    "position": {
+        "x": -319118254080,
+        "y": -1472471040,
+        "z": -203650375680
+    },
+    "stargate_id": 50016333,
+    "system_id": 30045332,
+    "type_id": 16
+}

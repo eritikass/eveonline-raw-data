@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000004,
+        "system_id": 30001386
+    },
+    "name": "Stargate (Saatuban)",
+    "position": {
+        "x": 807304765440,
+        "y": 105648168960,
+        "z": 674340495360
+    },
+    "stargate_id": 50001270,
+    "system_id": 30001389,
+    "type_id": 16
+}

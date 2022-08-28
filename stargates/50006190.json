@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007727,
+        "system_id": 30000183
+    },
+    "name": "Stargate (Nuken)",
+    "position": {
+        "x": -2453957468160,
+        "y": 384828579840,
+        "z": 5603927040000
+    },
+    "stargate_id": 50006190,
+    "system_id": 30000181,
+    "type_id": 16
+}

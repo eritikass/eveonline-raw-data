@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011237,
+        "system_id": 30004026
+    },
+    "name": "Stargate (YQX-7U)",
+    "position": {
+        "x": -1153164779520,
+        "y": 116521082880,
+        "z": 1028557824000
+    },
+    "stargate_id": 50011671,
+    "system_id": 30004029,
+    "type_id": 29624
+}

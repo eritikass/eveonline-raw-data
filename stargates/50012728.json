@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012906,
+        "system_id": 30001830
+    },
+    "name": "Stargate (RQNF-9)",
+    "position": {
+        "x": 5399822622720,
+        "y": 550112747520,
+        "z": 1762397429760
+    },
+    "stargate_id": 50012728,
+    "system_id": 30001828,
+    "type_id": 3875
+}

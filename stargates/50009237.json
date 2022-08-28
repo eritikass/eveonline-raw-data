@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010213,
+        "system_id": 30004354
+    },
+    "name": "Stargate (QXQ-BA)",
+    "position": {
+        "x": -3307837071360,
+        "y": -179315712000,
+        "z": -701309214720
+    },
+    "stargate_id": 50009237,
+    "system_id": 30004353,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013718,
+        "system_id": 30005321
+    },
+    "name": "Stargate (Jovainnon)",
+    "position": {
+        "x": 180640358400,
+        "y": -6140834979840,
+        "z": 2775537868800
+    },
+    "stargate_id": 50013717,
+    "system_id": 30005008,
+    "type_id": 29632
+}

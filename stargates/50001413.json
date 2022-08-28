@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000659,
+        "system_id": 30003490
+    },
+    "name": "Stargate (Khopa)",
+    "position": {
+        "x": -573605683200,
+        "y": -1080693596160,
+        "z": 5798904913920
+    },
+    "stargate_id": 50001413,
+    "system_id": 30001651,
+    "type_id": 29626
+}

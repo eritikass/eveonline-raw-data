@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009733,
+        "system_id": 30004889
+    },
+    "name": "Stargate (C-WPWH)",
+    "position": {
+        "x": 1240407613440,
+        "y": 133199093760,
+        "z": -2424308736000
+    },
+    "stargate_id": 50009080,
+    "system_id": 30004885,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000478,
+        "system_id": 30001375
+    },
+    "name": "Stargate (Tsuguwa)",
+    "position": {
+        "x": -807431086080,
+        "y": 32517365760,
+        "z": 663673528320
+    },
+    "stargate_id": 50000458,
+    "system_id": 30001374,
+    "type_id": 16
+}

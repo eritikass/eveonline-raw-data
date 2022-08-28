@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000991,
+        "system_id": 30000862
+    },
+    "name": "Stargate (N-FK87)",
+    "position": {
+        "x": 3173637365760,
+        "y": -4593985904640,
+        "z": 1131867217920
+    },
+    "stargate_id": 50000882,
+    "system_id": 30000853,
+    "type_id": 29627
+}

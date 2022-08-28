@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010469,
+        "system_id": 30003765
+    },
+    "name": "Stargate (IWZ3-C)",
+    "position": {
+        "x": 4658429337600,
+        "y": 58114744320,
+        "z": -3040336650240
+    },
+    "stargate_id": 50010029,
+    "system_id": 30003764,
+    "type_id": 29624
+}

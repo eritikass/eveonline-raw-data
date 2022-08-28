@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010981,
+        "system_id": 30004052
+    },
+    "name": "Stargate (OU-X3P)",
+    "position": {
+        "x": -6621643284480,
+        "y": 247969505280,
+        "z": -3252894474240
+    },
+    "stargate_id": 50010922,
+    "system_id": 30004051,
+    "type_id": 3875
+}

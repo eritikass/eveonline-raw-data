@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004062,
+        "system_id": 30003071
+    },
+    "name": "Stargate (Anka)",
+    "position": {
+        "x": -1088180674560,
+        "y": 109035724800,
+        "z": 586322780160
+    },
+    "stargate_id": 50002523,
+    "system_id": 30003070,
+    "type_id": 29624
+}

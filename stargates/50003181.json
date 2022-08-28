@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001405,
+        "system_id": 30004970
+    },
+    "name": "Stargate (Renyn)",
+    "position": {
+        "x": -1340852428800,
+        "y": -2955207843840,
+        "z": -1102836080640
+    },
+    "stargate_id": 50003181,
+    "system_id": 30002633,
+    "type_id": 29632
+}

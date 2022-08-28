@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013785,
+        "system_id": 30001159
+    },
+    "name": "Stargate (HY-RWO)",
+    "position": {
+        "x": -2123363082240,
+        "y": -511651307520,
+        "z": 1033498828800
+    },
+    "stargate_id": 50013786,
+    "system_id": 30001197,
+    "type_id": 12292
+}

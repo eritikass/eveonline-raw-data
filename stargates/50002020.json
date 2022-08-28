@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000360,
+        "system_id": 30002296
+    },
+    "name": "Stargate (KGT3-6)",
+    "position": {
+        "x": -2643979100160,
+        "y": 485255946240,
+        "z": 1820697354240
+    },
+    "stargate_id": 50002020,
+    "system_id": 30002299,
+    "type_id": 3875
+}

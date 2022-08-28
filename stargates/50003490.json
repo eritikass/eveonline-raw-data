@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004385,
+        "system_id": 30002385
+    },
+    "name": "Stargate (Teonusude)",
+    "position": {
+        "x": 3384322498560,
+        "y": -224755998720,
+        "z": 303819694080
+    },
+    "stargate_id": 50003490,
+    "system_id": 30002384,
+    "type_id": 29633
+}

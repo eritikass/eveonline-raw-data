@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012951,
+        "system_id": 30004860
+    },
+    "name": "Stargate (7M4C-F)",
+    "position": {
+        "x": -23641497600,
+        "y": -2471485440,
+        "z": 199624581120
+    },
+    "stargate_id": 50013032,
+    "system_id": 30004861,
+    "type_id": 29633
+}

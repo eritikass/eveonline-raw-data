@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000467,
+        "system_id": 30000031
+    },
+    "name": "Stargate (Mohas)",
+    "position": {
+        "x": 5860516700160,
+        "y": -721559101440,
+        "z": 535410647040
+    },
+    "stargate_id": 50002000,
+    "system_id": 30000033,
+    "type_id": 29624
+}

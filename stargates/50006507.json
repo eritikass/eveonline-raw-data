@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006064,
+        "system_id": 30003042
+    },
+    "name": "Stargate (Alachene)",
+    "position": {
+        "x": 387066470400,
+        "y": 29812285440,
+        "z": 1589403279360
+    },
+    "stargate_id": 50006507,
+    "system_id": 30003043,
+    "type_id": 3875
+}

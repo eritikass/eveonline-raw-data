@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004141,
+        "system_id": 30003730
+    },
+    "name": "Stargate (B-WPLZ)",
+    "position": {
+        "x": -333430087680,
+        "y": 33388339200,
+        "z": 104993710080
+    },
+    "stargate_id": 50004022,
+    "system_id": 30003729,
+    "type_id": 29624
+}

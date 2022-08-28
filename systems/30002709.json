@@ -1,0 +1,76 @@
+{
+    "constellation_id": 20000396,
+    "name": "Auberulle",
+    "planets": [
+        {
+            "planet_id": 40172293
+        },
+        {
+            "planet_id": 40172294
+        },
+        {
+            "asteroid_belts": [
+                40172296
+            ],
+            "planet_id": 40172295
+        },
+        {
+            "asteroid_belts": [
+                40172298
+            ],
+            "planet_id": 40172297
+        },
+        {
+            "asteroid_belts": [
+                40172300,
+                40172301
+            ],
+            "moons": [
+                40172302
+            ],
+            "planet_id": 40172299
+        },
+        {
+            "asteroid_belts": [
+                40172304
+            ],
+            "planet_id": 40172303
+        },
+        {
+            "moons": [
+                40172306,
+                40172307
+            ],
+            "planet_id": 40172305
+        },
+        {
+            "asteroid_belts": [
+                40172309
+            ],
+            "moons": [
+                40172310,
+                40172311
+            ],
+            "planet_id": 40172308
+        }
+    ],
+    "position": {
+        "x": -180431592985815300,
+        "y": 58051960832327176,
+        "z": 45403458837147950
+    },
+    "security_class": "B",
+    "security_status": 0.8344098329544067,
+    "star_id": 40172292,
+    "stargates": [
+        50001682,
+        50001683,
+        50001684
+    ],
+    "stations": [
+        60009043,
+        60009754,
+        60010600
+    ],
+    "system_id": 30002709
+}

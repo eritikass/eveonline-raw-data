@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000305,
+        "system_id": 30001051
+    },
+    "name": "Stargate (TD-4XL)",
+    "position": {
+        "x": -1387917680640,
+        "y": -54267125760,
+        "z": 1173834178560
+    },
+    "stargate_id": 50001237,
+    "system_id": 30001053,
+    "type_id": 3875
+}

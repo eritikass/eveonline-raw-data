@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005585,
+        "system_id": 30002232
+    },
+    "name": "Stargate (Gid)",
+    "position": {
+        "x": 2506506854400,
+        "y": 2605355212800,
+        "z": 2090467123200
+    },
+    "stargate_id": 50009367,
+    "system_id": 30002276,
+    "type_id": 17
+}

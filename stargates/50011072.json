@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011041,
+        "system_id": 30004574
+    },
+    "name": "Stargate (8ESL-G)",
+    "position": {
+        "x": 1967431680,
+        "y": 59105280,
+        "z": 2099055206400
+    },
+    "stargate_id": 50011072,
+    "system_id": 30004575,
+    "type_id": 3875
+}

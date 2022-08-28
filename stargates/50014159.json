@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014160,
+        "system_id": 30045305
+    },
+    "name": "Stargate (Clellinon)",
+    "position": {
+        "x": 446742159360,
+        "y": -41011568640,
+        "z": 1903436881920
+    },
+    "stargate_id": 50014159,
+    "system_id": 30005316,
+    "type_id": 3875
+}

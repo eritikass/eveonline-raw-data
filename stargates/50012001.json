@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011700,
+        "system_id": 30004897
+    },
+    "name": "Stargate (LOI-L1)",
+    "position": {
+        "x": 1298307440640,
+        "y": -1708493414400,
+        "z": 792068382720
+    },
+    "stargate_id": 50012001,
+    "system_id": 30004898,
+    "type_id": 3877
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009862,
+        "system_id": 30004445
+    },
+    "name": "Stargate (5ELE-A)",
+    "position": {
+        "x": -2168243281920,
+        "y": -226421514240,
+        "z": 481696849920
+    },
+    "stargate_id": 50009928,
+    "system_id": 30004446,
+    "type_id": 29633
+}

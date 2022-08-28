@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012885,
+        "system_id": 30004985
+    },
+    "name": "Stargate (Deven)",
+    "position": {
+        "x": 2861103882240,
+        "y": 320911073280,
+        "z": 8337529774080
+    },
+    "stargate_id": 50004968,
+    "system_id": 30004980,
+    "type_id": 3875
+}

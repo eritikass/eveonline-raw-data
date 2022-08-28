@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008068,
+        "system_id": 30004333
+    },
+    "name": "Stargate (BKG-Q2)",
+    "position": {
+        "x": 2489716531200,
+        "y": 5074857861120,
+        "z": -2807080427520
+    },
+    "stargate_id": 50008639,
+    "system_id": 30004351,
+    "type_id": 29627
+}

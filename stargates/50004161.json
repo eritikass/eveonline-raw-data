@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004711,
+        "system_id": 30002897
+    },
+    "name": "Stargate (XCF-8N)",
+    "position": {
+        "x": -1138958131200,
+        "y": 101824389120,
+        "z": -2416610549760
+    },
+    "stargate_id": 50004161,
+    "system_id": 30002896,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009415,
+        "system_id": 30004503
+    },
+    "name": "Stargate (F-XWIN)",
+    "position": {
+        "x": 3174393077760,
+        "y": -34599198720,
+        "z": 1698623938560
+    },
+    "stargate_id": 50009471,
+    "system_id": 30004504,
+    "type_id": 3875
+}

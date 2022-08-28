@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003015,
+        "system_id": 30002049
+    },
+    "name": "Stargate (Uttindar)",
+    "position": {
+        "x": -3069326745600,
+        "y": -611543162880,
+        "z": -728338636800
+    },
+    "stargate_id": 50003916,
+    "system_id": 30002053,
+    "type_id": 29633
+}

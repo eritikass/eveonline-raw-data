@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001662,
+        "system_id": 30000569
+    },
+    "name": "Stargate (HD-AJ7)",
+    "position": {
+        "x": -1720560476160,
+        "y": -191883878400,
+        "z": -1132971417600
+    },
+    "stargate_id": 50001213,
+    "system_id": 30000567,
+    "type_id": 29633
+}

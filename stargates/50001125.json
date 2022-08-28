@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002105,
+        "system_id": 30001070
+    },
+    "name": "Stargate (AZA-QE)",
+    "position": {
+        "x": -23434813440,
+        "y": 2528256000,
+        "z": 45036134400
+    },
+    "stargate_id": 50001125,
+    "system_id": 30001069,
+    "type_id": 3875
+}

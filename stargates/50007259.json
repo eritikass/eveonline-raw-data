@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008261,
+        "system_id": 30005128
+    },
+    "name": "Stargate (6Q4-X6)",
+    "position": {
+        "x": 72676270080,
+        "y": -10112901120,
+        "z": 112070123520
+    },
+    "stargate_id": 50007259,
+    "system_id": 30005126,
+    "type_id": 3875
+}

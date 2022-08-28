@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004517,
+        "system_id": 30002534
+    },
+    "name": "Stargate (Rokofur)",
+    "position": {
+        "x": -1709600563200,
+        "y": -151677788160,
+        "z": 4836320501760
+    },
+    "stargate_id": 50003779,
+    "system_id": 30002531,
+    "type_id": 29633
+}

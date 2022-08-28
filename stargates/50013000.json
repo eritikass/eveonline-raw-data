@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012469,
+        "system_id": 30005073
+    },
+    "name": "Stargate (Pananan)",
+    "position": {
+        "x": 6324134092800,
+        "y": 662163087360,
+        "z": -2427193958400
+    },
+    "stargate_id": 50013000,
+    "system_id": 30005074,
+    "type_id": 29624
+}

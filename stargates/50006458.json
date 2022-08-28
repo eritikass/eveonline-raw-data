@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006404,
+        "system_id": 30003269
+    },
+    "name": "Stargate (F67E-Q)",
+    "position": {
+        "x": 7490591907840,
+        "y": 839202938880,
+        "z": 448330014720
+    },
+    "stargate_id": 50006458,
+    "system_id": 30003271,
+    "type_id": 3875
+}

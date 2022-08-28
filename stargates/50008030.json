@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007871,
+        "system_id": 30004108
+    },
+    "name": "Stargate (Chaneya)",
+    "position": {
+        "x": -314229596160,
+        "y": 39115530240,
+        "z": -1127933583360
+    },
+    "stargate_id": 50008030,
+    "system_id": 30004109,
+    "type_id": 29624
+}

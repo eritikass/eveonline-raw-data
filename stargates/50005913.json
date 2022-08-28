@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006247,
+        "system_id": 30002557
+    },
+    "name": "Stargate (Atgur)",
+    "position": {
+        "x": 3027429089280,
+        "y": -442259742720,
+        "z": 246193152000
+    },
+    "stargate_id": 50005913,
+    "system_id": 30002555,
+    "type_id": 29633
+}

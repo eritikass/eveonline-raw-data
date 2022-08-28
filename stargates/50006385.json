@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006423,
+        "system_id": 30000425
+    },
+    "name": "Stargate (16-31U)",
+    "position": {
+        "x": -228365967360,
+        "y": -31829483520,
+        "z": -1817093038080
+    },
+    "stargate_id": 50006385,
+    "system_id": 30000424,
+    "type_id": 3876
+}

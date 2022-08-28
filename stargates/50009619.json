@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007588,
+        "system_id": 30000311
+    },
+    "name": "Stargate (BR-6XP)",
+    "position": {
+        "x": 625391493120,
+        "y": -2671709429760,
+        "z": 531579494400
+    },
+    "stargate_id": 50009619,
+    "system_id": 30000314,
+    "type_id": 29627
+}

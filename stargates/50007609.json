@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007621,
+        "system_id": 30003871
+    },
+    "name": "Stargate (Geztic)",
+    "position": {
+        "x": -2269254328320,
+        "y": -214556467200,
+        "z": 909913006080
+    },
+    "stargate_id": 50007609,
+    "system_id": 30003870,
+    "type_id": 29624
+}

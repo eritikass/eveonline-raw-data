@@ -1,0 +1,55 @@
+{
+    "constellation_id": 20000531,
+    "name": "HE5T-A",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40231313,
+                40231314
+            ],
+            "planet_id": 40231312
+        },
+        {
+            "asteroid_belts": [
+                40231316
+            ],
+            "moons": [
+                40231317,
+                40231318
+            ],
+            "planet_id": 40231315
+        },
+        {
+            "asteroid_belts": [
+                40231320
+            ],
+            "planet_id": 40231319
+        },
+        {
+            "moons": [
+                40231322,
+                40231323
+            ],
+            "planet_id": 40231321
+        },
+        {
+            "asteroid_belts": [
+                40231325,
+                40231326
+            ],
+            "planet_id": 40231324
+        }
+    ],
+    "position": {
+        "x": -64423505662599180,
+        "y": 70190269357336380,
+        "z": 440481610581209700
+    },
+    "security_class": "H1",
+    "security_status": -0.32789233326911926,
+    "star_id": 40231311,
+    "stargates": [
+        50013313
+    ],
+    "system_id": 30003649
+}

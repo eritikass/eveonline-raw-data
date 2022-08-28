@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010624,
+        "system_id": 30003988
+    },
+    "name": "Stargate (UVHO-F)",
+    "position": {
+        "x": -89413017600,
+        "y": 8489164800,
+        "z": 1003872215040
+    },
+    "stargate_id": 50010014,
+    "system_id": 30003987,
+    "type_id": 29624
+}

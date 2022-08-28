@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011188,
+        "system_id": 30004370
+    },
+    "name": "Stargate (RO90-H)",
+    "position": {
+        "x": -244903403520,
+        "y": 541532160,
+        "z": 9912606720
+    },
+    "stargate_id": 50009479,
+    "system_id": 30004364,
+    "type_id": 16
+}

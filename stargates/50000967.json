@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000178,
+        "system_id": 30003500
+    },
+    "name": "Stargate (Sharji)",
+    "position": {
+        "x": -2212394557440,
+        "y": 280285224960,
+        "z": 330816430080
+    },
+    "stargate_id": 50000967,
+    "system_id": 30003501,
+    "type_id": 29624
+}

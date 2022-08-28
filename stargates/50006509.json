@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006632,
+        "system_id": 30005010
+    },
+    "name": "Stargate (Atlulle)",
+    "position": {
+        "x": 166061383680,
+        "y": 28764610560,
+        "z": -555583610880
+    },
+    "stargate_id": 50006509,
+    "system_id": 30005009,
+    "type_id": 3875
+}

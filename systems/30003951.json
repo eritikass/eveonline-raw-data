@@ -1,0 +1,65 @@
+{
+    "constellation_id": 20000577,
+    "name": "L-6BE1",
+    "planets": [
+        {
+            "asteroid_belts": [
+                40250038
+            ],
+            "planet_id": 40250037
+        },
+        {
+            "asteroid_belts": [
+                40250040
+            ],
+            "moons": [
+                40250041
+            ],
+            "planet_id": 40250039
+        },
+        {
+            "planet_id": 40250042
+        },
+        {
+            "asteroid_belts": [
+                40250044,
+                40250045
+            ],
+            "moons": [
+                40250046
+            ],
+            "planet_id": 40250043
+        },
+        {
+            "asteroid_belts": [
+                40250048
+            ],
+            "planet_id": 40250047
+        },
+        {
+            "asteroid_belts": [
+                40250050,
+                40250052
+            ],
+            "moons": [
+                40250051
+            ],
+            "planet_id": 40250049
+        }
+    ],
+    "position": {
+        "x": -338431803451629500,
+        "y": 53146042494027090,
+        "z": -194579333587601180
+    },
+    "security_class": "G",
+    "security_status": -0.04217655956745148,
+    "star_id": 40250036,
+    "stargates": [
+        50008712,
+        50008713,
+        50008714,
+        50008715
+    ],
+    "system_id": 30003951
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008902,
+        "system_id": 30001119
+    },
+    "name": "Stargate (LO5-LN)",
+    "position": {
+        "x": -667157176320,
+        "y": -110536826880,
+        "z": -5955828080640
+    },
+    "stargate_id": 50009136,
+    "system_id": 30001120,
+    "type_id": 3875
+}

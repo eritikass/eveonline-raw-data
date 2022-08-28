@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001342,
+        "system_id": 30001079
+    },
+    "name": "Stargate (9F-ERQ)",
+    "position": {
+        "x": -5646422138880,
+        "y": 1616705003520,
+        "z": -1117239336960
+    },
+    "stargate_id": 50001124,
+    "system_id": 30001069,
+    "type_id": 3874
+}

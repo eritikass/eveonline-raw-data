@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011565,
+        "system_id": 30004458
+    },
+    "name": "Stargate (CL-J9W)",
+    "position": {
+        "x": 2929925038080,
+        "y": -150812712960,
+        "z": 1331838689280
+    },
+    "stargate_id": 50010954,
+    "system_id": 30004456,
+    "type_id": 29633
+}

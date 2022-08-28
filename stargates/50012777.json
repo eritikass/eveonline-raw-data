@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013439,
+        "system_id": 30004698
+    },
+    "name": "Stargate (KU3-BB)",
+    "position": {
+        "x": -4774571827200,
+        "y": 806517104640,
+        "z": -6970112778240
+    },
+    "stargate_id": 50012777,
+    "system_id": 30004694,
+    "type_id": 29624
+}

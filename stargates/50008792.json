@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008939,
+        "system_id": 30003337
+    },
+    "name": "Stargate (EN-VOD)",
+    "position": {
+        "x": -1448565841920,
+        "y": -202783088640,
+        "z": -1389957242880
+    },
+    "stargate_id": 50008792,
+    "system_id": 30003336,
+    "type_id": 3875
+}

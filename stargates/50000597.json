@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000697,
+        "system_id": 30002851
+    },
+    "name": "Stargate (O31W-6)",
+    "position": {
+        "x": -3683786219520,
+        "y": -2793513000960,
+        "z": -1257423298560
+    },
+    "stargate_id": 50000597,
+    "system_id": 30001057,
+    "type_id": 29632
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002946,
+        "system_id": 30001557
+    },
+    "name": "Stargate (DFTK-D)",
+    "position": {
+        "x": 170671104000,
+        "y": -6116843520,
+        "z": 768343941120
+    },
+    "stargate_id": 50002725,
+    "system_id": 30001556,
+    "type_id": 3875
+}

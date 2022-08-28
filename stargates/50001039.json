@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002338,
+        "system_id": 30000253
+    },
+    "name": "Stargate (DAYP-G)",
+    "position": {
+        "x": -2639042764800,
+        "y": 441579724800,
+        "z": 4881543536640
+    },
+    "stargate_id": 50001039,
+    "system_id": 30000248,
+    "type_id": 16
+}

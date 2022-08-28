@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009640,
+        "system_id": 30000286
+    },
+    "name": "Stargate (1VK-6B)",
+    "position": {
+        "x": 3624033361920,
+        "y": -70940467200,
+        "z": -5234081341440
+    },
+    "stargate_id": 50007767,
+    "system_id": 30000283,
+    "type_id": 16
+}

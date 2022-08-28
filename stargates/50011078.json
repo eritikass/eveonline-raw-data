@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006191,
+        "system_id": 30000181
+    },
+    "name": "Stargate (Korsiki)",
+    "position": {
+        "x": -466150809600,
+        "y": -53660835840,
+        "z": 347465195520
+    },
+    "stargate_id": 50011078,
+    "system_id": 30000185,
+    "type_id": 16
+}

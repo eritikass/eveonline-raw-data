@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003761,
+        "system_id": 30002334
+    },
+    "name": "Stargate (B-2VXB)",
+    "position": {
+        "x": 364022046720,
+        "y": -29631160320,
+        "z": -55722762240
+    },
+    "stargate_id": 50003702,
+    "system_id": 30002333,
+    "type_id": 3875
+}

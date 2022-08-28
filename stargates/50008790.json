@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008162,
+        "system_id": 30001713
+    },
+    "name": "Stargate (Yasud)",
+    "position": {
+        "x": 2253311385600,
+        "y": 92518932480,
+        "z": 1247077539840
+    },
+    "stargate_id": 50008790,
+    "system_id": 30001715,
+    "type_id": 29624
+}

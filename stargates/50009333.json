@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008724,
+        "system_id": 30003776
+    },
+    "name": "Stargate (HP-6Z6)",
+    "position": {
+        "x": -280745533440,
+        "y": -9337036800,
+        "z": -353680957440
+    },
+    "stargate_id": 50009333,
+    "system_id": 30003777,
+    "type_id": 29624
+}

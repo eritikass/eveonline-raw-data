@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011693,
+        "system_id": 30003257
+    },
+    "name": "Stargate (S7WI-F)",
+    "position": {
+        "x": 1436865454080,
+        "y": -256883712000,
+        "z": -4911366021120
+    },
+    "stargate_id": 50012954,
+    "system_id": 30003259,
+    "type_id": 3875
+}

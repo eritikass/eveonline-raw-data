@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000966,
+        "system_id": 30003501
+    },
+    "name": "Stargate (Kudi)",
+    "position": {
+        "x": 642683166720,
+        "y": -2851841679360,
+        "z": 2543675842560
+    },
+    "stargate_id": 50000064,
+    "system_id": 30003487,
+    "type_id": 17
+}

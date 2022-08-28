@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009149,
+        "system_id": 30004443
+    },
+    "name": "Stargate (H65-HE)",
+    "position": {
+        "x": -2759932600320,
+        "y": -212458414080,
+        "z": 3118777589760
+    },
+    "stargate_id": 50010492,
+    "system_id": 30004449,
+    "type_id": 29633
+}

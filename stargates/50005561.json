@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005534,
+        "system_id": 30001690
+    },
+    "name": "Stargate (Hostni)",
+    "position": {
+        "x": 1254348349440,
+        "y": 53482168320,
+        "z": -245782241280
+    },
+    "stargate_id": 50005561,
+    "system_id": 30001691,
+    "type_id": 29624
+}

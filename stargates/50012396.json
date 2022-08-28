@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013044,
+        "system_id": 30004403
+    },
+    "name": "Stargate (3KNA-N)",
+    "position": {
+        "x": 2482647982080,
+        "y": -346344284160,
+        "z": 1131850997760
+    },
+    "stargate_id": 50012396,
+    "system_id": 30004398,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012114,
+        "system_id": 30001814
+    },
+    "name": "Stargate (90-A1P)",
+    "position": {
+        "x": 151990149120,
+        "y": 24560148480,
+        "z": 435245015040
+    },
+    "stargate_id": 50012112,
+    "system_id": 30001813,
+    "type_id": 3875
+}

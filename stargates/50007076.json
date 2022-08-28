@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006552,
+        "system_id": 30001331
+    },
+    "name": "Stargate (H-AJ27)",
+    "position": {
+        "x": -1111810744320,
+        "y": -184935751680,
+        "z": 3738165780480
+    },
+    "stargate_id": 50007076,
+    "system_id": 30001332,
+    "type_id": 16
+}

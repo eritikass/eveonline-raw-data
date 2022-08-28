@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008747,
+        "system_id": 30003919
+    },
+    "name": "Stargate (Ashkoo)",
+    "position": {
+        "x": 1634907463680,
+        "y": 221040599040,
+        "z": 1311639674880
+    },
+    "stargate_id": 50009003,
+    "system_id": 30003920,
+    "type_id": 29624
+}

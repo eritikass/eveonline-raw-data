@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003037,
+        "system_id": 30000275
+    },
+    "name": "Stargate (XSQ-TF)",
+    "position": {
+        "x": 6341164523520,
+        "y": -472126709760,
+        "z": -2427177000960
+    },
+    "stargate_id": 50002949,
+    "system_id": 30000274,
+    "type_id": 16
+}

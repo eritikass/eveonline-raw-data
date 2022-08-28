@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003508,
+        "system_id": 30002202
+    },
+    "name": "Stargate (Narai)",
+    "position": {
+        "x": -671574220800,
+        "y": 62599618560,
+        "z": -4960199761920
+    },
+    "stargate_id": 50003364,
+    "system_id": 30002201,
+    "type_id": 29624
+}

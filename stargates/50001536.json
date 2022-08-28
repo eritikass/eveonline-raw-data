@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002178,
+        "system_id": 30003185
+    },
+    "name": "Stargate (MZLW-9)",
+    "position": {
+        "x": -498701475840,
+        "y": -6428221440,
+        "z": -4511596584960
+    },
+    "stargate_id": 50001536,
+    "system_id": 30003184,
+    "type_id": 3875
+}

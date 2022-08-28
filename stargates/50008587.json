@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009076,
+        "system_id": 30005269
+    },
+    "name": "Stargate (Simela)",
+    "position": {
+        "x": -4671466905600,
+        "y": 580938424320,
+        "z": -1559734149120
+    },
+    "stargate_id": 50008587,
+    "system_id": 30005267,
+    "type_id": 29624
+}

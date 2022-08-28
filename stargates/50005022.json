@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005641,
+        "system_id": 30000801
+    },
+    "name": "Stargate (MOCW-2)",
+    "position": {
+        "x": 1015949598720,
+        "y": -133062205440,
+        "z": -285121290240
+    },
+    "stargate_id": 50005022,
+    "system_id": 30000800,
+    "type_id": 29633
+}

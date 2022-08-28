@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012534,
+        "system_id": 30004769
+    },
+    "name": "Stargate (NIDJ-K)",
+    "position": {
+        "x": -3266335825920,
+        "y": -253086965760,
+        "z": 3358153236480
+    },
+    "stargate_id": 50012996,
+    "system_id": 30004771,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006294,
+        "system_id": 30002799
+    },
+    "name": "Stargate (Oisio)",
+    "position": {
+        "x": 917049139200,
+        "y": 10731233280,
+        "z": 302895390720
+    },
+    "stargate_id": 50004472,
+    "system_id": 30002795,
+    "type_id": 16
+}

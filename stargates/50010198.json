@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010233,
+        "system_id": 30001897
+    },
+    "name": "Stargate (W-VXL9)",
+    "position": {
+        "x": -1933861724160,
+        "y": 83027189760,
+        "z": 1386122895360
+    },
+    "stargate_id": 50010198,
+    "system_id": 30001896,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005710,
+        "system_id": 30002678
+    },
+    "name": "Stargate (Alsottobier)",
+    "position": {
+        "x": 2377648496640,
+        "y": 73126502400,
+        "z": 294985850880
+    },
+    "stargate_id": 50002899,
+    "system_id": 30002677,
+    "type_id": 3875
+}

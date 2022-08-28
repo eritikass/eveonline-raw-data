@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003065,
+        "system_id": 30001571
+    },
+    "name": "Stargate (EU-WFW)",
+    "position": {
+        "x": -1334502973440,
+        "y": 40673280,
+        "z": 3633573273600
+    },
+    "stargate_id": 50002754,
+    "system_id": 30001570,
+    "type_id": 3875
+}

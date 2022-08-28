@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008550,
+        "system_id": 30005235
+    },
+    "name": "Stargate (Malma)",
+    "position": {
+        "x": -2005502976000,
+        "y": 154736271360,
+        "z": -105327206400
+    },
+    "stargate_id": 50007539,
+    "system_id": 30005232,
+    "type_id": 29624
+}

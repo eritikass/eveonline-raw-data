@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012656,
+        "system_id": 30004685
+    },
+    "name": "Stargate (UAAU-C)",
+    "position": {
+        "x": 1144958607360,
+        "y": 228335493120,
+        "z": -6081212866560
+    },
+    "stargate_id": 50011689,
+    "system_id": 30004681,
+    "type_id": 29624
+}

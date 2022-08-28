@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012186,
+        "system_id": 30004607
+    },
+    "name": "Stargate (Z30S-A)",
+    "position": {
+        "x": 707947438080,
+        "y": 2935219691520,
+        "z": 4147602432000
+    },
+    "stargate_id": 50012189,
+    "system_id": 30004617,
+    "type_id": 3874
+}

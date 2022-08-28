@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001553,
+        "system_id": 30003485
+    },
+    "name": "Stargate (Andabiar)",
+    "position": {
+        "x": -1523995238400,
+        "y": 83497082880,
+        "z": -1045316198400
+    },
+    "stargate_id": 50001032,
+    "system_id": 30003482,
+    "type_id": 29624
+}

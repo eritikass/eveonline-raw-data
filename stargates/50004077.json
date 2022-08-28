@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004105,
+        "system_id": 30000845
+    },
+    "name": "Stargate (CR2-PQ)",
+    "position": {
+        "x": 1498106634240,
+        "y": 302257152000,
+        "z": 434098298880
+    },
+    "stargate_id": 50004077,
+    "system_id": 30000844,
+    "type_id": 29633
+}

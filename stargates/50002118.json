@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005263,
+        "system_id": 30000536
+    },
+    "name": "Stargate (4F89-U)",
+    "position": {
+        "x": -492161556480,
+        "y": -3005120471040,
+        "z": -3919079055360
+    },
+    "stargate_id": 50002118,
+    "system_id": 30000557,
+    "type_id": 3877
+}

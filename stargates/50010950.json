@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011282,
+        "system_id": 30002930
+    },
+    "name": "Stargate (8S28-3)",
+    "position": {
+        "x": -497756037120,
+        "y": 26135961600,
+        "z": 139255848960
+    },
+    "stargate_id": 50010950,
+    "system_id": 30002928,
+    "type_id": 16
+}

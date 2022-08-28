@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002602,
+        "system_id": 30002048
+    },
+    "name": "Stargate (Bei)",
+    "position": {
+        "x": 3444877516800,
+        "y": -133841018880,
+        "z": 1565129072640
+    },
+    "stargate_id": 50003014,
+    "system_id": 30002049,
+    "type_id": 29633
+}

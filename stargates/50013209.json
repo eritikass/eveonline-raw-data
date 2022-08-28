@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011929,
+        "system_id": 30003219
+    },
+    "name": "Stargate (IO-R2S)",
+    "position": {
+        "x": 1479259545600,
+        "y": -18056355840,
+        "z": -3293697269760
+    },
+    "stargate_id": 50013209,
+    "system_id": 30003222,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016263,
+        "system_id": 30045316
+    },
+    "name": "Stargate (Innia)",
+    "position": {
+        "x": 1865284116480,
+        "y": 155306926080,
+        "z": 4279605534720
+    },
+    "stargate_id": 50016264,
+    "system_id": 30045320,
+    "type_id": 16
+}

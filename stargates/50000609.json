@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001638,
+        "system_id": 30002105
+    },
+    "name": "Stargate (B-S347)",
+    "position": {
+        "x": -677485977600,
+        "y": 128851599360,
+        "z": -164701839360
+    },
+    "stargate_id": 50000609,
+    "system_id": 30002104,
+    "type_id": 29633
+}

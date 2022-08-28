@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004163,
+        "system_id": 30002671
+    },
+    "name": "Stargate (Nausschie)",
+    "position": {
+        "x": 5008228638720,
+        "y": 519220715520,
+        "z": 2477729587200
+    },
+    "stargate_id": 50000771,
+    "system_id": 30002668,
+    "type_id": 3875
+}

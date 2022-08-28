@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004279,
+        "system_id": 30005304
+    },
+    "name": "Stargate (Alentene)",
+    "position": {
+        "x": 88397783040,
+        "y": 5384478720,
+        "z": 433764556800
+    },
+    "stargate_id": 50004152,
+    "system_id": 30005302,
+    "type_id": 3875
+}

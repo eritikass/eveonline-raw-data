@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010172,
+        "system_id": 30004712
+    },
+    "name": "Stargate (NOL-M9)",
+    "position": {
+        "x": -5299415162880,
+        "y": -4162443632640,
+        "z": 4771627376640
+    },
+    "stargate_id": 50009910,
+    "system_id": 30004711,
+    "type_id": 17
+}

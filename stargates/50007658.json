@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005129,
+        "system_id": 30002055
+    },
+    "name": "Stargate (Amo)",
+    "position": {
+        "x": 3534632755200,
+        "y": -624970260480,
+        "z": -1345852907520
+    },
+    "stargate_id": 50007658,
+    "system_id": 30002059,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008493,
+        "system_id": 30003544
+    },
+    "name": "Stargate (Galeh)",
+    "position": {
+        "x": -1046741114880,
+        "y": -93512048640,
+        "z": -5097671516160
+    },
+    "stargate_id": 50005717,
+    "system_id": 30003540,
+    "type_id": 29624
+}

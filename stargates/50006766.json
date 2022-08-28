@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008940,
+        "system_id": 30004983
+    },
+    "name": "Stargate (Amane)",
+    "position": {
+        "x": 2916663582720,
+        "y": -222413414400,
+        "z": 1995061125120
+    },
+    "stargate_id": 50006766,
+    "system_id": 30004981,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008579,
+        "system_id": 30003215
+    },
+    "name": "Stargate (1-HDQ4)",
+    "position": {
+        "x": 635313807360,
+        "y": 971375370240,
+        "z": 1000476057600
+    },
+    "stargate_id": 50008663,
+    "system_id": 30003216,
+    "type_id": 3874
+}

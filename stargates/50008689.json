@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007932,
+        "system_id": 30003309
+    },
+    "name": "Stargate (VV-VCR)",
+    "position": {
+        "x": 2806744719360,
+        "y": 217879633920,
+        "z": 2999696547840
+    },
+    "stargate_id": 50008689,
+    "system_id": 30003310,
+    "type_id": 3875
+}

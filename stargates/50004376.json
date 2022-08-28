@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001494,
+        "system_id": 30000040
+    },
+    "name": "Stargate (Uzistoon)",
+    "position": {
+        "x": 764374179840,
+        "y": -274636800,
+        "z": 3228896747520
+    },
+    "stargate_id": 50004376,
+    "system_id": 30000043,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007528,
+        "system_id": 30004991
+    },
+    "name": "Stargate (Vitrauze)",
+    "position": {
+        "x": 1877780766720,
+        "y": -175055462400,
+        "z": 2112979476480
+    },
+    "stargate_id": 50007483,
+    "system_id": 30004990,
+    "type_id": 3875
+}

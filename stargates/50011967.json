@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011940,
+        "system_id": 30004603
+    },
+    "name": "Stargate (ESC-RI)",
+    "position": {
+        "x": -869042626560,
+        "y": -175982714880,
+        "z": -1199736545280
+    },
+    "stargate_id": 50011967,
+    "system_id": 30004604,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013244,
+        "system_id": 30002041
+    },
+    "name": "Stargate (DT-TCD)",
+    "position": {
+        "x": 362032865280,
+        "y": 24683765760,
+        "z": -236626698240
+    },
+    "stargate_id": 50008659,
+    "system_id": 30002037,
+    "type_id": 16
+}

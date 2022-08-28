@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006584,
+        "system_id": 30005212
+    },
+    "name": "Stargate (Toon)",
+    "position": {
+        "x": 913642414080,
+        "y": 54709739520,
+        "z": 709829713920
+    },
+    "stargate_id": 50006614,
+    "system_id": 30005213,
+    "type_id": 29624
+}

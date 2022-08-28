@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001966,
+        "system_id": 30000859
+    },
+    "name": "Stargate (GKP-YT)",
+    "position": {
+        "x": -774846259200,
+        "y": 16295976960,
+        "z": -86398279680
+    },
+    "stargate_id": 50001298,
+    "system_id": 30000855,
+    "type_id": 16
+}

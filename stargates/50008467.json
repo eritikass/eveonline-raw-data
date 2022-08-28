@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008479,
+        "system_id": 30004338
+    },
+    "name": "Stargate (NLPB-0)",
+    "position": {
+        "x": 6195793797120,
+        "y": 880593838080,
+        "z": 4187304222720
+    },
+    "stargate_id": 50008467,
+    "system_id": 30004337,
+    "type_id": 16
+}

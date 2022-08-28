@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016251,
+        "system_id": 30045317
+    },
+    "name": "Stargate (Iralaja)",
+    "position": {
+        "x": -355656376320,
+        "y": -24430878720,
+        "z": 3625994035200
+    },
+    "stargate_id": 50016252,
+    "system_id": 30045318,
+    "type_id": 16
+}

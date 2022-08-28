@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013839,
+        "system_id": 30001349
+    },
+    "name": "Stargate (42XJ-N)",
+    "position": {
+        "x": -1221667430400,
+        "y": 873209978880,
+        "z": -1382148464640
+    },
+    "stargate_id": 50013840,
+    "system_id": 30003657,
+    "type_id": 12292
+}

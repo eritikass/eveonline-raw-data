@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013891,
+        "system_id": 30005042
+    },
+    "name": "Stargate (Sehmy)",
+    "position": {
+        "x": 685197434880,
+        "y": 24842035200,
+        "z": -851925196800
+    },
+    "stargate_id": 50013892,
+    "system_id": 30005038,
+    "type_id": 29624
+}

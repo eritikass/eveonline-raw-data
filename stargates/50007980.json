@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008019,
+        "system_id": 30004331
+    },
+    "name": "Stargate (X4UV-Z)",
+    "position": {
+        "x": -283270717440,
+        "y": -57347973120,
+        "z": 2059886714880
+    },
+    "stargate_id": 50007980,
+    "system_id": 30004330,
+    "type_id": 16
+}

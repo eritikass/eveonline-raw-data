@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004437,
+        "system_id": 30004092
+    },
+    "name": "Stargate (Murini)",
+    "position": {
+        "x": 3368802017280,
+        "y": 74693222400,
+        "z": -1085394247680
+    },
+    "stargate_id": 50005193,
+    "system_id": 30004094,
+    "type_id": 29624
+}

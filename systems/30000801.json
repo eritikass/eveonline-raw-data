@@ -1,0 +1,54 @@
+{
+    "constellation_id": 20000117,
+    "name": "MOCW-2",
+    "planets": [
+        {
+            "planet_id": 40050628
+        },
+        {
+            "asteroid_belts": [
+                40050630
+            ],
+            "moons": [
+                40050631
+            ],
+            "planet_id": 40050629
+        },
+        {
+            "asteroid_belts": [
+                40050633
+            ],
+            "moons": [
+                40050634
+            ],
+            "planet_id": 40050632
+        },
+        {
+            "planet_id": 40050635
+        },
+        {
+            "asteroid_belts": [
+                40050637
+            ],
+            "planet_id": 40050636
+        },
+        {
+            "asteroid_belts": [
+                40050639
+            ],
+            "planet_id": 40050638
+        }
+    ],
+    "position": {
+        "x": 154357447336411420,
+        "y": -58163880645294264,
+        "z": -156882458063723200
+    },
+    "security_class": "F6",
+    "security_status": -0.816541314125061,
+    "star_id": 40050627,
+    "stargates": [
+        50005641
+    ],
+    "system_id": 30000801
+}

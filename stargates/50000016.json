@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001173,
+        "system_id": 30003010
+    },
+    "name": "Stargate (Halle)",
+    "position": {
+        "x": 7249198080000,
+        "y": 857826877440,
+        "z": 1894143221760
+    },
+    "stargate_id": 50000016,
+    "system_id": 30003009,
+    "type_id": 3875
+}

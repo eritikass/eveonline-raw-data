@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012295,
+        "system_id": 30002267
+    },
+    "name": "Stargate (Shabura)",
+    "position": {
+        "x": 530387312640,
+        "y": 3028835573760,
+        "z": 2125028352000
+    },
+    "stargate_id": 50007886,
+    "system_id": 30002261,
+    "type_id": 17
+}

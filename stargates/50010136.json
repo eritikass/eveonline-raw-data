@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011075,
+        "system_id": 30005282
+    },
+    "name": "Stargate (Gateway)",
+    "position": {
+        "x": -419088752640,
+        "y": 4541030400,
+        "z": -26011852800
+    },
+    "stargate_id": 50010136,
+    "system_id": 30005281,
+    "type_id": 29624
+}

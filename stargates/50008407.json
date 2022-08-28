@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007312,
+        "system_id": 30004323
+    },
+    "name": "Stargate (AH-B84)",
+    "position": {
+        "x": 28888719360,
+        "y": -524820480,
+        "z": -137909575680
+    },
+    "stargate_id": 50008407,
+    "system_id": 30004325,
+    "type_id": 16
+}

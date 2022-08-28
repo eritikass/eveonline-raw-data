@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005915,
+        "system_id": 30001547
+    },
+    "name": "Stargate (P-NI4K)",
+    "position": {
+        "x": 837461237760,
+        "y": -120634859520,
+        "z": -3036247695360
+    },
+    "stargate_id": 50002895,
+    "system_id": 30001543,
+    "type_id": 3875
+}

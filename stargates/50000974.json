@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001367,
+        "system_id": 30003066
+    },
+    "name": "Stargate (Kuomi)",
+    "position": {
+        "x": 722775367680,
+        "y": -32808591360,
+        "z": 997631631360
+    },
+    "stargate_id": 50000974,
+    "system_id": 30003065,
+    "type_id": 29624
+}

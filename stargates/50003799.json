@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004276,
+        "system_id": 30000606
+    },
+    "name": "Stargate (7K-NSE)",
+    "position": {
+        "x": 634010542080,
+        "y": -18196193280,
+        "z": 387307560960
+    },
+    "stargate_id": 50003799,
+    "system_id": 30000605,
+    "type_id": 29633
+}

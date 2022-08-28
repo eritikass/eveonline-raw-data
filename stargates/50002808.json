@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003881,
+        "system_id": 30000235
+    },
+    "name": "Stargate (Q-R3GP)",
+    "position": {
+        "x": 1584537231360,
+        "y": -318936391680,
+        "z": -4414004305920
+    },
+    "stargate_id": 50002808,
+    "system_id": 30000233,
+    "type_id": 16
+}

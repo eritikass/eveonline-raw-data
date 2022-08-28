@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012514,
+        "system_id": 30005188
+    },
+    "name": "Stargate (RZ8A-P)",
+    "position": {
+        "x": 266919813120,
+        "y": 19199631360,
+        "z": -108710338560
+    },
+    "stargate_id": 50012844,
+    "system_id": 30005189,
+    "type_id": 3875
+}

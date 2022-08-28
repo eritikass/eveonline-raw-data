@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007222,
+        "system_id": 30001996
+    },
+    "name": "Stargate (ZJET-E)",
+    "position": {
+        "x": 4651857223680,
+        "y": 360620482560,
+        "z": 3771953848320
+    },
+    "stargate_id": 50007056,
+    "system_id": 30001994,
+    "type_id": 16
+}

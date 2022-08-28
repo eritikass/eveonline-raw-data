@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000854,
+        "system_id": 30000039
+    },
+    "name": "Stargate (Bayuka)",
+    "position": {
+        "x": 427992145920,
+        "y": -31877652480,
+        "z": -4176753008640
+    },
+    "stargate_id": 50003107,
+    "system_id": 30000041,
+    "type_id": 29624
+}

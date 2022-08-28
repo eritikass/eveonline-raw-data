@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000535,
+        "system_id": 30002109
+    },
+    "name": "Stargate (Y19P-1)",
+    "position": {
+        "x": -2645315788800,
+        "y": -528894074880,
+        "z": 4739631144960
+    },
+    "stargate_id": 50000772,
+    "system_id": 30002111,
+    "type_id": 29633
+}

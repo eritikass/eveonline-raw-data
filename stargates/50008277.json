@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007513,
+        "system_id": 30003102
+    },
+    "name": "Stargate (WAC-HW)",
+    "position": {
+        "x": 4259414876160,
+        "y": 31128576000,
+        "z": 4248578826240
+    },
+    "stargate_id": 50008277,
+    "system_id": 30003104,
+    "type_id": 29624
+}

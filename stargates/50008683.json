@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008656,
+        "system_id": 30005258
+    },
+    "name": "Stargate (Korridi)",
+    "position": {
+        "x": -4007562731520,
+        "y": 5802850590720,
+        "z": -8288483450880
+    },
+    "stargate_id": 50008683,
+    "system_id": 30005268,
+    "type_id": 17
+}

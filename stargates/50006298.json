@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007029,
+        "system_id": 30005240
+    },
+    "name": "Stargate (Gayar)",
+    "position": {
+        "x": -2485108039680,
+        "y": -221325189120,
+        "z": -2887436083200
+    },
+    "stargate_id": 50006298,
+    "system_id": 30005237,
+    "type_id": 29624
+}

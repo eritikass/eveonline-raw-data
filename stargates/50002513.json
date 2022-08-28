@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000863,
+        "system_id": 30000045
+    },
+    "name": "Stargate (Jaymass)",
+    "position": {
+        "x": 1860405780480,
+        "y": 205228400640,
+        "z": -417474355200
+    },
+    "stargate_id": 50002513,
+    "system_id": 30000049,
+    "type_id": 29624
+}

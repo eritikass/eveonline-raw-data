@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008664,
+        "system_id": 30003216
+    },
+    "name": "Stargate (WVMS-X)",
+    "position": {
+        "x": 574600519680,
+        "y": -17167196160,
+        "z": 346078371840
+    },
+    "stargate_id": 50010872,
+    "system_id": 30003217,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003606,
+        "system_id": 30000550
+    },
+    "name": "Stargate (C-62I5)",
+    "position": {
+        "x": -2304649666560,
+        "y": 366161141760,
+        "z": -4583117905920
+    },
+    "stargate_id": 50003685,
+    "system_id": 30000551,
+    "type_id": 29633
+}

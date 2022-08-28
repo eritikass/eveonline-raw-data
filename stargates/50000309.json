@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001308,
+        "system_id": 30001359
+    },
+    "name": "Stargate (Semiki)",
+    "position": {
+        "x": 606177730560,
+        "y": 31021916160,
+        "z": -727228047360
+    },
+    "stargate_id": 50000309,
+    "system_id": 30001357,
+    "type_id": 16
+}

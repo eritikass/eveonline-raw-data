@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002081,
+        "system_id": 30000860
+    },
+    "name": "Stargate (AW1-2I)",
+    "position": {
+        "x": 819313336320,
+        "y": -135307223040,
+        "z": 1706170982400
+    },
+    "stargate_id": 50001262,
+    "system_id": 30000854,
+    "type_id": 16
+}

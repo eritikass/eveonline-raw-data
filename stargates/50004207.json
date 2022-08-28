@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005404,
+        "system_id": 30003791
+    },
+    "name": "Stargate (Annancale)",
+    "position": {
+        "x": -2769590231040,
+        "y": 116956569600,
+        "z": 2253264199680
+    },
+    "stargate_id": 50004207,
+    "system_id": 30003787,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013507,
+        "system_id": 30005314
+    },
+    "name": "Stargate (Theruesse)",
+    "position": {
+        "x": -324609269760,
+        "y": 38215802880,
+        "z": -5634666700800
+    },
+    "stargate_id": 50011112,
+    "system_id": 30005313,
+    "type_id": 3875
+}

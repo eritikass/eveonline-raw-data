@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004858,
+        "system_id": 30002989
+    },
+    "name": "Stargate (Laddiaha)",
+    "position": {
+        "x": -3818834042880,
+        "y": -1911229194240,
+        "z": -849291141120
+    },
+    "stargate_id": 50007595,
+    "system_id": 30002998,
+    "type_id": 17
+}

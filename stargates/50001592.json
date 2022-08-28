@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003127,
+        "system_id": 30002982
+    },
+    "name": "Stargate (Rahadalon)",
+    "position": {
+        "x": -310989496320,
+        "y": 828534005760,
+        "z": 349188710400
+    },
+    "stargate_id": 50001592,
+    "system_id": 30000072,
+    "type_id": 29626
+}

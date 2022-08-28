@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002777,
+        "system_id": 30000945
+    },
+    "name": "Stargate (OK-6XN)",
+    "position": {
+        "x": 701855539200,
+        "y": -43508981760,
+        "z": 2535360307200
+    },
+    "stargate_id": 50002741,
+    "system_id": 30000944,
+    "type_id": 29633
+}

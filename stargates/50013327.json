@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013510,
+        "system_id": 30004882
+    },
+    "name": "Stargate (ZO-P5K)",
+    "position": {
+        "x": -277823692800,
+        "y": 27515904000,
+        "z": -991291760640
+    },
+    "stargate_id": 50013327,
+    "system_id": 30004878,
+    "type_id": 29633
+}

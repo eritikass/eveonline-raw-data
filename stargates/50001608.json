@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000298,
+        "system_id": 30000017
+    },
+    "name": "Stargate (Futzchag)",
+    "position": {
+        "x": 7769223045120,
+        "y": -1401910517760,
+        "z": -4851167600640
+    },
+    "stargate_id": 50001608,
+    "system_id": 30000020,
+    "type_id": 29624
+}

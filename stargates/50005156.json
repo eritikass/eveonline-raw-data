@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003365,
+        "system_id": 30002201
+    },
+    "name": "Stargate (Shuria)",
+    "position": {
+        "x": 2383889080320,
+        "y": 6257516421120,
+        "z": 2926009835520
+    },
+    "stargate_id": 50005156,
+    "system_id": 30002236,
+    "type_id": 17
+}

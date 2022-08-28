@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006192,
+        "system_id": 30002252
+    },
+    "name": "Stargate (Bika)",
+    "position": {
+        "x": -2395016601600,
+        "y": -349602816000,
+        "z": -975235276800
+    },
+    "stargate_id": 50006090,
+    "system_id": 30002251,
+    "type_id": 29624
+}

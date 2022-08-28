@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010019,
+        "system_id": 30004509
+    },
+    "name": "Stargate (0-WVQS)",
+    "position": {
+        "x": 144622510080,
+        "y": -3597066240,
+        "z": -26942054400
+    },
+    "stargate_id": 50010167,
+    "system_id": 30004510,
+    "type_id": 3875
+}

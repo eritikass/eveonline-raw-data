@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014178,
+        "system_id": 30013410
+    },
+    "name": "Stargate (Abrat)",
+    "position": {
+        "x": 52429332480,
+        "y": -2714542080,
+        "z": 239996313600
+    },
+    "stargate_id": 50014177,
+    "system_id": 30003380,
+    "type_id": 29633
+}

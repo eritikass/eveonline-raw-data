@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000794,
+        "system_id": 30002834
+    },
+    "name": "Stargate (AU2V-J)",
+    "position": {
+        "x": -288118087680,
+        "y": -6645964800,
+        "z": 2180402257920
+    },
+    "stargate_id": 50001114,
+    "system_id": 30002835,
+    "type_id": 3875
+}

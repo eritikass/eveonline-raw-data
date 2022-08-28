@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006348,
+        "system_id": 30002562
+    },
+    "name": "Stargate (Trer)",
+    "position": {
+        "x": 2591527034880,
+        "y": 3199742484480,
+        "z": 684071608320
+    },
+    "stargate_id": 50005064,
+    "system_id": 30002552,
+    "type_id": 3877
+}

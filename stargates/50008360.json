@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008628,
+        "system_id": 30005265
+    },
+    "name": "Stargate (Hangond)",
+    "position": {
+        "x": -4777762283520,
+        "y": -867874775040,
+        "z": -3130296606720
+    },
+    "stargate_id": 50008360,
+    "system_id": 30005262,
+    "type_id": 29624
+}

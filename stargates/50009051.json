@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009266,
+        "system_id": 30003969
+    },
+    "name": "Stargate (K-B8DK)",
+    "position": {
+        "x": 105671270400,
+        "y": 7771299840,
+        "z": -972848455680
+    },
+    "stargate_id": 50009051,
+    "system_id": 30003968,
+    "type_id": 29624
+}

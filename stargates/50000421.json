@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002712,
+        "system_id": 30002689
+    },
+    "name": "Stargate (Sileperer)",
+    "position": {
+        "x": -552846336000,
+        "y": 35981844480,
+        "z": 2068550492160
+    },
+    "stargate_id": 50000421,
+    "system_id": 30002685,
+    "type_id": 3875
+}

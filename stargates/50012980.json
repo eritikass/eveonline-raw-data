@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012762,
+        "system_id": 30004638
+    },
+    "name": "Stargate (TEG-SD)",
+    "position": {
+        "x": 2023546429440,
+        "y": -5028571176960,
+        "z": -5449852231680
+    },
+    "stargate_id": 50012980,
+    "system_id": 30004655,
+    "type_id": 3874
+}

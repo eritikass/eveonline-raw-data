@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007907,
+        "system_id": 30001412
+    },
+    "name": "Stargate (Tsukuras)",
+    "position": {
+        "x": 2808068628480,
+        "y": 107074560000,
+        "z": 764865208320
+    },
+    "stargate_id": 50011716,
+    "system_id": 30001414,
+    "type_id": 16
+}

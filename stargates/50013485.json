@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013143,
+        "system_id": 30004547
+    },
+    "name": "Stargate (VBFC-8)",
+    "position": {
+        "x": -525341859840,
+        "y": 31408742400,
+        "z": -401974272000
+    },
+    "stargate_id": 50013485,
+    "system_id": 30004551,
+    "type_id": 3875
+}

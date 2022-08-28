@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012298,
+        "system_id": 30001815
+    },
+    "name": "Stargate (4AZV-W)",
+    "position": {
+        "x": -2674468085760,
+        "y": -7026155520,
+        "z": -1557645926400
+    },
+    "stargate_id": 50012085,
+    "system_id": 30001812,
+    "type_id": 3875
+}

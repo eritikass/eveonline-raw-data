@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013479,
+        "system_id": 30004550
+    },
+    "name": "Stargate (A2V6-6)",
+    "position": {
+        "x": -2483371991040,
+        "y": 276260413440,
+        "z": 618105446400
+    },
+    "stargate_id": 50013436,
+    "system_id": 30004549,
+    "type_id": 3875
+}

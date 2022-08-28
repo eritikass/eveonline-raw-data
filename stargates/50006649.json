@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004480,
+        "system_id": 30001206
+    },
+    "name": "Stargate (CBL-XP)",
+    "position": {
+        "x": 2306597314560,
+        "y": -5630431272960,
+        "z": -4871190650880
+    },
+    "stargate_id": 50006649,
+    "system_id": 30001231,
+    "type_id": 17
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008918,
+        "system_id": 30003343
+    },
+    "name": "Stargate (KFR-ZE)",
+    "position": {
+        "x": 1609215959040,
+        "y": 105826590720,
+        "z": 1451466301440
+    },
+    "stargate_id": 50009549,
+    "system_id": 30003347,
+    "type_id": 3875
+}

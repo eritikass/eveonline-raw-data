@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001807,
+        "system_id": 30000864
+    },
+    "name": "Stargate (MSHD-4)",
+    "position": {
+        "x": 1582358077440,
+        "y": 36777861120,
+        "z": 285548912640
+    },
+    "stargate_id": 50001014,
+    "system_id": 30000863,
+    "type_id": 16
+}

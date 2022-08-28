@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011055,
+        "system_id": 30004760
+    },
+    "name": "Stargate (8WA-Z6)",
+    "position": {
+        "x": 178594652160,
+        "y": -4705689600,
+        "z": -1775069798400
+    },
+    "stargate_id": 50011152,
+    "system_id": 30004761,
+    "type_id": 29624
+}

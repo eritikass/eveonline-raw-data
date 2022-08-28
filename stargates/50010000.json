@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010604,
+        "system_id": 30003263
+    },
+    "name": "Stargate (XKM-DE)",
+    "position": {
+        "x": -2458125557760,
+        "y": 38803169280,
+        "z": -1230969446400
+    },
+    "stargate_id": 50010000,
+    "system_id": 30003262,
+    "type_id": 3875
+}

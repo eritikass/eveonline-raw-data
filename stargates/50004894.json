@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003796,
+        "system_id": 30000025
+    },
+    "name": "Stargate (Rashy)",
+    "position": {
+        "x": -3564986818560,
+        "y": -27053629440,
+        "z": 1837969121280
+    },
+    "stargate_id": 50004894,
+    "system_id": 30000027,
+    "type_id": 29624
+}

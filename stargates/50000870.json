@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000539,
+        "system_id": 30001163
+    },
+    "name": "Stargate (QSM-LM)",
+    "position": {
+        "x": 2788999127040,
+        "y": -115733913600,
+        "z": 809942261760
+    },
+    "stargate_id": 50000870,
+    "system_id": 30001157,
+    "type_id": 17
+}

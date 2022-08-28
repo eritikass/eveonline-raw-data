@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011132,
+        "system_id": 30000115
+    },
+    "name": "Stargate (Bimener)",
+    "position": {
+        "x": 964894924800,
+        "y": 156254822400,
+        "z": -1161085870080
+    },
+    "stargate_id": 50009385,
+    "system_id": 30000114,
+    "type_id": 29624
+}

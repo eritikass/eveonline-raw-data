@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010104,
+        "system_id": 30004430
+    },
+    "name": "Stargate (I5Q2-S)",
+    "position": {
+        "x": 58496163840,
+        "y": -9383485440,
+        "z": -2104670085120
+    },
+    "stargate_id": 50009954,
+    "system_id": 30004429,
+    "type_id": 29633
+}

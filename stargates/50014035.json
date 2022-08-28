@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014036,
+        "system_id": 30003773
+    },
+    "name": "Stargate (X6AB-Y)",
+    "position": {
+        "x": -2230134743040,
+        "y": 1599864053760,
+        "z": 113429667840
+    },
+    "stargate_id": 50014035,
+    "system_id": 30003756,
+    "type_id": 17
+}

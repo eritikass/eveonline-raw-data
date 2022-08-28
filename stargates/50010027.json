@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011746,
+        "system_id": 30004465
+    },
+    "name": "Stargate (GPUS-A)",
+    "position": {
+        "x": 1584032686080,
+        "y": 856834498560,
+        "z": 426174504960
+    },
+    "stargate_id": 50010027,
+    "system_id": 30004441,
+    "type_id": 3877
+}

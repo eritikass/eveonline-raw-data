@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011126,
+        "system_id": 30004373
+    },
+    "name": "Stargate (J52-BH)",
+    "position": {
+        "x": -286282260480,
+        "y": 6090055680,
+        "z": -346581442560
+    },
+    "stargate_id": 50011243,
+    "system_id": 30004374,
+    "type_id": 16
+}

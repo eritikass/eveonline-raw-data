@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013196,
+        "system_id": 30004700
+    },
+    "name": "Stargate (LD-2VL)",
+    "position": {
+        "x": 1007172771840,
+        "y": 106327449600,
+        "z": 3909596651520
+    },
+    "stargate_id": 50013303,
+    "system_id": 30004701,
+    "type_id": 29624
+}

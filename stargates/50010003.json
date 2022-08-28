@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010007,
+        "system_id": 30004516
+    },
+    "name": "Stargate (RTX0-S)",
+    "position": {
+        "x": 499714007040,
+        "y": -42826014720,
+        "z": 2864957399040
+    },
+    "stargate_id": 50010003,
+    "system_id": 30004515,
+    "type_id": 3875
+}

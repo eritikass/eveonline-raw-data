@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001818,
+        "system_id": 30000763
+    },
+    "name": "Stargate (SN9-3Z)",
+    "position": {
+        "x": -2459239096320,
+        "y": 342391480320,
+        "z": -4295699128320
+    },
+    "stargate_id": 50000174,
+    "system_id": 30000758,
+    "type_id": 29633
+}

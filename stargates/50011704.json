@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011591,
+        "system_id": 30004376
+    },
+    "name": "Stargate (KJ-QWL)",
+    "position": {
+        "x": -657929134080,
+        "y": 86393610240,
+        "z": 1171666329600
+    },
+    "stargate_id": 50011704,
+    "system_id": 30004377,
+    "type_id": 16
+}

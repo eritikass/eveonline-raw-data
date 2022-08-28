@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007356,
+        "system_id": 30003099
+    },
+    "name": "Stargate (HHQ-M1)",
+    "position": {
+        "x": -4225203363840,
+        "y": -42666270720,
+        "z": 687211683840
+    },
+    "stargate_id": 50007314,
+    "system_id": 30003098,
+    "type_id": 29624
+}

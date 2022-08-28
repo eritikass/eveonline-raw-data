@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006357,
+        "system_id": 30000260
+    },
+    "name": "Stargate (S-NJBB)",
+    "position": {
+        "x": -2442829946880,
+        "y": -232552734720,
+        "z": 575751905280
+    },
+    "stargate_id": 50000046,
+    "system_id": 30000254,
+    "type_id": 16
+}

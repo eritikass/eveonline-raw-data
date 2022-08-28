@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007938,
+        "system_id": 30003905
+    },
+    "name": "Stargate (Chamemi)",
+    "position": {
+        "x": 1404670648320,
+        "y": -241975664640,
+        "z": 3184146554880
+    },
+    "stargate_id": 50007796,
+    "system_id": 30003904,
+    "type_id": 29624
+}

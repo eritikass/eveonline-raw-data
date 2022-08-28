@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003217,
+        "system_id": 30002855
+    },
+    "name": "Stargate (6FS-CZ)",
+    "position": {
+        "x": 1764598456320,
+        "y": 161078353920,
+        "z": 1452790702080
+    },
+    "stargate_id": 50004400,
+    "system_id": 30002857,
+    "type_id": 3875
+}

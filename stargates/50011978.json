@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011679,
+        "system_id": 30002932
+    },
+    "name": "Stargate (LEK-N5)",
+    "position": {
+        "x": -2494654095360,
+        "y": -246478725120,
+        "z": 377015869440
+    },
+    "stargate_id": 50011978,
+    "system_id": 30002933,
+    "type_id": 16
+}

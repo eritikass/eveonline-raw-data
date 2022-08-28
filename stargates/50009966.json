@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009075,
+        "system_id": 30003002
+    },
+    "name": "Stargate (Faktun)",
+    "position": {
+        "x": 8286891171840,
+        "y": -321927782400,
+        "z": -2863739412480
+    },
+    "stargate_id": 50009966,
+    "system_id": 30003004,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007098,
+        "system_id": 30003032
+    },
+    "name": "Stargate (Meves)",
+    "position": {
+        "x": -2487677952000,
+        "y": -492645457920,
+        "z": -4743099064320
+    },
+    "stargate_id": 50007649,
+    "system_id": 30003033,
+    "type_id": 3875
+}

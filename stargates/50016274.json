@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016273,
+        "system_id": 30045320
+    },
+    "name": "Stargate (Pavanakka)",
+    "position": {
+        "x": 193151754240,
+        "y": -599130562560,
+        "z": 1030396108800
+    },
+    "stargate_id": 50016274,
+    "system_id": 30045340,
+    "type_id": 29627
+}

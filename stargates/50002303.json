@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001570,
+        "system_id": 30000582
+    },
+    "name": "Stargate (4-OS2A)",
+    "position": {
+        "x": -2925534781440,
+        "y": 165760573440,
+        "z": -829221642240
+    },
+    "stargate_id": 50002303,
+    "system_id": 30000586,
+    "type_id": 29633
+}

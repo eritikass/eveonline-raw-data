@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006233,
+        "system_id": 30005227
+    },
+    "name": "Stargate (Iderion)",
+    "position": {
+        "x": 755994501120,
+        "y": 2199894712320,
+        "z": 101962260480
+    },
+    "stargate_id": 50006808,
+    "system_id": 30004104,
+    "type_id": 29626
+}

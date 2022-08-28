@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010480,
+        "system_id": 30003156
+    },
+    "name": "Stargate (DIBH-Q)",
+    "position": {
+        "x": -785262059520,
+        "y": 118129336320,
+        "z": 1013460541440
+    },
+    "stargate_id": 50010671,
+    "system_id": 30003158,
+    "type_id": 29624
+}

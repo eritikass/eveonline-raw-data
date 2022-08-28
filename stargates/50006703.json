@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006877,
+        "system_id": 30003284
+    },
+    "name": "Stargate (M2-CF1)",
+    "position": {
+        "x": 2585006776320,
+        "y": -248840970240,
+        "z": 7213600235520
+    },
+    "stargate_id": 50006703,
+    "system_id": 30003282,
+    "type_id": 3875
+}

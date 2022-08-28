@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011548,
+        "system_id": 30001697
+    },
+    "name": "Stargate (Ahkour)",
+    "position": {
+        "x": -124238929920,
+        "y": -3857326080,
+        "z": -47556157440
+    },
+    "stargate_id": 50004732,
+    "system_id": 30001695,
+    "type_id": 29624
+}

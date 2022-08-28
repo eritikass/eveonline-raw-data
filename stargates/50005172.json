@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005380,
+        "system_id": 30005097
+    },
+    "name": "Stargate (V-3K7C)",
+    "position": {
+        "x": 2172275957760,
+        "y": 179914874880,
+        "z": -1069148282880
+    },
+    "stargate_id": 50005172,
+    "system_id": 30005096,
+    "type_id": 3875
+}

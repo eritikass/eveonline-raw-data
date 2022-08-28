@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006681,
+        "system_id": 30005040
+    },
+    "name": "Stargate (Nishah)",
+    "position": {
+        "x": -2696980193280,
+        "y": -404659691520,
+        "z": 2981149777920
+    },
+    "stargate_id": 50006279,
+    "system_id": 30005036,
+    "type_id": 29624
+}

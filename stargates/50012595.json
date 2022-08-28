@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011200,
+        "system_id": 30001906
+    },
+    "name": "Stargate (F-TVAP)",
+    "position": {
+        "x": 22724567040,
+        "y": -3340492800,
+        "z": 147577282560
+    },
+    "stargate_id": 50012595,
+    "system_id": 30001907,
+    "type_id": 29624
+}

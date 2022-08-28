@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012434,
+        "system_id": 30004901
+    },
+    "name": "Stargate (M9-FIB)",
+    "position": {
+        "x": -312777154560,
+        "y": 31489843200,
+        "z": 178810920960
+    },
+    "stargate_id": 50012352,
+    "system_id": 30004900,
+    "type_id": 29633
+}

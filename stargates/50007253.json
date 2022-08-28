@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010045,
+        "system_id": 30001115
+    },
+    "name": "Stargate (B2J-5N)",
+    "position": {
+        "x": -70942187520,
+        "y": 4129628160,
+        "z": -869198192640
+    },
+    "stargate_id": 50007253,
+    "system_id": 30001113,
+    "type_id": 3875
+}

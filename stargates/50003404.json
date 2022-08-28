@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007364,
+        "system_id": 30001207
+    },
+    "name": "Stargate (WJ-9YO)",
+    "position": {
+        "x": -1740794880000,
+        "y": -61319700480,
+        "z": 3736709406720
+    },
+    "stargate_id": 50003404,
+    "system_id": 30001205,
+    "type_id": 29624
+}

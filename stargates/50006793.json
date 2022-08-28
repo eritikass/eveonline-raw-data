@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007412,
+        "system_id": 30000504
+    },
+    "name": "Stargate (BOZ1-O)",
+    "position": {
+        "x": 3399748608000,
+        "y": -291876986880,
+        "z": 2998218301440
+    },
+    "stargate_id": 50006793,
+    "system_id": 30000503,
+    "type_id": 29633
+}

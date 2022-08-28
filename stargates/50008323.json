@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009737,
+        "system_id": 30003050
+    },
+    "name": "Stargate (Odixie)",
+    "position": {
+        "x": -4322625822720,
+        "y": -441508208640,
+        "z": -1645636116480
+    },
+    "stargate_id": 50008323,
+    "system_id": 30003048,
+    "type_id": 3875
+}

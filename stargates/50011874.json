@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011508,
+        "system_id": 30001926
+    },
+    "name": "Stargate (CJF-1P)",
+    "position": {
+        "x": 298882867200,
+        "y": 57640427520,
+        "z": -4957451182080
+    },
+    "stargate_id": 50011874,
+    "system_id": 30001929,
+    "type_id": 29624
+}

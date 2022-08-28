@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006735,
+        "system_id": 30003199
+    },
+    "name": "Stargate (GTQ-C9)",
+    "position": {
+        "x": -3685293219840,
+        "y": -545499832320,
+        "z": -390312960000
+    },
+    "stargate_id": 50007032,
+    "system_id": 30003200,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012558,
+        "system_id": 30004258
+    },
+    "name": "Stargate (Khnar)",
+    "position": {
+        "x": -2511619891200,
+        "y": 226050170880,
+        "z": 3737224765440
+    },
+    "stargate_id": 50012421,
+    "system_id": 30004257,
+    "type_id": 29624
+}

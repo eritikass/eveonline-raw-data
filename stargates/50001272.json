@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000461,
+        "system_id": 30001374
+    },
+    "name": "Stargate (Iidoken)",
+    "position": {
+        "x": 1322558054400,
+        "y": -336395673600,
+        "z": -2083527106560
+    },
+    "stargate_id": 50001272,
+    "system_id": 30001389,
+    "type_id": 29627
+}

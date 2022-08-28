@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002028,
+        "system_id": 30000623
+    },
+    "name": "Stargate (04EI-U)",
+    "position": {
+        "x": 102344417280,
+        "y": -14167695360,
+        "z": 978811330560
+    },
+    "stargate_id": 50001421,
+    "system_id": 30000620,
+    "type_id": 29633
+}

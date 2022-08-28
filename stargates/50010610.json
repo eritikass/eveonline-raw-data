@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010925,
+        "system_id": 30004238
+    },
+    "name": "Stargate (Gens)",
+    "position": {
+        "x": -823841218560,
+        "y": 8607866880,
+        "z": 10532659200
+    },
+    "stargate_id": 50010610,
+    "system_id": 30004236,
+    "type_id": 29624
+}

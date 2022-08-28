@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012063,
+        "system_id": 30002266
+    },
+    "name": "Stargate (Ahmak)",
+    "position": {
+        "x": 48751288320,
+        "y": 7757045760,
+        "z": -16733675520
+    },
+    "stargate_id": 50007257,
+    "system_id": 30002263,
+    "type_id": 29624
+}

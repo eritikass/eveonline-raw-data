@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010266,
+        "system_id": 30003589
+    },
+    "name": "Stargate (Vecodie)",
+    "position": {
+        "x": -2762756874240,
+        "y": 263612375040,
+        "z": -1832312709120
+    },
+    "stargate_id": 50009923,
+    "system_id": 30003588,
+    "type_id": 3875
+}

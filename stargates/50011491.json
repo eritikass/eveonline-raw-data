@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001699,
+        "system_id": 30004973
+    },
+    "name": "Stargate (Caslemon)",
+    "position": {
+        "x": 2861576232960,
+        "y": -2583371980800,
+        "z": 8388191969280
+    },
+    "stargate_id": 50011491,
+    "system_id": 30005021,
+    "type_id": 3874
+}

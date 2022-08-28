@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010936,
+        "system_id": 30003036
+    },
+    "name": "Stargate (Frarolle)",
+    "position": {
+        "x": 3509140070400,
+        "y": -674041159680,
+        "z": 722895052800
+    },
+    "stargate_id": 50010781,
+    "system_id": 30003035,
+    "type_id": 3875
+}

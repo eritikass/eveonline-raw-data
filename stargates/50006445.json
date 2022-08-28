@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006721,
+        "system_id": 30001590
+    },
+    "name": "Stargate (ZWM-BB)",
+    "position": {
+        "x": 361810206720,
+        "y": -70179840000,
+        "z": 656692224000
+    },
+    "stargate_id": 50006445,
+    "system_id": 30001588,
+    "type_id": 3875
+}

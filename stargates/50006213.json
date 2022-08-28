@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007121,
+        "system_id": 30003193
+    },
+    "name": "Stargate (DS3-6A)",
+    "position": {
+        "x": -1753878405120,
+        "y": -265520209920,
+        "z": 2618058055680
+    },
+    "stargate_id": 50006213,
+    "system_id": 30003192,
+    "type_id": 3875
+}

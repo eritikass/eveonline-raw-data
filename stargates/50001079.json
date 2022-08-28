@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002021,
+        "system_id": 30002299
+    },
+    "name": "Stargate (MF-PGF)",
+    "position": {
+        "x": -3786013286400,
+        "y": 466180792320,
+        "z": -226387353600
+    },
+    "stargate_id": 50001079,
+    "system_id": 30002297,
+    "type_id": 3875
+}

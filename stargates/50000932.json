@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002903,
+        "system_id": 30000677
+    },
+    "name": "Stargate (J2-PZ6)",
+    "position": {
+        "x": -222223687680,
+        "y": 38845931520,
+        "z": 584956846080
+    },
+    "stargate_id": 50000932,
+    "system_id": 30000674,
+    "type_id": 29633
+}

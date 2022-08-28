@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003985,
+        "system_id": 30001681
+    },
+    "name": "Stargate (Teshkat)",
+    "position": {
+        "x": 241399848960,
+        "y": 20379279360,
+        "z": -49828208640
+    },
+    "stargate_id": 50011768,
+    "system_id": 30001686,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006671,
+        "system_id": 30000713
+    },
+    "name": "Stargate (X2-ZA5)",
+    "position": {
+        "x": 615132241920,
+        "y": 91477155840,
+        "z": -166047866880
+    },
+    "stargate_id": 50004535,
+    "system_id": 30000712,
+    "type_id": 29633
+}

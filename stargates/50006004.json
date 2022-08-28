@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004185,
+        "system_id": 30000298
+    },
+    "name": "Stargate (RVCZ-C)",
+    "position": {
+        "x": -3055937249280,
+        "y": 372126965760,
+        "z": 3993210839040
+    },
+    "stargate_id": 50006004,
+    "system_id": 30000300,
+    "type_id": 16
+}

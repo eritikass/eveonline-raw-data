@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012684,
+        "system_id": 30004645
+    },
+    "name": "Stargate (OL3-78)",
+    "position": {
+        "x": 1494256803840,
+        "y": -50850816000,
+        "z": 1218308382720
+    },
+    "stargate_id": 50012670,
+    "system_id": 30004644,
+    "type_id": 3875
+}

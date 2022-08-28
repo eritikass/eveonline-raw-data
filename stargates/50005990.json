@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005872,
+        "system_id": 30000996
+    },
+    "name": "Stargate (28-QWU)",
+    "position": {
+        "x": -1234972876800,
+        "y": -123261542400,
+        "z": 241785446400
+    },
+    "stargate_id": 50005990,
+    "system_id": 30000997,
+    "type_id": 29633
+}

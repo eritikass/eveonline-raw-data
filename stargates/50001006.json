@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000807,
+        "system_id": 30000764
+    },
+    "name": "Stargate (6BJH-3)",
+    "position": {
+        "x": -1373350502400,
+        "y": 6971351040,
+        "z": 1051615027200
+    },
+    "stargate_id": 50001006,
+    "system_id": 30000768,
+    "type_id": 29633
+}

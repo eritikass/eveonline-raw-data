@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009118,
+        "system_id": 30003768
+    },
+    "name": "Stargate (18-GZM)",
+    "position": {
+        "x": 3168667115520,
+        "y": 77053009920,
+        "z": -1177663365120
+    },
+    "stargate_id": 50007423,
+    "system_id": 30003766,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010389,
+        "system_id": 30004669
+    },
+    "name": "Stargate (ARBX-9)",
+    "position": {
+        "x": 497143848960,
+        "y": 32767795200,
+        "z": 177365606400
+    },
+    "stargate_id": 50010381,
+    "system_id": 30004668,
+    "type_id": 29624
+}

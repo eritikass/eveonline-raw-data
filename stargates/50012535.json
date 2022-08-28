@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011865,
+        "system_id": 30004392
+    },
+    "name": "Stargate (W-4FA9)",
+    "position": {
+        "x": 1319046144000,
+        "y": -217550069760,
+        "z": 720359301120
+    },
+    "stargate_id": 50012535,
+    "system_id": 30004395,
+    "type_id": 16
+}

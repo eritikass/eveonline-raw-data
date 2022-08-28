@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007400,
+        "system_id": 30004830
+    },
+    "name": "Stargate (2PG-KN)",
+    "position": {
+        "x": -27863654400,
+        "y": 848732160,
+        "z": 8756060160
+    },
+    "stargate_id": 50006964,
+    "system_id": 30004829,
+    "type_id": 29633
+}

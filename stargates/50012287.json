@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008895,
+        "system_id": 30003437
+    },
+    "name": "Stargate (Ogoten)",
+    "position": {
+        "x": -7769883648000,
+        "y": -1179490590720,
+        "z": 2110385971200
+    },
+    "stargate_id": 50012287,
+    "system_id": 30003439,
+    "type_id": 29633
+}

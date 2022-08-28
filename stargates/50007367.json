@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007893,
+        "system_id": 30002873
+    },
+    "name": "Stargate (K95-9I)",
+    "position": {
+        "x": 8473516154880,
+        "y": -953736437760,
+        "z": 868583055360
+    },
+    "stargate_id": 50007367,
+    "system_id": 30002867,
+    "type_id": 3874
+}

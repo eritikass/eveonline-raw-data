@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000970,
+        "system_id": 30000767
+    },
+    "name": "Stargate (QYD-WK)",
+    "position": {
+        "x": 36552744960,
+        "y": 6444687360,
+        "z": 29658685440
+    },
+    "stargate_id": 50000806,
+    "system_id": 30000764,
+    "type_id": 29633
+}

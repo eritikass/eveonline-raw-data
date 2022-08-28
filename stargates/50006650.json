@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006563,
+        "system_id": 30001230
+    },
+    "name": "Stargate (J6QB-P)",
+    "position": {
+        "x": 670461173760,
+        "y": -102246850560,
+        "z": 2211333120000
+    },
+    "stargate_id": 50006650,
+    "system_id": 30001231,
+    "type_id": 29624
+}

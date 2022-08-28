@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000744,
+        "system_id": 30002761
+    },
+    "name": "Stargate (Kassigainen)",
+    "position": {
+        "x": 1544278056960,
+        "y": -569656320000,
+        "z": 1679810764800
+    },
+    "stargate_id": 50006512,
+    "system_id": 30005015,
+    "type_id": 3876
+}

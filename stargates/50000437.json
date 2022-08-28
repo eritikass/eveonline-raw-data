@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002037,
+        "system_id": 30000775
+    },
+    "name": "Stargate (8-WYQZ)",
+    "position": {
+        "x": 444877824000,
+        "y": 20516904960,
+        "z": 2456493711360
+    },
+    "stargate_id": 50000437,
+    "system_id": 30000772,
+    "type_id": 29633
+}

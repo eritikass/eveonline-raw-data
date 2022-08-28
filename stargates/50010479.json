@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010463,
+        "system_id": 30003155
+    },
+    "name": "Stargate (G-JC9R)",
+    "position": {
+        "x": -2095247892480,
+        "y": 381260636160,
+        "z": 1893068513280
+    },
+    "stargate_id": 50010479,
+    "system_id": 30003156,
+    "type_id": 29624
+}

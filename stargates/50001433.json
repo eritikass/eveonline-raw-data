@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002039,
+        "system_id": 30000258
+    },
+    "name": "Stargate (6WW-28)",
+    "position": {
+        "x": 434337423360,
+        "y": -69756149760,
+        "z": -423011082240
+    },
+    "stargate_id": 50001433,
+    "system_id": 30000255,
+    "type_id": 16
+}

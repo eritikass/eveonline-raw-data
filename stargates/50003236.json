@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003441,
+        "system_id": 30000474
+    },
+    "name": "Stargate (1-PGSG)",
+    "position": {
+        "x": 568080752640,
+        "y": 53525422080,
+        "z": 1193576079360
+    },
+    "stargate_id": 50003236,
+    "system_id": 30000473,
+    "type_id": 29633
+}

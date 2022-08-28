@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011441,
+        "system_id": 30001336
+    },
+    "name": "Stargate (WLF-D3)",
+    "position": {
+        "x": -1209134407680,
+        "y": -51208396800,
+        "z": -1748612751360
+    },
+    "stargate_id": 50008787,
+    "system_id": 30001333,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007431,
+        "system_id": 30001130
+    },
+    "name": "Stargate (DOA-YU)",
+    "position": {
+        "x": -2162847129600,
+        "y": 91576934400,
+        "z": 156345016320
+    },
+    "stargate_id": 50003636,
+    "system_id": 30001126,
+    "type_id": 3875
+}

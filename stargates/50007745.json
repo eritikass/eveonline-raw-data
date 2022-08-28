@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008031,
+        "system_id": 30003899
+    },
+    "name": "Stargate (Vezila)",
+    "position": {
+        "x": -1996677488640,
+        "y": -87868661760,
+        "z": -613242593280
+    },
+    "stargate_id": 50007745,
+    "system_id": 30003897,
+    "type_id": 29624
+}

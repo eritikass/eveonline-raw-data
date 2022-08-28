@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013250,
+        "system_id": 30004962
+    },
+    "name": "Stargate (G-Q5JU)",
+    "position": {
+        "x": -54626918400,
+        "y": 3071385600,
+        "z": -187830804480
+    },
+    "stargate_id": 50013230,
+    "system_id": 30004961,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004327,
+        "system_id": 30002794
+    },
+    "name": "Stargate (Yria)",
+    "position": {
+        "x": -1640836915200,
+        "y": 47043502080,
+        "z": 1887448965120
+    },
+    "stargate_id": 50006293,
+    "system_id": 30002799,
+    "type_id": 16
+}

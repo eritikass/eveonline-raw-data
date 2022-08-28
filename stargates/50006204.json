@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006212,
+        "system_id": 30003192
+    },
+    "name": "Stargate (F-816R)",
+    "position": {
+        "x": 7618312888320,
+        "y": -1348178780160,
+        "z": -2767602524160
+    },
+    "stargate_id": 50006204,
+    "system_id": 30003191,
+    "type_id": 3875
+}

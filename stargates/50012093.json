@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013277,
+        "system_id": 30002096
+    },
+    "name": "Stargate (Hofjaldgund)",
+    "position": {
+        "x": -330740981760,
+        "y": 30557429760,
+        "z": -489902530560
+    },
+    "stargate_id": 50012093,
+    "system_id": 30002095,
+    "type_id": 29633
+}

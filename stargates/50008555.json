@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009429,
+        "system_id": 30002128
+    },
+    "name": "Stargate (FYI-49)",
+    "position": {
+        "x": 329493258240,
+        "y": 38696017920,
+        "z": -353759846400
+    },
+    "stargate_id": 50008555,
+    "system_id": 30002126,
+    "type_id": 29633
+}

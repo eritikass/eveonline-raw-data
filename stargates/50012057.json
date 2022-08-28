@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012168,
+        "system_id": 30004473
+    },
+    "name": "Stargate (R4K-8L)",
+    "position": {
+        "x": 164325826560,
+        "y": -3428720640,
+        "z": -239232245760
+    },
+    "stargate_id": 50012057,
+    "system_id": 30004472,
+    "type_id": 29633
+}

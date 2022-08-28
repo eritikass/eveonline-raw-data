@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001870,
+        "system_id": 30000782
+    },
+    "name": "Stargate (3U-48K)",
+    "position": {
+        "x": -586823884800,
+        "y": 72989122560,
+        "z": -199169679360
+    },
+    "stargate_id": 50000484,
+    "system_id": 30000778,
+    "type_id": 29633
+}

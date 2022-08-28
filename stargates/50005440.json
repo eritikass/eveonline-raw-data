@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004017,
+        "system_id": 30001042
+    },
+    "name": "Stargate (CL-1JE)",
+    "position": {
+        "x": 1855354429440,
+        "y": -15639306240,
+        "z": 4123079761920
+    },
+    "stargate_id": 50005440,
+    "system_id": 30001043,
+    "type_id": 29633
+}

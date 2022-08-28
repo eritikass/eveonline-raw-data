@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016230,
+        "system_id": 30045312
+    },
+    "name": "Stargate (Korasen)",
+    "position": {
+        "x": 6578636759040,
+        "y": 166285762560,
+        "z": 11461612953600
+    },
+    "stargate_id": 50016229,
+    "system_id": 30045309,
+    "type_id": 16
+}

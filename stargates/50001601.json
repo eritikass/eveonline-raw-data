@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006760,
+        "system_id": 30000993
+    },
+    "name": "Stargate (O-OVOQ)",
+    "position": {
+        "x": 2092368814080,
+        "y": 1929712066560,
+        "z": 4961461493760
+    },
+    "stargate_id": 50001601,
+    "system_id": 30000924,
+    "type_id": 3877
+}

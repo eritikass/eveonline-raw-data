@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014012,
+        "system_id": 30003685
+    },
+    "name": "Stargate (VRH-H7)",
+    "position": {
+        "x": 144751288320,
+        "y": -111978455040,
+        "z": 2711171358720
+    },
+    "stargate_id": 50014011,
+    "system_id": 30002032,
+    "type_id": 29629
+}

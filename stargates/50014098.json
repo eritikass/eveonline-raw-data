@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014097,
+        "system_id": 30005198
+    },
+    "name": "Stargate (Pakhshi)",
+    "position": {
+        "x": -2645476024320,
+        "y": -454796206080,
+        "z": 1204566958080
+    },
+    "stargate_id": 50014098,
+    "system_id": 30004969,
+    "type_id": 3876
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005616,
+        "system_id": 30000166
+    },
+    "name": "Stargate (Airmia)",
+    "position": {
+        "x": 934684876800,
+        "y": 114789703680,
+        "z": -26875453440
+    },
+    "stargate_id": 50005009,
+    "system_id": 30000165,
+    "type_id": 16
+}

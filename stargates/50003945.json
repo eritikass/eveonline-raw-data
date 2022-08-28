@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004626,
+        "system_id": 30002536
+    },
+    "name": "Stargate (Ebodold)",
+    "position": {
+        "x": -16472924160,
+        "y": 2891489280,
+        "z": -558405181440
+    },
+    "stargate_id": 50003945,
+    "system_id": 30002532,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003568,
+        "system_id": 30001531
+    },
+    "name": "Stargate (GZM-KB)",
+    "position": {
+        "x": -1720637890560,
+        "y": 279917568000,
+        "z": -5413137162240
+    },
+    "stargate_id": 50000399,
+    "system_id": 30001526,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008567,
+        "system_id": 30003324
+    },
+    "name": "Stargate (3MOG-V)",
+    "position": {
+        "x": -2011601510400,
+        "y": 49391984640,
+        "z": -350620508160
+    },
+    "stargate_id": 50008341,
+    "system_id": 30003323,
+    "type_id": 3875
+}

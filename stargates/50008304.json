@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008881,
+        "system_id": 30005259
+    },
+    "name": "Stargate (Lela)",
+    "position": {
+        "x": -2329414901760,
+        "y": 399759974400,
+        "z": 1798375710720
+    },
+    "stargate_id": 50008304,
+    "system_id": 30005257,
+    "type_id": 29624
+}

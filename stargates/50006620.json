@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007196,
+        "system_id": 30003201
+    },
+    "name": "Stargate (ORB4-J)",
+    "position": {
+        "x": 1386287554560,
+        "y": 237474078720,
+        "z": 193023959040
+    },
+    "stargate_id": 50006620,
+    "system_id": 30003198,
+    "type_id": 3875
+}

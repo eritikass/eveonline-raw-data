@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010273,
+        "system_id": 30004173
+    },
+    "name": "Stargate (X-41DA)",
+    "position": {
+        "x": 1013976145920,
+        "y": -66990366720,
+        "z": -291812843520
+    },
+    "stargate_id": 50010122,
+    "system_id": 30004170,
+    "type_id": 3875
+}

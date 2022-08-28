@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004153,
+        "system_id": 30005302
+    },
+    "name": "Stargate (Alenia)",
+    "position": {
+        "x": -1757062963200,
+        "y": 149212569600,
+        "z": 1069630218240
+    },
+    "stargate_id": 50004668,
+    "system_id": 30005306,
+    "type_id": 3875
+}

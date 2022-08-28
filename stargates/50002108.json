@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001038,
+        "system_id": 30000248
+    },
+    "name": "Stargate (V-OJEN)",
+    "position": {
+        "x": 1045428019200,
+        "y": 186926407680,
+        "z": 588827320320
+    },
+    "stargate_id": 50002108,
+    "system_id": 30000251,
+    "type_id": 16
+}

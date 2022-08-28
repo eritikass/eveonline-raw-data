@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001897,
+        "system_id": 30000797
+    },
+    "name": "Stargate (Q-3HS5)",
+    "position": {
+        "x": -1845564334080,
+        "y": -55027507200,
+        "z": -421840527360
+    },
+    "stargate_id": 50003021,
+    "system_id": 30000799,
+    "type_id": 29633
+}

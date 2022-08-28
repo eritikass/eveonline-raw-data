@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003991,
+        "system_id": 30001185
+    },
+    "name": "Stargate (JBY6-F)",
+    "position": {
+        "x": -140492021760,
+        "y": 2990039040,
+        "z": -205595320320
+    },
+    "stargate_id": 50007321,
+    "system_id": 30001186,
+    "type_id": 29624
+}

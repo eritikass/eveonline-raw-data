@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002983,
+        "system_id": 30000092
+    },
+    "name": "Stargate (Aranir)",
+    "position": {
+        "x": -4563461038080,
+        "y": 446699397120,
+        "z": -966183936000
+    },
+    "stargate_id": 50000602,
+    "system_id": 30000089,
+    "type_id": 29624
+}

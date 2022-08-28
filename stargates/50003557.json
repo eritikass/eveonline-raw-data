@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002889,
+        "system_id": 30000265
+    },
+    "name": "Stargate (AZBR-2)",
+    "position": {
+        "x": -3512769454080,
+        "y": 469267292160,
+        "z": -2604060794880
+    },
+    "stargate_id": 50003557,
+    "system_id": 30000266,
+    "type_id": 16
+}

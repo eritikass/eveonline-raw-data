@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004556,
+        "system_id": 30000735
+    },
+    "name": "Stargate (OX-S7P)",
+    "position": {
+        "x": 1543672750080,
+        "y": -250135388160,
+        "z": -1709352099840
+    },
+    "stargate_id": 50004232,
+    "system_id": 30000733,
+    "type_id": 29633
+}

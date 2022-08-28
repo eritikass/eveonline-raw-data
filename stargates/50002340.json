@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001649,
+        "system_id": 30000249
+    },
+    "name": "Stargate (EIDI-N)",
+    "position": {
+        "x": -76596387840,
+        "y": 11906949120,
+        "z": -109926850560
+    },
+    "stargate_id": 50002340,
+    "system_id": 30000253,
+    "type_id": 16
+}

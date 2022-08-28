@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004879,
+        "system_id": 30001840
+    },
+    "name": "Stargate (9RQ-L8)",
+    "position": {
+        "x": -6497402265600,
+        "y": 115034234880,
+        "z": -281970401280
+    },
+    "stargate_id": 50004842,
+    "system_id": 30001839,
+    "type_id": 29624
+}

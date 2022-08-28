@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004007,
+        "system_id": 30001687
+    },
+    "name": "Stargate (Lossa)",
+    "position": {
+        "x": -1485068083200,
+        "y": 3502163681280,
+        "z": -1732417413120
+    },
+    "stargate_id": 50005638,
+    "system_id": 30001680,
+    "type_id": 17
+}

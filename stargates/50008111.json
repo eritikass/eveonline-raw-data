@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006590,
+        "system_id": 30000176
+    },
+    "name": "Stargate (Keikaken)",
+    "position": {
+        "x": -1664876666880,
+        "y": -191341240320,
+        "z": -454327787520
+    },
+    "stargate_id": 50008111,
+    "system_id": 30000177,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002215,
+        "system_id": 30002822
+    },
+    "name": "Stargate (XTJ-5Q)",
+    "position": {
+        "x": -1481698222080,
+        "y": -253209354240,
+        "z": 2072082063360
+    },
+    "stargate_id": 50000583,
+    "system_id": 30002820,
+    "type_id": 3875
+}

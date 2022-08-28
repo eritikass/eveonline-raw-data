@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012344,
+        "system_id": 30001803
+    },
+    "name": "Stargate (YC-ANK)",
+    "position": {
+        "x": -4149433098240,
+        "y": 131479265280,
+        "z": -515125125120
+    },
+    "stargate_id": 50012292,
+    "system_id": 30001802,
+    "type_id": 3875
+}

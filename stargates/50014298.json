@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014297,
+        "system_id": 30002773
+    },
+    "name": "Stargate (Hogimo)",
+    "position": {
+        "x": -222622801920,
+        "y": -44996567040,
+        "z": 725052579840
+    },
+    "stargate_id": 50014298,
+    "system_id": 30002774,
+    "type_id": 16
+}

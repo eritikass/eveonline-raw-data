@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003411,
+        "system_id": 30004987
+    },
+    "name": "Stargate (Deninard)",
+    "position": {
+        "x": 510570455040,
+        "y": 103407575040,
+        "z": -1727839887360
+    },
+    "stargate_id": 50004520,
+    "system_id": 30004988,
+    "type_id": 3875
+}

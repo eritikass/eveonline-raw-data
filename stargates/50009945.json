@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009755,
+        "system_id": 30004451
+    },
+    "name": "Stargate (E-PR0S)",
+    "position": {
+        "x": -401375600640,
+        "y": 35930234880,
+        "z": 201646940160
+    },
+    "stargate_id": 50009945,
+    "system_id": 30004453,
+    "type_id": 29633
+}

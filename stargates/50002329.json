@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005366,
+        "system_id": 30002991
+    },
+    "name": "Stargate (Uadelah)",
+    "position": {
+        "x": -3131687362560,
+        "y": 7931041751040,
+        "z": -4537686466560
+    },
+    "stargate_id": 50002329,
+    "system_id": 30002964,
+    "type_id": 17
+}

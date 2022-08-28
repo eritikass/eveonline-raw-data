@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008168,
+        "system_id": 30003433
+    },
+    "name": "Stargate (Gedugaud)",
+    "position": {
+        "x": -1830171893760,
+        "y": 118933954560,
+        "z": -3856402636800
+    },
+    "stargate_id": 50007663,
+    "system_id": 30003431,
+    "type_id": 29633
+}

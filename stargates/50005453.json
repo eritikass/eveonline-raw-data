@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011044,
+        "system_id": 30003798
+    },
+    "name": "Stargate (Slays)",
+    "position": {
+        "x": -1121109319680,
+        "y": -129975459840,
+        "z": 1536306339840
+    },
+    "stargate_id": 50005453,
+    "system_id": 30003794,
+    "type_id": 3875
+}

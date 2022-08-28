@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002459,
+        "system_id": 30000958
+    },
+    "name": "Stargate (Y-DSSK)",
+    "position": {
+        "x": 1142721945600,
+        "y": 46862622720,
+        "z": -1079987036160
+    },
+    "stargate_id": 50001619,
+    "system_id": 30000956,
+    "type_id": 29633
+}

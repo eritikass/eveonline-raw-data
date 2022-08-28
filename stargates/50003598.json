@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003381,
+        "system_id": 30001970
+    },
+    "name": "Stargate (EL8-4Q)",
+    "position": {
+        "x": 1444698808320,
+        "y": -274276638720,
+        "z": 302032773120
+    },
+    "stargate_id": 50003598,
+    "system_id": 30001972,
+    "type_id": 16
+}

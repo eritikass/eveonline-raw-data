@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014133,
+        "system_id": 30001674
+    },
+    "name": "Stargate (Hilaban)",
+    "position": {
+        "x": -1031391682560,
+        "y": 168039997440,
+        "z": -1770525204480
+    },
+    "stargate_id": 50014134,
+    "system_id": 30021672,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002967,
+        "system_id": 30002519
+    },
+    "name": "Stargate (Kronsur)",
+    "position": {
+        "x": 256640901120,
+        "y": -27058544640,
+        "z": -167604756480
+    },
+    "stargate_id": 50003070,
+    "system_id": 30002521,
+    "type_id": 29633
+}

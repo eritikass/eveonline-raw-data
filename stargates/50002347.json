@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000788,
+        "system_id": 30004081
+    },
+    "name": "Stargate (Zororzih)",
+    "position": {
+        "x": -461873848320,
+        "y": 49975664640,
+        "z": -1427057172480
+    },
+    "stargate_id": 50002347,
+    "system_id": 30004083,
+    "type_id": 29624
+}

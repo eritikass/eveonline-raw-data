@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005762,
+        "system_id": 30000991
+    },
+    "name": "Stargate (SB-23C)",
+    "position": {
+        "x": -151548764160,
+        "y": 28814991360,
+        "z": 228763115520
+    },
+    "stargate_id": 50006761,
+    "system_id": 30000993,
+    "type_id": 29633
+}

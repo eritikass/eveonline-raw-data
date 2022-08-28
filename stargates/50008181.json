@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003087,
+        "system_id": 30002788
+    },
+    "name": "Stargate (Inaro)",
+    "position": {
+        "x": 85032099840,
+        "y": 129884160,
+        "z": -661860065280
+    },
+    "stargate_id": 50008181,
+    "system_id": 30002791,
+    "type_id": 16
+}

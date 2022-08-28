@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008777,
+        "system_id": 30004326
+    },
+    "name": "Stargate (O-JPKH)",
+    "position": {
+        "x": 2399038709760,
+        "y": -161982259200,
+        "z": 2164361994240
+    },
+    "stargate_id": 50010630,
+    "system_id": 30004328,
+    "type_id": 16
+}

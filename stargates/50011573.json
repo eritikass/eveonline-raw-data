@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010847,
+        "system_id": 30003443
+    },
+    "name": "Stargate (Moselgi)",
+    "position": {
+        "x": 148304240640,
+        "y": 28440698880,
+        "z": -47657656320
+    },
+    "stargate_id": 50011573,
+    "system_id": 30003445,
+    "type_id": 29633
+}

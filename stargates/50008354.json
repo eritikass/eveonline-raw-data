@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009107,
+        "system_id": 30003922
+    },
+    "name": "Stargate (Nahrneder)",
+    "position": {
+        "x": -9147916738560,
+        "y": 905132482560,
+        "z": -2874573496320
+    },
+    "stargate_id": 50008354,
+    "system_id": 30003917,
+    "type_id": 29624
+}

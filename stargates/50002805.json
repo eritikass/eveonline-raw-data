@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005248,
+        "system_id": 30002195
+    },
+    "name": "Stargate (Simbeloud)",
+    "position": {
+        "x": 204543959040,
+        "y": 23587184640,
+        "z": -1079318077440
+    },
+    "stargate_id": 50002805,
+    "system_id": 30002190,
+    "type_id": 29624
+}

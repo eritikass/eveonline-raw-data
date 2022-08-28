@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002127,
+        "system_id": 30001403
+    },
+    "name": "Stargate (Piak)",
+    "position": {
+        "x": 4123268014080,
+        "y": 513921392640,
+        "z": -629777326080
+    },
+    "stargate_id": 50002562,
+    "system_id": 30001424,
+    "type_id": 29627
+}

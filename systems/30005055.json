@@ -1,0 +1,73 @@
+{
+    "constellation_id": 20000739,
+    "name": "Zinkon",
+    "planets": [
+        {
+            "planet_id": 40320042
+        },
+        {
+            "asteroid_belts": [
+                40320044
+            ],
+            "moons": [
+                40320045
+            ],
+            "planet_id": 40320043
+        },
+        {
+            "planet_id": 40320046
+        },
+        {
+            "planet_id": 40320047
+        },
+        {
+            "asteroid_belts": [
+                40320049
+            ],
+            "moons": [
+                40320050
+            ],
+            "planet_id": 40320048
+        },
+        {
+            "asteroid_belts": [
+                40320052
+            ],
+            "planet_id": 40320051
+        },
+        {
+            "asteroid_belts": [
+                40320054
+            ],
+            "moons": [
+                40320055
+            ],
+            "planet_id": 40320053
+        },
+        {
+            "moons": [
+                40320057,
+                40320058,
+                40320059,
+                40320060
+            ],
+            "planet_id": 40320056
+        }
+    ],
+    "position": {
+        "x": -320457717419158200,
+        "y": -10802220540025556,
+        "z": -94645210596783660
+    },
+    "security_class": "B1",
+    "security_status": 0.7084131836891174,
+    "star_id": 40320041,
+    "stargates": [
+        50007700,
+        50014072
+    ],
+    "stations": [
+        60003478
+    ],
+    "system_id": 30005055
+}

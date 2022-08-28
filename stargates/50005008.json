@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004474,
+        "system_id": 30000158
+    },
+    "name": "Stargate (Olo)",
+    "position": {
+        "x": -467738173440,
+        "y": 1196000501760,
+        "z": -4741992898560
+    },
+    "stargate_id": 50005008,
+    "system_id": 30000165,
+    "type_id": 29627
+}

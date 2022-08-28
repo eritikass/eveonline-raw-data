@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005247,
+        "system_id": 30003401
+    },
+    "name": "Stargate (Egbonbet)",
+    "position": {
+        "x": 127619358720,
+        "y": 13809868800,
+        "z": -770010931200
+    },
+    "stargate_id": 50007448,
+    "system_id": 30003407,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001141,
+        "system_id": 30002764
+    },
+    "name": "Stargate (Hatakani)",
+    "position": {
+        "x": -2082857656320,
+        "y": 225246289920,
+        "z": -1571737559040
+    },
+    "stargate_id": 50001087,
+    "system_id": 30002762,
+    "type_id": 16
+}

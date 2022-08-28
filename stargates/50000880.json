@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002054,
+        "system_id": 30000925
+    },
+    "name": "Stargate (BY5-V8)",
+    "position": {
+        "x": -2483213230080,
+        "y": -207667568640,
+        "z": -2550644367360
+    },
+    "stargate_id": 50000880,
+    "system_id": 30000919,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009045,
+        "system_id": 30003962
+    },
+    "name": "Stargate (MKD-O8)",
+    "position": {
+        "x": 1161403883520,
+        "y": 65083023360,
+        "z": -1102884003840
+    },
+    "stargate_id": 50009046,
+    "system_id": 30003963,
+    "type_id": 29624
+}

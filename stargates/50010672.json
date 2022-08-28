@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011151,
+        "system_id": 30003159
+    },
+    "name": "Stargate (PE-H02)",
+    "position": {
+        "x": -785333329920,
+        "y": 118104268800,
+        "z": 1013385338880
+    },
+    "stargate_id": 50010672,
+    "system_id": 30003158,
+    "type_id": 29624
+}

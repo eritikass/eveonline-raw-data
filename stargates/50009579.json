@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009294,
+        "system_id": 30003981
+    },
+    "name": "Stargate (UYU-VV)",
+    "position": {
+        "x": 874486210560,
+        "y": 824527872000,
+        "z": 3986315304960
+    },
+    "stargate_id": 50009579,
+    "system_id": 30003990,
+    "type_id": 17
+}

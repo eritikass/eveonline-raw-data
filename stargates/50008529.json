@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003950,
+        "system_id": 30005299
+    },
+    "name": "Stargate (Muetralle)",
+    "position": {
+        "x": -3449625845760,
+        "y": 3464340480000,
+        "z": 8515408896000
+    },
+    "stargate_id": 50008529,
+    "system_id": 30005320,
+    "type_id": 3874
+}

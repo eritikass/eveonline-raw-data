@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005817,
+        "system_id": 30002396
+    },
+    "name": "Stargate (Illamur)",
+    "position": {
+        "x": 3440991068160,
+        "y": -5367540572160,
+        "z": 1517363896320
+    },
+    "stargate_id": 50005376,
+    "system_id": 30002389,
+    "type_id": 3877
+}

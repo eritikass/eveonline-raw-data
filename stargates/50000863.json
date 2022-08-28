@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002513,
+        "system_id": 30000049
+    },
+    "name": "Stargate (Camal)",
+    "position": {
+        "x": -1001793085440,
+        "y": -184357724160,
+        "z": -259762298880
+    },
+    "stargate_id": 50000863,
+    "system_id": 30000045,
+    "type_id": 29624
+}

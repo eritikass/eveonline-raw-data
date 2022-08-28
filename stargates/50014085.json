@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014086,
+        "system_id": 30002782
+    },
+    "name": "Stargate (Kamio)",
+    "position": {
+        "x": -1868879831040,
+        "y": 4108048097280,
+        "z": 3946828308480
+    },
+    "stargate_id": 50014085,
+    "system_id": 30002789,
+    "type_id": 29627
+}

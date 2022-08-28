@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012329,
+        "system_id": 30001593
+    },
+    "name": "Stargate (JL-ZUQ)",
+    "position": {
+        "x": 327526686720,
+        "y": -47019909120,
+        "z": 169720012800
+    },
+    "stargate_id": 50012316,
+    "system_id": 30001592,
+    "type_id": 3875
+}

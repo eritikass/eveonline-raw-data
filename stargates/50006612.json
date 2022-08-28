@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006157,
+        "system_id": 30005115
+    },
+    "name": "Stargate (5T-A3D)",
+    "position": {
+        "x": -961613537280,
+        "y": 1112337162240,
+        "z": -845613588480
+    },
+    "stargate_id": 50006612,
+    "system_id": 30003197,
+    "type_id": 29632
+}

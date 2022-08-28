@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003946,
+        "system_id": 30005298
+    },
+    "name": "Stargate (Costolle)",
+    "position": {
+        "x": -5049950822400,
+        "y": -130393251840,
+        "z": 1041444741120
+    },
+    "stargate_id": 50003444,
+    "system_id": 30005296,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006772,
+        "system_id": 30003813
+    },
+    "name": "Stargate (Ivorider)",
+    "position": {
+        "x": 716151152640,
+        "y": 133740011520,
+        "z": 383268986880
+    },
+    "stargate_id": 50007017,
+    "system_id": 30003814,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005957,
+        "system_id": 30002638
+    },
+    "name": "Stargate (Sharuveil)",
+    "position": {
+        "x": 684104048640,
+        "y": 1676075950080,
+        "z": -2808913920
+    },
+    "stargate_id": 50004164,
+    "system_id": 30002671,
+    "type_id": 3874
+}

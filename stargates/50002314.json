@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001269,
+        "system_id": 30003474
+    },
+    "name": "Stargate (Sahda)",
+    "position": {
+        "x": 5283851673600,
+        "y": 110158356480,
+        "z": 313930014720
+    },
+    "stargate_id": 50002314,
+    "system_id": 30003477,
+    "type_id": 29624
+}

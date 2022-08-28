@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014134,
+        "system_id": 30021672
+    },
+    "name": "Stargate (Pasha)",
+    "position": {
+        "x": -6618004807680,
+        "y": 1232990822400,
+        "z": 7066044948480
+    },
+    "stargate_id": 50014133,
+    "system_id": 30001674,
+    "type_id": 29624
+}

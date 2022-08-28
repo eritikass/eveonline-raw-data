@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004408,
+        "system_id": 30001756
+    },
+    "name": "Stargate (WIO-OL)",
+    "position": {
+        "x": -212394762240,
+        "y": -15572213760,
+        "z": 866752389120
+    },
+    "stargate_id": 50004342,
+    "system_id": 30001755,
+    "type_id": 3875
+}

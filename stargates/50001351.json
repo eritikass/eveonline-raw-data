@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002797,
+        "system_id": 30000749
+    },
+    "name": "Stargate (4DS-OI)",
+    "position": {
+        "x": 260896235520,
+        "y": 8099389440,
+        "z": -42583449600
+    },
+    "stargate_id": 50001351,
+    "system_id": 30000747,
+    "type_id": 29633
+}

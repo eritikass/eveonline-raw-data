@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009855,
+        "system_id": 30004709
+    },
+    "name": "Stargate (KFIE-Z)",
+    "position": {
+        "x": 1371120230400,
+        "y": -70678241280,
+        "z": 928223109120
+    },
+    "stargate_id": 50009774,
+    "system_id": 30004707,
+    "type_id": 29624
+}

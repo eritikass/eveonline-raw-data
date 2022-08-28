@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010895,
+        "system_id": 30004735
+    },
+    "name": "Stargate (T5ZI-S)",
+    "position": {
+        "x": 5096709611520,
+        "y": -2641212334080,
+        "z": 4144289832960
+    },
+    "stargate_id": 50010993,
+    "system_id": 30004759,
+    "type_id": 17
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006135,
+        "system_id": 30001857
+    },
+    "name": "Stargate (9U6-SV)",
+    "position": {
+        "x": -2568143462400,
+        "y": 953491660800,
+        "z": -5320708300800
+    },
+    "stargate_id": 50005909,
+    "system_id": 30001856,
+    "type_id": 17
+}

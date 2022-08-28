@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004065,
+        "system_id": 30001834
+    },
+    "name": "Stargate (E-C0SR)",
+    "position": {
+        "x": -26812784640,
+        "y": -5018542080,
+        "z": 84600053760
+    },
+    "stargate_id": 50003975,
+    "system_id": 30001833,
+    "type_id": 29624
+}

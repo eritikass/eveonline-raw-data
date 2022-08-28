@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007217,
+        "system_id": 30005004
+    },
+    "name": "Stargate (Attyn)",
+    "position": {
+        "x": 1444465336320,
+        "y": -219719147520,
+        "z": -662921748480
+    },
+    "stargate_id": 50004046,
+    "system_id": 30005002,
+    "type_id": 3875
+}

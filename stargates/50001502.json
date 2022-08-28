@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000422,
+        "system_id": 30000539
+    },
+    "name": "Stargate (MLQ-O9)",
+    "position": {
+        "x": -1363412213760,
+        "y": -197042626560,
+        "z": -2467814400000
+    },
+    "stargate_id": 50001502,
+    "system_id": 30000542,
+    "type_id": 29633
+}

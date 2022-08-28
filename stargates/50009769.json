@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009569,
+        "system_id": 30003927
+    },
+    "name": "Stargate (Zahefeus)",
+    "position": {
+        "x": -715937832960,
+        "y": -110295736320,
+        "z": -2103045120000
+    },
+    "stargate_id": 50009769,
+    "system_id": 30003928,
+    "type_id": 29624
+}

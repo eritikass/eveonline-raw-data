@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007652,
+        "system_id": 30005332
+    },
+    "name": "Stargate (Osmomonne)",
+    "position": {
+        "x": 3126389760000,
+        "y": 982443663360,
+        "z": 904987729920
+    },
+    "stargate_id": 50005489,
+    "system_id": 30005322,
+    "type_id": 3874
+}

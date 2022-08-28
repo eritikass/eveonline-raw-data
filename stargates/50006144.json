@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005912,
+        "system_id": 30002555
+    },
+    "name": "Stargate (Eifer)",
+    "position": {
+        "x": -3447398400,
+        "y": -252764160,
+        "z": -1157306572800
+    },
+    "stargate_id": 50006144,
+    "system_id": 30002556,
+    "type_id": 29633
+}

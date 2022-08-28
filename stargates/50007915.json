@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008212,
+        "system_id": 30003914
+    },
+    "name": "Stargate (Rahabeda)",
+    "position": {
+        "x": 580672020480,
+        "y": 89917071360,
+        "z": -727411630080
+    },
+    "stargate_id": 50007915,
+    "system_id": 30003911,
+    "type_id": 29624
+}

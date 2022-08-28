@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002096,
+        "system_id": 30001041
+    },
+    "name": "Stargate (G-0Q86)",
+    "position": {
+        "x": 1042057420800,
+        "y": 1420861440,
+        "z": 4268689858560
+    },
+    "stargate_id": 50001017,
+    "system_id": 30001039,
+    "type_id": 29633
+}

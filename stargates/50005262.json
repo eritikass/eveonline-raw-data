@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006001,
+        "system_id": 30003541
+    },
+    "name": "Stargate (Faswiba)",
+    "position": {
+        "x": -212109189120,
+        "y": -36316323840,
+        "z": 74235863040
+    },
+    "stargate_id": 50005262,
+    "system_id": 30003538,
+    "type_id": 29624
+}

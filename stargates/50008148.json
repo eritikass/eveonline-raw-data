@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000682,
+        "system_id": 30000051
+    },
+    "name": "Stargate (Juddi)",
+    "position": {
+        "x": -2541325393920,
+        "y": -260273725440,
+        "z": -996707082240
+    },
+    "stargate_id": 50008148,
+    "system_id": 30000056,
+    "type_id": 29624
+}

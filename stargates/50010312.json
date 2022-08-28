@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010448,
+        "system_id": 30001901
+    },
+    "name": "Stargate (KP-FQ1)",
+    "position": {
+        "x": 354398576640,
+        "y": -59618304000,
+        "z": 151334461440
+    },
+    "stargate_id": 50010312,
+    "system_id": 30001900,
+    "type_id": 29624
+}

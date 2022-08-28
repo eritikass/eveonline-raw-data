@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000391,
+        "system_id": 30002833
+    },
+    "name": "Stargate (SG-3HY)",
+    "position": {
+        "x": 1597951303680,
+        "y": 271084216320,
+        "z": 643555368960
+    },
+    "stargate_id": 50001962,
+    "system_id": 30002836,
+    "type_id": 3875
+}

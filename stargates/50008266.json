@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008058,
+        "system_id": 30000305
+    },
+    "name": "Stargate (G96R-F)",
+    "position": {
+        "x": -2790616227840,
+        "y": -173802823680,
+        "z": -2241477550080
+    },
+    "stargate_id": 50008266,
+    "system_id": 30000306,
+    "type_id": 16
+}

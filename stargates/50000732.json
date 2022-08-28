@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000984,
+        "system_id": 30000680
+    },
+    "name": "Stargate (1V-LI2)",
+    "position": {
+        "x": -824898478080,
+        "y": -262110044160,
+        "z": 1022968750080
+    },
+    "stargate_id": 50000732,
+    "system_id": 30000554,
+    "type_id": 29635
+}

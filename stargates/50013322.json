@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013391,
+        "system_id": 30003601
+    },
+    "name": "Stargate (Babirmoult)",
+    "position": {
+        "x": 3752062771200,
+        "y": 254070005760,
+        "z": 439793295360
+    },
+    "stargate_id": 50013322,
+    "system_id": 30003599,
+    "type_id": 3875
+}

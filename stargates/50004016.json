@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000564,
+        "system_id": 30001038
+    },
+    "name": "Stargate (LJ-YSW)",
+    "position": {
+        "x": 1384989941760,
+        "y": 6432153600,
+        "z": -347060428800
+    },
+    "stargate_id": 50004016,
+    "system_id": 30001042,
+    "type_id": 29633
+}

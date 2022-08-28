@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008181,
+        "system_id": 30002791
+    },
+    "name": "Stargate (Sirppala)",
+    "position": {
+        "x": -201165742080,
+        "y": -38174023680,
+        "z": 149584158720
+    },
+    "stargate_id": 50003087,
+    "system_id": 30002788,
+    "type_id": 16
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50013040,
+        "system_id": 30004296
+    },
+    "name": "Stargate (Bapraya)",
+    "position": {
+        "x": 4347306516480,
+        "y": -1640997642240,
+        "z": -3905431265280
+    },
+    "stargate_id": 50013198,
+    "system_id": 30004303,
+    "type_id": 17
+}

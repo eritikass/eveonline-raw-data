@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009626,
+        "system_id": 30002734
+    },
+    "name": "Stargate (Fricoure)",
+    "position": {
+        "x": -212493557760,
+        "y": -3379257876480,
+        "z": 2489819504640
+    },
+    "stargate_id": 50001761,
+    "system_id": 30002699,
+    "type_id": 3874
+}

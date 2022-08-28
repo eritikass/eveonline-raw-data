@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011703,
+        "system_id": 30004012
+    },
+    "name": "Stargate (8QT-H4)",
+    "position": {
+        "x": 1171895132160,
+        "y": -138969292800,
+        "z": -3871890186240
+    },
+    "stargate_id": 50011218,
+    "system_id": 30004010,
+    "type_id": 29624
+}

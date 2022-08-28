@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003193,
+        "system_id": 30000725
+    },
+    "name": "Stargate (WFFE-4)",
+    "position": {
+        "x": -1208685404160,
+        "y": 219652055040,
+        "z": 387684311040
+    },
+    "stargate_id": 50003652,
+    "system_id": 30000726,
+    "type_id": 29633
+}

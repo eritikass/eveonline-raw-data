@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010421,
+        "system_id": 30003640
+    },
+    "name": "Stargate (6-AOLS)",
+    "position": {
+        "x": -3701469634560,
+        "y": 431270830080,
+        "z": -691921428480
+    },
+    "stargate_id": 50011019,
+    "system_id": 30003643,
+    "type_id": 16
+}

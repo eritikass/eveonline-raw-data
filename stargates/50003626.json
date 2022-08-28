@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001034,
+        "system_id": 30003482
+    },
+    "name": "Stargate (Mista)",
+    "position": {
+        "x": 334970265600,
+        "y": -2159917178880,
+        "z": -3463032299520
+    },
+    "stargate_id": 50003626,
+    "system_id": 30003526,
+    "type_id": 17
+}

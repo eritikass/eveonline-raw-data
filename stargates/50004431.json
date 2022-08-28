@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004722,
+        "system_id": 30003789
+    },
+    "name": "Stargate (Brarel)",
+    "position": {
+        "x": 1939922411520,
+        "y": 116834672640,
+        "z": 4250209935360
+    },
+    "stargate_id": 50004431,
+    "system_id": 30003788,
+    "type_id": 3875
+}

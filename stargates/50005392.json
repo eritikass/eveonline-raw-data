@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50004444,
+        "system_id": 30003400
+    },
+    "name": "Stargate (Hjortur)",
+    "position": {
+        "x": -686408540160,
+        "y": 65534238720,
+        "z": -106712064000
+    },
+    "stargate_id": 50005392,
+    "system_id": 30003402,
+    "type_id": 29633
+}

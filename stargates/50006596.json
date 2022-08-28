@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000449,
+        "system_id": 30002632
+    },
+    "name": "Stargate (Pettinck)",
+    "position": {
+        "x": 428250439680,
+        "y": -53520998400,
+        "z": 2158143528960
+    },
+    "stargate_id": 50006596,
+    "system_id": 30002639,
+    "type_id": 3875
+}

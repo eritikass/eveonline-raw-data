@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012313,
+        "system_id": 30004194
+    },
+    "name": "Stargate (B-U299)",
+    "position": {
+        "x": 778304102400,
+        "y": -128723558400,
+        "z": 838748774400
+    },
+    "stargate_id": 50012238,
+    "system_id": 30004193,
+    "type_id": 3875
+}

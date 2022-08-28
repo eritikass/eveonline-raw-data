@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007917,
+        "system_id": 30000528
+    },
+    "name": "Stargate (L-L7PE)",
+    "position": {
+        "x": 20894146560,
+        "y": 537845760,
+        "z": -87880458240
+    },
+    "stargate_id": 50007858,
+    "system_id": 30000527,
+    "type_id": 29633
+}

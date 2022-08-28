@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005859,
+        "system_id": 30004098
+    },
+    "name": "Stargate (Turba)",
+    "position": {
+        "x": -2424296202240,
+        "y": 348027494400,
+        "z": -5654007521280
+    },
+    "stargate_id": 50009425,
+    "system_id": 30004103,
+    "type_id": 29624
+}

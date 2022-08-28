@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001314,
+        "system_id": 30000921
+    },
+    "name": "Stargate (UT-UZB)",
+    "position": {
+        "x": 3469017784320,
+        "y": 535847116800,
+        "z": -3836774031360
+    },
+    "stargate_id": 50001599,
+    "system_id": 30000924,
+    "type_id": 29633
+}

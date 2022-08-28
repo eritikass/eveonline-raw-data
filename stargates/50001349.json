@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001219,
+        "system_id": 30000746
+    },
+    "name": "Stargate (WF4C-8)",
+    "position": {
+        "x": 23418101760,
+        "y": 695869440,
+        "z": 1064276090880
+    },
+    "stargate_id": 50001349,
+    "system_id": 30000747,
+    "type_id": 29633
+}

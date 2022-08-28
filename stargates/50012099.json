@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011162,
+        "system_id": 30004766
+    },
+    "name": "Stargate (39P-1J)",
+    "position": {
+        "x": 2580789288960,
+        "y": -60016189440,
+        "z": 5846836715520
+    },
+    "stargate_id": 50012099,
+    "system_id": 30004768,
+    "type_id": 29624
+}

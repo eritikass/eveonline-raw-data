@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50010835,
+        "system_id": 30002278
+    },
+    "name": "Stargate (Artoun)",
+    "position": {
+        "x": -1937464811520,
+        "y": -5573205319680,
+        "z": -556626616320
+    },
+    "stargate_id": 50001416,
+    "system_id": 30001651,
+    "type_id": 29626
+}

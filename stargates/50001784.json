@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000375,
+        "system_id": 30000949
+    },
+    "name": "Stargate (P1T-LP)",
+    "position": {
+        "x": 1652348805120,
+        "y": 1210364436480,
+        "z": -124821135360
+    },
+    "stargate_id": 50001784,
+    "system_id": 30000904,
+    "type_id": 3877
+}

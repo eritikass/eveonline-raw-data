@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012939,
+        "system_id": 30004867
+    },
+    "name": "Stargate (F-ZBO0)",
+    "position": {
+        "x": -2677600296960,
+        "y": -348256296960,
+        "z": -582904258560
+    },
+    "stargate_id": 50012952,
+    "system_id": 30004868,
+    "type_id": 29633
+}

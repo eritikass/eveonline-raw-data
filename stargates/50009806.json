@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009773,
+        "system_id": 30004707
+    },
+    "name": "Stargate (Z3V-1W)",
+    "position": {
+        "x": 1998620958720,
+        "y": 97365565440,
+        "z": 698569728000
+    },
+    "stargate_id": 50009806,
+    "system_id": 30004708,
+    "type_id": 29624
+}

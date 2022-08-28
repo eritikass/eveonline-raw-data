@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50012548,
+        "system_id": 30004851
+    },
+    "name": "Stargate (BB-EKF)",
+    "position": {
+        "x": -1353384714240,
+        "y": -14147051520,
+        "z": 360911708160
+    },
+    "stargate_id": 50012450,
+    "system_id": 30004849,
+    "type_id": 29633
+}

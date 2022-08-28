@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50009050,
+        "system_id": 30003968
+    },
+    "name": "Stargate (W-IX39)",
+    "position": {
+        "x": -596518625280,
+        "y": 4479967518720,
+        "z": -500501422080
+    },
+    "stargate_id": 50008648,
+    "system_id": 30003950,
+    "type_id": 17
+}

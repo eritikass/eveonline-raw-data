@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011111,
+        "system_id": 30005313
+    },
+    "name": "Stargate (Ellmay)",
+    "position": {
+        "x": 6262984581120,
+        "y": 367565414400,
+        "z": -187332894720
+    },
+    "stargate_id": 50010228,
+    "system_id": 30005312,
+    "type_id": 3875
+}

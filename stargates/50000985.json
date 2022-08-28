@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001123,
+        "system_id": 30000681
+    },
+    "name": "Stargate (M9-MLR)",
+    "position": {
+        "x": -127526707200,
+        "y": -15754813440,
+        "z": 19012608000
+    },
+    "stargate_id": 50000985,
+    "system_id": 30000680,
+    "type_id": 29633
+}

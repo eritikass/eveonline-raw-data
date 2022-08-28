@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000310,
+        "system_id": 30001357
+    },
+    "name": "Stargate (Antiainen)",
+    "position": {
+        "x": -435085025280,
+        "y": -86350602240,
+        "z": 2886574940160
+    },
+    "stargate_id": 50002660,
+    "system_id": 30001360,
+    "type_id": 16
+}

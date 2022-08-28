@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50016552,
+        "system_id": 30003452
+    },
+    "name": "Stargate (Irgrus)",
+    "position": {
+        "x": 276166041600,
+        "y": -46430330880,
+        "z": -3976527421440
+    },
+    "stargate_id": 50016553,
+    "system_id": 30005198,
+    "type_id": 29634
+}

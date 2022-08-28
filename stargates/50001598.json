@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50001209,
+        "system_id": 30000920
+    },
+    "name": "Stargate (AZF-GH)",
+    "position": {
+        "x": 137488343040,
+        "y": 21248532480,
+        "z": 51919380480
+    },
+    "stargate_id": 50001598,
+    "system_id": 30000924,
+    "type_id": 29633
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014200,
+        "system_id": 30042505
+    },
+    "name": "Stargate (Usteli)",
+    "position": {
+        "x": 2386091089920,
+        "y": 334399119360,
+        "z": -501925355520
+    },
+    "stargate_id": 50014199,
+    "system_id": 30002524,
+    "type_id": 29633
+}

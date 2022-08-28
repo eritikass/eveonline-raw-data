@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50003601,
+        "system_id": 30002824
+    },
+    "name": "Stargate (UJXC-B)",
+    "position": {
+        "x": 3944800051200,
+        "y": -232064163840,
+        "z": -1032077844480
+    },
+    "stargate_id": 50004036,
+    "system_id": 30002825,
+    "type_id": 3875
+}

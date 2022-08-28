@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014220,
+        "system_id": 30001563
+    },
+    "name": "Stargate (RXA-W1)",
+    "position": {
+        "x": 1684005150720,
+        "y": -196674723840,
+        "z": 6693315993600
+    },
+    "stargate_id": 50014219,
+    "system_id": 30000833,
+    "type_id": 29635
+}

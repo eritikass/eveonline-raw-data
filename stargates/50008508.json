@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008052,
+        "system_id": 30000168
+    },
+    "name": "Stargate (Friggi)",
+    "position": {
+        "x": -1295188500480,
+        "y": 111048499200,
+        "z": -307959521280
+    },
+    "stargate_id": 50008508,
+    "system_id": 30000169,
+    "type_id": 16
+}

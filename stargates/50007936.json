@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008757,
+        "system_id": 30002733
+    },
+    "name": "Stargate (Pucherie)",
+    "position": {
+        "x": 4357212610560,
+        "y": 715245527040,
+        "z": -2894279761920
+    },
+    "stargate_id": 50007936,
+    "system_id": 30002731,
+    "type_id": 3875
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014129,
+        "system_id": 30003511
+    },
+    "name": "Stargate (Somouh)",
+    "position": {
+        "x": -1184570941440,
+        "y": 61035356160,
+        "z": 1063018536960
+    },
+    "stargate_id": 50014130,
+    "system_id": 30043489,
+    "type_id": 29624
+}

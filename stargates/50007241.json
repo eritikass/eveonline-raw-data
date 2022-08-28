@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50007415,
+        "system_id": 30003880
+    },
+    "name": "Stargate (Reteka)",
+    "position": {
+        "x": -999975444480,
+        "y": -30168883200,
+        "z": 443094097920
+    },
+    "stargate_id": 50007241,
+    "system_id": 30003878,
+    "type_id": 29624
+}

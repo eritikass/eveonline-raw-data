@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50014079,
+        "system_id": 30002568
+    },
+    "name": "Stargate (Onga)",
+    "position": {
+        "x": 488760238080,
+        "y": 81893007360,
+        "z": 4053679841280
+    },
+    "stargate_id": 50014080,
+    "system_id": 30002529,
+    "type_id": 3877
+}

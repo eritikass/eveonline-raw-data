@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50006331,
+        "system_id": 30004099
+    },
+    "name": "Stargate (Sonama)",
+    "position": {
+        "x": -75116175360,
+        "y": 10867138560,
+        "z": -257463214080
+    },
+    "stargate_id": 50006343,
+    "system_id": 30004100,
+    "type_id": 29624
+}

@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50000578,
+        "system_id": 30002129
+    },
+    "name": "Stargate (RF6T-8)",
+    "position": {
+        "x": -632185774080,
+        "y": -93764935680,
+        "z": 3541177835520
+    },
+    "stargate_id": 50001562,
+    "system_id": 30002131,
+    "type_id": 29633
+}

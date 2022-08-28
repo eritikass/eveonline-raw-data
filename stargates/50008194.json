@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50008158,
+        "system_id": 30002378
+    },
+    "name": "Stargate (DYPL-6)",
+    "position": {
+        "x": 1100841246720,
+        "y": 59338137600,
+        "z": -3077872558080
+    },
+    "stargate_id": 50008194,
+    "system_id": 30002379,
+    "type_id": 3875
+}

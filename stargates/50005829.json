@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50005412,
+        "system_id": 30003748
+    },
+    "name": "Stargate (3GXF-U)",
+    "position": {
+        "x": 1008147456000,
+        "y": 3324764160,
+        "z": 2114101125120
+    },
+    "stargate_id": 50005829,
+    "system_id": 30003750,
+    "type_id": 29624
+}

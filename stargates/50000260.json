@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50002123,
+        "system_id": 30000588
+    },
+    "name": "Stargate (TP7-KE)",
+    "position": {
+        "x": 2453588582400,
+        "y": 2126734909440,
+        "z": 1829840855040
+    },
+    "stargate_id": 50000260,
+    "system_id": 30000558,
+    "type_id": 3877
+}

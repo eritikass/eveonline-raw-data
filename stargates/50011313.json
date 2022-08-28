@@ -1,0 +1,15 @@
+{
+    "destination": {
+        "stargate_id": 50011486,
+        "system_id": 30004688
+    },
+    "name": "Stargate (1DDR-X)",
+    "position": {
+        "x": 108845998080,
+        "y": -21954109440,
+        "z": -2692777451520
+    },
+    "stargate_id": 50011313,
+    "system_id": 30004687,
+    "type_id": 29624
+}
