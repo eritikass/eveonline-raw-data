@@ -2,16 +2,22 @@
   "name": "eveonline-systems-raw-data",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "",
+  "scripts": {},
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Siim Tiilen <eritikass@gmail.com>",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.27.2",
     "glob": "^8.0.3",
     "lodash": "^4.17.21"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eritikass/eveonline-raw-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eritikass/eveonline-raw-data/issues"
+  },
+  "homepage": "https://github.com/eritikass/eveonline-raw-data#readme"
 }
